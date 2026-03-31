@@ -1,35 +1,36 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome!
+{: .center}
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This website contains guides for those attempting the Infallible achievment, along with general speedrunning tips and tricks for wings 1 to 8.
+Click on one of the icons below to start reading.
 
-More specifically, the created site:
+<div class="index-container">
+    <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);"></a>
+    <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);"></a>
+    <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);"></a>
+    <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);"></a>
+</div>
+<div class="index-container">
+    <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
+    <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
+    <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
+    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
+</div>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Have you found a mistake in this guide?
+{: .center}
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Whether it's a typo, a mis-spelled word, an awkward sentence, a factual mistake, or perhaps you simply just [disagree](https://xkcd.com/386/) with something on the guide, please open an [issue](https://github.com/SilverHalf/infallible-guides/issues)! Your corrections will help make this project more useful to everyone.
 
-To get started with creating a site, simply:
+### Do you want to contribute to this project?
+{: .center}
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Contributions are very welcome. Feel free to contact me on Discord (silverhalf) or through github.

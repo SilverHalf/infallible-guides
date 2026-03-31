@@ -1,0 +1,251 @@
+@import 'icons.scss';
+@import 'table.scss';
+
+$legpurple: rgb(170, 153, 255);
+$gold: #e0be00;
+
+.inline { 
+    width: 1em !important;
+    height: 1em;
+}
+
+.index-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.white {
+    color: white;
+}
+
+.bordered {
+    border: 3px outset;
+    border-radius: 15px;
+    border-color: $link-color;
+}
+
+.strategy {
+    width:50%;
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.index-button {
+    display: flex;
+    border: 3px outset;
+    background-size: cover;
+    border-radius: 15px;
+    border-color: $link-color;
+    height: 100px;
+    width: 100%;
+    flex: 25%;
+    margin: 10px;
+    background-position: center;
+    transition: all 0.1s linear;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    flex-direction:column;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 8px;
+    gap: 0.5rem;
+}
+
+.index-button:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}
+
+.yellow-text {
+    color: $yellow-500;
+}
+
+.yellow-text:hover{
+    text-decoration: underline;
+}
+
+.guides-button {
+    border: 3px outset;
+    background-size: cover;
+    border-radius: 15px;
+    border-color: $link-color;
+    height: 100px;
+    width: 100%;
+    flex: 33%;
+    margin: 10px;
+    font-size: 1.5rem;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+    background-position: center;
+    transition: all 0.1s linear;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+.guide-button {
+    opacity: 0;
+    font-family: system-ui;
+    width: 100%;
+    background:#B39800;
+    color: white;
+    transition: opacity 200ms;
+    height: 40px;
+    border-radius: 0.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    padding: 4px;
+}
+
+.index-button:hover .guide-button {
+   opacity: 1;
+}
+
+.guide-button:hover {
+    background:#726100;
+}
+
+.guides-button:hover {
+    cursor: pointer;
+    border-color: white;
+    transform: scale(1.02);
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+}
+
+div.highlighter-rouge code {
+    text-wrap: wrap;
+}
+
+.wrap {
+    white-space: initial;
+}
+
+summary {
+    color: $link-color;
+}
+
+.divider{
+    content: url('../../images/divider.webp');
+    display: block;
+    margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+    width: 90%;
+}
+
+.arena-container {
+    border: none;
+    background: none;
+}
+
+.arena-container input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.arena-container:hover {
+    cursor: zoom-in;
+}
+
+.arena-container img {
+    width: 60%;
+}
+
+input:checked + .decima-arena-image {
+    width: 100%;
+    cursor: zoom-out;
+}
+ 
+input:checked + .zoom {
+    width: 100%;
+    cursor: zoom-out;
+}
+
+.decima-arena-image {
+    background-image: url("../../images/decima/strategy/decima-arena.webp");
+	background-size: cover;
+    background-position: center;
+    min-width: 200px;
+    max-width: 100%;
+    animation-timing-function: linear;
+    transition: .3s;
+}
+
+.zoom {
+    animation-timing-function: linear;
+    transition: .3s;
+}
+
+.faq {
+    border: 2px outset;
+    border-radius: 5px;
+    border-color: $link-color;
+    padding: 7px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.faq summary:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.faq div {
+    padding: 7px;
+}
+
+.purple {
+    color: $legpurple;
+    margin-left: 15px;
+}
+
+.purple:hover {
+    color: $legpurple !important;
+}
+
+.uralm {
+    color: $legpurple;
+}
+
+.uralm:hover {
+    color: $legpurple !important;
+}
+
+em {
+color: #F1D47A;
+}
+
+.youtube-video {
+	aspect-ratio: 16 / 9;
+	width: 80%;
+}
+
+.youtube-video-wide {
+	aspect-ratio: 24 / 9;
+	width: 100%;
+}
+
+.extra-margin {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}

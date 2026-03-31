@@ -1,8 +1,33 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Infallible Guides
+description: Guides for the Infallible achievment in Guild Wars 2, and general speedrunning tips for wings 1-8. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://silverhalf.github.io/infallible-guides
+
+favicon_ico: "/images/favicon.ico"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Source Code": 
+    - "https://github.com/SilverHalf/infallible-guides"
+
+aux_links_new_tab: true
+
+color_scheme: default
+
+callouts:
+  note:
+    title: Note
+    color: notes
+
+  warning:
+    title: Warning
+    color: warning
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+sass:
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
