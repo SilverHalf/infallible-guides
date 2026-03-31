@@ -1,0 +1,95 @@
+// CSS format for tables
+
+table th td {
+    min-width: unset !important;
+}
+
+.fl-table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.fl-table td, .fl-table th {
+    text-align: center;
+    padding: unset;
+    min-width: unset !important;
+}
+
+.padded td, .padded th {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.fl-table td {
+    font-size: 12px;
+}
+
+.fl-table tbody tr:last-of-type td{
+    padding-bottom: 0px;
+}
+
+.de_red {
+    background-color: rgb(136, 0, 0);
+}
+.ch_pur {
+    background-color: rgb(90, 0, 115);
+}
+.ch_gre {
+    background-color: rgb(35, 87, 0);
+}
+
+.phase1 {
+    background-color: rgb(35, 87, 0);
+}
+
+.phase1-late {
+    background-image: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 4px,
+        rgb(35, 87, 0) 4px,
+        rgb(35, 87, 0) 8px
+    );
+}
+
+.phase2 {
+    background-color: rgb(146, 93, 0);
+}
+
+.phase2-late {
+    background-image: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 4px,
+        rgb(146, 93, 0) 4px,
+        rgb(146, 93, 0) 8px
+    );
+}
+
+.phase3 {
+    background-color: rgb(176, 35, 0);
+}
+
+.phase3-late {
+    background-image: repeating-linear-gradient(
+        45deg,
+        rgb(61, 12, 0),
+        rgb(61, 12, 0) 4px,
+        rgb(176, 35, 0) 4px,
+        rgb(176, 35, 0) 8px
+    );
+}
+
+.phase4 {
+    background-color: rgb(61, 12, 0);
+}
+
+.no-min-width {
+    min-width: unset;
+}
