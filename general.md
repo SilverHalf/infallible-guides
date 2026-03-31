@@ -79,7 +79,7 @@ Solo-healing is extremely advantageous for speedrunning groups, as it generally 
 The disadvantage is the inherent risk of bringing one less healers: misplays are more likely to lead to <img class='inline invuln'> [Downstates], requiring everyone in the squad to pay more attention.
 
 {: .note}
-Groups that are solo-healing must pay careful to the subgroup without a healer: boon supports in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage.
+Groups that are solo-healing must pay careful to the subgroup without a healer, often called the off-sub. Boon supports in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage.
 
 ---
 

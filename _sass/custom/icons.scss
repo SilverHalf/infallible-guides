@@ -260,6 +260,14 @@
 	content: url('https://wiki.guildwars2.com/images/thumb/a/a9/Mass_Momentum.png/38px-Mass_Momentum.png');
 }
 
+.mass-invis {
+	content: url(https://wiki.guildwars2.com/images/thumb/4/46/Mass_Invisibility.png/72px-Mass_Invisibility.png);
+}
+
+.curtain {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b8/Temporal_Curtain.png/72px-Temporal_Curtain.png);
+}
+
 .golem {
 	content: url('https://wiki.guildwars2.com/images/thumb/9/95/Summon_Flesh_Golem.png/72px-Summon_Flesh_Golem.png');
 }
@@ -340,6 +348,10 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/8/81/Portal_Entre.png/36px-Portal_Entre.png);
 }
 
+.bombkit{
+	content: url(https://wiki.guildwars2.com/images/thumb/5/50/Bomb_Kit.png/72px-Bomb_Kit.png);
+}
+
 // Classes
 
 .chrono {
@@ -412,6 +424,22 @@
 
 .mesmer {
 	content: url(https://wiki.guildwars2.com/images/7/79/Mesmer_icon_small.png);
+}
+
+.thief {
+	content: url(https://wiki.guildwars2.com/images/a/a0/Thief_icon_small.png);
+}
+
+.amalgam {
+	content: url(https://wiki.guildwars2.com/images/d/d0/Amalgam_icon_small.png);
+}
+
+.ritualist {
+	content: url(https://wiki.guildwars2.com/images/f/f9/Ritualist_icon_small.png)
+}
+
+.luminary {
+	content: url(https://wiki.guildwars2.com/images/7/7b/Luminary_icon_small.png)
 }
 
 // Transforms
@@ -571,4 +599,10 @@
 .build {
 	content: url(../../images/wrench-icon.png);
 	margin-right: 3px;
+}
+
+// Salvation Pass
+
+.shroom {
+	content: url(../../wing-2/mushroom.png);
 }
