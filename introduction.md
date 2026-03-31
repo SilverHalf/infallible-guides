@@ -23,14 +23,6 @@ Infallibe is a prestigious achievement that requires clearing all major raid ins
 
 ---
 
-### Why does this guide exist?
-
-It is difficult to find resources for optimized speedrunning in Guild Wars 2. Information is often found on random Youtube videos, Reddit threads, Discord channels, or even passed by word of mouth, thus limiting its overall accessibility and reach. The objective of this guide is to become a resource where everyone can find and contribute this information, providing a starting point for groups that are looking to get into not only Infallible, but speedrunning in general.
-
-As such, this guide assumes that players are already familiar with each raid encounter. The strategies contained within are *not* for new players: they sacrifice reliability and ease of play in favour of higher damage, and are thus only applicable to experienced groups. Players looking for introductions to raid encounters are advised to look elsewhere: various resources to get started can be found [here](credits.html).
-
----
-
 ### Achievement Details
 
 The Infallibe achievement requires completion of eight separate sub-achievements, each linked to a different instance:
