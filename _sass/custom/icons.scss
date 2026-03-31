@@ -336,95 +336,8 @@
 	content: url('https://wiki.guildwars2.com/images/thumb/5/50/Tale_of_the_August_Queen.png/72px-Tale_of_the_August_Queen.png');
 }
 
-// Decima Mechanics
-
-.charge{
-	content: url('https://wiki.guildwars2.com/images/thumb/0/01/Electrical_Buildup.png/30px-Electrical_Buildup.png');
-}
-
-.harmonic-sensitivity{
-	content: url('https://wiki.guildwars2.com/images/thumb/6/68/Tracked.png/30px-Tracked.png');
-}
-
-.galvanic-sensitivity{
-	content: url('https://wiki.guildwars2.com/images/thumb/4/42/Exposed_%28Statue_of_Darkness%29.png/30px-Exposed_%28Statue_of_Darkness%29.png');
-}
-
-.thrumming {
-	content: url('https://wiki.guildwars2.com/images/thumb/4/42/Conjured_Barrier.png/30px-Conjured_Barrier.png');
-}
-
-.harmony{
-	content: url('https://wiki.guildwars2.com/images/thumb/6/64/Kinetic_Abundance.png/30px-Kinetic_Abundance.png');	
-}
-
-.discord{
-	content: url('https://wiki.guildwars2.com/images/thumb/6/6d/Electrified_Minion.png/30px-Electrified_Minion.png');	
-}
-
-.enrage{
-	content: url('https://wiki.guildwars2.com/images/7/78/Vengeance_%28Mordrem%29.png');
-}
-
-.nova-shield{
-	content: url('https://wiki.guildwars2.com/images/thumb/5/57/Diaphanous_Shielding.png/30px-Diaphanous_Shielding.png');
-}
-
-.fractured {
-	content: url('https://wiki.guildwars2.com/images/thumb/4/44/Expose_Weakness.png/30px-Expose_Weakness.png');
-}
-
-.linked {
-	content: url('https://wiki.guildwars2.com/images/d/d7/Sinister_Thread.png');
-}
-
-
-// Greer Mechanics
-
-.plague-rot {
-	content: url('https://wiki.guildwars2.com/images/thumb/8/89/Infectious_Rot.png/20px-Infectious_Rot.png');
-}
-
-.target {
-	content: url('https://wiki.guildwars2.com/images/thumb/0/09/Target.png/20px-Target.png');
-}
-
-.two-person {
-	content: url('../../images/greer/mechanics/2-green.png');
-}
-
-.three-person {
-	content: url('../../images/greer/mechanics/3-green.png');
-}
-
-// Ura Mechanics
-
-.titanicresistance {
-	content: url('https://wiki.guildwars2.com/images/d/d4/Titanic_Resistance.png');
-}
-
-.risingpressure {
-	content: url('https://wiki.guildwars2.com/images/5/53/Fiery_Tornado_%28effect%29.png');
-}
-
-.sulfuricacid {
-	content: url('https://wiki.guildwars2.com/images/a/ab/Grasp_of_Joko_%28effect%29.png');
-}
-
-.dispel {
-	content: url('https://wiki.guildwars2.com/images/thumb/0/07/Consume_Bloodstone_Fragment.png/41px-Consume_Bloodstone_Fragment.png');
-}
-
-.deterrence {
-	content: url('https://wiki.guildwars2.com/images/c/cc/Luck_of_Kings.png');
-}
-
-.saturation {
-	content: url('https://wiki.guildwars2.com/images/4/4d/Heat_Level.png');
-}
-
-.hardened {
-	content: url('https://wiki.guildwars2.com/images/4/4e/Branded_Crystal_Shield.png')
+.portal {
+	content: url(https://wiki.guildwars2.com/images/thumb/8/81/Portal_Entre.png/36px-Portal_Entre.png);
 }
 
 // Classes
@@ -577,6 +490,10 @@
 
 .knockdown{
 	content: url('https://wiki.guildwars2.com/images/3/36/Knockdown.png');
+}
+
+.pull {
+	content: url(https://wiki.guildwars2.com/images/3/31/Pull.png);
 }
 
 .power {

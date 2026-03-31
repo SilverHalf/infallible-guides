@@ -23,6 +23,18 @@ Click on one of the icons below to start reading.
     <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
 </div>
 
+{: .warning}
+This is still a work in progress and lacks proofreading! Be aware that much is still incomplete.
+
+---
+
+### Why does this guide exist?
+{: .center}
+
+Information on optimized speedrunning in Guild Wars 2 is sparse. Resources include random Youtube videos, Reddit threads, Discord channels, and word of mouth, thus limiting overall accessibility and reach. The objective of this guide is to become a place where everyone can find and contribute this information, providing a starting point for groups that are looking to get into not only Infallible, but speedrunning in general.
+
+As such, this guide assumes that players are already familiar with each raid encounter. The strategies contained within are *not* for new players: they sacrifice reliability and simplicity in favour of faster clear times, and are thus only applicable to experienced groups. Players looking for introductions to raid encounters are advised to look elsewhere: various resources to get started can be found [here](credits.html).
+
 ---
 
 ### Have you found a mistake in this guide?
