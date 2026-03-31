@@ -1,7 +1,8 @@
 ---
 title: 2. Salvation Pass
 layout: page
-nav_order: 4
+nav_order: 2
+parent: Guides
 ---
 
 # Salvation Pass

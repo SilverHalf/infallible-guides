@@ -1,7 +1,8 @@
 ---
 title: 6. Mythwright Gambit
 layout: page
-nav_order: 8
+nav_order: 6
+parent: Guides
 ---
 
 # Mythwright Gambit
