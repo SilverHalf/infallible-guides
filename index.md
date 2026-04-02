@@ -10,13 +10,13 @@ nav_order: 1
 This website contains guides for those attempting the Infallible achievment, along with general speedrunning tips and tricks for wings 1 to 8.
 Click on one of the icons below to start reading.
 
-<div class="index-container">
+<div class="row-container">
     <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);"></a>
     <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);"></a>
     <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);"></a>
     <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);"></a>
 </div>
-<div class="index-container">
+<div class="row-container">
     <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
     <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
     <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>

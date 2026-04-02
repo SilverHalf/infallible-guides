@@ -9,11 +9,23 @@ $gold: #e0be00;
     height: 1em;
 }
 
-.index-container {
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.row-container {
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content:center;
+}
+
+.adapt-width {
+    width: 45%;
+    max-width: 400px;
 }
 
 .white {
@@ -40,6 +52,7 @@ $gold: #e0be00;
     border-radius: 15px;
     border-color: $link-color;
     height: 100px;
+    min-height: 50px;
     width: 100%;
     flex: 25%;
     margin: 10px;
@@ -56,6 +69,18 @@ $gold: #e0be00;
 .index-button:hover {
     transform: scale(1.02);
     cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .row-container {
+    flex-direction: column;
+  }
+  .adapt-width {
+    width: 90%;
+  }
+  .index-button {
+    margin: 5px;
+  }
 }
 
 .yellow-text {
@@ -115,13 +140,6 @@ $gold: #e0be00;
     cursor: pointer;
     border-color: white;
     transform: scale(1.02);
-}
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
 }
 
 .fixed {
