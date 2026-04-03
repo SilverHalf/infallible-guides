@@ -5,6 +5,9 @@ nav_order: 2
 parent: Guides
 ---
 
+[< Wing 1](../wing-1/){: .btn } [Return to Home](../index.html){: .btn } [Wing 3 >](../wing-3/){: .btn } 
+{: .center}
+
 # Salvation Pass
 {: .no_toc}
 
@@ -24,16 +27,17 @@ parent: Guides
 Salvation Pass is often chosen by groups as the first wing they attempt on the road to the achievement. While it can become a struggle if groups lack DPS, smooth transitions and thoughtful group composition are enough to clear, making it attractive for groups who are new to speedrunning.
 
 #### Main Points
+{: .no_toc}
 
 - [Slothasor] is run with a unique strategy that minimises the boss' movement.
 - Large amounts of time can be saved through optimized transitions into and out of [Bandit Trio].
-- [Matthias] can become rough due to the number of one-shot mechanics.
+- [Matthias] is run with a standard strategy, but requires care due to the number of dangerous mechanics it presents.
 
 ---
 
 ## Composition
 
-Groups running Salvation Pass will usually run at least two <img class='inline mesmer'> [Mesmers] and one <img class='inline thief'> [Thief]. These can usually cover all encounter-specific utility, including:
+Groups running Salvation Pass will usually include at least two <img class='inline mesmer'> [Mesmers] and a <img class='inline thief'> [Thief]. These can usually cover all encounter-specific utility, including:
 
 - <img class='inline stealth'> [Stealth] for starting Slothasor.
 - <img class='inline stability'> [Stability] for Slothasor and Matthias.
@@ -55,14 +59,14 @@ Sloth is run with a strategy that differs significantly from the standard PUG st
 2. Minimising the time spent eating  <img class='inline shroom'> [Poison Mushrooms] and transformed.
 3. Killing slublings quickly so that they do not disrupt the group.
 
-The encounter can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier. <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist] are good picks also due to their strong CC.
+The encounter can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier. <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist] are good picks also due to their strong CC and utility.
 
-Fast Slothasor clears are extremely dependant on the group's defiance damage: classes with heavy breakbar skills will be extremely beneficial, such as <img class='inline amalgam'> [Amalgam] with <img class='inline bombkit'> [Bomb Kit].
+Fast Slothasor clears are extremely dependant on the group's defiance damage: DPS classes with heavy breakbar skills will be extremely beneficial, such as <img class='inline engineer'> [Engineers] with <img class='inline bombkit'> [Bomb Kit].
 
 
 ### Movement and Shrooms
 
-Select one player to eat the first shroom. This is best done by the DPS class with the lowest damage, often the <img class='inline thief'> [Thief]. Everyone else should <img class='inline stealth'> [Stealth] (normally done with <img class='inline mass-invis'> [Mass Invisibility]) and run to the boss. The shroom player does a brief countdown and then eats the shroom to start the fight.
+Select a player to eat the first shroom. This is best done by the DPS class with the lowest damage, often the <img class='inline thief'> [Thief]. Everyone else should <img class='inline stealth'> [Stealth] (normally done with <img class='inline mass-invis'> [Mass Invisibility]) and run to the boss. The shroom player does a brief countdown and then eats the shroom to start the fight.
 
 {: .note}
 Since the timer starts when the shroom is eaten, this saves a couple of seconds by not having the players run to the boss or vice-versa.
@@ -84,23 +88,23 @@ Soon after, [Slublings] will start spawning. Players should use two <img class='
     <img class='center adapt-width' src='sloth/sloth_4.webp'>
 </div>
 
-Once the slublings have been pulled to the stack, it's safe for the shroom player to go in and eat the second shroom, then return to the stack. If the group is low on DPS, they can delay returning slightly.
+Once the slublings have been pulled, it's safe for the shroom player to eat the second shroom and return to the stack. The rest of the fight can be played normally using the available space.
 
-The rest of the fight can be played normally using the available space. If both shrooms respawn, with sufficient condition cleanse it is possible to outheal the incoming damage for a period before it becomes an issue.
+If both shrooms respawn, with sufficient condition cleanse it is possible to outheal the incoming damage for a period. If the group is low on DPS, the shroom player can reduce pressure by tracking the time remaining on their <img class='inline' src='https://wiki.guildwars2.com/images/4/45/Magic_Transformation.png'> [Magic Transformation](https://wiki.guildwars2.com/wiki/Magic_Transformation) and eating the second shroom at the last possible second.
 
 ### Managing the Shake
 
-Slothasor's [Spore Release](https://wiki.guildwars2.com/wiki/Spore_Release) (a.k.a. shake) is one of the more dangerous skills in the encounter. Usually it is double dodged, but any player with access to some form of <img class='inline invuln'> [Invulnerability] can block most of the shots by standing in the center of the boss's hitbox while invulnerable and jumping repeatedly. This is commonly done using <img class='inline distortion'> [Distortion].
+Slothasor's [Spore Release](https://wiki.guildwars2.com/wiki/Spore_Release) (a.k.a. shake) is one of the more dangerous skills in the encounter. Usually it is double dodged, but any player with access to some form of <img class='inline invuln'> [Invulnerability] can block most of the shots by standing in the center of the boss's hitbox while invulnerable and jumping repeatedly. This is commonly done by a <img class='inline mesmer'> [Mesmer] with <img class='inline distortion'> [Distortion].
 
 ### Skipping the final breakbar
 
-Sloth's final breakbar occurs at 10%. With good timing, players can wait for the boss to begin an animation, then burst down the final 10% in one go, skipping the breakbar entirely. This can save as much as 10 seconds.
+Sloth's final breakbar occurs at 10%. With good timing, players can wait for the boss to begin an animation then burst down the final 10% in one go, skipping the breakbar entirely. This can save as much as 10 seconds.
 
 ---
 
 ## Bandit Trio
 
-This encounter is relatively simple and low-risk. Its most critical part for speedrunners is optimizing the transitions into it and out of it.
+This encounter is relatively simple and low-risk. Its most critical part is optimizing the transitions into it and out of it.
 
 ### Transition from Slothasor
 
@@ -122,30 +126,30 @@ To prevent easily avoidable downs due to sniper damage, most groups will choose 
 
 ### Transition Preparation
 
-The <img class='inline mesmer'> Portal player who is waiting on top of the cliff should prepare their portal and glide down when 7:10 are missing on the timer. They can then aid with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg) and open their portal close to the cliff on the north side of camp to get back to their previous position.
+The <img class='inline mesmer'> Portal player who is waiting on top of the cliff should prepare their portal and glide down at 7:10 on the timer. They can then aid with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg) and open their portal close to the cliff on the north side of camp to get back to their previous position.
 
 {: .note}
 The portal player will not be able to see the timer at the beginning: someone should call out when it's time for them to glide down!
 
-A similar sequence should happen at 5:10 for [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane). However, this time another player (typically the <img class='inline thief'>) should provide a <img class='inline portal'> portal to the North side. Both <img class='inline mesmer'> [Mesmers], including the one who just glided down, and the <img class='inline thief'> [Thief] should take this portal, then open the Mesmer portal to ascend the cliff.
+A similar sequence should happen at 5:10 for [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane). However, this time another player (typically the <img class='inline thief'> [Thief]) should provide a <img class='inline shadow-portal'> portal to the North side. Both <img class='inline mesmer'> [Mesmers] and the <img class='inline thief'> [Thief] should take this portal, then take the Mesmer portal to ascend the cliff.
 
 <div class="row-container">
     <img class='center adapt-width' src='transition/Trio_0.webp'>
     <img class='center adapt-width' src='transition/Trio_1.webp'>
 </div>
 
-At 3:15 missing on the timer, these three players must then each prepare their portal at specific positions, then glide back down to the boss.
+At 3:15 missing on the timer, these three players must then each prepare their portal at specific positions and glide back down to help with [Narella].
 
 {: .note}
 This guide shows just one way of doing these portals: feel free to optimize and change it as you see fit!
 
 ### Speeding up Narella
 
-[Narella](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Narella) is the only miniboss in the encounter where DPS is important. Groups will often attempt to kill her faster by releasing the warg at the top of the stairway on the North side at around 3:10. This warg will often attack the miniboss, reducing the kill time by 2-3 seconds.
+[Narella] is the only miniboss in the encounter where DPS is important. Groups will often attempt to kill her faster by releasing the wargs at the top of the stairway on the North side at around 3:10. These wargs will often attack the miniboss, reducing the kill time by 2-3 seconds.
 
 ### BUG: Killing Narella Early
 
-It is possible to vastly speed up the final part of the encounter by killing [Narella](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Narella) early. This strategy consists in releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns, while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her to death (which is very funny to see).
+It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns, while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her (which is very funny to see). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
 
@@ -153,31 +157,29 @@ It is possible to vastly speed up the final part of the encounter by killing [Na
 This bug is not accepted in most speedrun formats.
 
 {: .warning}
-While this bug trivializes the timer for this wing, using it is not recommended. If you are considering it due to time constraints, then you very likely have bigger issues, and addressing them now will be more useful in the long term.
+While this bug trivializes the timer for this wing, using it is not recommended. If you are considering it due to time constraints, then your group very likely has bigger issues, and addressing them now will be more useful in the long term.
 
 ---
 
 ## Transition into Matthias
 
-This transition is one of the easiest ways to save time in the wing. Groups should practice until they can perform it smoothly and reliably.
-
-Portals are used to deal with all the bandit groups and quickly get the squad to Matthias.
+Portals are used to deal with all the bandit groups and quickly get the squad to Matthias. This transition is one of the easiest ways to save time in the wing, and groups should practice until they can perform it smoothly and reliably.
 
 ### Ascending the Cliff
 
-As soon as [Narella](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Narella) dies, the first <img class='inline mesmer'> [Mesmer] should <img class='inline mimic'> [Mimic] their portal to get the squad up the cliff. Then the second one should also mimic their own portal to bring the group to the first sets of adds.
+As soon as [Narella](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Narella) dies, both <img class='inline mesmer'> [Mesmers] should <img class='inline mimic'> [Mimic] their portal to get the squad up the cliff and to the first sets of adds.
+
+{: .warning}
+The second portal should be opened after the ley rift. If it is opened too close to the cliff, the encounter may not trigger correctly.
 
 <div class="row-container">
     <img class='center adapt-width' src='transition/Trio_2.webp'>
     <img class='center adapt-width' src='transition/Trio_3.webp'>
 </div>
 
-{: .warning}
-The second portal should be opened after the ley rift. If it is opened too close to the cliff, the encounter may not trigger correctly.
+There are two groups of bandits that must be killed. The first one is before the arch and consists of only two adds, so normally only a couple of players are sent to clear it. The second one is in the room after the arch and should be bursted down by the rest of the group.
 
-After the second portal, there are two groups of bandits that must be killed. The first one is before the arch and consists of only two adds, so normally two players are sent to clear it. The second one is in the room after the arch and should be bursted down by the rest of the group.
-
-After the second group is dead, the <img class='inline thief'> [Thief] will open their portal next to the wall on the North side of the room. After taking the portal, both <img class='inline mesmer'> [Mesmers] should prepare their own portals on top of the hill. The squad should then divide in two, with one group gliding down to the North and the other to the South, and a mesmer following each group.
+After the second group is dead, the <img class='inline thief'> [Thief] will open their portal for the squad next to the wall on the North side of the room. After taking the it, both <img class='inline mesmer'> [Mesmers] should prepare their own portals on top of the hill. The squad should then divide in two, with one group gliding down to the North and the other to the South, and a mesmer following each group.
 
 <div class="row-container">
     <img class='center adapt-width' src='transition/Trio_4.webp'>
@@ -190,25 +192,30 @@ Once all bandits have been cleared, both portals are opened and the squad takes 
 
 ## Matthias Gabrel
 
-This boss is played pretty much identically to PUG strat. While there is not much to learn strategy-wise, be aware that Matthias has lots of dangerous mechanics: players should be especially careful of his Hadouken, [Spread](https://wiki.guildwars2.com/wiki/Zealous_Benediction_(effect)) attack and [Shards of Rage](https://wiki.guildwars2.com/wiki/Salvation_Pass#Matthias_Gabrel).
+This boss is played pretty much identically to PUG strat. While there is not much to learn strategy-wise, be aware that Matthias has lots of dangerous mechanics: players should be especially careful of his Hadouken, [Spread](https://wiki.guildwars2.com/wiki/Zealous_Benediction_(effect)) attack and [Shards of Rage](https://wiki.guildwars2.com/wiki/Salvation_Pass#Matthias_Gabrel), as they can easily end your run.
 
-Experienced groups should try to solo-heal Matthias and pay special attention to his skills.
+Experienced groups should try to solo-heal Matthias.
 
-## Zealous Benediction
+### Zealous Benediction
 
-Most commonly known as "spread", this is the most common reason why runs fail on Matthias. Being in two circles is an instant down and a reset.
+Most commonly known as "spread", this is the most common reason for downs on Matthias. Being in two circles is an instant reset.
 
 Everyone should play this as safe as possible. In the beginning phases, where not everyone gets their own circle, the players targeted should move away from the boss to give space to any DPS that are not targeted. Players should avoid casting any skills with forced movement while targeted by this skill.
 
-## Corruption
+### Corruption
 
-Groups try to avoid the DPS downtime and inherent risk in having a player run off-stack to cleanse this mechanic. Low-cooldown portals are the obvious solution with <img class='inline sand-swell'> [Sand Swell] being best-in-slot and <img class='inline rifle-portal'> [Dimensional Aperture] a distant second.
+Groups should minimize the DPS downtime and inherent risk in having a player run off-stack to cleanse this mechanic. Low-cooldown portals are the obvious solution with <img class='inline sand-swell'> [Sand Swell] being best-in-slot and <img class='inline rifle-portal'> [Dimensional Aperture] a distant second.
 
-## Shards of Rage
+### Shards of Rage
 
 This attack can easily oneshot an unprepared player. However, getting hit by it brings a considerable increase in DPS due to <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled). Groups that want to play safer can bring projectile block to nullify this attack entirely (not reflect!!), while those that want more DPS can aim to absorb the shards.
 
 A common practice is having a <img class='inline mechanist'> [Mechanist] use their <img class='inline shift'> [Shift Signet] to position their Mech in the center of Matthias' hitbox: the mech will absorb the attack entirely while gaining many stacks of <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled), thus significantly increasing its damage.
+
+---
+
+[< Wing 1](../wing-1/){: .btn } [Return to Home](../index.html){: .btn } [Wing 3 >](../wing-3/){: .btn } [Return to Top](#salvation-pass){: .btn .fixed}
+{: .center}
 
 [Slothasor]: #slothasor
 [Bandit Trio]: #bandit-trio
@@ -217,6 +224,7 @@ A common practice is having a <img class='inline mechanist'> [Mechanist] use the
 [Poison Mushroom]: https://wiki.guildwars2.com/wiki/Poison_Mushroom
 [Poison Mushrooms]: https://wiki.guildwars2.com/wiki/Poison_Mushroom
 [Slublings]: https://wiki.guildwars2.com/wiki/Slubling
+[Narella]: https://wiki.guildwars2.com/wiki/Salvation_Pass#Narella
 
 [Mesmers]: https://wiki.guildwars2.com/wiki/Mesmer
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -227,7 +235,7 @@ A common practice is having a <img class='inline mechanist'> [Mechanist] use the
 [Daredevil]: https://wiki.guildwars2.com/wiki/Daredevil
 [Luminary]: https://wiki.guildwars2.com/wiki/Luminary
 [Ritualist]: https://wiki.guildwars2.com/wiki/Ritualist
-[Amalgam]: https://wiki.guildwars2.com/wiki/Amalgam
+[Engineers]: https://wiki.guildwars2.com/wiki/Engineer
 [Mechanist]: https://wiki.guildwars2.com/wiki/Mechanist
 
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
