@@ -50,6 +50,18 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 
 DPS classes with copious amounts of crowd control will also be extremely beneficial.
 
+#### PoVs
+{: .no_toc}
+
+| Classes | Link | Date | Notes |
+| <img class='inline daredevil'> DPS, shroom, skips | [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
+| <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
+| <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
+| <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
 ---
 
 ## Slothasor
@@ -141,7 +153,7 @@ A similar sequence should happen at 5:10 for [Zane](ttps://wiki.guildwars2.com/w
 At 3:15 missing on the timer, these three players must then each prepare their portal at specific positions and glide back down to help with [Narella].
 
 {: .note}
-This guide shows just one way of doing these portals: feel free to optimize and change it as you see fit!
+This guide shows just one way of doing these portals. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
 
 ### Speeding up Narella
 
