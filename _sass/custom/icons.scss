@@ -260,6 +260,18 @@
 	content: url('https://wiki.guildwars2.com/images/thumb/a/a9/Mass_Momentum.png/38px-Mass_Momentum.png');
 }
 
+.mass-invis {
+	content: url(https://wiki.guildwars2.com/images/thumb/4/46/Mass_Invisibility.png/72px-Mass_Invisibility.png);
+}
+
+.curtain {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b8/Temporal_Curtain.png/72px-Temporal_Curtain.png);
+}
+
+.binding-blade {
+	content: url(https://wiki.guildwars2.com/images/thumb/d/de/Binding_Blade.png/72px-Binding_Blade.png);
+}
+
 .golem {
 	content: url('https://wiki.guildwars2.com/images/thumb/9/95/Summon_Flesh_Golem.png/72px-Summon_Flesh_Golem.png');
 }
@@ -336,8 +348,24 @@
 	content: url('https://wiki.guildwars2.com/images/thumb/5/50/Tale_of_the_August_Queen.png/72px-Tale_of_the_August_Queen.png');
 }
 
+.mimic {
+	content: url(https://wiki.guildwars2.com/images/thumb/a/a8/Mimic.png/72px-Mimic.png);
+}
+
 .portal {
 	content: url(https://wiki.guildwars2.com/images/thumb/8/81/Portal_Entre.png/36px-Portal_Entre.png);
+}
+
+.shadow-portal {
+	content: url(https://wiki.guildwars2.com/images/thumb/e/e3/Prepare_Shadow_Portal.png/72px-Prepare_Shadow_Portal.png);
+}
+
+.bombkit{
+	content: url(https://wiki.guildwars2.com/images/thumb/5/50/Bomb_Kit.png/72px-Bomb_Kit.png);
+}
+
+.sand-swell {
+	content: url(https://wiki.guildwars2.com/images/thumb/2/20/Sand_Swell.png/72px-Sand_Swell.png);
 }
 
 // Classes
@@ -412,6 +440,30 @@
 
 .mesmer {
 	content: url(https://wiki.guildwars2.com/images/7/79/Mesmer_icon_small.png);
+}
+
+.thief {
+	content: url(https://wiki.guildwars2.com/images/a/a0/Thief_icon_small.png);
+}
+
+.engineer {
+	content: url(https://wiki.guildwars2.com/images/0/07/Engineer_icon_small.png);
+}
+
+.amalgam {
+	content: url(https://wiki.guildwars2.com/images/d/d0/Amalgam_icon_small.png);
+}
+
+.ritualist {
+	content: url(https://wiki.guildwars2.com/images/f/f9/Ritualist_icon_small.png)
+}
+
+.luminary {
+	content: url(https://wiki.guildwars2.com/images/7/7b/Luminary_icon_small.png)
+}
+
+.mirage {
+	content: url(https://wiki.guildwars2.com/images/c/c8/Mirage_icon_small.png);
 }
 
 // Transforms
@@ -556,6 +608,10 @@
 	content:  url(../../images/VL_icon.webp);
 }
 
+.log {
+	content:  url(../../images/log_icon.png);
+}
+
 .sheets {
 	content: url(https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg);
 }
@@ -571,4 +627,10 @@
 .build {
 	content: url(../../images/wrench-icon.png);
 	margin-right: 3px;
+}
+
+// Salvation Pass
+
+.shroom {
+	content: url(../../wing-2/mushroom.png);
 }

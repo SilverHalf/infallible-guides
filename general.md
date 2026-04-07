@@ -27,13 +27,13 @@ This page contains some general concepts useful for anyone getting into Infallib
 
 Click on the icons below to access individual instance guides:
 
-<div class="index-container">
+<div class="row-container">
     <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);"></a>
     <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);"></a>
     <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);"></a>
     <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);"></a>
 </div>
-<div class="index-container">
+<div class="row-container">
     <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
     <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
     <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
@@ -79,7 +79,7 @@ Solo-healing is extremely advantageous for speedrunning groups, as it generally 
 The disadvantage is the inherent risk of bringing one less healers: misplays are more likely to lead to <img class='inline invuln'> [Downstates], requiring everyone in the squad to pay more attention.
 
 {: .note}
-Groups that are solo-healing must pay careful to the subgroup without a healer: boon supports in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage.
+Groups that are solo-healing must pay careful to the subgroup without a healer, often called the off-sub. Boon supports in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage.
 
 ---
 
