@@ -138,6 +138,9 @@ To prevent easily avoidable downs due to sniper damage, most groups will choose 
 
 ### Transition Preparation
 
+{: .note}
+All portal positions described in this section can be viewed in-game using [marker packs].
+
 The <img class='inline mesmer'> Portal player who is waiting on top of the cliff should prepare their portal and glide down at 7:10 on the timer. They can then aid with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg) and open their portal close to the cliff on the north side of camp to get back to their previous position.
 
 {: .note}
@@ -161,7 +164,7 @@ This guide shows just one way of doing these portals. You do not have to copy th
 
 ### BUG: Killing Narella Early
 
-It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns, while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her (which is very funny to see). The encounter will then end as soon as Zane dies.
+It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns (at at 5:10 on the timer), while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her (which is very funny to see). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
 
@@ -176,6 +179,9 @@ While this bug trivializes the timer for this wing, using it is not recommended.
 ## Transition into Matthias
 
 Portals are used to deal with all the bandit groups and quickly get the squad to Matthias. This transition is one of the easiest ways to save time in the wing, and groups should practice until they can perform it smoothly and reliably.
+
+{: .note}
+All portal positions described in this section can be viewed in-game using [marker packs].
 
 ### Ascending the Cliff
 
@@ -232,6 +238,7 @@ A common practice is having a <img class='inline mechanist'> [Mechanist] use the
 [Slothasor]: #slothasor
 [Bandit Trio]: #bandit-trio
 [Matthias]: #matthias-gabrel
+[marker packs]: ../general.html#marker-packs
 
 [Poison Mushroom]: https://wiki.guildwars2.com/wiki/Poison_Mushroom
 [Poison Mushrooms]: https://wiki.guildwars2.com/wiki/Poison_Mushroom
