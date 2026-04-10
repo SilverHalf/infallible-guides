@@ -78,6 +78,14 @@
 	content: url('https://wiki.guildwars2.com/images/1/11/Poisoned.png');
 }
 
+.blind {
+	content: url(https://wiki.guildwars2.com/images/3/33/Blinded.png);
+}
+
+.immobile {
+	content: url(https://wiki.guildwars2.com/images/3/32/Immobile.png);
+}
+
 .burning {
 	content: url('https://wiki.guildwars2.com/images/4/45/Burning.png');
 }
@@ -368,6 +376,38 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/2/20/Sand_Swell.png/72px-Sand_Swell.png);
 }
 
+.psychic-force {
+	content: url(https://wiki.guildwars2.com/images/thumb/d/dd/Psychic_Force.png/50px-Psychic_Force.png);
+}
+
+.fear-me {
+	content: url(https://wiki.guildwars2.com/images/thumb/e/e6/%22Fear_Me%21%22.png/72px-%22Fear_Me%21%22.png);
+}
+
+.tides {
+	content: url(https://wiki.guildwars2.com/images/thumb/6/6f/Glyph_of_the_Tides.png/72px-Glyph_of_the_Tides.png);
+}
+
+.infiltrator {
+	content: url(https://wiki.guildwars2.com/images/thumb/8/8e/Infiltrator%27s_Signet.png/50px-Infiltrator%27s_Signet.png);
+}
+
+.infiltrator-arrow {
+	content: url(https://wiki.guildwars2.com/images/thumb/c/c7/Infiltrator%27s_Arrow.png/50px-Infiltrator%27s_Arrow.png);
+}
+
+.well-darkness {
+	content: url(https://wiki.guildwars2.com/images/thumb/1/1d/Well_of_Darkness.png/50px-Well_of_Darkness.png);
+}
+
+.sandstorm {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b7/Sandstorm.png/72px-Sandstorm.png);
+}
+
+.call-out {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b7/Over_Here%21.png/72px-Over_Here%21.png);
+}
+
 // Classes
 
 .chrono {
@@ -430,6 +470,10 @@
 	content: url(https://wiki.guildwars2.com/images/7/77/Virtuoso_icon_small.png);
 }
 
+.necromancer {
+	content: url(https://wiki.guildwars2.com/images/1/10/Necromancer_icon_small.png);
+}
+
 .tempest {
 	content: url(https://wiki.guildwars2.com/images/5/58/Tempest_icon_small.png);
 }
@@ -464,6 +508,14 @@
 
 .mirage {
 	content: url(https://wiki.guildwars2.com/images/c/c8/Mirage_icon_small.png);
+}
+
+.warrior {
+	content: url(https://wiki.guildwars2.com/images/4/45/Warrior_icon_small.png);
+}
+
+.ranger {
+	content: url(https://wiki.guildwars2.com/images/1/1e/Ranger_icon_small.png);
 }
 
 // Transforms
