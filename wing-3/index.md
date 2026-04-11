@@ -39,17 +39,19 @@ Stronghold of the Faithful is one of the easiest wings to clear Infallible on, a
 
 ## Composition
 
-The only things that are set in stone are at least one <img class='inline mesmer'> [Mesmer] and one <img class='inline thief'> [Thief]. These can perform most of the skips the wing requires.
+Most compositions will run at least one <img class='inline mesmer'> [Mesmer] and one <img class='inline thief'> [Thief], which have utility that cannot be easily replaced.
 
-For the rest, group compositions mainly focus around [Escort] as it is the area where they stand to gain the most time. This is explained in detail in the [composition for Escort] section.
+The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time. This is explained in detail in the [composition for Escort] section.
 
-Both bosses favour <img class='inline power'> Power damage, but have relatively long phases. [Xera]'s can be sped up significantly using the utility described [here]().
+Both bosses favour <img class='inline power'> Power damage, but have relatively long phases.
 
 ---
 
 ## Siege the Stronghold
 
-As the first encounter of the wing, Escort can be played using an especially risky strategy with few downsides. This gains an incredible amount of time compared to normal clears, and is the main hurdle for groups attempting the wing. When performed well, the rest of the raid can then be played with significantly less time pressure.
+As the first encounter of the wing, Escort is usually played using an especially risky strategy. This gains an incredible amount of time compared to normal clears, and is the main hurdle for groups attempting the wing. When performed well, the rest of the raid can then be played with significantly less time pressure.
+
+This section contains an optimized strategy that can be picked up by most groups with a reasonable amount of practice. Feel free to modify and improve it according to your needs.
 
 {: .note}
 All positions described in this section can be viewed in-game using [marker packs].
@@ -58,24 +60,24 @@ All positions described in this section can be viewed in-game using [marker pack
 
 ### Composition
 
-The squad will divide into two groups:
+Most commonly, the squad will divide into two groups:
 
-- A *Tower* group that will clear the towers, making space for Glenna to run.
-- A *Glenna* group that will run Glenna through the bottom part fast and deal with wargs.
+- A *Tower* group that will clear the towers, clearing space for Glenna.
+- A *Ground* group that will run Glenna through the bottom part and deal with wargs.
 
 #### Tower Group
 {: .no_toc}
 
 This groups focuses on fast movement and clearing towers, and is usually composed of six people:
 - One <img class='inline thief'> [Thief] running <img class='inline shadow-portal'> [Prepare Shadow Portal] and <img class='inline infiltrator'> [Infiltrator's Signet].
-- One <img class='inline mesmer'> [Mesmer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
+- One <img class='inline mesmer'> [Mesmer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink]. If you intend to do the [second set of Glenna ports](#4-fourth-tower-and-glenna-ports), you will need to bring a second one. 
 - One healer (if not running a heal <img class='inline mesmer'> [Mesmer]). <img class='inline druid'> [Druid] is an excellent choice due to <img class='inline tides'> [Glyph of the Tides].
 - Three DPS.
 
 {: .note}
 > Ensure you are bringing at least three skills that can clear towers, if not more. See [Clearing Towers](#clearing-towers) for more information.
 
-#### Glenna Group
+#### Ground Group
 {: .no_toc}
 
 This group focuses on quickly and safely ferrying Glenna through the encounter, and comprises the rest of the squad, consisting of:
@@ -87,19 +89,19 @@ This group focuses on quickly and safely ferrying Glenna through the encounter, 
 
 ### Important Concepts
 
-These are some general concepts and mechanics that are used in Escort speedrunning.
+These are some general mechanics that are used in Escort speedruns.
 
 ---
 
 #### Teleporting Glenna
 
-Glenna, being your standard NPC, has a mechanic that prevents her from getting stuck in terrain. This means that whenever a player uses <img class='inline call-out'> [Over Here!] within range of Glenna, if she cannot pathfind to them (remember that NPCs cannot jump!) she will instantly teleport to the player.
-
-Groups can abuse this in Infallible runs to quickly teleport Glenna over walls and difficult terrain. Most [marker packs] highlight positions where this is commonly done (see image below).
+Glenna, being your standard NPC, has a mechanic that prevents her from getting stuck in terrain. Whenever a player uses <img class='inline call-out'> [Over Here!] within range, if she cannot pathfind to them (NPCs cannot jump!) she will instead instantly teleport to the player.
 
 <video class="center bordered" width="60%" controls>
   <source src="escort/glenna_port.mp4" type="video/mp4">
 </video>
+
+Groups can abuse this to quickly teleport Glenna over walls and difficult terrain. Most [marker packs] highlight positions where this is commonly done.
 
 {: .warning}
 This bug is not accepted in most speedrun formats.
@@ -108,51 +110,52 @@ This bug is not accepted in most speedrun formats.
 
 #### Clearing Towers
 
-To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we want to get as many players as possible into the capture point, and simultaneously clear it from enemies. We achieve this by:
-1. Sending six people into each tower, so that there will always be more players than enemies.
-2. Quickly clearing each tower using appropriate AoE skills.
+To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we maximise the speed of capture by:
+1. Sending as many people into each capture point as possible.
+2. Quickly clearing enemies from capture points using skills that inflict <img class='inline knockback'> [Knockback] or <img class='inline fear'> [Fear] in an area.
 
 Skills that can clear towers include:
-- <img class='inline psychic-force'> [Psychic Force] on <img class='inline virtuoso'> [Virtuoso],
+- <img class='inline psychic-force'> [Psychic Force] on <img class='inline virtuoso'> [Virtuoso].
 - <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/5e/Shadow_Gust.png/72px-Shadow_Gust.png'> [Shadow Gust](https://wiki.guildwars2.com/wiki/Shadow_Gust) on <img class='inline deadeye'> [Deadeye].
 - <img class='inline tides'> [Glyph of the Tides] on <img class='inline druid'> [Druid].
 - <img class='inline fear-me'> ["Fear Me!] on <img class='inline warrior'> [Warrior].
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorbtion](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
 
-Groups should bring at least three of these skills, so that one will be ready for each tower. When combined with the numbers advantage, towers should be cleared pretty much instantly.
+Groups should bring at least three of these skills, so that one will be ready for each tower.
 
 ---
 
 #### Speeding Glenna
 
-The Glenna group should be arranged in the following manner:
-- The <img class='inline scrapper'> [Scrapper] should run slightly in front of Glenna while spamming <img class='inline superspeed'> [Superspeed].
+The ground group should be arranged in the following manner:
+- The <img class='inline scrapper'> [Scrapper] should run slightly in front of Glenna while giving <img class='inline superspeed'> [Superspeed] to both her and the rest of the group.
 - The two DPS should go ahead to clear out adds while spamming <img class='inline call-out'> [Over Here!], but not far enough to be out of range of the <img class='inline scrapper'> [Scrapper].
-- The healer should stay behind Glenna and heal her as much as possible.
+- The healer should stay close Glenna and heal her as much as possible.
 
 ---
 
 #### Warg Management
 
-Killing wargs is not viable, since the bottom group does not have enough damage and it loses a lot of time. Instead, groups should ferry Glenna around them as much as possible while applying <img class='inline cripple'> [Crippled], <img class='inline immobile'> [Immobile] and <img class='inline blind'> [Blinded].
+Killing wargs is not viable, since the bottom group does not have enough damage and it loses a lot of time. Instead, groups should ferry Glenna around them as much as possible while applying <img class='inline cripple'> [Crippled], <img class='inline immobile'> [Immobile] and <img class='inline blind'> [Blinded] to prevent them from hitting her.
 
-Blind in particular is extremely important, as in certain parts you could have as many as 4 wargs trying to hit Glenna simultaneously. For this reason, it's important for the group to run at least two players with skills that pulse <img class='inline blind'> [Blinded]. Standard picks include <img class='inline necromancer'> [Necromancer] with <img class='inline well-darkness'> [Well of Darkness], <img class='inline elementalist'> [Elementalist] with <img class='inline sandstorm'> [Sandstorm] and <img class='inline thief'> [Thief] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/3e/Black_Powder.png/72px-Black_Powder.png'> [Black Powder](https://wiki.guildwars2.com/wiki/Black_Powder) or <img class='inline infiltrator-arrow'> [Infiltrator's Arrow](https://wiki.guildwars2.com/wiki/Infiltrator%27s_Arrow).
+Blind in particular is extremely important, as in certain parts you can have as many as 4 wargs trying to hit Glenna simultaneously. For this reason, it's important to have at least two players with skills that pulse <img class='inline blind'> [Blinded]. Standard picks include <img class='inline necromancer'> [Necromancer] with <img class='inline well-darkness'> [Well of Darkness], <img class='inline elementalist'> [Elementalist] with <img class='inline sandstorm'> [Sandstorm] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/7/7f/Dust_Storm.png/72px-Dust_Storm.png'> [Dust Storm](https://wiki.guildwars2.com/wiki/Dust_Storm), and <img class='inline thief'> [Thief] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/3e/Black_Powder.png/72px-Black_Powder.png'> [Black Powder](https://wiki.guildwars2.com/wiki/Black_Powder) or <img class='inline infiltrator-arrow'> [Infiltrator's Arrow](https://wiki.guildwars2.com/wiki/Infiltrator%27s_Arrow).
 
 ---
 
 ### Strategy
 
-This section contains a play-by-play description of an optimal escort run. You may choose to include or exclude certain parts according to your group's preferences and substitute them with standard Escort gameplay.
+This section contains a play-by-play description of an optimal escort run. You may choose to include or exclude certain parts according to your group's preferences and substitute them with standard gameplay.
 
 ---
 
 #### 0. Instance Preparation & Dialogue Skips
 
-Before you start a run, you want to prepare the instance so that the bridge is up and the gates are open. There are two ways to do this:
-- The slow way involves speaking to Glenna, having her begin the encounter, then triggering a wipe by /GG-ing. This is commonly done for Infallible runs, since it's easier and Escort will remain prepared until you clear it.
+Before you start a run, you want to prepare the instance so that the bridge at the beginning is up and the gates are open. This lets players blink up from the bridge to the adjacent wall, enabling successive skips. There are two ways to do this:
+- The normal way involves speaking to Glenna, having her begin the encounter, then triggering a wipe by /GG-ing. This is commonly done for Infallible runs, since it's easier and Escort will remain in a prepared state until you clear it.
 - The fast way additionally has multiple players /GG-ing at specific instances to skip up to 40 seconds of dialogue. This requires some coordination and is often done in speedruns, but has no advantage in Infallible runs apart from not having to listen to Glenna yap.
 
 {: .warning}
-If the wipe happens too early, it can bug the encounter and you will have to reset. Have at least one person stay alive until the "Escort Glenna to the stronghold's courtyard" starts disappearing.
+If the triggered wipe happens too early, it can bug the encounter and you will have to reset. Have at least one person stay alive until the "Escort Glenna to the stronghold's courtyard" starts disappearing.
 
 <details>
 <summary>Click to view dialogue skip instructions</summary>
@@ -181,8 +184,8 @@ Assign a player to each of the spots shown in the image (these positions are als
 2. A <img class='inline mesmer'> [Mesmer] <img class='inline blink'> [Blinks] up to the wall above the bridge, places their <img class='inline portal'> [Portal Entre], then glides down and opens it below where the rest of the squad can access it.
 
 <div class="row-container">
-    <img class='center adapt-width' src='escort/escort_0.webp'>
-    <img class='center adapt-width' src='escort/escort_1.webp'>
+    <img class='center bordered adapt-width' src='escort/escort_0.webp'>
+    <img class='center bordered adapt-width' src='escort/escort_1.webp'>
 </div>
 
 Once everyone takes the portal, they can use <img class='inline call-out'> [Over Here!] in position 5 to port Glenna over the wall, ignoring the first rooms entirely.
@@ -190,6 +193,61 @@ Once everyone takes the portal, they can use <img class='inline call-out'> [Over
 ---
 
 #### 2. Cave Skip & Tanking Tower Shots
+
+After taking the portal, the <img class='inline thief'> [Thief] can skip the cave in its entirety by teleporting to one of the enemies at its end using <img class='inline infiltrator'> [Infiltrator's Signet], placing a <img class='inline shadow-portal'> portal at the bouncing mushroom or on top of the tower, and porting their squad through.
+
+<details>
+<summary><img class='inline daredevil'> Slow Cave Skip PoV</summary>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/X-DcF0dq8wo?si=9gdMxveUEvibrHT5" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary><img class='inline daredevil'> Fast Cave Skip PoV</summary>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/6gZU__b0SLY?si=wtZKTjmSoVSgs4OK&start=14&end=34&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+The most difficult part of performing this skip is targeting the enemies inside the cave. This is best done by enabling autotargeting or using the "Lock Autotarget" keybind. Both use the maximum range on your weapon skills, so equipping a rifle will let you reach the adds from the top of the wall, speeding up the sequence overall.
+
+<img class='center bordered' width='60%' src='escort/escort_2.webp'>
+
+The rest of the squad will glide off the building to the North. Avoid the center of the area immediately after the building, instead sticking to the walls. This will prevent a group of adds from spawning. The tower group will then take the <img class='inline shadow-portal'> to the first tower.
+
+In the meanwhile, the ground group can start bringing Glenna to the first white circle. Until it is captured, the tower will keep bombarding this position: to avoid a wipe, the healer should spam <img class='inline stability'> [Stability] and healing to Glenna and the rest of their group. This is usually not an issue as the tower group should capture it very quickly.
+
+<details>
+<summary><img class='inline luminary'> Ground Healer PoV</summary>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/VtPpq-VKPr8?si=u1axwHJ1NXqHb4AO&start=23&end=39&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+---
+
+#### 3. Second and Third Tower
+
+These towers are captured similarly to the normal strategy. Since no wargs will have reached Glenna yet, it is possible to speed her under the third tower so as to not require any mines to be cleared.
+
+
+<img class='center bordered' width='60%' src='escort/escort_3.webp'>
+
+After the second tower, the <img class='inline mesmer'> [Mesmer] that still has their <img class='inline portal'> [Portal Entre] available runs to the south and prepares it on the final steps. They then glide down and join up with the ground group.
+
+---
+
+#### 4. Fourth Tower and Glenna Ports
+
+{: .note}
+All positions in this section are included in the [marker pack].
+
+After activating the leyline to the fourth tower, it is possible to teleport Glenna almost directly to the fifth and final white circle. The group should first pull Glenna to position 1. The <img class='inline mesmer'> [Mesmer] with the <img class='inline portal'> portal ready can then open it, <img class='inline blink'> [Blink] up the building to position 2 and use <img class='inline call-out'> [Over Here!]. They can then take their own <img class='inline portal'> portal to the steps.
+
+<img class='center bordered' width='60%' src='escort/escort_4.webp'>
+
+Position 3 can either be reached by another ground group player with a blink (commonly a <img class='inline necromancer'> [Necromancer] with <img class='inline flesh-wurm'> [Summon Flesh Wurm](https://wiki.guildwars2.com/wiki/Summon_Flesh_Wurm)), or by a tower player gliding down from the third tower. As soon as Glenna is in position 2, they can use <img class='inline call-out'> [Over Here!] then glide down to reach the group.
+
+<video class="center bordered" width="60%" controls>
+  <source src="escort/position_3.mp4" type="video/mp4">
+</video>
+
+Position 4 is reached by the rest of the ground group once they take the <img class='inline portal'> portal. They can then pull Glenna to the final circle.
 
 [< Wing 2](../wing-2/){: .btn } [Return to Home](../index.html){: .btn } [Wing 4 >](../wing-4/){: .btn }  [Return to Top](#stronghold-of-the-faithful){: .btn .fixed}
 {: .center}
@@ -228,6 +286,8 @@ Once everyone takes the portal, they can use <img class='inline call-out'> [Over
 [Blinded]: https://wiki.guildwars2.com/wiki/Blinded
 [Immobile]: https://wiki.guildwars2.com/wiki/Immobile
 [Crippled]: https://wiki.guildwars2.com/wiki/Crippled
+[Knockback]: https://wiki.guildwars2.com/wiki/Knockback
+[Fear]: https://wiki.guildwars2.com/wiki/Fear
 [Well of Darkness]: https://wiki.guildwars2.com/wiki/Well_of_Darkness
 [Sandstorm]: https://wiki.guildwars2.com/wiki/Sandstorm
 [Over Here!]: https://wiki.guildwars2.com/wiki/Over_Here!
