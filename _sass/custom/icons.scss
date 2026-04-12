@@ -416,6 +416,10 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/4/49/Summon_Flesh_Wurm.png/72px-Summon_Flesh_Wurm.png);
 }
 
+.lightning-flash {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b2/Lightning_Flash.png/72px-Lightning_Flash.png);
+}
+
 // Classes
 
 .chrono {
@@ -688,6 +692,10 @@
 	content: url(https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg);
 }
 
+.youtube {
+	content: url(../../images/video-icon.png);
+}
+
 .build {
 	content: url(../../images/wrench-icon.png);
 	margin-right: 3px;
@@ -697,4 +705,8 @@
 
 .shroom {
 	content: url(../../wing-2/mushroom.png);
+}
+
+.glenna {
+	content: url(../../images/glenna.webp);
 }
