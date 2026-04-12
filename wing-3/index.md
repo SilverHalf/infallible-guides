@@ -272,10 +272,59 @@ Once [Mcleod] has spawned, the status reset will destroy any portals present in 
 {: .note}
 [Mcleod]'s teleport is a <img class='inline knockdown'> [Knockdown](https://wiki.guildwars2.com/wiki/Knockdown) so try to dodge or block it.
 
-Capturing the tower will begin the boss phase, despawning all wargs. The rest of the encounter is played as normal. Once the boss is dead, make sure to provide <img class='inline superspeed'> [Superspeed] to Glenna so she gets to the final gate faster.
+Capturing the tower will begin the boss phase, despawning all wargs. The rest of the encounter is played as normal. Once the boss is dead, make sure to provide <img class='inline superspeed'> [Superspeed] to <img class='inline glenna'> [Glenna] so she gets to the final gate faster.
 
 {: .note}
-When [Mcleod] splits into two clones, if you do not see a coloured icon above your character's head, it means that you are on the white clone. This is a fairly common graphical bug. 
+When [Mcleod] splits into two clones, if you do not see a coloured icon above your character's head, it means that you are on the white clone. This is a fairly common graphical bug.
+
+---
+
+## Keep Construct
+
+A fairly straightforward boss, which is played with only two major deviations compared to the PUG strat. Keep Construct is fairly sensitive to your group's overall DPS: with enough damage, it's possible to completely skip over some of the phases, significantly speeding up the fight overall.
+
+Remember that Keep Construct strongly favours <img class='inline power'> Power damage due to having less armour than a standard raid boss. It is also fairly easy to [solo-heal] with a celestial healer such as <img class='inline specter'> [Specter], <img class='inline scourge'> [Scourge] or <img class='inline troubadour'> [Troubadour].
+
+---
+
+### Transition from Escort
+
+Once <img class='inline glenna'> [Glenna] blasts the gates open, there are 45 seconds before Keep Construct spawns in the middle of the arena. These cannot be shortened or skipped in any way. You should use this time to:
+- Enable the Challenge Mote.
+- Swap builds and/or subgroups.
+- Change food and utility.
+- Preposition in the center of the boss arena in preparation for when it spawns. 
+
+---
+
+### Center Strategy
+
+Groups should aim to keep the bos in the center of the arena for the full duration of the fight. This makes it easier to deal damage, as overall movement is minimized and players can simply stand still and do their golem rotation.
+
+---
+
+### Skipping the Exposed Phase
+
+In the standard Keep Construct strategy, after breaking his <img class='inline defiance'> [Defiance Bar] you unlock the ley-rift and exposed phase. In speedruns, however, these phases lose an incredible amount of time, as you will already be very close to 66% or 33% when entering them. It is thus desireable to skip them, forfeiting the damage bonus from <img class='inline' src='https://wiki.guildwars2.com/images/thumb/4/48/Compromised.png/30px-Compromised.png'> [Compromised](https://wiki.guildwars2.com/wiki/Compromised) but resulting in a much faster clear overall.
+
+The easiest way of doing this is to not strip both stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/56/Xera%27s_Embrace.png/30px-Xera%27s_Embrace.png'> [Xera's Embrace](https://wiki.guildwars2.com/wiki/Xera%27s_Embrace) from the boss, therefore never unlocking the breakbar at all. To do this either:
+1. Ignore the tethers, thus letting the statues combine and killing the powered-up statue in the collection phase.
+2. Have one of the players move slightly out of the center so that their statue does not die, while cleaving the second down. The statue will then despawn upon reaching the collection phase.
+
+The second option is generally preferrable for most purposes, as it's less inherently risky. However, groups often opt for the first option in pursuit of extra damage, especially in the final 33% as skipping the jump is a big timesave.
+
+If something goes wrong and the <img class='inline defiance'> [Defiance Bar] is unlocked, make sure to call it out so that the group does not use any CC skills.
+
+---
+
+### Skipping Mechanics with DPS
+
+With enough damage, players can skip important mechanics that they otherwise would be required to play. These mechanics are:
+
+- (Easy) <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/68/Radiant_Attunement.png/30px-Radiant_Attunement.png'> [Radiant](https://wiki.guildwars2.com/wiki/Radiant_Phantasm) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3e/Crimson_Attunement.png/30px-Crimson_Attunement.png'> [Crimson Phantasms](https://wiki.guildwars2.com/wiki/Crimson_Phantasm) - the mechanic takes 15 seconds so aim to phase before.
+- (Hard) <img class=inline src='https://wiki.guildwars2.com/images/thumb/d/dd/Xera%27s_Fury.png/30px-Xera%27s_Fury.png'> [Xera's Fury](https://wiki.guildwars2.com/wiki/Xera's_Fury) a.k.a spreads - the spreads pop 10 seconds after spawning. If your group can consistently phase before, it's worth stacking them since spreading reduces your DPS.
+- (Medium) **Jump** - 40 seconds after becoming vulnerable in the final phase, the boss jumps into the air and remains untargetable for 12 seconds. Try to kill him before.
+
 
 [< Wing 2](../wing-2/){: .btn } [Return to Home](../index.html){: .btn } [Wing 4 >](../wing-4/){: .btn }  [Return to Top](#stronghold-of-the-faithful){: .btn .fixed}
 {: .center}
@@ -286,6 +335,7 @@ When [Mcleod] splits into two clones, if you do not see a coloured icon above yo
 [composition for Escort]: #composition-1
 [marker packs]: ../general.html#marker-packs
 [marker pack]: ../general.html#marker-packs
+[solo-heal]: ../general.html#solo-healing
 [Mcleod]: https://wiki.guildwars2.com/wiki/McLeod_the_Silent
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 
@@ -301,6 +351,9 @@ When [Mcleod] splits into two clones, if you do not see a coloured icon above yo
 [Firebrand]: https://wiki.guildwars2.com/wiki/Firebrand
 [Necromancer]: https://wiki.guildwars2.com/wiki/Necromancer
 [Elementalist]: https://wiki.guildwars2.com/wiki/Elementalist
+[Specter]: https://wiki.guildwars2.com/wiki/Specter
+[Scourge]: https://wiki.guildwars2.com/wiki/Scourge
+[Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
 
 [Psychic Force]: https://wiki.guildwars2.com/wiki/Psychic_Force
 ["Fear Me!]: https://wiki.guildwars2.com/wiki/%22Fear_Me!%22
@@ -324,3 +377,4 @@ When [Mcleod] splits into two clones, if you do not see a coloured icon above yo
 [Well of Darkness]: https://wiki.guildwars2.com/wiki/Well_of_Darkness
 [Sandstorm]: https://wiki.guildwars2.com/wiki/Sandstorm
 [Over Here!]: https://wiki.guildwars2.com/wiki/Over_Here!
+[Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
