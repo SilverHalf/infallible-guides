@@ -28,6 +28,14 @@ $gold: #e0be00;
     max-width: 400px;
 }
 
+.adapt-width-strategy {
+    width: 50%;
+    margin: 10px;
+    background-color: $sidebar-color;
+    padding: 15px;
+    border-radius: 15px;
+}
+
 .white {
     color: white;
 }
@@ -77,6 +85,9 @@ $gold: #e0be00;
   }
   .adapt-width {
     width: 90%;
+  }
+  .adapt-width-strategy {
+    width: 100%;
   }
   .index-button {
     margin: 5px;
