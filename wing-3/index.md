@@ -357,11 +357,11 @@ The second <img class='inline mirage'> [Mirage] runs to the right and leaps down
 </div>
 </div>
 
-<img class='center bordered' width='70%' src='./tc/tc_1.webp'>
+<img class='center bordered' width='90%' src='./tc/tc_1.webp'>
 
 The rest of the squad takes the <img class='inline portal'> portal opened by the first <img class='inline mirage'> [Mirage] and kills the group of adds there. Once they're dead, one player takes the gateway to the North and does the fountain button, while the rest take the <img class='inline portal'> portal back to the beginning. The first <img class='inline mirage'> [Mirage] can walk into the statue next to the button to do the same.
 
-<img class='center bordered' width='70%' src='./tc/tc_2.webp'>
+<img class='center bordered' width='90%' src='./tc/tc_2.webp'>
 
 Killing the second group of adds will also open the door in front of the second <img class='inline mirage'> [Mirage]. They can then open their <img class='inline portal'> portal for the rest of the squad, who then kills the third group of adds after the door. The gateways at the end of the room will activate once they're dead.
 
@@ -369,7 +369,7 @@ Killing the second group of adds will also open the door in front of the second 
 <div class='center adapt-width'>
 <img class='center bordered' src='./tc/tc_3.webp'>
 </div>
-<div class='adapt-width' markdown=block>
+<div class='adapt-width-50' markdown=block>
 The main group can take the portal on the left to reach the next two buttons and clear out the final set of adds on the stairway platform. Once this is done, they can walk into a statue to get ported back to the beginning of the encounter, and wait next to the ley rift.
 
 Meanwhile, the two <img class='inline mirage'> [Mirage] players will instead take the right portal to do the final button and skip. 
@@ -378,13 +378,15 @@ Meanwhile, the two <img class='inline mirage'> [Mirage] players will instead tak
 
 <div class="row-container" style="margin-top: 15px">
 
-<div class='adapt-width' markdown=block>
+<div class='adapt-width-50' markdown=block>
 One <img class='inline mirage'> [Mirage] will walk to the left after the gateway, take a second gateway, and get ported to five statues. Here they must use any mobility they have to get past the statues to the last button.
 
 Once this is done, they can walk into a nearby statue to get ported back to the beginning, and position next to the ley rift with the rest of the squad once they come back.
 </div>
 
-<img class='center bordered adapt-width' src='./tc/tc_4.webp'>
+<div class='center adapt-width'>
+<img class='center bordered' src='./tc/tc_4.webp'>
+</div>
 
 </div>
 
@@ -397,18 +399,18 @@ Once this is done, they can walk into a nearby statue to get ported back to the 
 </video>
 </div>
 
-<div class='adapt-width' markdown=block>
+<div class='adapt-width-50' markdown=block>
 The other <img class='inline mirage'> [Mirage] will instead go right and do the branch skip. This is a difficult skip that requires two precise <img class='inline mirage-thrust'> [Mirage Thrusts] in sequence.
 
 Speedrun groups will often send both <img class='inline mirage'> [Mirages] to do this skip for more reliability, though this is not an option for Infallible groups as failure usually kills the player.
 
 The player that completes the skip can then run directly to the end of the encounter.
 
-</div>
-</div>
-
 {: .warning}
-Make sure that everyone has taken a statue back before interacting with the final door, otherwise you run the risk of a player remaining stranded, which is usually a reset.
+Make sure that everyone has taken a statue back before interacting with the final door!
+
+</div>
+</div>
 
 Once the door is open, the encounter is complete and everyone can take the ley rift to [Xera]. The player who did the skip can instead take the gateway after the door.
 

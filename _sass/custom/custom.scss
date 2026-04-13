@@ -4,6 +4,10 @@
 $legpurple: rgb(170, 153, 255);
 $gold: #e0be00;
 
+// p {
+//     text-align: justify;
+// }
+
 .inline { 
     width: 1em !important;
     height: 1em;
@@ -26,6 +30,10 @@ $gold: #e0be00;
 .adapt-width {
     width: 45%;
     max-width: 400px;
+}
+
+.adapt-width-50 {
+    width: 50%;
 }
 
 .adapt-width-strategy {
@@ -85,6 +93,9 @@ $gold: #e0be00;
   }
   .adapt-width {
     width: 90%;
+  }
+  .adapt-width-50 {
+    width: 100%;
   }
   .adapt-width-strategy {
     width: 100%;
