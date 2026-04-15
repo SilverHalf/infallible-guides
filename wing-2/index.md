@@ -11,7 +11,7 @@ parent: Guides
 # Salvation Pass
 {: .no_toc}
 
-| **Timer** |  12 minutes  |
+| **Timer** |  12 minutes 30 seconds |
 | **Timer Start** |  On eating the first <img class='inline shroom'> [Poison Mushroom]. |
 
 <details>

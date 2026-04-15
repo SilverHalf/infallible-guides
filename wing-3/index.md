@@ -11,7 +11,7 @@ parent: Guides
 # Stronghold of the Faithful
 {: .no_toc}
 
-| **Timer** |  13 minutes 30 seconds  |
+| **Timer** |  15 minutes  |
 | **Timer Start** |  On speaking to <img class='inline glenna'> [Glenna] |
 
 <details>
@@ -83,7 +83,7 @@ This groups focuses on fast movement and clearing towers, and is usually compose
 This group focuses on quickly and safely ferrying <img class='inline glenna'> [Glenna] through the encounter, and comprises the rest of the squad, consisting of:
 - A <img class='inline scrapper'> [Scrapper] to provide <img class='inline glenna'> [Glenna] with <img class='inline superspeed'> [Superspeed] and <img class='inline quickness'> [Quickness].
 - A healer with high <img class='inline stability'> [Stability] uptime, such as <img class='inline firebrand'> [Firebrand] or <img class='inline chrono'> [Chronomancer].
-- Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime (see [Warg Management](#warg-management) for more information)
+- Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime, usually either <img class='inline elementalist'> [Elementalist] or <img class='inline necromancer'> [Necromancer] (see [Warg Management](#warg-management) for more information).
 
 ---
 
@@ -95,7 +95,7 @@ These are some general mechanics that are used in Escort speedruns.
 
 #### Teleporting Glenna
 
-<img class='inline glenna'> [Glenna], being your standard NPC, has a mechanic that prevents her from getting stuck in terrain. Whenever a player uses <img class='inline call-out'> [Over Here!] within range, if she cannot pathfind to them (NPCs cannot jump!) she will instead instantly teleport to the player.
+<img class='inline glenna'> [Glenna] has a mechanic that prevents her from getting stuck in terrain. Whenever a player uses <img class='inline call-out'> [Over Here!] within range, if she cannot pathfind to them (NPCs cannot jump!) she will instead instantly teleport to the player.
 
 <video class="center bordered" width="60%" controls>
   <source src="escort/glenna_port.mp4" type="video/mp4">
@@ -104,7 +104,7 @@ These are some general mechanics that are used in Escort speedruns.
 Groups can abuse this to quickly teleport <img class='inline glenna'> [Glenna] over walls and difficult terrain. Most [marker packs] highlight positions where this is commonly done.
 
 {: .warning}
-This bug is not accepted in most speedrun formats.
+Teleporting Glenna in this manner is not accepted in most speedrun formats.
 
 ---
 
@@ -299,7 +299,7 @@ Once <img class='inline glenna'> [Glenna] blasts the gates open, there are 45 se
 
 ### Center Strategy
 
-Groups should aim to keep the bos in the center of the arena for the full duration of the fight. This makes it easier to deal damage, as overall movement is minimized and players can simply stand still and do their golem rotation.
+Groups should aim to keep the boss in the center of the arena for the full duration of the fight. This makes it easier to deal damage, as overall movement is minimized and players can simply stand still and do their golem rotation.
 
 ---
 
@@ -363,23 +363,23 @@ The rest of the squad takes the <img class='inline portal'> portal opened by the
 
 <img class='center bordered' width='90%' src='./tc/tc_2.webp'>
 
-Killing the second group of adds will also open the door in front of the second <img class='inline mirage'> [Mirage]. They can then open their <img class='inline portal'> portal for the rest of the squad, who then kills the third group of adds after the door. The gateways at the end of the room will activate once they're dead.
+Killing the second group of adds will also open the door in front of the second <img class='inline mirage'> [Mirage]. They can then open their own <img class='inline portal'> portal for the rest of the squad, who then kills the third group of adds after the door. The gateways at the end of the room will activate once they're dead.
 
 <div class="row-container">
 <div class='center adapt-width'>
 <img class='center bordered' src='./tc/tc_3.webp'>
 </div>
 <div class='adapt-width-50' markdown=block>
-The main group can take the portal on the left to reach the next two buttons and clear out the final set of adds on the stairway platform. Once this is done, they can walk into a statue to get ported back to the beginning of the encounter, and wait next to the ley rift.
+The main group can take the gateway on the left to reach the next two buttons and clear out the final set of adds on the stairway platform. Once this is done, they can walk into a statue to get ported back to the beginning of the encounter, and wait next to the ley rift.
 
-Meanwhile, the two <img class='inline mirage'> [Mirage] players will instead take the right portal to do the final button and skip. 
+Meanwhile, the two <img class='inline mirage'> [Mirage] players will instead take the right gateway to do the final button and skip. 
 </div>
 </div>
 
 <div class="row-container" style="margin-top: 15px">
 
 <div class='adapt-width-50' markdown=block>
-One <img class='inline mirage'> [Mirage] will walk to the left after the gateway, take a second gateway, and get ported to five statues. Here they must use any mobility they have to get past the statues to the last button.
+One <img class='inline mirage'> [Mirage] will walk to the left after the gateway, take a second gateway, and get ported to the five statues area. Here they can use their mobility to get past the statues to the last button.
 
 Once this is done, they can walk into a nearby statue to get ported back to the beginning, and position next to the ley rift with the rest of the squad once they come back.
 </div>
@@ -426,6 +426,84 @@ Doing the strategy described above can save over a minute compared to a normal c
 Most of the time, with a well-optimized escort, groups will not need this additional time-save. In this case, they may decide to instead complete the encounter with the normal PUG strat. This also simplifies group requirements, as you only need to bring one <img class='inline mesmer'> [Mesmer]. This player can already bring more than enough utility to simplify the encounter for the rest of the group.
 
 ---
+
+## Xera
+
+When played with high damage, Xera is a relatively straightforward fight, with minor differences compared to PUG runs. Improving your kill time comes down to higher damage, slightly different tanking strategies and optimizing the island clears.
+
+Xera does not have much damage pressure on everyone except the tank. For this reason, groups should look to [solo-heal] her if possible. Celestial healers are also viable and recommended, as long as they can confidently survive her <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/60/Blurred_Frenzy.png/41px-Blurred_Frenzy.png'> [Blurred Frenzy](https://wiki.guildwars2.com/wiki/Blurred_Frenzy), which applies a very high amount of <img class='inline confusion'> [Confusion](https://wiki.guildwars2.com/wiki/Confusion).
+
+---
+
+### Island Optimization
+
+On the side islands where you have to push orbs into rifts, it is possible to speed things up significantly with coordinated crowd control.
+
+Usually this is done via an initial <img class='inline knockback'> [Knockback] that launches the two closest Conjunctions into their rifts, followed by a <img class='inline pull'> [Pull] to complete the last one.
+
+<div class="row-container">
+
+<div class='center adapt-width'>
+<img class='center' src='./xera/xera_1.webp'>
+</div>
+
+<div class='center adapt-width'>
+<img class='center' src='./xera/xera_2.webp'>
+</div>
+
+</div>
+
+<div class="row-container" style="margin-top: 15px">
+<div class='adapt-width-50' markdown=block>
+The initial push is most reliably done by a <img class='inline mesmer'> [Mesmer] with a [Greatsword](https://wiki.guildwars2.com/wiki/Greatsword):
+- Target the bloodstone shard while gliding to the island.
+- Stand on the Unstable Rift.
+- Cast <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f8/Illusionary_Wave.png/72px-Illusionary_Wave.png'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave).
+
+For the final <img class='inline pull'> [Pull], there are several options. Some of the most used include:
+- <img class='inline curtain'> [Temporal Curtain]
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Grasping_Darkness.png/50px-Grasping_Darkness.png'> [Grasping Darkness](https://wiki.guildwars2.com/wiki/Grasping_Darkness)
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/b8/Fang_Grapple.png/50px-Fang_Grapple.png'> [Fang Grapple](https://wiki.guildwars2.com/wiki/Fang_Grapple)
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/55/Point-Blank_Shot.png/50px-Point-Blank_Shot.png'> [Point-Blank Shot](https://wiki.guildwars2.com/wiki/Point-Blank_Shot).
+
+</div>
+<div class='center adapt-width'>
+<video class="bordered center" width='100%' controls>
+  <source src="xera/xera_push.mp4" type="video/mp4">
+</video>
+</div>
+</div>
+
+---
+
+### Tanking
+
+With speedrun groups, guaranteeing a certain level of damage allows you to tank in fixed positions for the entirety of the fight. Keeping the boss standing still will then increase damage overall.
+
+<img class='center' width='70%' src='./xera/xera_tanking.webp'>
+
+---
+
+### Skipping Gliding
+
+One of the most common reasons for deaths in Xera is failures in the gliding section. It's possible to skip this section entirely by spawning in the leyline from the final island to the starting island, then using it to glide until the split phase ends.
+
+To do this, you must kill the Charged Bloodstone on the final platform from the starting platform. This can be done in several ways:
+- Longbow on <img class='inline ranger'> [Ranger], rifle on <img class='inline deadeye'> [Deadeye] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Elite_Mortar_Kit.png/72px-Elite_Mortar_Kit.png'> [Elite Mortar Kit](https://wiki.guildwars2.com/wiki/Elite_Mortar_Kit) can reach it due to having 1500 range. <img class='inline deadeye'> [Deadeye] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Elite_Mortar_Kit.png/72px-Elite_Mortar_Kit.png'> [Elite Mortar Kit](https://wiki.guildwars2.com/wiki/Elite_Mortar_Kit) may run into issues with obstructions.
+- Traps such as <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/32/Prepare_Thousand_Needles.png/50px-Prepare_Thousand_Needles.png'> [Prepare Thousand Needles](https://wiki.guildwars2.com/wiki/Prepare_Thousand_Needles) can cover areas that potentially could be obstructed.
+
+Doing this will not save any time overall as the phase has a fixed duration, however it will give you peace of mind and a moment to recuperate before the final damage phase of the wing.
+
+---
+
+## Useful Resources
+Here you will find links to videos, tutorials and other useful things for speedrunning this wing.
+
+- <img class='inline youtube'> [Comprehensive Escort Speedrun Guide by Areki](https://www.youtube.com/watch?v=qfR-D7Ps5Fo) - very useful video guide for advanced the Escort strategies.
+- <img class='inline youtube'> [Twisted Castle Speedrun Explanation by Areki](https://www.youtube.com/watch?v=jvyYtfpv7Gc) - long explanation of the standard TC speedrun strategy.
+- <img class='inline youtube'> [1:54 Escort by [MCA]](https://www.youtube.com/watch?v=HatDI1eO2wU) - while more than most groups will need, this the peak of Escort gameplay. The video description contains more PoVs of the run. 
+- <img class='inline youtube'> [0:37 Twisted Castle by [Vs]](https://www.youtube.com/watch?v=KCFNzOBdipw) - showcases great execution of a fast clear. The video description contains more PoVs of the run.
+- <img class='inline youtube'> [Fast Orbs on Xera by HasHka](https://youtu.be/z-OFa6RVtYY?si=Dm2pYYO5W6-WRXXU) - shows some ways of doing fast island clears on Xera.
 
 
 
@@ -479,12 +557,14 @@ Most of the time, with a well-optimized escort, groups will not need this additi
 [Immobile]: https://wiki.guildwars2.com/wiki/Immobile
 [Crippled]: https://wiki.guildwars2.com/wiki/Crippled
 [Knockback]: https://wiki.guildwars2.com/wiki/Knockback
+[Knockbacks]: https://wiki.guildwars2.com/wiki/Knockback
 [Fear]: https://wiki.guildwars2.com/wiki/Fear
 [Well of Darkness]: https://wiki.guildwars2.com/wiki/Well_of_Darkness
 [Sandstorm]: https://wiki.guildwars2.com/wiki/Sandstorm
 [Over Here!]: https://wiki.guildwars2.com/wiki/Over_Here!
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
 [Pull]: https://wiki.guildwars2.com/wiki/Pull
+[Pulls]: https://wiki.guildwars2.com/wiki/Pull
 [Mirage Thrust]: https://wiki.guildwars2.com/wiki/Mirage_Thrust
 [Mirage Thrusts]: https://wiki.guildwars2.com/wiki/Mirage_Thrust
 [Weapon Swap]: https://wiki.guildwars2.com/wiki/Weapon_swap
