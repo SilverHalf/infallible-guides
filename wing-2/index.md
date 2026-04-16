@@ -11,7 +11,7 @@ parent: Guides
 # Salvation Pass
 {: .no_toc}
 
-| **Timer** |  12 minutes 30 seconds |
+| **Timer** |  11 minutes 45 seconds |
 | **Timer Start** |  On eating the first <img class='inline shroom'> [Poison Mushroom]. |
 
 <details>
@@ -49,18 +49,6 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 <img class='inline troubadour'> [Troubadour] is a common pick due to its strong solo-healing capabilities, with the other mesmer often being a support DPS <img class='inline chrono'> [Chronomancer] or DPS <img class='inline virtuoso'> [Virtuoso]. For the <img class='inline thief'> [Thief], <img class='inline daredevil'> [Daredevil] is a common pick, played as <img class='inline power'> Power on Slothasor and <img class='inline condition'> Condition on Matthias.
 
 DPS classes with copious amounts of crowd control will also be extremely beneficial.
-
-#### PoVs
-{: .no_toc}
-
-| Classes | Link | Date | Notes |
-| <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
-| <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
-| <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
-| <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |
-
-{: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
 
 ---
 
@@ -231,6 +219,19 @@ This attack can easily oneshot an unprepared player. However, getting hit by it 
 A common practice is having a <img class='inline mechanist'> [Mechanist] use their <img class='inline shift'> [Shift Signet] to position their Mech in the center of Matthias' hitbox: the mech will absorb the attack entirely while gaining many stacks of <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled), thus significantly increasing its damage.
 
 ---
+
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
+| <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
+| <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
+| <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |
 
 [< Wing 1](../wing-1/){: .btn } [Return to Home](../index.html){: .btn } [Wing 3 >](../wing-3/){: .btn } [Return to Top](#salvation-pass){: .btn .fixed}
 {: .center}

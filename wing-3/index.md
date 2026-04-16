@@ -11,7 +11,7 @@ parent: Guides
 # Stronghold of the Faithful
 {: .no_toc}
 
-| **Timer** |  15 minutes  |
+| **Timer** |  13 minutes 30 seconds |
 | **Timer Start** |  On speaking to <img class='inline glenna'> [Glenna] |
 
 <details>
@@ -370,7 +370,7 @@ Killing the second group of adds will also open the door in front of the second 
 <img class='center bordered' src='./tc/tc_3.webp'>
 </div>
 <div class='adapt-width-50' markdown=block>
-The main group can take the gateway on the left to reach the next two buttons and clear out the final set of adds on the stairway platform. Once this is done, they can walk into a statue to get ported back to the beginning of the encounter, and wait next to the ley rift.
+The main group can take the gateway on the left to reach the next two buttons. Once this is done, they can walk into a statue to get ported back to the beginning of the encounter, and wait next to the ley rift.
 
 Meanwhile, the two <img class='inline mirage'> [Mirage] players will instead take the right gateway to do the final button and skip. 
 </div>
@@ -429,9 +429,9 @@ Most of the time, with a well-optimized escort, groups will not need this additi
 
 ## Xera
 
-When played with high damage, Xera is a relatively straightforward fight, with minor differences compared to PUG runs. Improving your kill time comes down to higher damage, slightly different tanking strategies and optimizing the island clears.
+Xera is a relatively straightforward fight, with minor differences compared to PUG runs. Improving your kill time comes down to higher damage, slightly different tanking strategies and optimized island clears.
 
-Xera does not have much damage pressure on everyone except the tank. For this reason, groups should look to [solo-heal] her if possible. Celestial healers are also viable and recommended, as long as they can confidently survive her <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/60/Blurred_Frenzy.png/41px-Blurred_Frenzy.png'> [Blurred Frenzy](https://wiki.guildwars2.com/wiki/Blurred_Frenzy), which applies a very high amount of <img class='inline confusion'> [Confusion](https://wiki.guildwars2.com/wiki/Confusion).
+Xera's damage pressure is low on everyone except the tank, so groups should try to [solo-heal] if possible. Celestial healers are viable and recommended, as long as they can confidently survive her <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/60/Blurred_Frenzy.png/41px-Blurred_Frenzy.png'> [Blurred Frenzy](https://wiki.guildwars2.com/wiki/Blurred_Frenzy).
 
 ---
 
@@ -496,8 +496,21 @@ Doing this will not save any time overall as the phase has a fixed duration, how
 
 ---
 
-## Useful Resources
-Here you will find links to videos, tutorials and other useful things for speedrunning this wing.
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline virtuoso'> <img class='inline mirage'> DPS, Portals | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=owYyLiLvZYg) | March 2026 | First Mesmer on Escort, Normal TC, Gliding Skip on Xera |
+| <img class='inline chrono'> <img class='inline mirage'> BoonDPS, Portals | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=XQjtQTjhJKI) | March 2026 | Second Mesmer on Escort, Fast TC |
+| <img class='inline luminary'> <img class='inline dragonhunter'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=VtPpq-VKPr8) | March 2026 | Glenna Heal, Fast TC |
+| <img class='inline druid'> <img class='inline soulbeast'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ZOd5D_YZTks) | March 2026 | Tower Heal on Escort, Fast TC |
+
+
+#### Other Useful Links
 
 - <img class='inline youtube'> [Comprehensive Escort Speedrun Guide by Areki](https://www.youtube.com/watch?v=qfR-D7Ps5Fo) - very useful video guide for advanced the Escort strategies.
 - <img class='inline youtube'> [Twisted Castle Speedrun Explanation by Areki](https://www.youtube.com/watch?v=jvyYtfpv7Gc) - long explanation of the standard TC speedrun strategy.
