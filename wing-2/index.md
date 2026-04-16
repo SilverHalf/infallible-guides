@@ -11,7 +11,7 @@ parent: Guides
 # Salvation Pass
 {: .no_toc}
 
-| **Timer** |  12 minutes  |
+| **Timer** |  11 minutes 45 seconds |
 | **Timer Start** |  On eating the first <img class='inline shroom'> [Poison Mushroom]. |
 
 <details>
@@ -49,18 +49,6 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 <img class='inline troubadour'> [Troubadour] is a common pick due to its strong solo-healing capabilities, with the other mesmer often being a support DPS <img class='inline chrono'> [Chronomancer] or DPS <img class='inline virtuoso'> [Virtuoso]. For the <img class='inline thief'> [Thief], <img class='inline daredevil'> [Daredevil] is a common pick, played as <img class='inline power'> Power on Slothasor and <img class='inline condition'> Condition on Matthias.
 
 DPS classes with copious amounts of crowd control will also be extremely beneficial.
-
-#### PoVs
-{: .no_toc}
-
-| Classes | Link | Date | Notes |
-| <img class='inline daredevil'> DPS, shroom, skips | [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
-| <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
-| <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
-| <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |
-
-{: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
 
 ---
 
@@ -128,7 +116,7 @@ Conditions are not cleansed at the end of Slothasor! Make sure everyone is healt
 A <img class='inline mesmer'> [Mesmer] will start preparing the transition into Matthias by gliding to the right at the cliff before Trio and doing a small jumping puzzle. Another player may accompany them to clear out the snipers at the top of the cliff.
 
 <details>
-<summary><img class='inline mesmer'> Portal PoV</summary>
+<summary><img class='inline youtube'> <img class='inline mesmer'> Portal PoV</summary>
 <iframe class="youtube-video center" width="100%" src="https://www.youtube.com/embed/m803DrvyQuA?si=AFFd0TzH2vKWES1q&end=36&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
@@ -137,6 +125,9 @@ A <img class='inline mesmer'> [Mesmer] will start preparing the transition into 
 To prevent easily avoidable downs due to sniper damage, most groups will choose to keep the squad in the safe spot until all snipers have been pulled: only then will one subgroup move to clear the top bridges.
 
 ### Transition Preparation
+
+{: .note}
+All portal positions described in this section can be viewed in-game using [marker packs].
 
 The <img class='inline mesmer'> Portal player who is waiting on top of the cliff should prepare their portal and glide down at 7:10 on the timer. They can then aid with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg) and open their portal close to the cliff on the north side of camp to get back to their previous position.
 
@@ -161,7 +152,7 @@ This guide shows just one way of doing these portals. You do not have to copy th
 
 ### BUG: Killing Narella Early
 
-It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns, while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her (which is very funny to see). The encounter will then end as soon as Zane dies.
+It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns (at at 5:10 on the timer), while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and to maul her (which is very funny to see). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
 
@@ -177,12 +168,15 @@ While this bug trivializes the timer for this wing, using it is not recommended.
 
 Portals are used to deal with all the bandit groups and quickly get the squad to Matthias. This transition is one of the easiest ways to save time in the wing, and groups should practice until they can perform it smoothly and reliably.
 
+{: .note}
+All portal positions described in this section can be viewed in-game using [marker packs].
+
 ### Ascending the Cliff
 
-As soon as [Narella](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Narella) dies, both <img class='inline mesmer'> [Mesmers] should <img class='inline mimic'> [Mimic] their portal to get the squad up the cliff and to the first sets of adds.
+As soon as [Narella] dies, both <img class='inline mesmer'> [Mesmers] should <img class='inline mimic'> [Mimic] their portal to get the squad up the cliff and to the first sets of adds.
 
 {: .warning}
-The second portal should be opened after the ley rift. If it is opened too close to the cliff, the encounter may not trigger correctly.
+If someone is on top of the cliff when Narella dies (roughly from the edge of the cliff to the end of the pathway where you come out of the second portal), they'll trigger the "ascend the cliff" checkpoint in the same millisecond as the "complete Trio by killing Narella" checkpoint. This breaks the instance. Make sure that everyone who's placing portals jumps down to help with [Narella] even if she's about to die.
 
 <div class="row-container">
     <img class='center adapt-width' src='transition/Trio_2.webp'>
@@ -226,12 +220,26 @@ A common practice is having a <img class='inline mechanist'> [Mechanist] use the
 
 ---
 
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
+| <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
+| <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
+| <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |
+
 [< Wing 1](../wing-1/){: .btn } [Return to Home](../index.html){: .btn } [Wing 3 >](../wing-3/){: .btn } [Return to Top](#salvation-pass){: .btn .fixed}
 {: .center}
 
 [Slothasor]: #slothasor
 [Bandit Trio]: #bandit-trio
 [Matthias]: #matthias-gabrel
+[marker packs]: ../general.html#marker-packs
 
 [Poison Mushroom]: https://wiki.guildwars2.com/wiki/Poison_Mushroom
 [Poison Mushrooms]: https://wiki.guildwars2.com/wiki/Poison_Mushroom

@@ -78,6 +78,18 @@
 	content: url('https://wiki.guildwars2.com/images/1/11/Poisoned.png');
 }
 
+.blind {
+	content: url(https://wiki.guildwars2.com/images/3/33/Blinded.png);
+}
+
+.immobile {
+	content: url(https://wiki.guildwars2.com/images/3/32/Immobile.png);
+}
+
+.fear {
+	content: url(https://wiki.guildwars2.com/images/e/e6/Fear.png);
+}
+
 .burning {
 	content: url('https://wiki.guildwars2.com/images/4/45/Burning.png');
 }
@@ -368,6 +380,50 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/2/20/Sand_Swell.png/72px-Sand_Swell.png);
 }
 
+.psychic-force {
+	content: url(https://wiki.guildwars2.com/images/thumb/d/dd/Psychic_Force.png/50px-Psychic_Force.png);
+}
+
+.fear-me {
+	content: url(https://wiki.guildwars2.com/images/thumb/e/e6/%22Fear_Me%21%22.png/72px-%22Fear_Me%21%22.png);
+}
+
+.tides {
+	content: url(https://wiki.guildwars2.com/images/thumb/6/6f/Glyph_of_the_Tides.png/72px-Glyph_of_the_Tides.png);
+}
+
+.infiltrator {
+	content: url(https://wiki.guildwars2.com/images/thumb/8/8e/Infiltrator%27s_Signet.png/50px-Infiltrator%27s_Signet.png);
+}
+
+.infiltrator-arrow {
+	content: url(https://wiki.guildwars2.com/images/thumb/c/c7/Infiltrator%27s_Arrow.png/50px-Infiltrator%27s_Arrow.png);
+}
+
+.well-darkness {
+	content: url(https://wiki.guildwars2.com/images/thumb/1/1d/Well_of_Darkness.png/50px-Well_of_Darkness.png);
+}
+
+.sandstorm {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b7/Sandstorm.png/72px-Sandstorm.png);
+}
+
+.call-out {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b7/Over_Here%21.png/72px-Over_Here%21.png);
+}
+
+.flesh-wurm {
+	content: url(https://wiki.guildwars2.com/images/thumb/4/49/Summon_Flesh_Wurm.png/72px-Summon_Flesh_Wurm.png);
+}
+
+.lightning-flash {
+	content: url(https://wiki.guildwars2.com/images/thumb/b/b2/Lightning_Flash.png/72px-Lightning_Flash.png);
+}
+
+.mirage-thrust {
+	content: url(https://wiki.guildwars2.com/images/thumb/2/29/Mirage_Thrust.png/50px-Mirage_Thrust.png);
+}
+
 // Classes
 
 .chrono {
@@ -430,6 +486,10 @@
 	content: url(https://wiki.guildwars2.com/images/7/77/Virtuoso_icon_small.png);
 }
 
+.necromancer {
+	content: url(https://wiki.guildwars2.com/images/1/10/Necromancer_icon_small.png);
+}
+
 .tempest {
 	content: url(https://wiki.guildwars2.com/images/5/58/Tempest_icon_small.png);
 }
@@ -444,6 +504,10 @@
 
 .thief {
 	content: url(https://wiki.guildwars2.com/images/a/a0/Thief_icon_small.png);
+}
+
+.guardian {
+	content: url(https://wiki.guildwars2.com/images/c/c7/Guardian_icon_small.png);
 }
 
 .engineer {
@@ -462,8 +526,24 @@
 	content: url(https://wiki.guildwars2.com/images/7/7b/Luminary_icon_small.png)
 }
 
+.dragonhunter {
+	content: url(https://wiki.guildwars2.com/images/5/5d/Dragonhunter_icon_small.png);
+}
+
+.soulbeast {
+	content: url(https://wiki.guildwars2.com/images/6/6a/Soulbeast_icon_small.png);
+}
+
 .mirage {
 	content: url(https://wiki.guildwars2.com/images/c/c8/Mirage_icon_small.png);
+}
+
+.warrior {
+	content: url(https://wiki.guildwars2.com/images/4/45/Warrior_icon_small.png);
+}
+
+.ranger {
+	content: url(https://wiki.guildwars2.com/images/1/1e/Ranger_icon_small.png);
 }
 
 // Transforms
@@ -560,6 +640,10 @@
 	content: url('https://wiki.guildwars2.com/images/thumb/7/7a/Breaks_stun.png/30px-Breaks_stun.png');
 }
 
+.weapon-swap {
+	content: url(https://wiki.guildwars2.com/images/c/ce/Weapon_Swap_Button.png);
+}
+
 .check {
 	width: 2em !important;
     height: 2em;
@@ -624,6 +708,10 @@
 	content: url(https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg);
 }
 
+.youtube {
+	content: url(../../images/video-icon.png);
+}
+
 .build {
 	content: url(../../images/wrench-icon.png);
 	margin-right: 3px;
@@ -633,4 +721,8 @@
 
 .shroom {
 	content: url(../../wing-2/mushroom.png);
+}
+
+.glenna {
+	content: url(../../images/glenna.webp);
 }

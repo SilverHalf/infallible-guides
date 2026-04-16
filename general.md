@@ -64,7 +64,25 @@ Players who leave the instance will also lose the effect: this limits character 
 
 ## General Concepts
 
-In this section you will find some concepts that commonly occur in speedrunning, which are described for reference's sake.
+In this section you will find some generally useful information on Infallible, along with concepts that commonly occur in speedrunning, which are described for reference's sake.
+
+---
+
+### Marker Packs
+
+Marker packs are add-ons that display custom trails, markers and other information visually in-game. They are commonly viewed using [Blish HUD](https://blishhud.com)'s [Pathing Module](https://blishhud.com/modules/?module=bh.community.pathing) or [TaimiHUD](https://taimihud.com/).
+
+<img class='center bordered' width='90%' src='https://pkgs.blishhud.com/metadata/img/profile/197954576-74d723ac-c29f-491c-a0f5-4a39c45b9f96.png'>
+
+Several marker packs contain useful information for the purposes of this guide:
+
+- [HasKha's Markers](https://github.com/HasKha/gw2-markers) contains general raid markers, including for other difficult content such as [Temple of Febe](https://silverhalf.github.io/temple-of-febe) and [Mount Balrior](https://silverhalf.github.io/mount-balrior).
+- [PEAK Infallible Markers](https://github.com/AersiaNightingale/PEAK-Infallible-Markers) contains information on skips, jumping pussles and skips for infallible.
+
+It is *highly recommended* to use one or both of these packs. They enable clear callouts and easily display information that would be otherwise difficult to communicate.
+
+{: .note}
+This guide will assume that you have installed PEAK's markers and reference them accordingly.
 
 ---
 
