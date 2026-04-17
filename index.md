@@ -7,7 +7,7 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This website contains guides for those attempting the Infallible achievment, along with general speedrunning tips and tricks for wings 1 to 8.
+This website contains guides for those attempting the Infallible achievement, along with general speedrunning tips and tricks for wings 1 to 8.
 Click on one of the icons below to start reading.
 
 [Introduction](./general.html){: .btn .center}

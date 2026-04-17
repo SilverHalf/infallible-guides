@@ -17,7 +17,7 @@ nav_order: 2
 </div>
 </details>
 
-Infallibe is a prestigious achievement that requires clearing all major raid instances within a difficult time limit and without any players entering <img class='inline invuln'> [Downstate]. Completing this achievement requires extreme class and encounter knowledge, optimized compositions and strategies, and the coordination and practice required to string everything together smoothly into a single, perfect run while not permitting a single mistake.
+Infallible is a prestigious achievement that requires clearing all major raid instances within a difficult time limit and without any players entering <img class='inline invuln'> [Downstate]. Completing this achievement requires extreme class and encounter knowledge, optimized compositions and strategies, and the coordination and practice required to string everything together smoothly into a single, perfect run while not permitting a single mistake.
 
 ---
 
@@ -44,7 +44,7 @@ Click on the icons below to access individual instance guides:
 
 ## Achievement Details
 
-Infallibe requires completion of eight separate sub-achievements, each linked to a different instance:
+Infallible requires completion of eight separate sub-achievements, each linked to a different instance:
 
 - <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Spirit Vale</a>
 - <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Salvation Pass</a>
@@ -55,7 +55,7 @@ Infallibe requires completion of eight separate sub-achievements, each linked to
 - <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: The Key of Ahdashim</a>
 - <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Mount Balrior</a>
 
-Each sub-achievment corresponds to its own unique effect. Players will gain this effect at the beginning of each raid instance; killing all bosses in the instance while under this effect will grant the achievement. If any player goes <img class='inline invuln'> [Downstate], everyone in the instance will lose this effect, thus invalidating the run.
+Each sub-achievement corresponds to its own unique effect. Players will gain this effect at the beginning of each raid instance; killing all bosses in the instance while under this effect will grant the achievement. If any player goes <img class='inline invuln'> [Downstate], everyone in the instance will lose this effect, thus invalidating the run.
 
 {: .warning}
 Players who leave the instance will also lose the effect: this limits character swapping, as every player who wishes to gain the achievement will have to remain in the instance continuously from beginning to end.
@@ -77,7 +77,7 @@ Marker packs are add-ons that display custom trails, markers and other informati
 Several marker packs contain useful information for the purposes of this guide:
 
 - [HasKha's Markers](https://github.com/HasKha/gw2-markers) contains general raid markers, including for other difficult content such as [Temple of Febe](https://silverhalf.github.io/temple-of-febe) and [Mount Balrior](https://silverhalf.github.io/mount-balrior).
-- [PEAK Infallible Markers](https://github.com/AersiaNightingale/PEAK-Infallible-Markers) contains information on skips, jumping pussles and skips for infallible.
+- [PEAK Infallible Markers](https://github.com/AersiaNightingale/PEAK-Infallible-Markers) contains information on skips, jumping puzzles and skips for infallible.
 
 It is *highly recommended* to use one or both of these packs. They enable clear callouts and easily display information that would be otherwise difficult to communicate.
 
