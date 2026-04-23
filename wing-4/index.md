@@ -158,6 +158,64 @@ Keeping in mind that Blues take 4 seconds to detonate and spikes take 5, the onl
 
 If your group consistently ends up with this overlap, consider changing your overall DPS profile. If you are running a celestial healer, you could avoid the overlap by running no-heal instead, and vice-versa.
 
+---
+
+## Samarog
+
+Samarog is a long fight with plenty of occasions to make mistakes. Fast clears are highly dependant on good positioning, high <img class='inline stability'> [Stability] uptime and well-executed split phases.
+
+Samarog has low incoming damage pressure and can easily be [solo-healed](../general.html#solo-healing). Groups attempting to speed up this encounter will benefit from:
+- Good boon access: <img class='inline protection'> [Protection] will prevent players from being downed by spears, and <img class='inline stability'> [Stability] from getting thrown off the arena.
+- <img class='inline pull'> [Pull] and <img class='inline knockback'> [Knockback] utilities for the split phases.
+- High amounts of CC. <img class='inline thief'> [Thief] is unparalleled here due to <img class='inline distracting-throw'> [Distracting Throw].
+
+---
+
+### Transition from Mursaat
+
+This transition is fairly short and simple. The easiest way to speed it up is to have a <img class='inline thief'> [Thief] ready to open the door for everyone. This can be done faster by having them move close to the exit towards the end of Mursaat. Players should try to change templates while running up the steps and food should be placed at the top just before the boss, so players can run in directly without losing precious time.
+
+---
+
+### Strategy
+
+Speedrun strategies for Samarog focus on positioning, ensuring that the boss is moved as little as possible while placing spears in convenient locations around it.
+
+{: .note}
+This strategy is described here using positions from the [PEAK Infallible Markers](../general.html#marker-packs) pack.
+
+Start by running in to position *1*, baiting the first friends spear there. The tank should then move in between the four markers, while the rest of the squad can move to position *2* or *3*.
+
+<div class="row-container">
+<img class='center adapt-width' src='./samarog/samarog_1.webp'>
+<img class='center adapt-width' src='./samarog/samarog_2.webp'>
+</div>
+
+Remain at maximum melee range while doing damage, so as to bait the spear as far outside as possible. When the friends are selected, move to the other side. The tank should never stand where a spear can spawn. On the next friends mechanic, move towards position *8*, then to *4* once you reach 33% and the split phase begins.
+
+While on 4, you should be <img class='inline pull'> pulling [Rigom] into Samarog's hitbox. This is best done using a combination of two or more skills to push him deep into the alcove, otherwise you risk him running out and exploding while on stack. Commonly this is done by combining <img class='inline curtain'> [Temporal Curtain] with <img class='inline illusionary-wave'> [Illusionary Wave] or another <img class='inline knockback'> [Knockback].
+
+<div class="row-container">
+<img class='center adapt-width' src='./samarog/samarog_3.webp'>
+<img class='center adapt-width' src='./samarog/samarog_4.webp'>
+</div>
+
+Once you get the friends mechanic on *4*, you can move to *5*, and then to *6* if you get it a second time. Ideally you should not get it a third time.
+
+{: .note}
+If you can spare the utility slots and need to do an additional friends mechanic, remember that people targeted by the friends mechanic can still take <img class='inline shadow-portal'> [Shadow Portal] and <img class='inline portal'> [Portal Entre], allowing the spear to be placed anywhere.
+
+Once [Guldhelm] dies, you should then <img class='inline pull'> pull [Rigom] out and kill him quickly, beginning the next main phase. Your tank should preposition in between the four markers to make Samarog walk all the way out, while the rest of the squad can remain on *6* (or *7* if the spear on *5* was slightly misplaced).
+
+<div class="row-container">
+<img class='center adapt-width' src='./samarog/samarog_5.webp'>
+<img class='center adapt-width' src='./samarog/samarog_6.webp'>
+</div>
+
+As in the previous phase, remain at maximum melee range to bait out the friend mechanic far from the boss, rotating to a new position when it's convenient. Don't feel like you're forced to follow them sequentially: go to wherever you have space.
+
+Repeat this for the following split phase and main phase.
+
 [< Wing 3](../wing-3/){: .btn } [Return to Home](../index.html){: .btn } [Wing 5 >](../wing-5/){: .btn } [Return to Top](#bastion-of-the-penitent){: .btn .fixed}
 {: .center}
 
@@ -171,6 +229,8 @@ If your group consistently ends up with this overlap, consider changing your ove
 [Spatial Manipulation]: https://wiki.guildwars2.com/wiki/Spatial_Manipulation
 [Jade Soldiers]: https://wiki.guildwars2.com/wiki/Jade_Soldier
 [Jade Scouts]: https://wiki.guildwars2.com/wiki/Jade_Scout
+[Rigom]: https://wiki.guildwars2.com/wiki/Rigom
+[Guldhelm]: https://wiki.guildwars2.com/wiki/Guldhelm
 
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -188,15 +248,20 @@ If your group consistently ends up with this overlap, consider changing your ove
 [Float]: https://wiki.guildwars2.com/wiki/Float
 [Floating]: https://wiki.guildwars2.com/wiki/Float
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
+[Protection]: https://wiki.guildwars2.com/wiki/Protection
 [Invulnerability]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Invulnerable]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Tale of the August Queen]: https://wiki.guildwars2.com/wiki/Tale_of_the_August_Queen
 [Shadowstep]: https://wiki.guildwars2.com/wiki/Shadowstep
 [Shadowstepping]: https://wiki.guildwars2.com/wiki/Shadowstep
 [Prepare Shadow Portal]: https://wiki.guildwars2.com/wiki/Prepare_Shadow_Portal
+[Shadow Portal]: https://wiki.guildwars2.com/wiki/Prepare_Shadow_Portal
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
 [Claim]: https://wiki.guildwars2.com/wiki/Claim
 [Dispel]: https://wiki.guildwars2.com/wiki/Dispel
 [Protect]: https://wiki.guildwars2.com/wiki/Protect
+[Distracting Throw]: https://wiki.guildwars2.com/wiki/Distracting_Throw
+[Temporal Curtain]: https://wiki.guildwars2.com/wiki/Temporal_Curtain
+[Illusionary Wave]: https://wiki.guildwars2.com/wiki/Illusionary_Wave
