@@ -124,8 +124,42 @@ This is played identically to the [single Mesmer version](#single-mesmer-variati
 
 <img class='center bordered' width='70%' src='./transitions/mursaat_2.webp'>
 
-The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait for the <img class='inline thief'> [Thief]: it's instead faster to <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] up the cliff before the rest of the squad to get a head start and minimize the group spends waiting for your portal to open
+The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait for the <img class='inline thief'> [Thief]: it's instead faster to <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] up the cliff before the rest of the squad to get a head start and minimize the group spends waiting for your portal to open.
 
+---
+
+### Notes on Starting Mursaat
+
+Part of speeding up the transition is starting [Mursaat Overseer] as quickly as possible after opening the way to his room. For this purpose, players should have swapped templates and food beforehand. The designated holders for <img class='inline claim'> [Claim], <img class='inline dispel'> [Dispel] and <img class='inline protect'> [Protect] should run in and immediately pick up their special action keys as soon as possible.
+
+---
+
+## Mursaat Overseer
+
+This boss is very passive. Your players should keep up their best DPS rotation while avoiding deaths due to spikes and blues.
+
+Mursaat has very low damage pressure, and can be run with no healers at all provided your squad has some form of passive health regeneration or barrier from classes such as <img class='inline specter'> [Specter], <img class='inline luminary'> [Luminary], <img class='inline scourge'> [Scourge] and <img class='inline ritualist'> [Ritualist].
+
+---
+
+### Protect Timing
+
+To maintain high DPS, most groups playing Mursaat will ignore the outermost two [Jade Scouts]. This results in them eventually promoting to [Jade Soldiers], running to the group, getting cleaved down and exploding, potentially resulting in downstates. Proper timing of <img class='inline protect'> [Protect] here can trivialize this issue, negating most of their attacks and their final explosion.
+
+Depending on your overall cleave, survivability and <img class='inline power'> Power damage, you might choose to <img class='inline protect'> [Protect] from as early as when the Soldiers get to the group to as late as when they get to 50% HP.
+
+---
+
+### Managing Overlaps
+
+The second highest risk groups may encounter on Mursaat Overseer is the overlap between Blues and Spikes. This happens because Blues are timing-based, happening every 30 seconds, while spikes are influenced by the boss's HP,resetting at 75%, 50% and 25%.
+
+Keeping in mind that Blues take 4 seconds to detonate and spikes take 5, the only situation that cannot be played around is when the blues appear a second after the spikes. In this case you would need to use <img class='inline protect'> [Protect] to survive, potentially not having it available for the [Jade Soldiers].
+
+If your group consistently ends up with this overlap, consider changing your overall DPS profile. If you are running a celestial healer, you could avoid the overlap by running no-heal instead, and vice-versa.
+
+[< Wing 3](../wing-3/){: .btn } [Return to Home](../index.html){: .btn } [Wing 5 >](../wing-5/){: .btn } [Return to Top](#bastion-of-the-penitent){: .btn .fixed}
+{: .center}
 
 [Cairn]: #cairn-the-indomitable
 [Mursaat Overseer]: #mursaat-overseer
@@ -135,6 +169,8 @@ The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait 
 
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 [Spatial Manipulation]: https://wiki.guildwars2.com/wiki/Spatial_Manipulation
+[Jade Soldiers]: https://wiki.guildwars2.com/wiki/Jade_Soldier
+[Jade Scouts]: https://wiki.guildwars2.com/wiki/Jade_Scout
 
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -161,3 +197,6 @@ The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait 
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
+[Claim]: https://wiki.guildwars2.com/wiki/Claim
+[Dispel]: https://wiki.guildwars2.com/wiki/Dispel
+[Protect]: https://wiki.guildwars2.com/wiki/Protect
