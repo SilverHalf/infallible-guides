@@ -335,7 +335,7 @@ This is an encounter that, similarly to [Escort], can be made much faster with a
 
 ### Fast Strategy
 
-To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build]((https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e)).
+To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
 
 Once [Keep Construct] is dead, run down the stairs to the South and <img class='inline pull'> [Pull] the first group of adds together. Once these are dead, the encounter will start. Both <img class='inline mirage'> [Mirages] should place <img class='inline portal'> [Portal Entre] and use <img class='inline mirage-thrust'> [Mirage Thrust] to get to the next platforms.
 
