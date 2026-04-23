@@ -97,11 +97,41 @@ For this reason, groups on Cairn will often run one or more <img class='inline t
 
 ## Transition to Mursaat Overseer
 
+This transition involves a lot of movement, and can be made a lot faster using portals and movement skills. Your strategy for this transition will vary based on whether you are running with one or two <img class='inline mesmer'> [Mesmers]. These should run a specialized <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
+
+{: .note}
+It's recommended to use [marker packs] to see portal positions, as they can be quite precise and it's easy to make mistakes and lose a significant amount of time.
+
+---
+
+### Single Mesmer Variation
+
+Towards the end of [Cairn], your <img class='inline thief'> [Thief] and <img class='inline mesmer'> [Mesmer] should head towards the eastern part of the arena in preparation. They can even jump down and glide before the boss is dead.
+
+The <img class='inline thief'> [Thief] can head to the base of the cliff to prepare a portal up. This can be done by using <img class='inline shadowstep'> [Shadowstep] to blink up, using <img class='inline shadow-portal'> [Prepare Shadow Portal], then <img class='inline shadowstep'> [Shadowstepping] back and opening it.
+
+<img class='center bordered' width='70%' src='./transitions/mursaat_1.webp'>
+
+The <img class='inline mesmer'> [Mesmer] should be ready for when the portal opens. They should then use all their mobility to get to the rubble pile, prepare their <img class='inline portal'> [Portal Entre], then open it next to the shovel.
+
+In the meanwhile, the rest of the squad should be running through the ruins to the door. One person should speak to <img class='inline glenna'> [Glenna] on the way. Designate four more people apart from the <img class='inline mesmer'> [Mesmer] to take the portal, pick up a shovel, take the portal back and use it on the rubble pile.
+
+---
+
+### Double Mesmer Variation
+
+This is played identically to the [single Mesmer version](#single-mesmer-variation) but incorporating an extra portal from <img class='inline glenna'> [Glenna] to the rubble pile. This allows the <img class='inline mesmer'> [Mesmer] going to the shovel to take this portal and save their mobility for the second part of the transition, thus speeding up the sequence by up to 15-20 seconds compared to the single version.
+
+<img class='center bordered' width='70%' src='./transitions/mursaat_2.webp'>
+
+The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait for the <img class='inline thief'> [Thief]: it's instead faster to <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] up the cliff before the rest of the squad to get a head start and minimize the group spends waiting for your portal to open
+
 
 [Cairn]: #cairn-the-indomitable
 [Mursaat Overseer]: #mursaat-overseer
 [Samarog]: #samarog
 [Deimos]: #deimos
+[marker packs]: ../general.html#marker-packs
 
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 [Spatial Manipulation]: https://wiki.guildwars2.com/wiki/Spatial_Manipulation
@@ -125,3 +155,9 @@ For this reason, groups on Cairn will often run one or more <img class='inline t
 [Invulnerability]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Invulnerable]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Tale of the August Queen]: https://wiki.guildwars2.com/wiki/Tale_of_the_August_Queen
+[Shadowstep]: https://wiki.guildwars2.com/wiki/Shadowstep
+[Shadowstepping]: https://wiki.guildwars2.com/wiki/Shadowstep
+[Prepare Shadow Portal]: https://wiki.guildwars2.com/wiki/Prepare_Shadow_Portal
+[Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
+[Mimic]: https://wiki.guildwars2.com/wiki/Mimic
+[Blink]: https://wiki.guildwars2.com/wiki/Blink
