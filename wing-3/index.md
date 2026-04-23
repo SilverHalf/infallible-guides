@@ -458,7 +458,7 @@ Usually this is done via an initial <img class='inline knockback'> [Knockback] t
 The initial push is most reliably done by a <img class='inline mesmer'> [Mesmer] with a [Greatsword](https://wiki.guildwars2.com/wiki/Greatsword):
 - Target the bloodstone shard while gliding to the island.
 - Stand on the Unstable Rift.
-- Cast <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f8/Illusionary_Wave.png/72px-Illusionary_Wave.png'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave).
+- Cast <img class='inline illusionary-wave'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave).
 
 For the final <img class='inline pull'> [Pull], there are several options. Some of the most used include:
 - <img class='inline curtain'> [Temporal Curtain]
