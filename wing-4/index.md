@@ -162,7 +162,7 @@ If your group consistently ends up with this overlap, consider changing your ove
 
 ## Samarog
 
-Samarog is a long fight with plenty of occasions to make mistakes. Fast clears are highly dependant on good positioning, high <img class='inline stability'> [Stability] uptime and well-executed split phases.
+Samarog is a long fight with plenty of occasions to make mistakes. Fast clears are highly dependant on good positioning, high <img class='inline stability'> [Stability] uptime, vast amounts of CC and well-executed split phases. It is very easy to lose time whenever one of these is lacking.
 
 Samarog has low incoming damage pressure and can easily be [solo-healed](../general.html#solo-healing). Groups attempting to speed up this encounter will benefit from:
 - Good boon access: <img class='inline protection'> [Protection] will prevent players from being downed by spears, and <img class='inline stability'> [Stability] from getting thrown off the arena.
@@ -173,25 +173,27 @@ Samarog has low incoming damage pressure and can easily be [solo-healed](../gene
 
 ### Transition from Mursaat
 
-This transition is fairly short and simple. The easiest way to speed it up is to have a <img class='inline thief'> [Thief] ready to open the door for everyone. This can be done faster by having them move close to the exit towards the end of Mursaat. Players should try to change templates while running up the steps and food should be placed at the top just before the boss, so players can run in directly without losing precious time.
+This transition is fairly short and simple. The easiest way to speed it up is to have a <img class='inline thief'> [Thief] ready to open the door for everyone. This can be optimized by having them position closer to the exit towards the end of [Mursaat Overseer]. Players should try to swap templates while heading up the steps and food should be placed just before the boss, so that players can run in directly without losing time.
 
 ---
 
-### Strategy
+### Speedrun Strategy
 
 Speedrun strategies for Samarog focus on positioning, ensuring that the boss is moved as little as possible while placing spears in convenient locations around it.
 
 {: .note}
 This strategy is described here using positions from the [PEAK Infallible Markers](../general.html#marker-packs) pack.
 
-Start by running in to position *1*, baiting the first friends spear there. The tank should then move in between the four markers, while the rest of the squad can move to position *2* or *3*.
+Start by running in to position *1*, baiting the first spear there. The tank should then move in between the four markers, while the rest of the squad can move to position *2* or *3*.
 
 <div class="row-container">
 <img class='center adapt-width' src='./samarog/samarog_1.webp'>
 <img class='center adapt-width' src='./samarog/samarog_2.webp'>
 </div>
 
-Remain at maximum melee range while doing damage, so as to bait the spear as far outside as possible. When the friends are selected, move to the other side. The tank should never stand where a spear can spawn. On the next friends mechanic, move towards position *8*, then to *4* once you reach 33% and the split phase begins.
+Remain at maximum melee range while doing damage, thus baiting the spear as far from the boss as possible. This gives you more space to work with overall, and reduces the risk of the tank being caught inside a spear during CC.
+
+When the friends mechanic occurs, move to the other side. Then, on the next one, move towards position *8*, and finally to *4* once you reach 33% and the split phase begins. Try to get to *4* quickly: if [Rigom] aggros onto a player who is stuck doing friends far from the alcove, your split phase will become noticeably slower.
 
 While on 4, you should be <img class='inline pull'> pulling [Rigom] into Samarog's hitbox. This is best done using a combination of two or more skills to push him deep into the alcove, otherwise you risk him running out and exploding while on stack. Commonly this is done by combining <img class='inline curtain'> [Temporal Curtain] with <img class='inline illusionary-wave'> [Illusionary Wave] or another <img class='inline knockback'> [Knockback].
 
@@ -215,6 +217,114 @@ Once [Guldhelm] dies, you should then <img class='inline pull'> pull [Rigom] out
 As in the previous phase, remain at maximum melee range to bait out the friend mechanic far from the boss, rotating to a new position when it's convenient. Don't feel like you're forced to follow them sequentially: go to wherever you have space.
 
 Repeat this for the following split phase and main phase.
+
+---
+
+## Deimos
+
+Deimos is a difficult boss with lots of dangerous mechanics. While strategy-wise it's played similarly to normal runs, the potential for easy downstates is always present, with increased pressure due to it being the last boss of the wing.
+
+Composition-wise, most groups will try run a handkite that can also give ranged boons to the rest of the squad. Common choices include <img class='inline catalyst'> [Catalyst] and <img class='inline mechanist'> [Mechanist]. This is usually combined with a celestial healer. <img class='inline troubadour'> [Troubadour] is a common pick due to its easy access to <img class='inline aegis'> [Aegis] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/a9/Tale_of_the_Honorable_Rogue.png/50px-Tale_of_the_Honorable_Rogue.png'> [Tale of the Honorable Rogue](https://wiki.guildwars2.com/wiki/Tale_of_the_Honorable_Rogue).
+
+<img class='inline ritualist'> [Ritualist] also deserves a mention due to its excellent utility: <img class=inline src='https://wiki.guildwars2.com/images/thumb/7/7b/Innervate_Preservation.png/72px-Innervate_Preservation.png'> [Innervate Preservation](https://wiki.guildwars2.com/wiki/Innervate_Preservation) is an instant-cast source of <img class='inline aegis'> [Aegis] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/62/Xinrae%27s_Weapon.png/50px-Xinrae%27s_Weapon.png'> [Xinrae's Weapon](https://wiki.guildwars2.com/wiki/Xinrae%27s_Weapon) makes for extremely safe Mind Crushes, as it can't be stripped by attacks.
+
+---
+
+### Transition from Samarog
+
+To start Deimos, you will have to wait for <img class='inline glenna'> [Glenna] to get into position so that you can disable the mid-encounter cinematic. This cannot be sped up in any way, just like at the beginning of the wing. The common approach here is to send a person to enable the CM mote, and then talk to Glenna. A <img class='inline mesmer'> [Mesmer] can prepare a <img class='inline portal'> [Portal Entre] next to her dialogue position for this player. It can then be opened on the boss platform, with the group starting the fight afterwards.
+
+{: .warning}
+Make sure not to open this portal on top of any food items, as anyone trying to eat the food will get an unpleasant surprise instead.
+
+---
+
+### Chain Phase
+
+At the beginning of the fight, when you go down to free Saul, you want to kill all four chains at the same time. This is a big time gain, enabling you to start the fight right away without having to repeat the green sequence multiple times.
+
+The best way to do this is to pre-assign people to each chain. The chains are aligned with the cardinal directions, and you can assign two DPS or BoonDPS players to each chain.
+
+To synchronize the death of the chains, the best approach is to set a time on the encounter timer to kill them at, usually *11:42*.
+
+---
+
+### Green Strategy
+
+The group has to manage three greens overall. Each one is solved in a different manner to save the greatest amount of time.
+
+#### 75% Green
+{: .no_toc}
+
+For the first green, the best thing is to kill Saul as fast as possible. Therefore, everyone except for the tank and hand-kite should take the green to increase DPS on Saul.
+
+The phase ending usually lines up with Mind Crush: when coming up the group should be careful to step away from Saul and any hands coming in.
+
+#### 50% Green
+{: .no_toc}
+
+Here the objective is to not phase Saul before he splits into his four clones. These can easily cause downstates due to their attacks stripping <img class='inline aegis'> [Aegis], so you want to have him split below, where Mind Crush is not an issue.
+
+For this reason, groups will usually designate one subgroup to go down in the green while the other keeps dealing damage to the boss.
+
+#### 25% Green
+{: .no_toc}
+
+Usually only the person targeted by the green will go down at 25% (known as "sac green"). The rest of the group should phase the boss fast enough that they do not go downstate before they also come down.
+
+To survive, the best thing the sac player can do is kite Saul around in a circle, avoiding his auto-attacks as much as possible.
+
+---
+
+### Oil Placement
+
+Oils are the prime reason for wipes on Deimos. Correct placement of them can make his encounter not only safer, but much faster overall.
+
+<div class="row-container">
+<div class='adapt-width-60' markdown=block>
+Once the boss is approaching 60%, everyone except for the tank should stand at maximum melee range from its hitbox. Ideally you want to spawn the oil as far as possible from the center. When it does spawn, there should be enough space on the other side to keep hitting the boss without having to pull it away.
+</div>
+<div class='center adapt-width-30'>
+<img class='center bordered' src='./deimos/deimos_1.webp'>
+</div>
+</div>
+
+<div class="row-container" style="margin-top: 15px">
+<div class='adapt-width-60' markdown=block>
+You can keep up DPS on the new side until a second oil spawns. Only at this point will you have to move the boss from its original position. Once this is done, resume your positioning at maximum melee range until the next oil spawns, and so on.
+</div>
+<div class='center adapt-width-30'>
+<img class='center bordered' src='./deimos/deimos_2.webp'>
+</div>
+</div>
+
+{: .note}
+While this strategy minimizes overall movement and maximizes DPS uptime on the boss, it's also risky as it places people on the outside of Deimos, where the pizza attack can easily knock them off the platform. If this becomes an issue for your group, consider instead stacking only on the inside of the boss, trading some DPS for additional safety.
+
+---
+
+### Demonic Realm Phase
+
+This is the final sprint: mistakes here can be heart-breaking so there is still some optimization that can be done.
+
+On coming down from the main platform, make sure the entire squad stacks together on one side of his hitbox: this lets you bait the black reliably, which you can then avoid by moving to the other side of the boss.
+
+It's very important at this stage to provide <img class='inline aegis'> [Aegis] for his slam attacks, as they risk knocking people off the platform. Call out if you cannot provide it in time.
+
+---
+
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline catalyst'> QuickDPS, Handkite | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=mdUJ_tvCUKo) | March 2026 | Single Mesmer transition, slightly different Samarog tanking. |
+| <img class='inline luminary'> <img class='inline willbender'> AlacDPS, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=6kfmoEatKjM) | March 2026 | Double Mesmer transition, <img class='inline herald'> handkite. |
+| <img class='inline ritualist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=6H0ZAjrjbK4) | April 2026 | Double Mesmer transition. |
+| <img class='inline deadeye'> <img class='inline daredevil'> QuickDPS, Skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=vKIKYyUJhro) | April 2026 | Single Mesmer transition. |
 
 [< Wing 3](../wing-3/){: .btn } [Return to Home](../index.html){: .btn } [Wing 5 >](../wing-5/){: .btn } [Return to Top](#bastion-of-the-penitent){: .btn .fixed}
 {: .center}
@@ -240,6 +350,8 @@ Repeat this for the following split phase and main phase.
 [Luminary]: https://wiki.guildwars2.com/wiki/Luminary
 [Scourge]: https://wiki.guildwars2.com/wiki/Scourge
 [Ritualist]: https://wiki.guildwars2.com/wiki/Ritualist
+[Mechanist]: https://wiki.guildwars2.com/wiki/Mechanist
+[Catalyst]: https://wiki.guildwars2.com/wiki/Catalyst
 
 [Knockback]: https://wiki.guildwars2.com/wiki/Knockback
 [Pull]: https://wiki.guildwars2.com/wiki/Pull
@@ -249,6 +361,7 @@ Repeat this for the following split phase and main phase.
 [Floating]: https://wiki.guildwars2.com/wiki/Float
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Protection]: https://wiki.guildwars2.com/wiki/Protection
+[Aegis]: https://wiki.guildwars2.com/wiki/Aegis
 [Invulnerability]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Invulnerable]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Tale of the August Queen]: https://wiki.guildwars2.com/wiki/Tale_of_the_August_Queen
