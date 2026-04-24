@@ -2,71 +2,75 @@
 
 // Buffs and debuffs
 
-.protection{
+.protection {
 	content: url('https://wiki.guildwars2.com/images/6/6c/Protection.png');
 }
 
-.stability{
+.stability {
 	content: url('https://wiki.guildwars2.com/images/a/ae/Stability.png');
 }
 
-.defiance{
+.defiance {
 	content: url('https://wiki.guildwars2.com/images/4/49/Unshakable2.png');
 }
 
-.resolution{
+.resolution {
 	content: url('https://wiki.guildwars2.com/images/0/06/Resolution.png');
 }
 
-.quickness{
+.quickness {
 	content: url('https://wiki.guildwars2.com/images/b/b4/Quickness.png');
 }
 
-.might{
+.might {
 	content: url('https://wiki.guildwars2.com/images/7/7c/Might.png');
 }
 
-.fury{
+.fury {
 	content: url('https://wiki.guildwars2.com/images/4/46/Fury.png');
 }
 
-.empowered{
+.empowered {
 	content: url('https://wiki.guildwars2.com/images/9/9c/Empowered_%28Mursaat_Overseer%29.png');
 }
 
-.aegis{
+.aegis {
 	content: url('https://wiki.guildwars2.com/images/e/e5/Aegis.png');
 }
 
-.stun{
+.stun {
 	content: url('https://wiki.guildwars2.com/images/thumb/9/97/Stun.png/30px-Stun.png');
 }
 
-.unblockable{
+.unblockable {
 	content: url('https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/30px-Unblockable.png');
 }
 
-.exposed{
+.exposed {
 	content: url('https://wiki.guildwars2.com/images/6/6b/Exposed.png');
 }
 
-.invuln{
+.invuln {
 	content: url('https://wiki.guildwars2.com/images/e/eb/Determined.png');
 }
 
-.vuln{
+.vuln {
 	content: url('https://wiki.guildwars2.com/images/thumb/a/af/Vulnerability.png/30px-Vulnerability.png');
 }
 
-.stun{
+.stun {
 	content: url('https://wiki.guildwars2.com/images/thumb/9/97/Stun.png/30px-Stun.png');
 }
 
-.defeat{
+.float {
+	content: url(https://wiki.guildwars2.com/images/c/c8/Float.png);
+}
+
+.defeat {
 	content:url('https://wiki.guildwars2.com/images/4/42/Dead_ally_overhead_icon.png')
 }
 
-.daze{
+.daze {
 	content:url('https://wiki.guildwars2.com/images/thumb/7/79/Daze.png/30px-Daze.png')
 }
 
@@ -424,6 +428,10 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/2/29/Mirage_Thrust.png/50px-Mirage_Thrust.png);
 }
 
+.illusionary-wave {
+	content: url(https://wiki.guildwars2.com/images/thumb/f/f8/Illusionary_Wave.png/72px-Illusionary_Wave.png);
+}
+
 // Classes
 
 .chrono {
@@ -544,6 +552,10 @@
 
 .ranger {
 	content: url(https://wiki.guildwars2.com/images/1/1e/Ranger_icon_small.png);
+}
+
+.catalyst {
+	content: url(https://wiki.guildwars2.com/images/c/c5/Catalyst_icon_small.png);
 }
 
 // Transforms
@@ -725,4 +737,18 @@
 
 .glenna {
 	content: url(../../images/glenna.webp);
+}
+
+// Bastion of the Penitent
+
+.protect {
+	content: url(https://wiki.guildwars2.com/images/thumb/f/f6/Protect.png/50px-Protect.png);
+}
+
+.claim {
+	content: url(https://wiki.guildwars2.com/images/thumb/e/ef/Claim.png/50px-Claim.png);
+}
+
+.dispel {
+	content: url(https://wiki.guildwars2.com/images/thumb/8/84/Mursaat_Overseer%27s_Shield.png/50px-Mursaat_Overseer%27s_Shield.png);
 }

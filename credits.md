@@ -10,12 +10,13 @@ nav_order: 11
 - <img class='inline vl-icon'> [Void Lounge](https://discord.com/invite/voidlounge) - a public server with regular progression and kill runs for W8 CMs and LCM, among other things. Highly recommended to any player who enjoys endgame instanced content.
 - [SnowCrows](https://snowcrows.com/) - the go-to for endgame builds. Also keeps decent up-to-date guides for most encounters.
 - [Hardstuck Raid Guides](https://hardstuck.gg/gw2/guides/raids/) - a great selection of guides for wings 1-7.
-- - [Mount Balrior Guides](https://silverhalf.github.io/mount-balrior) - in-depth mechanics and strategy analysis for wing 8 challenge modes and Ura legendary mode.
+- [Mount Balrior Guides](https://silverhalf.github.io/mount-balrior) - in-depth mechanics and strategy analysis for wing 8 challenge modes and Ura legendary mode.
 
-##### Additional Resource Per Wing
+##### Additional Resource By Wing
 
 - [Wing 2 - Salvation Pass](./wing-2/index.html#additional-resources)
 - [Wing 3 - Stronghold of the Faithful](./wing-3/index.html#additional-resources)
+- [Wing 4 - Bastion of the Penitent](./wing-4/index.html#additional-resources)
 
 ---
 

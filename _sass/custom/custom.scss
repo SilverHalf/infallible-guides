@@ -32,8 +32,17 @@ $gold: #e0be00;
     max-width: 400px;
 }
 
+.adapt-width-30 {
+    width: 30%;
+    max-width: 400px;
+}
+
 .adapt-width-50 {
     width: 50%;
+}
+
+.adapt-width-60 {
+    width: 60%;
 }
 
 .adapt-width-strategy {
@@ -94,7 +103,13 @@ $gold: #e0be00;
   .adapt-width {
     width: 90%;
   }
+  .adapt-width-30 {
+    width: 70%;
+  }
   .adapt-width-50 {
+    width: 100%;
+  }
+  .adapt-width-60 {
     width: 100%;
   }
   .adapt-width-strategy {

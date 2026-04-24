@@ -29,7 +29,7 @@ Salvation Pass is often chosen by groups as the first wing they attempt on the r
 #### Main Points
 {: .no_toc}
 
-- [Slothasor] is run with a unique strategy that minimises the boss' movement.
+- [Slothasor] is run with a unique strategy that minimizes the boss' movement.
 - Large amounts of time can be saved through optimized transitions into and out of [Bandit Trio].
 - [Matthias] is run with a standard strategy, but requires care due to the number of dangerous mechanics it presents.
 
@@ -56,7 +56,7 @@ DPS classes with copious amounts of crowd control will also be extremely benefic
 
 Sloth is run with a strategy that differs significantly from the standard PUG strat, focusing on three important aspects:
 1. Keeping the boss stationary as much as possible.
-2. Minimising the time spent eating  <img class='inline shroom'> [Poison Mushrooms] and transformed.
+2. minimizing the time spent eating  <img class='inline shroom'> [Poison Mushrooms] and transformed.
 3. Killing slublings quickly so that they do not disrupt the group.
 
 The encounter can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier. <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist] are good picks also due to their strong CC and utility.
@@ -72,7 +72,7 @@ Select a player to eat the first shroom. This is best done by the DPS class with
 Since the timer starts when the shroom is eaten, this saves a couple of seconds by not having the players run to the boss or vice-versa.
 
 {: .note}
-Players that are affected by <img class='inline stealth'> [Stealth] will not take damage from the mushrooms' posion fields.
+Players that are affected by <img class='inline stealth'> [Stealth] will not take damage from the mushrooms' poison fields.
 
 <div class="row-container">
     <img class='center adapt-width' src='sloth/sloth_1.webp'>
@@ -90,7 +90,7 @@ Soon after, [Slublings] will start spawning. Players should use two <img class='
 
 Once the slublings have been pulled, it's safe for the shroom player to eat the second shroom and return to the stack. The rest of the fight can be played normally using the available space.
 
-If both shrooms respawn, with sufficient condition cleanse it is possible to outheal the incoming damage for a period. If the group is low on DPS, the shroom player can reduce pressure by tracking the time remaining on their <img class='inline' src='https://wiki.guildwars2.com/images/4/45/Magic_Transformation.png'> [Magic Transformation](https://wiki.guildwars2.com/wiki/Magic_Transformation) and eating the second shroom at the last possible second.
+If both shrooms respawn, with sufficient condition cleanse it is possible to out-heal the incoming damage for a period. If the group is low on DPS, the shroom player can reduce pressure by tracking the time remaining on their <img class='inline' src='https://wiki.guildwars2.com/images/4/45/Magic_Transformation.png'> [Magic Transformation](https://wiki.guildwars2.com/wiki/Magic_Transformation) and eating the second shroom at the last possible second.
 
 ### Managing the Shake
 
@@ -214,7 +214,7 @@ Groups should minimize the DPS downtime and inherent risk in having a player run
 
 ### Shards of Rage
 
-This attack can easily oneshot an unprepared player. However, getting hit by it brings a considerable increase in DPS due to <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled). Groups that want to play safer can bring projectile block to nullify this attack entirely (not reflect!!), while those that want more DPS can aim to absorb the shards.
+This attack can easily one-shot an unprepared player. However, getting hit by it brings a considerable increase in DPS due to <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled). Groups that want to play safer can bring projectile block to nullify this attack entirely (not reflect!!), while those that want more DPS can aim to absorb the shards.
 
 A common practice is having a <img class='inline mechanist'> [Mechanist] use their <img class='inline shift'> [Shift Signet] to position their Mech in the center of Matthias' hitbox: the mech will absorb the attack entirely while gaining many stacks of <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled), thus significantly increasing its damage.
 

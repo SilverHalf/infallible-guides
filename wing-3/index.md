@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Stronghold of the Faithful is one of the easiest wings to clear Infallible on, and is often the first wing groups will attempt on the road to the achievment. The key to clearing this wing is perfecting [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, making the rest of the wing a relative cakewalk.
+Stronghold of the Faithful is one of the easiest wings to clear Infallible on, and is often the first wing groups will attempt on the road to the achievement. The key to clearing this wing is perfecting [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, making the rest of the wing a relative cakewalk.
 
 ---
 
@@ -110,7 +110,7 @@ Teleporting Glenna in this manner is not accepted in most speedrun formats.
 
 #### Clearing Towers
 
-To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we maximise the speed of capture by:
+To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we maximize the speed of capture by:
 1. Sending as many people into each capture point as possible.
 2. Quickly clearing enemies from capture points using skills that inflict <img class='inline knockback'> [Knockback] or <img class='inline fear'> [Fear] in an area.
 
@@ -119,7 +119,7 @@ Skills that can clear towers include:
 - <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/5e/Shadow_Gust.png/72px-Shadow_Gust.png'> [Shadow Gust](https://wiki.guildwars2.com/wiki/Shadow_Gust) on <img class='inline deadeye'> [Deadeye].
 - <img class='inline tides'> [Glyph of the Tides] on <img class='inline druid'> [Druid].
 - <img class='inline fear-me'> ["Fear Me!] on <img class='inline warrior'> [Warrior].
-- <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorbtion](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
 
 Groups should bring at least three of these skills, so that one will be ready for each tower.
 
@@ -160,9 +160,9 @@ If the triggered wipe happens too early, it can bug the encounter and you will h
 <details>
 <summary>Click to view dialogue skip instructions</summary>
 <div markdown=block>
-1. One player should approach <img class='inline glenna'> [Glenna] as soon as the wing is open to give her <img class='inline superspeed'> [Superspeed]. You should then /GG during your first line of dialoge after she gets into position. This will skip the rest of the pre-Escort dialogue.
+1. One player should approach <img class='inline glenna'> [Glenna] as soon as the wing is open to give her <img class='inline superspeed'> [Superspeed]. You should then /GG during your first line of dialogue after she gets into position. This will skip the rest of the pre-Escort dialogue.
 
-2. While at least one other player is alive in the wing, another player should interact with Glenna and select the first option. As soon as their first line of dialogue appears they should /GG to skip the rest of the post-Escort dialogue. This window is very tight so ideally they should have pretyped /GG in their chat.
+2. While at least one other player is alive in the wing, another player should interact with Glenna and select the first option. As soon as their first line of dialogue appears they should /GG to skip the rest of the post-Escort dialogue. This window is very tight so ideally they should have pre-typed /GG in their chat.
 
 3. Finally, trigger a wipe as soon as the encounter begins by having everyone /GG.
 
@@ -207,6 +207,9 @@ After taking the portal, the <img class='inline thief'> [Thief] can skip the cav
 </details>
 
 The most difficult part of performing this skip is targeting the enemies inside the cave. This is best done by enabling autotargeting or using the "Lock Autotarget" keybind. Both use the maximum range on your weapon skills, so equipping a rifle will let you reach the adds from the top of the wall, speeding up the sequence overall.
+
+{: .note}
+This skip can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
 <img class='center bordered' width='60%' src='escort/escort_2.webp'>
 
@@ -305,13 +308,13 @@ Groups should aim to keep the boss in the center of the arena for the full durat
 
 ### Skipping the Exposed Phase
 
-In the standard Keep Construct strategy, after breaking his <img class='inline defiance'> [Defiance Bar] you unlock the ley-rift and exposed phase. In speedruns, however, these phases lose an incredible amount of time, as you will already be very close to 66% or 33% when entering them. It is thus desireable to skip them, forfeiting the damage bonus from <img class='inline' src='https://wiki.guildwars2.com/images/thumb/4/48/Compromised.png/30px-Compromised.png'> [Compromised](https://wiki.guildwars2.com/wiki/Compromised) but resulting in a much faster clear overall.
+In the standard Keep Construct strategy, after breaking his <img class='inline defiance'> [Defiance Bar] you unlock the ley-rift and exposed phase. In speedruns, however, these phases lose an incredible amount of time, as you will already be very close to 66% or 33% when entering them. It is thus desirable to skip them, forfeiting the damage bonus from <img class='inline' src='https://wiki.guildwars2.com/images/thumb/4/48/Compromised.png/30px-Compromised.png'> [Compromised](https://wiki.guildwars2.com/wiki/Compromised) but resulting in a much faster clear overall.
 
 The easiest way of doing this is to not strip both stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/56/Xera%27s_Embrace.png/30px-Xera%27s_Embrace.png'> [Xera's Embrace](https://wiki.guildwars2.com/wiki/Xera%27s_Embrace) from the boss, therefore never unlocking the breakbar at all. To do this either:
 1. Ignore the tethers, thus letting the statues combine and killing the powered-up statue in the collection phase.
 2. Have one of the players move slightly out of the center so that their statue does not die, while cleaving the second down. The statue will then despawn upon reaching the collection phase.
 
-The second option is generally preferrable for most purposes, as it's less inherently risky. However, groups often opt for the first option in pursuit of extra damage, especially in the final 33% as skipping the jump is a big timesave.
+The second option is generally preferable for most purposes, as it's less inherently risky. However, groups often opt for the first option in pursuit of extra damage, especially in the final 33% as skipping the jump is a big timesave.
 
 If something goes wrong and the <img class='inline defiance'> [Defiance Bar] is unlocked, make sure to call it out so that the group does not use any CC skills.
 
@@ -335,7 +338,7 @@ This is an encounter that, similarly to [Escort], can be made much faster with a
 
 ### Fast Strategy
 
-To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build]((https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e)).
+To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
 
 Once [Keep Construct] is dead, run down the stairs to the South and <img class='inline pull'> [Pull] the first group of adds together. Once these are dead, the encounter will start. Both <img class='inline mirage'> [Mirages] should place <img class='inline portal'> [Portal Entre] and use <img class='inline mirage-thrust'> [Mirage Thrust] to get to the next platforms.
 
@@ -390,8 +393,6 @@ Once this is done, they can walk into a nearby statue to get ported back to the 
 
 </div>
 
-
-
 <div class="row-container" style="margin-top: 15px">
 <div class='center adapt-width'>
 <video class="bordered center" width='100%' controls>
@@ -408,6 +409,9 @@ The player that completes the skip can then run directly to the end of the encou
 
 {: .warning}
 Make sure that everyone has taken a statue back before interacting with the final door!
+
+{: .note}
+These skips can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
 </div>
 </div>
@@ -458,7 +462,7 @@ Usually this is done via an initial <img class='inline knockback'> [Knockback] t
 The initial push is most reliably done by a <img class='inline mesmer'> [Mesmer] with a [Greatsword](https://wiki.guildwars2.com/wiki/Greatsword):
 - Target the bloodstone shard while gliding to the island.
 - Stand on the Unstable Rift.
-- Cast <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f8/Illusionary_Wave.png/72px-Illusionary_Wave.png'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave).
+- Cast <img class='inline illusionary-wave'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave).
 
 For the final <img class='inline pull'> [Pull], there are several options. Some of the most used include:
 - <img class='inline curtain'> [Temporal Curtain]
@@ -509,6 +513,17 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline luminary'> <img class='inline dragonhunter'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=VtPpq-VKPr8) | March 2026 | Glenna Heal, Fast TC |
 | <img class='inline druid'> <img class='inline soulbeast'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ZOd5D_YZTks) | March 2026 | Tower Heal on Escort, Fast TC |
 
+---
+
+#### Practicing Skips on This Wing
+
+Many of the skips described in this guide can be practiced solo:
+
+- **<img class='inline thief'> Cave Skip** - can be done by parking <img class='inline glenna'> [Glenna] at the beginning of the encounter: use <img class='inline call-out'> [Over Here!] to get her to the first teleport spot then move to the second. Monitor her <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/Fear.png/30px-Fear.png'> [Surveilled](https://wiki.guildwars2.com/wiki/Surveilled) stacks: when they reach zero, seekers will spawn on her. The moment they do, use <img class='inline call-out'> [Over Here!] to teleport her to the second spot. The seekers will now be stuck on the rock and Glenna will be safe, as new ones cannot spawn unless the previous ones die.
+- **<img class='inline mirage'> Initial Skips** - can be accessed at the start of Twisted Castle by opening an instance cleared up to Xera.
+- **<img class='inline mirage'>/<img class='inline thief'> Branch Skip** - can be accessed by opening an instance cleared up to Xera, taking the portal at the beginning of Twisted Castle, and then gliding down from the staircase. 
+
+---
 
 #### Other Useful Links
 
