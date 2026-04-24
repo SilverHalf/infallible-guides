@@ -208,6 +208,9 @@ After taking the portal, the <img class='inline thief'> [Thief] can skip the cav
 
 The most difficult part of performing this skip is targeting the enemies inside the cave. This is best done by enabling autotargeting or using the "Lock Autotarget" keybind. Both use the maximum range on your weapon skills, so equipping a rifle will let you reach the adds from the top of the wall, speeding up the sequence overall.
 
+{: .note}
+This skip can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
+
 <img class='center bordered' width='60%' src='escort/escort_2.webp'>
 
 The rest of the squad will glide off the building to the North. Avoid the center of the area immediately after the building, instead sticking to the walls. This will prevent a group of adds from spawning. The tower group will then take the <img class='inline shadow-portal'> to the first tower.
@@ -390,8 +393,6 @@ Once this is done, they can walk into a nearby statue to get ported back to the 
 
 </div>
 
-
-
 <div class="row-container" style="margin-top: 15px">
 <div class='center adapt-width'>
 <video class="bordered center" width='100%' controls>
@@ -408,6 +409,9 @@ The player that completes the skip can then run directly to the end of the encou
 
 {: .warning}
 Make sure that everyone has taken a statue back before interacting with the final door!
+
+{: .note}
+These skips can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
 </div>
 </div>
@@ -509,6 +513,17 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline luminary'> <img class='inline dragonhunter'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=VtPpq-VKPr8) | March 2026 | Glenna Heal, Fast TC |
 | <img class='inline druid'> <img class='inline soulbeast'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ZOd5D_YZTks) | March 2026 | Tower Heal on Escort, Fast TC |
 
+---
+
+#### Practicing Skips on This Wing
+
+Many of the skips described in this guide can be practiced solo:
+
+- **<img class='inline thief'> Cave Skip** - can be done by parking <img class='inline glenna'> [Glenna] at the beginning of the encounter: use <img class='inline call-out'> [Over Here!] to get her to the first teleport spot then move to the second. Monitor her <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/Fear.png/30px-Fear.png'> [Surveilled](https://wiki.guildwars2.com/wiki/Surveilled) stacks: when they reach zero, seekers will spawn on her. The moment they do, use <img class='inline call-out'> [Over Here!] to teleport her to the second spot. The seekers will now be stuck on the rock and Glenna will be safe, as new ones cannot spawn unless the previous ones die.
+- **<img class='inline mirage'> Initial Skips** - can be accessed at the start of Twisted Castle by opening an instance cleared up to Xera.
+- **<img class='inline mirage'>/<img class='inline thief'> Branch Skip** - can be accessed by opening an instance cleared up to Xera, taking the portal at the beginning of Twisted Castle, and then gliding down from the staircase. 
+
+---
 
 #### Other Useful Links
 
