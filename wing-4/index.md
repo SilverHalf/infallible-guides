@@ -325,6 +325,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline luminary'> <img class='inline willbender'> AlacDPS, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=6kfmoEatKjM) | March 2026 | Double Mesmer transition, <img class='inline herald'> handkite. |
 | <img class='inline ritualist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=6H0ZAjrjbK4) | April 2026 | Double Mesmer transition. |
 | <img class='inline deadeye'> <img class='inline daredevil'> QuickDPS, Skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=vKIKYyUJhro) | April 2026 | Single Mesmer transition. |
+| <img class='inline troubadour'> <img class='inline chrono'> <img class='inline mirage'> Heal, Skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=gPUbkNCs-2A) | May 2026 | Single Mesmer transition. |
 
 [< Wing 3](../wing-3/){: .btn } [Return to Home](../index.html){: .btn } [Wing 5 >](../wing-5/){: .btn } [Return to Top](#bastion-of-the-penitent){: .btn .fixed}
 {: .center}
