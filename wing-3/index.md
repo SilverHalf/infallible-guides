@@ -334,6 +334,9 @@ With enough damage, players can skip important mechanics that they otherwise wou
 
 This is an encounter that, similarly to [Escort], can be made much faster with a risky strategy. In this case we take advantage of the exceptional mobility provided by <img class='inline mirage-thrust'> [Mirage Thrust].
 
+{: .note}
+All skips in Twisted Castle can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
+
 ---
 
 ### Fast Strategy
@@ -409,9 +412,6 @@ The player that completes the skip can then run directly to the end of the encou
 
 {: .warning}
 Make sure that everyone has taken a statue back before interacting with the final door!
-
-{: .note}
-These skips can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
 </div>
 </div>
