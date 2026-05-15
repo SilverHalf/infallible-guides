@@ -77,6 +77,12 @@ It is highly recommended to run a [marker pack] that shows the spawn position of
 
 ---
 
+### Composition
+
+High burst is very important to kill [Hollowed Bombers] before <img class=inline src='./desmina.png'> Desmina gets to them. Classes that can quickly apply <img class='inline vuln'> [Vulnerability] are also extremely important, such as <img class='inline engineer'> [Engineer] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f4/Steel-Packed_Powder.png/60px-Steel-Packed_Powder.png'> [Steel-Packed Powder](https://wiki.guildwars2.com/wiki/Steel-Packed_Powder) and <img class='inline necromancer'> [Necromancer] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/7/7e/Death_Spiral.png/72px-Death_Spiral.png'> [Death Spiral](https://wiki.guildwars2.com/wiki/Death_Spiral).
+
+---
+
 ### Transition from Soulless Horror
 
 This transition involves a bit of dialogue, followed by Desmina walking from whenever she ended up in the previous encounter to the beginning of the River. Her walk is affected by <img class='inline superspeed'> [Superspeed], and can be further optimized by killing her close to the East side of the arena, where the river starts.
@@ -195,11 +201,9 @@ This encounter is usually much quicker than the [Broken King]: once you are done
 This encounter is usually done in parallel with the [Eater of Souls]. The strategy is identical to the PUG strat, but performed with less initial players.
 
 Manage your DPS to keep around five stacks of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/38/Shield_of_Ice.png/30px-Shield_of_Ice.png'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting.
-
-Classes with transformation skills can be abused to go over this limit. Normal classes would <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/ba/Glaciate.png/30px-Glaciate.png'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wing](https://wiki.guildwars2.com/wiki/Frozen_Wind), but since this counts as a Transformation effect, if you are transformed it only undoes your current transformation. This applies to:
+Some transformation skills can be abused to go over this limit. Normal classes would <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/ba/Glaciate.png/30px-Glaciate.png'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wing](https://wiki.guildwars2.com/wiki/Frozen_Wind), but since this counts as a Transformation effect, if you are transformed it only undoes your current transformation. This applies to:
 - <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud).
-- <img class='inline necromancer'> [Necromancer]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f5/Death_Shroud.png/80px-Death_Shroud.png'> [Death Shroud](https://wiki.guildwars2.com/wiki/Death_Shroud).
-- <img class='inline druid'> [Druid]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/59/Celestial_Avatar.png/50px-Celestial_Avatar.png'> [Celestial Avatar](https://wiki.guildwars2.com/wiki/Celestial_Avatar).
+- <img class='inline ritualist'> [Ritualist]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud).
 
 Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/38/Shield_of_Ice.png/30px-Shield_of_Ice.png'> [Shield of Ice] on the boss.
 
@@ -345,6 +349,8 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Scrapper]: https://wiki.guildwars2.com/wiki/Scrapper
 [Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
 [Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
+[Ritualist]: https://wiki.guildwars2.com/wiki/Ritualist
+[Engineer]: https://wiki.guildwars2.com/wiki/Engineer
 
 <!-- Links to skills -->
 [Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
