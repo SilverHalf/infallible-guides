@@ -225,25 +225,10 @@ summary {
 .arena-container img {
     width: 60%;
 }
-
-input:checked + .decima-arena-image {
-    width: 100%;
-    cursor: zoom-out;
-}
  
 input:checked + .zoom {
     width: 100%;
     cursor: zoom-out;
-}
-
-.decima-arena-image {
-    background-image: url("../../images/decima/strategy/decima-arena.webp");
-	background-size: cover;
-    background-position: center;
-    min-width: 200px;
-    max-width: 100%;
-    animation-timing-function: linear;
-    transition: .3s;
 }
 
 .zoom {
@@ -275,14 +260,6 @@ input:checked + .zoom {
 }
 
 .purple:hover {
-    color: $legpurple !important;
-}
-
-.uralm {
-    color: $legpurple;
-}
-
-.uralm:hover {
     color: $legpurple !important;
 }
 

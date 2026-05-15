@@ -334,6 +334,9 @@ With enough damage, players can skip important mechanics that they otherwise wou
 
 This is an encounter that, similarly to [Escort], can be made much faster with a risky strategy. In this case we take advantage of the exceptional mobility provided by <img class='inline mirage-thrust'> [Mirage Thrust].
 
+{: .note}
+All skips in Twisted Castle can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
+
 ---
 
 ### Fast Strategy
@@ -409,9 +412,6 @@ The player that completes the skip can then run directly to the end of the encou
 
 {: .warning}
 Make sure that everyone has taken a statue back before interacting with the final door!
-
-{: .note}
-These skips can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
 </div>
 </div>
@@ -520,7 +520,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 Many of the skips described in this guide can be practiced solo:
 
 - **<img class='inline thief'> Cave Skip** - can be done by parking <img class='inline glenna'> [Glenna] at the beginning of the encounter: use <img class='inline call-out'> [Over Here!] to get her to the first teleport spot then move to the second. Monitor her <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/Fear.png/30px-Fear.png'> [Surveilled](https://wiki.guildwars2.com/wiki/Surveilled) stacks: when they reach zero, seekers will spawn on her. The moment they do, use <img class='inline call-out'> [Over Here!] to teleport her to the second spot. The seekers will now be stuck on the rock and Glenna will be safe, as new ones cannot spawn unless the previous ones die.
-- **<img class='inline mirage'> Initial Skips** - can be accessed at the start of Twisted Castle by opening an instance cleared up to Xera.
+- **<img class='inline mirage'> Twisted Castle Initial Skips** - can be accessed at the start of Twisted Castle by opening an instance cleared up to Xera.
 - **<img class='inline mirage'>/<img class='inline thief'> Branch Skip** - can be accessed by opening an instance cleared up to Xera, taking the portal at the beginning of Twisted Castle, and then gliding down from the staircase. 
 
 ---
