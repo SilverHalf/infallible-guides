@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Bastion of the Penitent is one of the more difficult wings to clear Infallible on. It mostly consists of boss fights, meaning that high DPS is essential to getting a good time. Samarog and Deimos can be especially punishing, as they contain a lot of dangerous mechanics that can be run-ending if misplayed. A good composition, smooth transitions and a lot of practice are the keys to getting the achievement for this wing.
+The Bastion of the Penitent mostly consists of boss fights, meaning that high DPS is essential to getting a good time. Samarog and Deimos can be especially punishing, as they contain a lot of dangerous mechanics that can be run-ending if misplayed. A good composition, smooth transitions and a lot of practice are the keys to getting the achievement for this wing.
 
 ---
 
@@ -32,7 +32,7 @@ Bastion of the Penitent is one of the more difficult wings to clear Infallible o
 {: .no_toc}
 
 - High damage is especially important since most of the wings is spent in combat. Solo-healing is recommended.
-- [Cairn] and [Mursaat Overseer] are golems.
+- [Cairn] and [Mursaat Overseer] are golems and played similarly to normal runs.
 - [Samarog] is one of the fights where groups lose the most time. Optimized positioning and split phases are extremely important.
 - [Deimos] is the run-ender with his plethora of dangerous attacks. Your clear is conditional on correct management of these mechanics.
 
@@ -100,13 +100,13 @@ For this reason, groups on Cairn will often run one or more <img class='inline t
 This transition involves a lot of movement, and can be made a lot faster using portals and movement skills. Your strategy for this transition will vary based on whether you are running with one or two <img class='inline mesmer'> [Mesmers]. These should run a specialized <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
 
 {: .note}
-It's recommended to use [marker packs] to see portal positions, as they can be quite precise and it's easy to make mistakes and lose a significant amount of time.
+It's recommended to use [marker packs] to see portal positions, as they can be quite precise.
 
 ---
 
 ### Single Mesmer Variation
 
-Towards the end of [Cairn], your <img class='inline thief'> [Thief] and <img class='inline mesmer'> [Mesmer] should head towards the eastern part of the arena in preparation. They can even jump down and glide before the boss is dead.
+Towards the end of [Cairn], your <img class='inline thief'> [Thief] and <img class='inline mesmer'> [Mesmer] should head towards the western part of the arena in preparation. They can even jump down and glide before the boss is dead.
 
 The <img class='inline thief'> [Thief] can head to the base of the cliff to prepare a portal up. This can be done by using <img class='inline shadowstep'> [Shadowstep] to blink up, using <img class='inline shadow-portal'> [Prepare Shadow Portal], then <img class='inline shadowstep'> [Shadowstepping] back and opening it.
 
@@ -128,9 +128,9 @@ The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait 
 
 ---
 
-### Notes on Starting Mursaat
+### Concluding the Transition
 
-Part of speeding up the transition is starting [Mursaat Overseer] as quickly as possible after opening the way to his room. For this purpose, players should have swapped templates and food beforehand. The designated holders for <img class='inline claim'> [Claim], <img class='inline dispel'> [Dispel] and <img class='inline protect'> [Protect] should run in and immediately pick up their special action keys as soon as possible.
+Start [Mursaat Overseer] as quickly as possible after opening the way to his room. Players should have swapped templates and food before the rubble pile is excavated. The designated holders for <img class='inline claim'> [Claim], <img class='inline dispel'> [Dispel] and <img class='inline protect'> [Protect] should run in immediately and pick up their special action keys without delay.
 
 ---
 
@@ -144,15 +144,15 @@ Mursaat has very low damage pressure, and can be run with no healers at all prov
 
 ### Protect Timing
 
-To maintain high DPS, most groups playing Mursaat will ignore the outermost two [Jade Scouts]. This results in them eventually promoting to [Jade Soldiers], running to the group, getting cleaved down and exploding, potentially resulting in downstates. Proper timing of <img class='inline protect'> [Protect] here can trivialize this issue, negating most of their attacks and their final explosion.
+To maintain high DPS, most groups playing Mursaat will ignore the outermost two [Jade Scouts]. This results in them eventually promoting to [Jade Soldiers] and exploding on the group after being cleaved down. Proper timing of <img class='inline protect'> [Protect] here can trivialize this issue, negating most of their attacks and their final explosion.
 
-Depending on your overall cleave, survivability and <img class='inline power'> Power damage, you might choose to <img class='inline protect'> [Protect] from as early as when the Soldiers get to the group to as late as when they get to 50% HP.
+Depending on your overall cleave and survivability, you can choose to use <img class='inline protect'> [Protect] as early as when the soldiers get to the group to as late as when they get to 50% HP.
 
 ---
 
 ### Managing Overlaps
 
-The second highest risk groups may encounter on Mursaat Overseer is the overlap between Blues and Spikes. This happens because Blues are timing-based, happening every 30 seconds, while spikes are influenced by the boss's HP,resetting at 75%, 50% and 25%.
+The second highest risk groups may encounter on Mursaat Overseer is the overlap between Blues and Spikes. This happens because Blues are timing-based, happening every 30 seconds, while spikes are influenced by the boss's HP, resetting at 75%, 50% and 25%.
 
 Keeping in mind that Blues take 4 seconds to detonate and spikes take 5, the only situation that cannot be played around is when the blues appear a second after the spikes. In this case you would need to use <img class='inline protect'> [Protect] to survive, potentially not having it available for the [Jade Soldiers].
 
@@ -165,7 +165,7 @@ If your group consistently ends up with this overlap, consider changing your ove
 Samarog is a long fight with plenty of occasions to make mistakes. Fast clears are highly dependant on good positioning, high <img class='inline stability'> [Stability] uptime, vast amounts of CC and well-executed split phases. It is very easy to lose time whenever one of these is lacking.
 
 Samarog has low incoming damage pressure and can easily be [solo-healed](../general.html#solo-healing). Groups attempting to speed up this encounter will benefit from:
-- Good boon access: <img class='inline protection'> [Protection] will prevent players from being downed by spears, and <img class='inline stability'> [Stability] from getting thrown off the arena.
+- Good boon access: <img class='inline protection'> [Protection] to prevent players from being downed by spears, and <img class='inline stability'> [Stability] to prevent <img class='inline knockback'> [Knockback] into the arena's edges.
 - <img class='inline pull'> [Pull] and <img class='inline knockback'> [Knockback] utilities for the split phases.
 - High amounts of CC. <img class='inline thief'> [Thief] is unparalleled here due to <img class='inline distracting-throw'> [Distracting Throw].
 
@@ -184,7 +184,7 @@ Speedrun strategies for Samarog focus on positioning, ensuring that the boss is 
 {: .note}
 This strategy is described here using positions from the [PEAK Infallible Markers](../general.html#marker-packs) pack.
 
-Start by running in to position *1*, baiting the first spear there. The tank should then move in between the four markers, while the rest of the squad can move to position *2* or *3*.
+Start by running in to position *1*, baiting the first spear there. The tank should then move in between *1* and *8*, while the rest of the squad can move to position *2* or *3*.
 
 <div class="row-container">
 <img class='center adapt-width' src='./samarog/samarog_1.webp'>
@@ -207,7 +207,7 @@ Once you get the friends mechanic on *4*, you can move to *5*, and then to *6* i
 {: .note}
 If you can spare the utility slots and need to do an additional friends mechanic, remember that people targeted by the friends mechanic can still take <img class='inline shadow-portal'> [Shadow Portal] and <img class='inline portal'> [Portal Entre], allowing the spear to be placed anywhere.
 
-Once [Guldhelm] dies, you should then <img class='inline pull'> pull [Rigom] out and kill him quickly, beginning the next main phase. Your tank should preposition in between the four markers to make Samarog walk all the way out, while the rest of the squad can remain on *6* (or *7* if the spear on *5* was slightly misplaced).
+Once [Guldhelm] dies, you should then <img class='inline pull'> pull [Rigom] out and kill him quickly, beginning the next main phase. Your tank should preposition between *4* and *8* to make Samarog walk all the way out of the spears, while the rest of the squad can remain on *6* (or *7* if the spear on *5* was slightly misplaced).
 
 <div class="row-container">
 <img class='center adapt-width' src='./samarog/samarog_5.webp'>
@@ -224,9 +224,13 @@ Repeat this for the following split phase and main phase.
 
 Deimos is a difficult boss with lots of dangerous mechanics. While strategy-wise it's played similarly to normal runs, the potential for easy downstates is always present, with increased pressure due to it being the last boss of the wing.
 
-Composition-wise, most groups will try run a handkite that can also give ranged boons to the rest of the squad. Common choices include <img class='inline catalyst'> [Catalyst] and <img class='inline mechanist'> [Mechanist]. This is usually combined with a celestial healer. <img class='inline troubadour'> [Troubadour] is a common pick due to its easy access to <img class='inline aegis'> [Aegis] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/a9/Tale_of_the_Honorable_Rogue.png/50px-Tale_of_the_Honorable_Rogue.png'> [Tale of the Honorable Rogue](https://wiki.guildwars2.com/wiki/Tale_of_the_Honorable_Rogue).
+---
 
-<img class='inline ritualist'> [Ritualist] also deserves a mention due to its excellent utility: <img class=inline src='https://wiki.guildwars2.com/images/thumb/7/7b/Innervate_Preservation.png/72px-Innervate_Preservation.png'> [Innervate Preservation](https://wiki.guildwars2.com/wiki/Innervate_Preservation) is an instant-cast source of <img class='inline aegis'> [Aegis] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/62/Xinrae%27s_Weapon.png/50px-Xinrae%27s_Weapon.png'> [Xinrae's Weapon](https://wiki.guildwars2.com/wiki/Xinrae%27s_Weapon) makes for extremely safe Mind Crushes, as it can't be stripped by attacks.
+### Composition
+
+Most groups will try to run a handkite that can also give ranged boons to the rest of the squad. Common choices include <img class='inline catalyst'> [Catalyst] and <img class='inline mechanist'> [Mechanist]. This is usually combined with a celestial healer. <img class='inline troubadour'> [Troubadour] is a common pick due to its easy access to <img class='inline aegis'> [Aegis] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/a9/Tale_of_the_Honorable_Rogue.png/50px-Tale_of_the_Honorable_Rogue.png'> [Tale of the Honorable Rogue](https://wiki.guildwars2.com/wiki/Tale_of_the_Honorable_Rogue).
+
+<img class='inline ritualist'> [Ritualist] also deserves a mention due to its excellent utility: <img class=inline src='https://wiki.guildwars2.com/images/thumb/7/7b/Innervate_Preservation.png/72px-Innervate_Preservation.png'> [Innervate Preservation](https://wiki.guildwars2.com/wiki/Innervate_Preservation) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/37/Weapon_of_Warding.png/72px-Weapon_of_Warding.png'> [Weapon of Warding](https://wiki.guildwars2.com/wiki/Weapon_of_Warding) are instant-cast sources of group <img class='inline aegis'> [Aegis]. Furthermore, <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/62/Xinrae%27s_Weapon.png/50px-Xinrae%27s_Weapon.png'> [Xinrae's Weapon](https://wiki.guildwars2.com/wiki/Xinrae%27s_Weapon) makes for extremely safe Mind Crushes as it cannot be stripped by enemy attacks.
 
 ---
 
@@ -245,7 +249,7 @@ At the beginning of the fight, when you go down to free Saul, you want to kill a
 
 The best way to do this is to pre-assign people to each chain. The chains are aligned with the cardinal directions, and you can assign two DPS or BoonDPS players to each chain.
 
-To synchronize the death of the chains, the best approach is to set a time on the encounter timer to kill them at, usually *11:42*.
+To synchronize the death of the chains, the best approach is to agree on a time on the encounter timer to kill them at, usually *11:42*.
 
 ---
 
@@ -263,9 +267,9 @@ The phase ending usually lines up with Mind Crush: when coming up the group shou
 #### 50% Green
 {: .no_toc}
 
-Here the objective is to not phase Saul before he splits into his four clones. These can easily cause downstates due to their attacks stripping <img class='inline aegis'> [Aegis], so you want to have him split below, where Mind Crush is not an issue.
+Most groups will try to not phase Saul before he splits into his four clones. These can easily cause downstates due to their attacks stripping <img class='inline aegis'> [Aegis], so you want to have him split in the Demon Realm, where Mind Crush is not an issue.
 
-For this reason, groups will usually designate one subgroup to go down in the green while the other keeps dealing damage to the boss.
+For this reason, groups will often designate one subgroup to go down in the green while the other keeps dealing damage to the boss.
 
 #### 25% Green
 {: .no_toc}
@@ -279,6 +283,11 @@ To survive, the best thing the sac player can do is kite Saul around in a circle
 ### Oil Placement
 
 Oils are the prime reason for wipes on Deimos. Correct placement of them can make his encounter not only safer, but much faster overall.
+
+#### Parallel Placement
+{: .no_toc}
+
+This strategy minimizes overall movement and maximizes DPS uptime on the boss. However, it's also risky as it places people on the outside of Deimos, where the pizza attack can easily knock them off the platform.
 
 <div class="row-container">
 <div class='adapt-width-60' markdown=block>
@@ -297,9 +306,6 @@ You can keep up DPS on the new side until a second oil spawns. Only at this poin
 <img class='center bordered' src='./deimos/deimos_2.webp'>
 </div>
 </div>
-
-{: .note}
-While this strategy minimizes overall movement and maximizes DPS uptime on the boss, it's also risky as it places people on the outside of Deimos, where the pizza attack can easily knock them off the platform. If this becomes an issue for your group, consider instead stacking only on the inside of the boss, trading some DPS for additional safety.
 
 ---
 
@@ -344,6 +350,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
+[Mesmers]: https://wiki.guildwars2.com/wiki/Mesmer
 [Specter]: https://wiki.guildwars2.com/wiki/Specter
 [Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
 [Troubadours]: https://wiki.guildwars2.com/wiki/Troubadour
