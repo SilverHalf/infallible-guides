@@ -42,9 +42,9 @@ The Hall of Chains is a straightforward wing to clear as the timer is relatively
 The requirements here are not overall as strict as in other wings.
 - A <img class='inline druid'> [Druid] is almost always run for pushing on [Soulless Horror].
 - A <img class='inline scrapper'> [Scrapper] is almost always run to provide <img class='inline superspeed'> [Superspeed] for [River of Souls].
-- One or more <img class='inline mesmer'> [Mesmers] are useful for portals on [River], [Statues] and [Dhuum].
-- Classes with shrouds and other transformations, such as <img class='inline specter'> [Specter] and <img class='inline necromancer'> [Necromancer], can cheese the Statue of Ice.
-- One or more <img class='inline scourge'> [Scourges] are useful on Dhuum for <img class='inline sand-swell'> [Sand Swell] and <img class='inline flesh-wurm'> [Summon Flesh Wurm].
+- One or more <img class='inline mesmer'> [Mesmers] are useful for portals on [River], [Statues] and [Dhuum], and other various utilities.
+- Classes with shrouds and other transformations, such as <img class='inline specter'> [Specter] and <img class='inline necromancer'> [Necromancer], can cheese the [Broken King].
+- One or more <img class='inline scourge'> [Scourges] are useful on [Dhuum] for <img class='inline sand-swell'> [Sand Swell] and <img class='inline flesh-wurm'> [Summon Flesh Wurm].
 
 ---
 
@@ -53,6 +53,14 @@ The requirements here are not overall as strict as in other wings.
 This boss is played with a relatively normal strategy. The most noticeable difference compared to standard runs is the tendency to compress the tank and pusher role into a single push-tank <img class='inline druid'> [Druid]. Alternatively, if the pusher is not confident, it's possible to have a DPS or BoonDPS tank instead, alongside the other healer.
 
 Overall, aggressive compositions are not very punishing due to the boss being the first of the wing.
+
+---
+
+### Platform Start
+It's possible to start Soulless Horror on the boss platform, which saves a few seconds. To do this:
+- Start the fight by dropping down to the arena.
+- Everyone `/GG`s once in combat.
+- Rush back to the platform before the boss re-spawns.
 
 ---
 
@@ -202,6 +210,112 @@ The Broken King tends to bug out when at 10 stacks or above: players may not be 
 
 ## Dhuum
 
+Dhuum is a long, gruelling fight where lots of things can potentially go wrong. Several strategies exist to optimize the fight for speedrun groups and normal runs both.
+
+---
+
+### Composition and Utilities
+
+Several skills are especially suited to Dhuum CM and should be run if possible:
+
+- <img class='inline flesh-wurm'> [Summon Flesh Wurm] can stop [Deathlings] from reaching the <img class='inline star'> reaper when positioned accurately. They will stop to attack the wurm, which can be healed or resummoned if necessary. It is also very good mobility for doing the <img class='inline star'> green.
+- <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/42/Healing_Turret.png/72px-Healing_Turret.png'> [Healing Turret](https://wiki.guildwars2.com/wiki/Healing_Turret) can greatly improve <img class='inline flesh-wurm'> [Summon Flesh Wurm]'s survivability.
+- <img class='inline sand-swell'> [Sand Swell] and <img class='inline portal'> [Portal Entre] can provide useful mobility in various situations.
+- <img class='inline mass-invis'> [Mass Invisibility] is used to <img class='inline stealth'> [Stealth] the <img class='inline arrow'> and <img class='inline triangle'> reapers when [throne tanking](#throne-tanking).
+
+The overall damage pressure in the fight is not large if bombs are managed safely. For this reason it's viable to run one or more celestial healers.
+
+Your kiter should be a class with good mobility and capable of giving boons in large bursts or at range. <img class='inline chrono'> [Chronomancer], <img class='inline troubadour'> [Troubadour] and <img class='inline scourge'> [Scourge] are good picks for this reason. <img class='inline druid'> [Druid] can also be played but is harder to maintain good boons with.
+
+---
+
+### Getting the Echo Stuck
+
+It is possible to start the encounter in such a way that the [Echo] gets stuck until its position is reset at the first big dip. This allows you to do optimal DPS for the first phases.
+
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y?si=VPnjiq1YvE_kZ3Yo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is very easy to do with a [marker pack]:
+1. Have one player with a portal (usually the kiter) position on the marker and look at the second marker on the wall.
+2. This player can then open their portal close to <img class=inline src='./desmina.png'> Desmina.
+3. Everyone should take the portal and *stand still* on the exit.
+4. The kiter can talk to Desmina to begin the encounter, then also take the portal.
+
+You can move off the portal exit when the [Echo] starts moving towards the group. Mark it with an <img class='inline xmarker'> to make its position visible on the minimap.
+
+{: .warning}
+Remember to pay attention once the [Echo] gets un-stuck after the big dip.
+
+---
+
+### Throne Tanking
+
+This strategy involves tanking Dhuum close to the throne for most of the fight. This has the advantage of increasing damage uptime overall, since there is much less movement for most of the squad.
+
+You will have to designate a green 3 player that is not the tank. Tanking itself does not require much healing, and can be done by any player with additional toughness. Green 2 is done by the kite as normal and green 1 by a DPS.
+
+Begin the pre-event as normal. At 7:55 remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. In walking towards it, it will get cleaved by the group on the boss.
+
+{: .note}
+This can also be done by another player (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
+
+Once Dhuum is about to spawn, the tank should position in front of the throne so that the boss swivels around to hit them after walking out. 
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_1.webp'>
+
+Before the small dip, the squad should walk into Dhuum's hitbox. This forces the dangerous AoE to spawn close to the throne, where it is out of the way for the rest of the fight.
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_2.webp'>
+
+The tank can then bait the boss out of the AoE. DPS players should be able to hit it in the meanwhile. 
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_3.webp'>
+
+When the big dip happens, all players should take special care not to have their backs to the throne. Once the suction wears off, tank the boss in the middle as shown in the picture.
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_5.webp'>
+
+Shortly before the small dip, the tank should walk into the rest of the group, so that the red spawns slightly off-center.
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_6.webp'>
+
+You can then walk Dhuum out of the red as before, and continue DPS keeping him close to the center.
+From this position you can easily access the greens on <img class='inline circle'>, <img class='inline heart'> and <img class='inline square'>, and are in prime position for the next big split.
+
+<img class="center bordered" width='80%' src='./dhuum/dhuum_7.webp'>
+
+Play the rest of the encounter normally.
+
+---
+
+### Additional Tips
+- Use <img class='inline sand-swell'> [Sand Swell] to port players out of the group when they get <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f0/Arcing_Affliction.png/30px-Arcing_Affliction.png'> [Arcing Affliction](https://wiki.guildwars2.com/wiki/Arcing_Affliction_(effect)).
+- Use <img class='inline rifle-portal'> [Dimensional Aperture](https://wiki.guildwars2.com/wiki/Dimensional_Aperture) and <img class='inline portal'> [Portal Entre] to port returning players from greens.
+- Explode <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f0/Arcing_Affliction.png/30px-Arcing_Affliction.png'> [Arcing Affliction](https://wiki.guildwars2.com/wiki/Arcing_Affliction_(effect)) at *6:35* on the timer to overlap a last bomb with the big dip. The dip will remove the bomb effect, making the run much safer.
+- Green players are responsible for clearing the <img class='inline star'> reaper from deathlings, especially when doing greens on <img class='inline square'>  and <img class='inline triangle'>.
+
+---
+
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline druid'> Heal, Push, Tank | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=1NJxYpNMVxc) | March 2026 | Broken King on Statues |
+| <img class='inline amalgam'> <img class='inline scrapper'> BoonDPS, Desmina, Thrower | <img class='inline youtube'> [PoV](hhttps://www.youtube.com/watch?v=bXH86REC5yI) | March 2026 | Eater of Souls on Statues, standard Dhuum tanking |
+| <img class='inline chrono'> <img class='inline troubadour'> Heal, Kite | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=dEZuE2fJKUE) | April 2026 | Broken King on Statues |
+
+---
+
+#### Other Useful Links
+
+- <img class='inline youtube'> [Heal Chronomancer Kiting with MI and Portal by HasKha](https://youtu.be/_Yz4PQx_8Bc?si=QGtkPpYT99ndMeZz&t=2880) - while NM, this showcases the process overall.
+- <img class='inline youtube'> [Throne Tanking Dhuum by Christine](https://www.youtube.com/watch?v=ceu2O8u3xOg) - while relatively old, the positioning in this run is still relevant.
+- <img class='inline youtube'> [Getting the Echo Stuck](https://www.youtube.com/watch?v=bBYPfelUe2Y) - shows how to bug out the Echo at the beginning of Dhuum.
+
 
 [< Wing 4](../wing-4/){: .btn } [Return to Home](../index.html){: .btn } [Wing 6 >](../wing-6/){: .btn }  [Return to Top](#hall-of-chains){: .btn .fixed}
 {: .center}
@@ -226,9 +340,11 @@ The Broken King tends to bug out when at 10 stacks or above: players may not be 
 [Mesmers]: https://wiki.guildwars2.com/wiki/Mesmer
 [Specter]: https://wiki.guildwars2.com/wiki/Specter
 [Necromancer]: https://wiki.guildwars2.com/wiki/Necromancer
+[Scourge]: https://wiki.guildwars2.com/wiki/Scourge
 [Scourges]: https://wiki.guildwars2.com/wiki/Scourge
 [Scrapper]: https://wiki.guildwars2.com/wiki/Scrapper
 [Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
+[Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
 
 <!-- Links to skills -->
 [Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
@@ -237,10 +353,14 @@ The Broken King tends to bug out when at 10 stacks or above: players may not be 
 [Portals]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
 [Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
+[Mass Invisibility]: https://wiki.guildwars2.com/wiki/Mass_Invisibility
 
 <!-- Links to buffs and debuffs -->
 [Superspeed]: https://wiki.guildwars2.com/wiki/Superspeed
 [Vulnerability]: https://wiki.guildwars2.com/wiki/Vulnerability
+[Stealth]: https://wiki.guildwars2.com/wiki/Stealth
+[Stealths]: https://wiki.guildwars2.com/wiki/Stealth
+[Stealthing]: https://wiki.guildwars2.com/wiki/Stealth
 
 <!-- Links to enemies and enemy skills -->
 [Hollowed Bomber]: https://wiki.guildwars2.com/wiki/Hollowed_Bomber
@@ -252,6 +372,9 @@ The Broken King tends to bug out when at 10 stacks or above: players may not be 
 [Light Orb]: https://wiki.guildwars2.com/wiki/Light_Orb
 [Light Orbs]: https://wiki.guildwars2.com/wiki/Light_Orb
 [Shield of Ice]: https://wiki.guildwars2.com/wiki/Shield_of_Ice
+[Deathlings]: https://wiki.guildwars2.com/wiki/Deathling
+[Echo]: https://wiki.guildwars2.com/wiki/Ender's_Echo
+[Enforcer]: https://wiki.guildwars2.com/wiki/Dhuum%27s_Enforcer
 
 <!-- Other -->
 [Sand Portal]: https://wiki.guildwars2.com/wiki/Sand_Portal
