@@ -200,21 +200,24 @@ This encounter is usually much quicker than the [Broken King]: once you are done
 
 This encounter is usually done in parallel with the [Eater of Souls]. The strategy is identical to the PUG strat, but performed with less initial players.
 
-Manage your DPS to keep around five stacks of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/38/Shield_of_Ice.png/30px-Shield_of_Ice.png'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting.
-Some transformation skills can be abused to go over this limit. Normal classes would <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/ba/Glaciate.png/30px-Glaciate.png'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wing](https://wiki.guildwars2.com/wiki/Frozen_Wind), but since this counts as a Transformation effect, if you are transformed it only undoes your current transformation. This applies to:
-- <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud).
-- <img class='inline ritualist'> [Ritualist]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud).
+Manage your DPS to keep around five stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting.
 
-Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/38/Shield_of_Ice.png/30px-Shield_of_Ice.png'> [Shield of Ice] on the boss.
+Normally, players <img class='inline glaciate'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) and are <img class='inline stun'> [Stunned] upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wing](https://wiki.guildwars2.com/wiki/Frozen_Wind), but some transformation skills can be abused to go over this limit:
+- <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud): getting a fourth stack does some damage and kicks you out of shroud, but prevents both <img class='inline glaciate'> [Glaciate] and <img class='inline stun'> [Stun].
+- <img class='inline ritualist'> [Ritualist]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud): getting a fourth stack does some damage, kicks you out of shroud, prevents <img class='inline glaciate'> [Glaciate] but does not prevent <img class='inline stun'> [Stun].
+
+Running several of these classes allows you to accumulate more <img class='inline ice-shield'> stacks on the boss, dealing more damage with less risk.
+
+Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss.
 
 {: .warning}
-The Broken King tends to bug out when at 10 stacks or above: players may not be counted inside greens, which can then fail, likely resulting in downstates. Aiming to keep the boss at 8 stacks gives you a safe margin while still being more than sufficient timer-wise.
+Broken King tends to bug out when at 10 <img class='inline ice-shield'> stacks or above: players may not be counted inside greens, which can then fail, likely resulting in downstates. Aiming to keep the boss at 8 stacks gives you a safe margin while still being more than sufficient timer-wise.
 
 ---
 
 ## Dhuum
 
-Dhuum is a long, gruelling fight where lots of things can potentially go wrong. Several strategies exist to optimize the fight for speedrun groups and normal runs both.
+Dhuum is a long, elaborate fight where lots of things can be optimized, resulting in significant differences between a normal pull and a speedrun pull.
 
 ---
 
@@ -235,15 +238,15 @@ Your kiter should be a class with good mobility and capable of giving boons in l
 
 ### Getting the Echo Stuck
 
-It is possible to start the encounter in such a way that the [Echo] gets stuck until its position is reset at the first big dip. This allows you to do optimal DPS for the first phases.
+It is possible to start the encounter in such a way that the [Echo] gets stuck next to the entrance. It will then remain stuck until its position is reset at the first big dip, letting you do optimal DPS for the first phases.
 
 <iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y?si=VPnjiq1YvE_kZ3Yo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is very easy to do with a [marker pack]:
-1. Have one player with a portal (usually the kiter) position on the marker and look at the second marker on the wall.
-2. This player can then open their portal close to <img class=inline src='./desmina.png'> Desmina.
+1. Have one player with a portal position on the marker and look at the second marker on the wall.
+2. This player then opens their portal next to <img class=inline src='./desmina.png'> Desmina.
 3. Everyone should take the portal and *stand still* on the exit.
-4. The kiter can talk to Desmina to begin the encounter, then also take the portal.
+4. The kiter talks to Desmina to begin the encounter, then also takes the portal.
 
 You can move off the portal exit when the [Echo] starts moving towards the group. Mark it with an <img class='inline xmarker'> to make its position visible on the minimap.
 
@@ -254,11 +257,11 @@ Remember to pay attention once the [Echo] gets un-stuck after the big dip.
 
 ### Throne Tanking
 
-This strategy involves tanking Dhuum close to the throne for most of the fight. This has the advantage of increasing damage uptime overall, since there is much less movement for most of the squad.
+This strategy involves tanking Dhuum close to the throne for most of the fight. This reduces movement, resulting in higher damage uptime overall.
 
 You will have to designate a green 3 player that is not the tank. Tanking itself does not require much healing, and can be done by any player with additional toughness. Green 2 is done by the kite as normal and green 1 by a DPS.
 
-Begin the pre-event as normal. At 7:55 remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. In walking towards it, it will get cleaved by the group on the boss.
+Begin the pre-event as normal. At 7:55 remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
 
 {: .note}
 This can also be done by another player (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
@@ -367,6 +370,9 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Stealth]: https://wiki.guildwars2.com/wiki/Stealth
 [Stealths]: https://wiki.guildwars2.com/wiki/Stealth
 [Stealthing]: https://wiki.guildwars2.com/wiki/Stealth
+[Glaciate]: https://wiki.guildwars2.com/wiki/Glaciate
+[Stun]: https://wiki.guildwars2.com/wiki/Stun
+[Stunned]: https://wiki.guildwars2.com/wiki/Stun
 
 <!-- Links to enemies and enemy skills -->
 [Hollowed Bomber]: https://wiki.guildwars2.com/wiki/Hollowed_Bomber
