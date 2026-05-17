@@ -181,7 +181,7 @@ Good skills for this encounter include;
 - <img class='inline guardian'> [Guardian]: <img class='inline binding-blade'> [Binding Blade](https://wiki.guildwars2.com/wiki/Binding_Blade).
 - <img class='inline engineer'> [Engineer]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Magnet.png/72px-Magnet.png'> [Magnet](https://wiki.guildwars2.com/wiki/Magnet) in <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/2a/Tool_Kit.png/41px-Tool_Kit.png'> [Tool Kit](https://wiki.guildwars2.com/wiki/Tool_Kit).
 
-Announce when you are using a pull skill. *DO NOT HIT* a minipet while it's being pulled, as this will interrupt the pull skill. Sheathe your weapon or de-target.
+Announce when you are using a pull skill. *DO NOT* hit minipets while they're being pulled, as this will interrupt their movement. Sheathe your weapon or de-target to avoid accidental auto-attacks.
 
 ---
 
@@ -189,13 +189,28 @@ Announce when you are using a pull skill. *DO NOT HIT* a minipet while it's bein
 
 A straightforward fight. Hit the [Ectoplasmic Conglomeration](https://wiki.guildwars2.com/wiki/Ectoplasmic_Conglomeration) in the center, then hit whatever add is bouncing, going clockwise.
 
-If you're still reading this after that exciting summary, you can use [Jackal](https://wiki.guildwars2.com/wiki/Jackal)'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/97/Pounce_%28Jackal%29.png/50px-Pounce_%28Jackal%29.png'> [Pounce](https://wiki.guildwars2.com/wiki/Pounce_(Jackal)) to give [Barrier](https://wiki.guildwars2.com/wiki/Barrier) at the beginning of the fight and avoid stupid downstates.
+If you're still reading this after that exciting summary, you can use [Jackal](https://wiki.guildwars2.com/wiki/Jackal)'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/97/Pounce_%28Jackal%29.png/50px-Pounce_%28Jackal%29.png'> [Pounce](https://wiki.guildwars2.com/wiki/Pounce_(Jackal)) to give [Barrier] at the beginning of the fight and avoid stupid downstates.
 
 ---
 
 ### Dreg Shark
 
 The trick to completing this encounter quickly is to kill the miniboss in one long, continuous phase. This can be done by throwing a second [Dreg Shark Extractor](https://wiki.guildwars2.com/wiki/Dreg_Shark_Extractor) at the shark while it's still vulnerable in the center of the arena. For maximum results, count 8 seconds before throwing the second bomb.
+
+---
+
+## Twin Largos
+
+This boss is played with the standard PUG strat with a few tweaks and optimizations. It's convenient to run two healers to avoid downstates when splitting. Both <img class='inline power'> Power and <img class='inline condition'> Condition builds are viable, with condition being slightly better on [Nikare] due to his movement.
+
+<img class='inline amalgam'> [Amalgam]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/29/Offensive_Protocol-_Obliterate.png/50px-Offensive_Protocol-_Obliterate.png'> [Offensive Protocol: Obliterate](https://wiki.guildwars2.com/wiki/Offensive_Protocol:_Obliterate) deserves a special mention here due to its ability to remove [Barrier] from the bosses. This can greatly advantage <img class='inline condition'> Condition builds, allowing their damage to keep ticking during the boss's CM mechanic every 20% of their HP.
+
+{: .note}
+<img class=inline src='https://wiki.guildwars2.com/images/thumb/2/29/Offensive_Protocol-_Obliterate.png/50px-Offensive_Protocol-_Obliterate.png'> [Offensive Protocol: Obliterate](https://wiki.guildwars2.com/wiki/Offensive_Protocol:_Obliterate) is less effective for the <img class='inline defiance'> [Defiance Bar] as the bosses regenerate [Barrier] while it is up.
+
+Ideally you want to kill both bosses at the same time. However, the subgroup on [Nikare] will deal less damage overall due to the boss's movement, so it's convenient to have a player from the other subgroup join them on the last platform. This transfer can happen as early as when the [Nikare] group reaches the platform, or as late as after the <img class='inline defiance'> [Defiance Bar], depending on the disparity between the two groups.
+
+---
 
 [< Wing 5](../wing-5/){: .btn } [Return to Home](../index.html){: .btn } [Wing 7 >](../wing-7/){: .btn } [Return to Top](#mythwright-gambit){: .btn .fixed}
 {: .center}
@@ -205,7 +220,7 @@ The trick to completing this encounter quickly is to kill the miniboss in one lo
 [Sorting and Appraisal]: #mythwright-gambit
 [Minipets]: #minipets
 [Ooze]: #ooze
-[Twin Largos]: #mythwright-gambit
+[Twin Largos]: #twin-largos
 [Qadim]: #mythwright-gambit
 
 <!-- Links to classes and specializations -->
@@ -222,6 +237,7 @@ The trick to completing this encounter quickly is to kill the miniboss in one lo
 [Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
 [Necromancer]: https://wiki.guildwars2.com/wiki/Necromancer
+[Amalgam]: https://wiki.guildwars2.com/wiki/Amalgam
 
 <!-- Links to skills -->
 ["Advance!"]: https://wiki.guildwars2.com/wiki/%22Advance!%22
@@ -239,6 +255,7 @@ The trick to completing this encounter quickly is to kill the miniboss in one lo
 [Pull]: https://wiki.guildwars2.com/wiki/Pull
 [Pulls]: https://wiki.guildwars2.com/wiki/Pull
 [Pulling]: https://wiki.guildwars2.com/wiki/Pull
+[Barrier]: https://wiki.guildwars2.com/wiki/Barrier
 
 <!-- Links to enemies and enemy skills -->
 [Pyre Guardian]: https://wiki.guildwars2.com/wiki/Pyre_Guardian
@@ -250,3 +267,5 @@ The trick to completing this encounter quickly is to kill the miniboss in one lo
 <!-- Other -->
 [Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
 [Zomorros]: https://wiki.guildwars2.com/wiki/Zommoros
+[Nikare]: https://wiki.guildwars2.com/wiki/Nikare
+[Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
