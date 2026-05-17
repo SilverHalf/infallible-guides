@@ -24,14 +24,14 @@ parent: Guides
 </div>
 </details>
 
-Mythwright Gambit is a straightforward wing with a liberal timer. The ease of clearing this wing varies based on the week: [Mini-Pets] weeks are much harder to clear than [Ooze], though both are possible. Most time gains revolve around an efficient [Conjured Amalgamate], a good transition from [Twin Largos] to [Qadim], and a fast [Qadim] kill.
+Mythwright Gambit is a straightforward wing with a liberal timer. The ease of clearing this wing varies based on the week: [Minipets] weeks are much harder to clear than [Ooze], though both are possible. Most time gains revolve around an efficient [Conjured Amalgamate], a good transition from [Twin Largos] to [Qadim], and a fast [Qadim] kill.
 
 ---
 
 #### Main Points
 {: .no_toc}
 - [Conjured Amalgamate] is played with a non-standard strategy that is relatively RNG-heavy.
-- [Sorting and Appraisal] can be either trivial on [Ooze] weeks or very difficult to optimize on [Mini-Pets] weeks.
+- [Sorting and Appraisal] can be either trivial on [Ooze] weeks or very difficult to optimize on [Minipets] weeks.
 - [Twin Largos] is played with a standard strategy, but has a few minor optimizations.
 - [Qadim] strategies vary around the handling of [Pyre Guardians].
 
@@ -158,6 +158,44 @@ If the boss is still alive after the second arm dies, then and only then should 
 
 ---
 
+## Sorting and Appraisal
+
+These events can be either very fast or potentially run-ending based on the week. Most groups will attempt to kill on an Ooze week, but it's definitely possible to kill on Minipets with good RNG.
+
+---
+
+### Initial Dialogue Skip
+
+After [Conjured Amalgamate] is dead, everyone should glide backwards off the platform and [Skyscale] back to the ley rift at the beginning of the instance. Use the ley rift to get to Sorting and Appraisal, then talk to [Zomorros], selecting the final option to skip the rest of the dialogue. Afterwards, your path will diverge based on whether you have to complete [Minipets] or [Ooze].
+
+---
+
+### Minipets
+
+This encounter can be made much faster by using <img class='inline pull'> [Pulls] to quickly position the minipets where possible. The only way this can go wrong is if you get the [Mega Maraca Choya Pinata](https://wiki.guildwars2.com/wiki/Mega_Maraca_Choya_Pinata), which cannot be moved around. In this case, cry and scream at the unfairness of it all.
+
+Good skills for this encounter include;
+- <img class='inline thief'> [Thief]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c8/Scorpion_Wire.png/72px-Scorpion_Wire.png'> [Scorpion Wire](https://wiki.guildwars2.com/wiki/Scorpion_Wire) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e7/Throw_Magnetic_Bomb.png/72px-Throw_Magnetic_Bomb.png'> [Throw Magnetic Bomb](https://wiki.guildwars2.com/wiki/Throw_Magnetic_Bomb), which can be stolen from all minipets.
+- <img class='inline necromancer'> [Necromancer]: <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/35/Spectral_Grasp.png/50px-Spectral_Grasp.png'> [Spectral Grasp](https://wiki.guildwars2.com/wiki/Spectral_Grasp) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Grasping_Darkness.png/50px-Grasping_Darkness.png'> [Grasping Darkness](https://wiki.guildwars2.com/wiki/Grasping_Darkness).
+- <img class='inline mesmer'> [Mesmer]: <img class='inline curtain'> [Temporal Curtain].
+- <img class='inline guardian'> [Guardian]: <img class='inline binding-blade'> [Binding Blade](https://wiki.guildwars2.com/wiki/Binding_Blade).
+- <img class='inline engineer'> [Engineer]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Magnet.png/72px-Magnet.png'> [Magnet](https://wiki.guildwars2.com/wiki/Magnet) in <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/2a/Tool_Kit.png/41px-Tool_Kit.png'> [Tool Kit](https://wiki.guildwars2.com/wiki/Tool_Kit).
+
+Announce when you are using a pull skill. *DO NOT HIT* a minipet while it's being pulled, as this will interrupt the pull skill. Sheathe your weapon or de-target.
+
+---
+
+### Ooze
+
+A straightforward fight. Hit the [Ectoplasmic Conglomeration](https://wiki.guildwars2.com/wiki/Ectoplasmic_Conglomeration) in the center, then hit whatever add is bouncing, going clockwise.
+
+If you're still reading this after that exciting summary, you can use [Jackal](https://wiki.guildwars2.com/wiki/Jackal)'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/97/Pounce_%28Jackal%29.png/50px-Pounce_%28Jackal%29.png'> [Pounce](https://wiki.guildwars2.com/wiki/Pounce_(Jackal)) to give [Barrier](https://wiki.guildwars2.com/wiki/Barrier) at the beginning of the fight and avoid stupid downstates.
+
+---
+
+### Dreg Shark
+
+The trick to completing this encounter quickly is to kill the miniboss in one long, continuous phase. This can be done by throwing a second [Dreg Shark Extractor](https://wiki.guildwars2.com/wiki/Dreg_Shark_Extractor) at the shark while it's still vulnerable in the center of the arena. For maximum results, count 8 seconds before throwing the second bomb.
 
 [< Wing 5](../wing-5/){: .btn } [Return to Home](../index.html){: .btn } [Wing 7 >](../wing-7/){: .btn } [Return to Top](#mythwright-gambit){: .btn .fixed}
 {: .center}
@@ -165,8 +203,8 @@ If the boss is still alive after the second arm dies, then and only then should 
 <!-- Links to other pages in the guide -->
 [Conjured Amalgamate]: #conjured-amalgamate
 [Sorting and Appraisal]: #mythwright-gambit
-[Mini-Pets]: #mythwright-gambit
-[Ooze]: #mythwright-gambit
+[Minipets]: #minipets
+[Ooze]: #ooze
 [Twin Largos]: #mythwright-gambit
 [Qadim]: #mythwright-gambit
 
@@ -181,7 +219,9 @@ If the boss is still alive after the second arm dies, then and only then should 
 [Spellbreaker]: https://wiki.guildwars2.com/wiki/Spellbreaker
 [Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
 [Guardian]: https://wiki.guildwars2.com/wiki/Guardian
-[Chronomancer]: https://wiki.guildwars2.com/wiki/Guardian
+[Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
+[Thief]: https://wiki.guildwars2.com/wiki/Thief
+[Necromancer]: https://wiki.guildwars2.com/wiki/Necromancer
 
 <!-- Links to skills -->
 ["Advance!"]: https://wiki.guildwars2.com/wiki/%22Advance!%22
@@ -208,3 +248,5 @@ If the boss is still alive after the second arm dies, then and only then should 
 [Conjured Shields]: https://wiki.guildwars2.com/wiki/Conjured_Shield
 
 <!-- Other -->
+[Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
+[Zomorros]: https://wiki.guildwars2.com/wiki/Zommoros
