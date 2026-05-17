@@ -284,7 +284,7 @@ To survive, the best thing the sac player can do is kite Saul around in a circle
 
 Oils are the prime reason for wipes on Deimos. Correct placement of them can make his encounter not only safer, but much faster overall.
 
-#### Parallel Placement
+#### Parallel Tanking
 {: .no_toc}
 
 This strategy minimizes overall movement and maximizes DPS uptime on the boss. However, it's also risky as it places people on the outside of Deimos, where the pizza attack can easily knock them off the platform.
@@ -300,18 +300,37 @@ Once the boss is approaching 60%, everyone except for the tank should stand at m
 
 <div class="row-container" style="margin-top: 15px">
 <div class='adapt-width-60' markdown=block>
-You can keep up DPS on the new side until a second oil spawns. Only at this point will you have to move the boss from its original position. Once this is done, resume your positioning at maximum melee range until the next oil spawns, and so on.
+You can keep up DPS on the new side until a second oil spawns. Only at this point will you have to move the boss to the side, then resuming your position at maximum melee range until the next oil spawns.
 </div>
 <div class='center adapt-width-30'>
 <img class='center bordered' src='./deimos/deimos_2.webp'>
 </div>
 </div>
 
+#### Triangle Tanking
+{: .no_toc}
+
+This strategy does not guarantee as much DPS uptime and requires a bit more movement, but it's much easier and safer to execute. It also has the advantage of keeping all oils contained to a specific area of the platform, giving your handkite free reign over the rest of the arena.
+
+<div class="row-container">
+<div class='center adapt-width-30'>
+<img class='center bordered' src='./deimos/deimos_tri_1.webp'>
+</div>
+<div class='center adapt-width-30'>
+<img class='center bordered' src='./deimos/deimos_tri_2.webp'>
+</div>
+<div class='center adapt-width-30'>
+<img class='center bordered' src='./deimos/deimos_tri_3.webp'>
+</div>
+</div>
+
+After the group goes down in the first green, the tank can move a bit off-center. From then on, imagining a triangle with a vertex in your current position, every time an oil spawns you can move to the next vertex. This works because once a third oil spawns, the first one de-spawns, always leaving you a free space to move into.
+
+With this strategy, the group can position so that they are always on the inside of the arena from Deimos: this way they cannot be knocked off the platform by his pizza attack.
+
 ---
 
 ### Demonic Realm Phase
-
-This is the final sprint: mistakes here can be heart-breaking so there is still some optimization that can be done.
 
 On coming down from the main platform, make sure the entire squad stacks together on one side of his hitbox: this lets you bait the black reliably, which you can then avoid by moving to the other side of the boss.
 
