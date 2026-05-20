@@ -189,7 +189,7 @@ Announce when you are using a pull skill. *DO NOT* hit minipets while they're be
 
 A straightforward fight. Hit the [Ectoplasmic Conglomeration](https://wiki.guildwars2.com/wiki/Ectoplasmic_Conglomeration) in the center, then hit whatever add is bouncing, going clockwise.
 
-If you're still reading this after that exciting summary, you can use [Jackal](https://wiki.guildwars2.com/wiki/Jackal)'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/97/Pounce_%28Jackal%29.png/50px-Pounce_%28Jackal%29.png'> [Pounce](https://wiki.guildwars2.com/wiki/Pounce_(Jackal)) to give [Barrier] at the beginning of the fight and avoid stupid downstates.
+If you're still reading this after that exciting summary, you can use <img class='inline jackal'> [Jackal](https://wiki.guildwars2.com/wiki/Jackal)'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/97/Pounce_%28Jackal%29.png/50px-Pounce_%28Jackal%29.png'> [Pounce](https://wiki.guildwars2.com/wiki/Pounce_(Jackal)) to give [Barrier] at the beginning of the fight and avoid stupid downstates.
 
 ---
 
@@ -212,6 +212,34 @@ Ideally you want to kill both bosses at the same time. However, the subgroup on 
 
 ---
 
+## Transition to Qadim
+
+This transition takes advantage of the dialogue occurring between [Twin Largos] and [Qadim] to quickly kill the three [Pyre Guardians] necessary to unlock [Qadim]'s arena.
+
+{: .warning}
+This transition cannot be emulated by opening a fresh wing on Qadim, as this dialogue will not be present. It only works after killing [Twin Largos].
+
+{: .note}
+It is recommended to run a [marker pack] to show the trails for optimizing this transition.
+
+After [Twin Largos] die, use your <img class='inline skyscale'> [Skyscale] or <img class='inline skimmer'> [Skimmer] to go back to the ley rift at the entrance of the water room. Change templates while flying here so that you are ready for the transition.
+
+Take the ley rift to the Grand Causeway. From when the first person comes through, you will have a limited amount of time to kill the first [Pyre Guardian], found at the bottom of the stairway. If done fast enough, the guardian should respawn shortly after the dialogue between [Qadim] and [Zomorros] ends.
+
+The most efficient way to get to the Pyre quickly is with <img class='inline skimmer'> [Skimmer]'s <img class='inline slipstream'> [Slipstream Boost]. If your group is struggling with this DPS check, try waiting for everyone to be ready before taking the ley rift together.
+
+While the main group is killing the first pyre, a <img class='inline mesmer'> [Mesmer] can use a combination of <img class='inline skimmer'> [Skimmer] and <img class='inline skyscale'> [Skyscale] abilities to quickly get to the top of the stairway. They can then prepare a <img class='inline portal'> [Portal Entre] next to one of the topmost [Pyre Guardians] drop down to join the rest of the group.
+
+{: .note}
+It is highly recommended for this player to have maxed out the relevant mount masteries.
+
+Based on how fast you were in killing the first pyre, you can then either: 
+
+- (Fast) Take the <img class='inline portal'> portal, kill the topmost pyre and then take it back to kill the first one again once it re-spawns.
+- (Safe) Wait for the bottom pyre to respawn, kill it and then take the <img class='inline portal'> portal up to kill the last one.
+
+In both cases, the second <img class='inline mesmer'> [Mesmer] (or the first one running <img class='inline mimic'> [Mimic]) should open a portal from the pyre to the entrance of [Qadim]'s arena.
+
 [< Wing 5](../wing-5/){: .btn } [Return to Home](../index.html){: .btn } [Wing 7 >](../wing-7/){: .btn } [Return to Top](#mythwright-gambit){: .btn .fixed}
 {: .center}
 
@@ -222,6 +250,7 @@ Ideally you want to kill both bosses at the same time. However, the subgroup on 
 [Ooze]: #ooze
 [Twin Largos]: #twin-largos
 [Qadim]: #mythwright-gambit
+[marker pack]: ../general.html#marker-packs
 
 <!-- Links to classes and specializations -->
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -248,6 +277,9 @@ Ideally you want to kill both bosses at the same time. However, the subgroup on 
 [Conjured Slash]: https://wiki.guildwars2.com/wiki/Conjured_Slash
 [Conjured Protection]: https://wiki.guildwars2.com/wiki/Conjured_Protection
 [Feedback]: https://wiki.guildwars2.com/wiki/Feedback
+[Slipstream Boost]: https://wiki.guildwars2.com/wiki/Slipstream_Boost
+[Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
+[Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 
 <!-- Links to buffs and debuffs -->
 [Greatsword Power]: https://wiki.guildwars2.com/wiki/Greatsword_Power_(effect)
@@ -266,6 +298,7 @@ Ideally you want to kill both bosses at the same time. However, the subgroup on 
 
 <!-- Other -->
 [Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
+[Skimmer]: https://wiki.guildwars2.com/wiki/Skimmer
 [Zomorros]: https://wiki.guildwars2.com/wiki/Zommoros
 [Nikare]: https://wiki.guildwars2.com/wiki/Nikare
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
