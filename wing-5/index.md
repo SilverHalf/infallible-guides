@@ -179,7 +179,7 @@ Once Judgement is close to dying, the <img class='inline chrono'> [Chronomancer]
 <img class=center width='90%' src='./eyes/eyes_3.webp'>
 
 {: .warning}
-Remember not to `/GG` at the end of the encounter: instead use the [Sand Portal] to get back to Death's Landing.
+Remember not to `/GG` at the end of the encounter: instead use the <img class='inline jackal'> [Sand Portal] to get back to Death's Landing.
 
 ---
 
@@ -192,7 +192,7 @@ In Infallible runs, you cannot send additional players up in these greens: if th
 
 Remember to CC the boss whenever players go up into the green.
 
-This encounter is usually much quicker than the [Broken King]: once you are done, take the [Sand Portal] back to Death's Landing and join the rest of the group at the [Statue of Ice].
+This encounter is usually much quicker than the [Broken King]: once you are done, take the <img class='inline jackal'> [Sand Portal] back to Death's Landing and join the rest of the group at the [Statue of Ice].
 
 ---
 
