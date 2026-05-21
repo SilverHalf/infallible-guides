@@ -126,6 +126,10 @@
 	content: url('https://wiki.guildwars2.com/images/1/12/Toughness.png')
 }
 
+.resistance {
+	content: url(https://wiki.guildwars2.com/images/4/4b/Resistance.png);
+}
+
 // Skills
 
 .evade{
@@ -182,6 +186,10 @@
 
 .cs {
 	content: url('https://wiki.guildwars2.com/images/thumb/d/db/Continuum_Split.png/96px-Continuum_Split.png');
+}
+
+.cs-exit {
+	content: url(https://wiki.guildwars2.com/images/thumb/d/d7/Continuum_Shift.png/72px-Continuum_Shift.png);
 }
 
 .moa {
@@ -432,6 +440,10 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/f/f8/Illusionary_Wave.png/72px-Illusionary_Wave.png);
 }
 
+.gyro-accel {
+	content: url(https://wiki.guildwars2.com/images/thumb/1/11/Gyroscopic_Acceleration.png/38px-Gyroscopic_Acceleration.png);
+}
+
 // Classes
 
 .chrono {
@@ -558,6 +570,18 @@
 	content: url(https://wiki.guildwars2.com/images/c/c5/Catalyst_icon_small.png);
 }
 
+.spellbreaker {
+	content: url(https://wiki.guildwars2.com/images/0/08/Spellbreaker_icon_small.png);
+}
+
+.bladesworn {
+	content: url(https://wiki.guildwars2.com/images/c/cf/Bladesworn_icon_small.png);
+}
+
+.reaper {
+	content: url(https://wiki.guildwars2.com/images/9/93/Reaper_icon_small.png);
+}
+
 // Transforms
 
 .celestialavatar {
@@ -604,6 +628,14 @@
 	content: url(https://wiki.guildwars2.com/images/thumb/3/36/Quick_Pockets.png/60px-Quick_Pockets.png);
 }
 
+.rogue {
+	content: url(https://wiki.guildwars2.com/images/thumb/a/a9/Tale_of_the_Honorable_Rogue.png/50px-Tale_of_the_Honorable_Rogue.png);
+}
+
+.advance {
+	content: url(https://wiki.guildwars2.com/images/thumb/2/26/%22Advance%21%22.png/72px-%22Advance%21%22.png);
+}
+
 // Markers
 
 .arrow {
@@ -640,6 +672,24 @@
 
 .star {
 	content: url(https://wiki.guildwars2.com/images/thumb/3/31/Commander_star_marker.png/45px-Commander_star_marker.png);
+}
+
+// Mounts
+
+.skyscale {
+	content: url(https://wiki.guildwars2.com/images/thumb/f/fd/Skyscale_%28map_icon%29.png/30px-Skyscale_%28map_icon%29.png);
+}
+
+.skimmer {
+	content: url(https://wiki.guildwars2.com/images/thumb/f/f5/Skimmer_%28map_icon%29.png/30px-Skimmer_%28map_icon%29.png);
+}
+
+.jackal {
+	content: url(https://wiki.guildwars2.com/images/thumb/5/59/Jackal_%28map_icon%29.png/30px-Jackal_%28map_icon%29.png);
+}
+
+.slipstream {
+	content: url(https://wiki.guildwars2.com/images/thumb/5/58/Slipstream_Boost.png/50px-Slipstream_Boost.png);
 }
 
 // Other
@@ -777,4 +827,22 @@
 
 .ice-shield {
 	content: url(https://wiki.guildwars2.com/images/thumb/3/38/Shield_of_Ice.png/30px-Shield_of_Ice.png);
+}
+
+// Mythwright Gambit
+
+.ca-swords {
+	content: url(https://wiki.guildwars2.com/images/thumb/5/59/Conjured_Slash.png/50px-Conjured_Slash.png);
+}
+
+.ca-shields {
+	content: url(https://wiki.guildwars2.com/images/thumb/0/02/Conjured_Protection.png/50px-Conjured_Protection.png);
+}
+
+.sword-power {
+	content: url(https://wiki.guildwars2.com/images/thumb/3/3b/Greatsword_Power_%28effect%29.png/30px-Greatsword_Power_%28effect%29.png);
+}
+
+.fractured {
+	content: url(https://wiki.guildwars2.com/images/thumb/7/78/Branded_Aura.png/30px-Branded_Aura.png);
 }
