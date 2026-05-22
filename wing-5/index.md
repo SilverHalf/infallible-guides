@@ -270,7 +270,7 @@ Once Dhuum is about to spawn, the tank should position in front of the throne so
 
 <img class="center bordered" width='80%' src='./dhuum/dhuum_1.webp'>
 
-Before the small dip, the squad should walk into Dhuum's hitbox. This forces the dangerous AoE to spawn close to the throne, where it is out of the way for the rest of the fight.
+Before the small dip at *7:05*, the squad should walk forward into the tank. This forces the dangerous AoE to spawn close to the throne, where it is out of the way for the rest of the fight.
 
 <img class="center bordered" width='80%' src='./dhuum/dhuum_2.webp'>
 
