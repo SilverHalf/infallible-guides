@@ -213,6 +213,9 @@ Once the other subgroup has killed the [Eater of Souls], they will join you on t
 {: .warning}
 Broken King tends to bug out when at 10 <img class='inline ice-shield'> stacks or above: players may not be counted inside greens, which can then fail, likely resulting in downstates. Aiming to keep the boss at 8 stacks gives you a safe margin while still being more than sufficient timer-wise.
 
+{: .warning}
+Remember not to `/GG` when the boss dies.
+
 ---
 
 ## Dhuum
@@ -233,6 +236,14 @@ Several skills are especially suited to Dhuum CM and should be run if possible:
 The overall damage pressure in the fight is not large if bombs are managed safely. For this reason it's viable to run one or more celestial healers.
 
 Your kiter should be a class with good mobility and capable of giving boons in large bursts or at range. <img class='inline chrono'> [Chronomancer], <img class='inline troubadour'> [Troubadour] and <img class='inline scourge'> [Scourge] are good picks for this reason. <img class='inline druid'> [Druid] can also be played but is harder to maintain good boons with.
+
+---
+
+### Transition from Statues
+
+After [Broken King] dies, only the <img class='inline scrapper'> [Scrapper] should take the <img class='inline jackal'> [Sand Portal] to Death's Landing. They can then give <img class='inline superspeed'> [Superspeed] to <img class=inline src='./desmina.png'> Desmina while she walks up to the reapers.
+
+While the dialogue is occurring, the rest of the group can take the portal through and move ahead, swapping builds and otherwise preparing for the fight. The <img class='inline scrapper'> [Scrapper] stays behind with <img class=inline src='./desmina.png'> Desmina after the dialogue concludes, and once she's in position, they can swap builds and the fight can begin.
 
 ---
 
@@ -261,7 +272,7 @@ This strategy involves tanking Dhuum close to the throne for most of the fight. 
 
 You will have to designate a green 3 player that is not the tank. Tanking itself does not require much healing, and can be done by any player with additional toughness. Green 2 is done by the kite as normal and green 1 by a DPS.
 
-Begin the pre-event as normal. At 7:55 remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
+Begin the pre-event as normal. At *7:55* remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
 
 {: .note}
 This can also be done by another player (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
