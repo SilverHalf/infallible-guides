@@ -226,9 +226,9 @@ It is possible to start the boss earlier than normal in a couple of ways. These 
 
 | Language | Duration |
 |---|---|
-|French| 54s|
-|English| 1m 06s|
-|German| 1m 16s|
+|French| 54 seconds|
+|English| 1 minute 2 seconds|
+|German| 1 minute 16 seconds|
 
 ---
 
