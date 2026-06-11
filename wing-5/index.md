@@ -93,7 +93,7 @@ This transition involves a bit of dialogue, followed by Desmina walking from whe
 
 The speedrun strategy for River of Souls involves the <img class='inline scrapper'> [Scrapper] staying within <img class=inline src='./desmina.png'> Desmina's protective dome, providing her with permanent <img class='inline superspeed'> [Superspeed] while the rest of the group runs ahead of her and clears out all enemies, including [Hollowed Bombers].
 
-While <img class=inline src='./desmina.png'> Desmina is dialoguing, everyone except for the <img class='inline scrapper'> [Scrapper] speeding her up can pre-position on the spawn of the first [Enervator]. It will spawn as soon as the encounter commences: kill it and then walk back towards <img class=inline src='./desmina.png'> Desmina. Kill the [Hollowed Bomber] when it spawns.
+While <img class=inline src='./desmina.png'> Desmina is dialoguing, everyone except for the <img class='inline scrapper'> [Scrapper] speeding her up can pre-position on the spawn of the first [Enervator]. It will spawn as soon as the encounter commences: kill it and then walk back towards <img class=inline src='./desmina.png'> Desmina. Kill the [Hollowed Bomber] when it spawns. You can use <img class='inline sand-swell'> [Sand Swell] to get to and back from this bomber, but it is not strictly necessary.
 
 {: .note}
 [Enervators] will spawn as soon as the encounter commences, but [Bombers] only spawn when <img class=inline src='./desmina.png'> Desmina get close.
@@ -159,7 +159,9 @@ Statues is the encounter where it is easiest to gain time. Strategies here diffe
 
 ### Eyes
 
-This is normally the statue done first, as t the standard strategy requires some pre-positioning, which is easier to prepare for while <img class=inline src='./desmina.png'> Desmina is running through the final part of the [River of Souls]. The typical speedrun strategy for Eyes requires three special roles:
+This is normally the statue done first, as pre-positioning is easily done while <img class=inline src='./desmina.png'> Desmina is running through the final part of the [River of Souls]. The <img class='inline mesmer'> [Mesmer] can <img class='inline mimic'> [Mimic] a portal down to the center platform for the <img class='inline scrapper'> [Scrapper]
+
+The typical speedrun strategy for Eyes requires three special roles:
 - A <img class='inline druid'> [Druid] running <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/47/Moment_of_Clarity.png/60px-Moment_of_Clarity.png'> [Moment of Clarity](https://wiki.guildwars2.com/wiki/Moment_of_Clarity) and <img class=inline src='https://wiki.guildwars2.com/images/c/cc/Superior_Sigil_of_Paralyzation.png'> [Superior Sigil of Paralyzation](https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Paralyzation) that picks up the [Light Orbs] and uses <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/54/Flare.png/50px-Flare.png'> [Flare](https://wiki.guildwars2.com/wiki/Flare).
 - A <img class='inline chrono'> [Chronomancer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
 - One player to <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Throw_Light.png/50px-Throw_Light.png'> [Throw Light](https://wiki.guildwars2.com/wiki/Throw_Light). Usually this is done by the <img class='inline scrapper'> [Scrapper], as their abundant CC can make DPSing the Eyes difficult.
@@ -190,7 +192,10 @@ This encounter is usually done in parallel with the [Broken King]. The overall s
 {: .warning}
 In Infallible runs, you cannot send additional players up in these greens: if there are insufficient orbs, some players will not be able to collect enough to return to the platform.
 
-Remember to CC the boss whenever players go up into the green.
+{: .note}
+There is a small chance that multiple orbs spawn in the same location, which can result in players not collecting enough orbs to exit the mechanic. Splitting the group between two greens results in less orbs per green, thus reducing the likelihood of encountering this bug.
+
+All three players that do not take the green should aid in CCing the boss.
 
 This encounter is usually much quicker than the [Broken King]: once you are done, take the <img class='inline jackal'> [Sand Portal] back to Death's Landing and join the rest of the group at the [Statue of Ice].
 
@@ -200,13 +205,13 @@ This encounter is usually much quicker than the [Broken King]: once you are done
 
 This encounter is usually done in parallel with the [Eater of Souls]. The strategy is identical to the PUG strat, but performed with less initial players.
 
-Manage your DPS to keep around five stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting.
+Manage your DPS to keep around five stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting. As it is easy to upkeep this amount of stacks even with two or three DPS, you can run multiple healers with no downside.
 
-Normally, players <img class='inline glaciate'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) and are <img class='inline stun'> [Stunned] upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wing](https://wiki.guildwars2.com/wiki/Frozen_Wind), but some transformation skills can be abused to go over this limit:
+Normally, players <img class='inline glaciate'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) and are <img class='inline stun'> [Stunned] upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind), but some transformation skills can be abused to go over this limit:
 - <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud): getting a fourth stack does some damage and kicks you out of shroud, but prevents both <img class='inline glaciate'> [Glaciate] and <img class='inline stun'> [Stun].
 - <img class='inline ritualist'> [Ritualist]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud): getting a fourth stack does some damage, kicks you out of shroud, prevents <img class='inline glaciate'> [Glaciate] but does not prevent <img class='inline stun'> [Stun].
 
-Running several of these classes allows you to accumulate more <img class='inline ice-shield'> stacks on the boss, dealing more damage with less risk.
+Running several of these classes allows you to accumulate more <img class='inline ice-shield'> stacks on the boss with less risk.
 
 Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss.
 
@@ -233,17 +238,21 @@ Several skills are especially suited to Dhuum CM and should be run if possible:
 - <img class='inline sand-swell'> [Sand Swell] and <img class='inline portal'> [Portal Entre] can provide useful mobility in various situations.
 - <img class='inline mass-invis'> [Mass Invisibility] is used to <img class='inline stealth'> [Stealth] the <img class='inline arrow'> and <img class='inline triangle'> reapers when [throne tanking](#throne-tanking).
 
-The overall damage pressure in the fight is not large if bombs are managed safely. For this reason it's viable to run one or more celestial healers.
+Your kiter should be a class with good mobility and capable of giving boons in large bursts or at range. <img class='inline chrono'> [Chronomancer], <img class='inline troubadour'> [Troubadour] and <img class='inline scourge'> [Scourge] are good picks for this reason. <img class='inline druid'> [Druid] can also be played but is harder to maintain good uptime with.
 
-Your kiter should be a class with good mobility and capable of giving boons in large bursts or at range. <img class='inline chrono'> [Chronomancer], <img class='inline troubadour'> [Troubadour] and <img class='inline scourge'> [Scourge] are good picks for this reason. <img class='inline druid'> [Druid] can also be played but is harder to maintain good boons with.
+The overall damage pressure in the fight is not large if bombs are managed correctly. For this reason it's viable to run one or more celestial healers.
+
+Make sure to have sufficient boonstrip for the dip mechanics, and enough ranged CC to free any players caught by the [Echo].
 
 ---
 
 ### Transition from Statues
 
-After [Broken King] dies, only the <img class='inline scrapper'> [Scrapper] should take the <img class='inline jackal'> [Sand Portal] to Death's Landing. They can then give <img class='inline superspeed'> [Superspeed] to <img class=inline src='./desmina.png'> Desmina while she walks up to the reapers.
+After [Broken King] dies, the <img class='inline scrapper'> [Scrapper] should take the <img class='inline jackal'> [Sand Portal] to Death's Landing while the rest of the squad waits behind. They can then give <img class='inline superspeed'> [Superspeed] to <img class=inline src='./desmina.png'> Desmina while she walks up to the reapers.
 
-While the dialogue is occurring, the rest of the group can take the portal through and move ahead, swapping builds and otherwise preparing for the fight. The <img class='inline scrapper'> [Scrapper] stays behind with <img class=inline src='./desmina.png'> Desmina after the dialogue concludes, and once she's in position, they can swap builds and the fight can begin.
+While the dialogue is occurring, the rest of the group can take the portal through and move ahead, swapping builds and otherwise preparing for the fight. The <img class='inline scrapper'> [Scrapper] stays behind with <img class=inline src='./desmina.png'> Desmina after the dialogue concludes, continuing to provide her with <img class='inline superspeed'> [Superspeed].
+
+You should ideally begin the fight the instant <img class=inline src='./desmina.png'> Desmina is in position and interactable.
 
 ---
 
@@ -257,7 +266,7 @@ This is very easy to do with a [marker pack]:
 1. Have one player with a portal position on the marker and look at the second marker on the wall.
 2. This player then opens their portal next to <img class=inline src='./desmina.png'> Desmina.
 3. Everyone should take the portal and *stand still* on the exit.
-4. The kiter talks to Desmina to begin the encounter, then also takes the portal.
+4. The kiter talks to Desmina to begin the encounter, then immediately also takes the portal.
 
 You can move off the portal exit when the [Echo] starts moving towards the group. Mark it with an <img class='inline xmarker'> to make its position visible on the minimap.
 
@@ -272,16 +281,19 @@ This strategy involves tanking Dhuum close to the throne for most of the fight. 
 
 You will have to designate a green 3 player that is not the tank. Tanking itself does not require much healing, and can be done by any player with additional toughness. Green 2 is done by the kite as normal and green 1 by a DPS.
 
-Begin the pre-event as normal. At *7:55* remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline arrow'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
+Begin the pre-event as normal. At *7:55* remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline triangle'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
 
 {: .note}
-This can also be done by another player (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
+Make sure you are far enough from the group that your players do not get <img class='inline stealth'> [Stealth] instead of the reapers.
+
+{: .note}
+This can also be done with other classes (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) by <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
 
 Once Dhuum is about to spawn, the tank should position in front of the throne so that the boss swivels around to hit them after walking out. 
 
 <img class="center bordered" width='80%' src='./dhuum/dhuum_1.webp'>
 
-Before the small dip at *7:05*, the squad should walk forward into the tank. This forces the dangerous AoE to spawn close to the throne, where it is out of the way for the rest of the fight.
+Before the small dip at *7:07*, the squad should walk forward into the tank. This forces the dangerous AoE to spawn close to the throne, where it is out of the way for the rest of the fight. Wait for him to swipe his scythe at *7:10*, then walk in.
 
 <img class="center bordered" width='80%' src='./dhuum/dhuum_2.webp'>
 
@@ -302,15 +314,16 @@ From this position you can easily access the greens on <img class='inline circle
 
 <img class="center bordered" width='80%' src='./dhuum/dhuum_7.webp'>
 
-Play the rest of the encounter normally.
+Play the rest of the encounter normally. With good damage, you should phase shortly.
 
 ---
 
 ### Additional Tips
 - Use <img class='inline sand-swell'> [Sand Swell] to port players out of the group when they get <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f0/Arcing_Affliction.png/30px-Arcing_Affliction.png'> [Arcing Affliction](https://wiki.guildwars2.com/wiki/Arcing_Affliction_(effect)).
 - Use <img class='inline rifle-portal'> [Dimensional Aperture](https://wiki.guildwars2.com/wiki/Dimensional_Aperture) and <img class='inline portal'> [Portal Entre] to port returning players from greens.
-- Explode <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f0/Arcing_Affliction.png/30px-Arcing_Affliction.png'> [Arcing Affliction](https://wiki.guildwars2.com/wiki/Arcing_Affliction_(effect)) at *6:35* on the timer to overlap a last bomb with the big dip. The dip will remove the bomb effect, making the run much safer.
+- Explode <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f0/Arcing_Affliction.png/30px-Arcing_Affliction.png'> [Arcing Affliction](https://wiki.guildwars2.com/wiki/Arcing_Affliction_(effect)) at *6:35* on the timer to overlap a bomb with the big dip. The dip will remove the bomb effect, making the run much safer.
 - Green players are responsible for clearing the <img class='inline star'> reaper from deathlings, especially when doing greens on <img class='inline square'>  and <img class='inline triangle'>.
+- Use <img class='inline sand-swell'> [Sand Swell]  or <img class='inline portal'> [Portal Entre] during the big dip to port out players getting sucked into the boss. When you open a portal, check the location and direction of the [Echo] and communicate whether it is safe to take.  
 
 ---
 
@@ -374,6 +387,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
 [Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
 [Mass Invisibility]: https://wiki.guildwars2.com/wiki/Mass_Invisibility
+[Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 
 <!-- Links to buffs and debuffs -->
 [Superspeed]: https://wiki.guildwars2.com/wiki/Superspeed

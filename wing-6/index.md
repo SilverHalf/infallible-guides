@@ -98,6 +98,9 @@ The timing can be quite tricky to perform correctly in the middle of a run, as y
 {: .note}
 This can be practiced easily in a solo instance by killing a [Conjured Greatsword] from the first smash and using it on the second one.
 
+{: .note}
+With <img class='inline quickness'> [Quickness], this trick becomes much more difficult to perform. This is due to <img class='inline ca-swords'> [Conjured Slash]'s cast time becoming similar to the time it takes for <img class='inline sword-power'> [Greatsword Power] to be stripped.
+
 ---
 
 ### Strategy
@@ -155,6 +158,9 @@ If no players are present on one of the platforms of the second arm before killi
 
 If the boss is still alive after the second arm dies, then and only then should you hit it directly.
 
+{: .note}
+Remember that each time one of the arms dies, the boss loses 10% of its maximum HP!
+
 ---
 
 ## Sorting and Appraisal
@@ -208,6 +214,21 @@ This boss is played with the standard PUG strat. It's convenient to run two heal
 <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/29/Offensive_Protocol-_Obliterate.png/50px-Offensive_Protocol-_Obliterate.png'> [Offensive Protocol: Obliterate](https://wiki.guildwars2.com/wiki/Offensive_Protocol:_Obliterate) is less effective for the <img class='inline defiance'> [Defiance Bar] as the bosses regenerate [Barrier] while it is up.
 
 Ideally you want to kill both bosses at the same time. However, the subgroup on [Nikare] will often deal less damage overall due to the boss's movement, so it's convenient to have a player from the other subgroup join them on the last platform. This transfer can happen as early as when the [Nikare] group reaches the platform, or as late as after the <img class='inline defiance'> [Defiance Bar], depending on the disparity between the two groups.
+
+---
+
+### Starting Early
+
+It is possible to start the boss earlier than normal in a couple of ways. These usually require players to */gg*, so they are not applicable to infallible runs.
+- Once the bosses spawn on the platform, while the dialogue is still ongoing you can hit them with a <img class='inline skyscale'> [Skyscale] <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/b7/Fireball_Skyscale.png/72px-Fireball_Skyscale.png'> [Fireball](https://wiki.guildwars2.com/wiki/Fireball_(skyscale)). This will begin the fight early: you should then */gg* and respawn. You can jump on the platform as soon as you see "Engage Qadim's final challenge" pop up.
+- You can start the boss while already on the platform. Trigger the fight, then */gg*. The boss will not respawn immediately, giving you a 15-20 seconds to get ready before starting.
+- The length of the dialogue depends on the players' client language. The dialogue will last as long as the longest duration between all languages used by players in the instance.
+
+| Language | Duration |
+|---|---|
+|French| 54 seconds|
+|English| 1 minute 2 seconds|
+|German| 1 minute 16 seconds|
 
 ---
 
@@ -283,12 +304,12 @@ If you have enough DPS to consistently phase Qadim before he gains his <img clas
 
 ### Additional Tips
 
-- Put both lamp players in a subgroup where the supports can give them good boons at the start of the encounter.
+- Put both lamp players in a subgroup where the supports can give them good boons at the start of the encounter. Alternatively, have them stack with a few boon providers on top of the lamp before taking it down.
 - <img class='inline troubadour'> [Troubadour]'s <img class='inline august-queen'> [Tale of the August Queen](https://wiki.guildwars2.com/wiki/Tale_of_the_August_Queen) is excellent for when <img class='inline aegis'> [Aegis] would otherwise be unreliable, such as at the beginning of the Apocalypse phase when you're getting hit by the reapers.
-- The safest approach to the bouncing orbs is moving to the safe spots on the platform.
+- The safest approach to the bouncing orbs is moving to the unaffected spots on the platform.
 - Have a second <img class='inline portal'> [Portal Entre] (or use <img class='inline mimic'> [Mimic]) for when Qadim teleports during the final burst phase.
 - Your kiter can be a boon provider if you put them in a subgroup with the lamp players and the tank. Make sure the single remaining DPS does not suffer excessively due to the missing boon (example: <img class='inline quickness'> [Quickness](https://wiki.guildwars2.com/wiki/Quickness) kite <img class='inline deadeye'> [Deadeye] with a DPS <img class='inline bladesworn'> [Bladesworn](https://wiki.guildwars2.com/wiki/Bladesworn)).
-- Qadim can be easily solo-healed by your main tank as long as your kite and off-tank are comfortable.
+- Qadim can be solo-healed by your main tank as long as your off-tank is comfortable with their role.
 
 ---
 
@@ -364,6 +385,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Resistance]: https://wiki.guildwars2.com/wiki/Resistance
 [Protection]: https://wiki.guildwars2.com/wiki/Protection
+[Quickness]: https://wiki.guildwars2.com/wiki/Protection
 
 <!-- Links to enemies and enemy skills -->
 [Pyre Guardian]: https://wiki.guildwars2.com/wiki/Pyre_Guardian
