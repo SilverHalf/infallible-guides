@@ -117,7 +117,7 @@ A <img class='inline mesmer'> [Mesmer] will start preparing the transition into 
 
 <details>
 <summary><img class='inline youtube'> <img class='inline mesmer'> Portal PoV</summary>
-<iframe class="youtube-video center" width="100%" src="https://www.youtube.com/embed/m803DrvyQuA?si=AFFd0TzH2vKWES1q&end=36&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center" width="100%" src="https://www.youtube.com/embed/m803DrvyQuA&end=36&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ### Splitting
