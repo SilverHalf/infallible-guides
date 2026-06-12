@@ -201,9 +201,10 @@ The main group will only need to fully kill the first two [Ethereal Barriers].
 
 The third barrier will be killed by the solo DPS, with the group joining them towards the end of the encounter. Once the wall is dead, they can take the <img class='inline shadow-portal'> <img class='inline portal'> portal to the [Cemetery].
 
-The fourth will be cleared by the remaining two DPS. These two players need to be especially careful with their positioning: they must stand in a [specific location](./spirit-woods/safe_spot.webp) in order to be within range of the barrier but not trigger any spectral rifts, which would wipe the group.
+The fourth will be cleared by the remaining two DPS, who can then walk to the [Cemetery] once their wall is dead.
 
-These players can then walk to the [Cemetery] once their wall is dead.
+{: .warning}
+These players need to be especially careful with their positioning: they must stand in a [specific location](./spirit-woods/safe_spot.webp) in order to be within range of the barrier but not trigger any spectral rifts.
 
 </div>
 
