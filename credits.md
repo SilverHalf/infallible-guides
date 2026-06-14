@@ -15,9 +15,12 @@ nav_order: 11
 
 ##### Additional Resource By Wing
 
+- [Wing 1 - Spirit Vale](./wing-1/index.html#additional-resources)
 - [Wing 2 - Salvation Pass](./wing-2/index.html#additional-resources)
 - [Wing 3 - Stronghold of the Faithful](./wing-3/index.html#additional-resources)
 - [Wing 4 - Bastion of the Penitent](./wing-4/index.html#additional-resources)
+- [Wing 5 - Hall of Chains](./wing-5/index.html#additional-resources)
+- [Wing 6 - Mythwright Gambit](./wing-6/index.html#additional-resources)
 
 ---
 
