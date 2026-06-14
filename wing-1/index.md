@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Spirit Vale is a very transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important to save time. The timer for this wing is relatively difficult, but can be made much easier with out-of-bounds skips.
+Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important to save time. The timer for this wing is difficult, but can be made much easier with out-of-bounds skips.
 
 ---
 
@@ -34,7 +34,7 @@ Spirit Vale is a very transition-heavy wing, with relatively little time spent i
 - [Vale Guardian] and [Gorseval] have similar strategies, aiming to keep the boss in the center of the arena and kill all adds in the split phases simultaneously.
 - [Spirit Woods] can be heavily optimized using portals and skips.
 - Several transitions in and out of bosses are similarly optimized.
-- On [Sabetha], it can be worthwhile to ignore one or more cannons based on your healing output and overall leeway on the timer.
+- On [Sabetha], it can be worthwhile to ignore cannons based on your healing output, confidence and overall leeway on the timer.
 
 ---
 
@@ -47,15 +47,22 @@ Spirit Vale compositions bring several classes focused on group mobility and por
 
 Groups will sometimes run an additional <img class='inline thief'> [Thief] or <img class='inline mesmer'> [Mesmer] for out-of-bounds skips, with <img class='inline thief'> [Thief] being the easier of the two to execute.
 
-Solo-healing is viable on all three bosses, with [Vale Guardian] being the most difficult to pull off due to [Distributed Magic], but also the one with less risk involved being the first boss in the wing.
+Solo-healing is viable on all three bosses, with [Vale Guardian] being the most difficult to pull off due to [Distributed Magic], but also the one with less risk involved being the first boss in the wing. This can be made easier by bringing classes with strong passive healing, like <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist].
 
-Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) or <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the south-east of the boss arena.
+Common choices for healers include:
+- <img class='inline troubadour'> [Troubadour] for role compression with the <img class='inline mesmer'> [Mesmer] slot.
+- <img class='inline tempest'> [Tempest] for excellent [Seeker] control on [Vale Guardian], commonly swapping to <img class='inline catalyst'> [Catalyst] for the other bosses.
+- <img class='inline druid'> [Druid] is a traditional pick that is still valid due to its excellent healing output and utility.
+
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) or <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
+
+DPS should ideally bring <img class='inline power'> Power builds with good burst and cleave. 
 
 ---
 
 ## Vale Guardian
 
-The strategy for this boos differs from the standard PUG strat on two fundamental points:
+The strategy for this boss differs from the standard PUG strat on two fundamental points:
 - [Center tanking](#center-tanking) to minimize boss movement.
 - Optimized [split phases](#three-way-split) to kill all three guardians at the same time.
 
@@ -323,6 +330,8 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline willbender'> <img class='inline luminary'> DPS, BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ZAXX-qu2Qrs) | April 2026 | Champion room skip |
 | <img class='inline tempest'> <img class='inline catalyst'> Heal, BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=RhK7Q4_obR0)| February 2026 | Solo-Heal on VG, Champion room skip only |
 
+---
+
 #### Other Useful Links
 
 - [<img class='inline youtube'> <img class='inline thief'> Thief Jumping Puzzle](https://www.youtube.com/watch?v=JBfJQnLqe8Q) - showcase of the [Spirit Race] out-of-bounds skip with thief.
@@ -354,6 +363,9 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Firebrand]: https://wiki.guildwars2.com/wiki/Firebrand
 [Ritualist]: https://wiki.guildwars2.com/wiki/Ritualist
 [Luminary]: https://wiki.guildwars2.com/wiki/Luminary
+[Tempest]: https://wiki.guildwars2.com/wiki/Tempest
+[Catalyst]: https://wiki.guildwars2.com/wiki/Catalyst
+[Druid]: https://wiki.guildwars2.com/wiki/Druid
 
 <!-- Links to skills -->
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
@@ -370,6 +382,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Stealth]: https://wiki.guildwars2.com/wiki/Stealth
 [Aegis]: https://wiki.guildwars2.com/wiki/Aegis
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
+[Immobilize]: https://wiki.guildwars2.com/wiki/Immobile
 
 <!-- Links to enemies and enemy skills -->
 [Seeker]: https://wiki.guildwars2.com/wiki/Seeker
