@@ -260,7 +260,7 @@ You should ideally begin the fight the instant <img class=inline src='./desmina.
 
 It is possible to start the encounter in such a way that the [Echo] gets stuck next to the entrance. It will then remain stuck until its position is reset at the first big dip, letting you do optimal DPS for the first phases.
 
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y?si=VPnjiq1YvE_kZ3Yo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is very easy to do with a [marker pack]:
 1. Have one player with a portal position on the marker and look at the second marker on the wall.
@@ -343,7 +343,8 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 
 #### Other Useful Links
 
-- <img class='inline youtube'> [Heal Chronomancer Kiting with MI and Portal by HasKha](https://youtu.be/_Yz4PQx_8Bc?si=QGtkPpYT99ndMeZz&t=2880) - while NM, this showcases the process overall.
+- <img class='inline youtube'> [River and Eyes Portals by xBourne](https://www.youtube.com/watch?v=di49FJcxntA) - good visualization of <img class='inline mesmer'> [Mesmer] <img class='inline portal'> [Portals] for these encounters.
+- <img class='inline youtube'> [Heal Chronomancer Kiting with MI and Portal by HasKha](https://youtu.be/_Yz4PQx_8Bc&t=2880) - while NM, this showcases the process overall.
 - <img class='inline youtube'> [Throne Tanking Dhuum by Christine](https://www.youtube.com/watch?v=ceu2O8u3xOg) - while relatively old, the positioning in this run is still relevant.
 - <img class='inline youtube'> [Getting the Echo Stuck](https://www.youtube.com/watch?v=bBYPfelUe2Y) - shows how to bug out the Echo at the beginning of Dhuum.
 

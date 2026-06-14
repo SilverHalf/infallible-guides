@@ -198,12 +198,12 @@ After taking the portal, the <img class='inline thief'> [Thief] can skip the cav
 
 <details>
 <summary><img class='inline youtube'> <img class='inline daredevil'> Cave Skip PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/X-DcF0dq8wo?si=9gdMxveUEvibrHT5" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/X-DcF0dq8wo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary><img class='inline youtube'> <img class='inline daredevil'> Cave Skip Done Fast PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/6gZU__b0SLY?si=wtZKTjmSoVSgs4OK&start=14&end=34&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/6gZU__b0SLY&start=14&end=34&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 The most difficult part of performing this skip is targeting the enemies inside the cave. This is best done by enabling autotargeting or using the "Lock Autotarget" keybind. Both use the maximum range on your weapon skills, so equipping a rifle will let you reach the adds from the top of the wall, speeding up the sequence overall.
@@ -219,7 +219,7 @@ In the meanwhile, the ground group can start bringing <img class='inline glenna'
 
 <details>
 <summary><img class='inline youtube'> <img class='inline luminary'> Ground Healer PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/VtPpq-VKPr8?si=u1axwHJ1NXqHb4AO&start=23&end=39&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/VtPpq-VKPr8&start=23&end=39&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ---
@@ -531,7 +531,7 @@ Many of the skips described in this guide can be practiced solo:
 - <img class='inline youtube'> [Twisted Castle Speedrun Explanation by Areki](https://www.youtube.com/watch?v=jvyYtfpv7Gc) - long explanation of the standard TC speedrun strategy.
 - <img class='inline youtube'> [1:54 Escort by [MCA]](https://www.youtube.com/watch?v=HatDI1eO2wU) - while more than most groups will need, this the peak of Escort gameplay. The video description contains more PoVs of the run. 
 - <img class='inline youtube'> [0:37 Twisted Castle by [Vs]](https://www.youtube.com/watch?v=KCFNzOBdipw) - showcases great execution of a fast clear. The video description contains more PoVs of the run.
-- <img class='inline youtube'> [Fast Orbs on Xera by HasHka](https://youtu.be/z-OFa6RVtYY?si=Dm2pYYO5W6-WRXXU) - shows some ways of doing fast island clears on Xera.
+- <img class='inline youtube'> [Fast Orbs on Xera by HasHka](https://youtu.be/z-OFa6RVtYY) - shows some ways of doing fast island clears on Xera.
 
 
 
