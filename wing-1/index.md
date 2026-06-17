@@ -73,8 +73,11 @@ The strategy for this boss differs from the standard PUG strat on two fundamenta
 You should have at least three <img class='inline condition'> Condition players to kill the [Red Guardian]. These should bring classes with fast ramp-up and burst, such as <img class='inline condition'> <img class='inline willbender'> [Willbender] or <img class='inline condition'> <img class='inline firebrand'> [Firebrand].
 
 Make sure you have some form of [Seeker] control. The most common utilities for this purpose are:
-- <img class='inline curtain'> [Temporal Curtain] to pull them together (far from the group obviously).
-- <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/67/Entangle.png/72px-Entangle.png'> [Entangle](https://wiki.guildwars2.com/wiki/Entangle) or <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/42/%22Aftershock%21%22.png/72px-%22Aftershock%21%22.png'> [Aftershock!](https://wiki.guildwars2.com/wiki/%22Aftershock!%22) for <img class='inline immobile'> [Immobilize].
+- <img class='inline mesmer'> [Mesmer]: <img class='inline curtain'> [Temporal Curtain] to pull them together (far from the group obviously)
+- <img class='inline ranger'> [Ranger]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/67/Entangle.png/72px-Entangle.png'> [Entangle](https://wiki.guildwars2.com/wiki/Entangle)
+- <img class='inline tempest'> [Tempest]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/42/%22Aftershock%21%22.png/72px-%22Aftershock%21%22.png'> [Aftershock!](https://wiki.guildwars2.com/wiki/%22Aftershock!%22)
+- <img class='inline guardian'> [Guardian]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/wiki/Shield_of_Absorption) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/59/Line_of_Warding.png/50px-Line_of_Warding.png'> [Line of Warding](https://wiki.guildwars2.com/wiki/Line_of_Warding)
+- Any class with [Shouts](https://wiki.guildwars2.com/wiki/Shout) can bring <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/57/Relic_of_the_Reaper.png/60px-Relic_of_the_Reaper.png'> [Relic of the Reaper](https://wiki.guildwars2.com/wiki/Relic_of_the_Reaper)
 
 ---
 
@@ -366,6 +369,8 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Tempest]: https://wiki.guildwars2.com/wiki/Tempest
 [Catalyst]: https://wiki.guildwars2.com/wiki/Catalyst
 [Druid]: https://wiki.guildwars2.com/wiki/Druid
+[Ranger]: https://wiki.guildwars2.com/wiki/Ranger
+[Guardian]: https://wiki.guildwars2.com/wiki/Guardian
 
 <!-- Links to skills -->
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
