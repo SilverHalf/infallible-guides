@@ -53,13 +53,14 @@ Apart from this requirement, groups are usually free to run whatever they want t
 
 #### [Adina]
 {: .no_toc}
+- Damage pressure is low enough to run a single celestial healer.
 - Ensure you have as many sources of projectile reflection as possible.
 - Classes that can hit multiple hands at once, such as <img class='inline bladesworn'> [Bladesworn], can greatly speed up the split phases.
 - Classes with some ranged damage or that do not mind not hitting the boss for a few seconds are commonly used for baiting pillars.
 
 #### [Sabir]
 {: .no_toc}
-- Bring abundant crowd control for the <img class='inline defiance'> [Defiance Bar]. <img class='inline thief'> [Thief] is commonly brought due to <img class='inline distracting-throw'> [Distracting Throw].
+- Bring abundant crowd control for the <img class='inline defiance'> [Defiance Bar]. <img class='inline thief'> [Thief] is commonly played due to <img class='inline distracting-throw'> [Distracting Throw].
 - Bring multiple portals to speed up movement between platforms.
 - Projectile reflection or nullification is extremely useful for the final phase.
 - Skills that grant group invulnerability or damage prevention let you tank the shockwave, greatly increasing DPS on the boss. These include <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon].
@@ -190,6 +191,26 @@ This saves a lot of time, as you skip all the dialogue that occurs in the [Leyst
 
 ## Cardinal Adina
 
+Adina is a bursty boss with four relatively short phases. Most time gained here comes from optimized split phases and from having enough DPS to skip certain mechanics.
+
+---
+
+### Stacking Pillars
+
+This is when the group aims to phase the boss before [Boulder Barrage], removing the need for moving out and hiding behind pillars. When doing this, the five players baiting the pillars will usually stack in one spot, spawning one single pillar.
+
+Note that, contrary to common belief, this does not directly increase DPS on the boss, as <img class=inline src="https://wiki.guildwars2.com/images/thumb/d/d9/Captain%27s_Inspiration.png/30px-Captain%27s_Inspiration.png"> [Pillar Pandemonium](https://wiki.guildwars2.com/wiki/Pillar_Pandemonium) is only applied by damaged pillars. Instead, stacking has the benefit that baiting players can more easily share boons and support while far from the boss. For this reason, it's best if these players are all part of the same subgroup.
+
+---
+
+### Split Phases
+
+Optimized split phases aim to kill all hands simultaneously. Squads will usually split into two subgroups, with one going north and the other going south. The subgroups can then split again into groups of 2 or 3 players, with each group focusing a hand.
+
+Usually it's best to send the subgroup containing the tank to the south, so that they are in position when the split phase ends.
+
+Any specializations who can damage both hands simultaneously, such as <img class='inline bladesworn'> [Bladesworn] and <img class='inline power'> <img class='inline virtuoso'> [Virtuoso], are very high value. Healers or boon supports can similarly stand between the two hands to help both groups.
+
 ---
 
 ## Cardinal Sabir
@@ -229,6 +250,7 @@ This saves a lot of time, as you skip all the dialogue that occurs in the [Leyst
 [Champion Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
 [Djinns]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
 [Champion Branded Djinns]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
+[Boulder Barrage]: https://wiki.guildwars2.com/wiki/Boulder_Barrage
 
 <!-- Other -->
 [Leystone Axis]: https://wiki.guildwars2.com/wiki/Leystone_Axis
