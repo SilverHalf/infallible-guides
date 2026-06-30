@@ -24,18 +24,52 @@ parent: Guides
 </div>
 </details>
 
-The Key of Ahdashim is a balanced mix of bosses, events and transitions. Being one of the more dialogue-heavy wings in the game, fast clears consistently use out-of-bounds skips to make the timer more manageable.
+The Key of Ahdashim is a balanced wing, with mix of bosses, events and transitions. As one of the more dialogue-heavy wings in the game, fast clears consistently use out-of-bounds skips to make the timer more manageable.
 
 ---
 
 #### Main Points
 {: .no_toc}
 
-- Several out-of-bounds skips are used to trigger dialogue early.
+- Several out-of-bounds skips are used to skip dialogue.
 - [Gate] is usually done twice, resetting the first pull to skip the initial dialogue.
-- [Adina] is played assuming that players can skip pillars.
+- [Adina] is played assuming that players can skip pillars, and splitting the group to kill all hands simultaneously in the split phases.
 - [Sabir] optimization revolves around portals for the platform transitions and group invulnerability to skip certain mechanics.
-- [Qadim] can be made much faster through efficient tether management.
+- [Qadim] can be made much faster through efficient tether management and boon strips.
+
+---
+
+## Composition
+
+Compositions for the Key of Ahdashim usually run at least one <img class='inline mesmer'> [Mesmer] is required for portals. Having two, or a <img class='inline mesmer'> [Mesmer] and a <img class='inline mesmer'> [Thief], opens up even more options.
+
+Apart from this requirement, groups are usually free to run whatever they want to maximize their damage output and utility. Some general tips:
+
+#### [Gate]
+{: .no_toc}
+- Bring classes with high <img class='inline power'> power burst and cleave.
+- <img class='inline pull'> Pulls can make killing groups of adds much faster.
+- <img class='inline knockback'> Knockbacks can remove adds from rifts and make capturing faster.
+
+#### [Adina]
+{: .no_toc}
+- Ensure you have as many sources of projectile reflection as possible.
+- Classes that can hit multiple hands at once, such as <img class='inline bladesworn'> [Bladesworn], can greatly speed up the split phases.
+- Classes with some ranged damage or that do not mind not hitting the boss for a few seconds are commonly used for baiting pillars.
+
+#### [Sabir]
+{: .no_toc}
+- Bring abundant crowd control for the <img class='inline defiance'> [Defiance Bar]. <img class='inline thief'> [Thief] is commonly brought due to <img class='inline distracting-throw'> [Distracting Throw].
+- Bring multiple portals to speed up movement between platforms.
+- Projectile reflection or nullification is extremely useful for the final phase.
+- Skills that grant group invulnerability or damage prevention let you tank the shockwave, greatly increasing DPS on the boss. These include <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon].
+
+#### [Qadim]
+{: .no_toc}
+- <img class='inline deadeye'> [Deadeye] is by far the best pylon class, bringing the highest damage, sustain and utility at the cost of being relatively hard to play.
+- <img class='inline scourge'> [Scourge] is another common pylon pick, as it is tanky, easy to play and can provide <img class='inline alacrity'> [Alacrity] while kiting.
+- DPS classes with some ranged damage can be useful when optimizing good tethers.
+- Bring abundant boonstrips for the final phase.
 
 ---
 
@@ -146,11 +180,11 @@ This saves a lot of time, as you skip all the dialogue that occurs in the [Leyst
 
 <details>
 <summary><img class='inline youtube'> <img class='inline chrono'> OOB Skip PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/ZeF_aE34Ntk?start=11&end=118" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/ZeF_aE34Ntk?start=11&end=117" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 {: .note}
-[Marker packs] can show you the path to take during the skip for an easier overall experience.
+[Marker packs] can show you the path to take during the skip for an easier overall experience, as shown in the PoV above.
 
 ---
 
@@ -172,11 +206,23 @@ This saves a lot of time, as you skip all the dialogue that occurs in the [Leyst
 [Qadim]: #qadim-the-peerless
 
 <!-- Links to classes and specializations -->
+[Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
+[Thief]: https://wiki.guildwars2.com/wiki/Thief
+[Virtuoso]: https://wiki.guildwars2.com/wiki/Virtuoso
+[Bladesworn]: https://wiki.guildwars2.com/wiki/Bladesworn
+[Deadeye]: https://wiki.guildwars2.com/wiki/Deadeye
+[Scourge]: https://wiki.guildwars2.com/wiki/Scourge
 
 <!-- Links to skills -->
 [Bond of Faith]: https://wiki.guildwars2.com/wiki/Bond_of_Faith
+["Rebound!"]: https://wiki.guildwars2.com/wiki/%22Rebound!%22
+["We Will Never Yield!"]: https://wiki.guildwars2.com/wiki/%22We_Will_Never_Yield!%22
+[Tale of the August Queen]: https://wiki.guildwars2.com/wiki/Tale_of_the_August_Queen
+[Xinrae's Weapon]: https://wiki.guildwars2.com/wiki/Xinrae's_Weapon
+[Distracting Throw]: https://wiki.guildwars2.com/wiki/Distracting_Throw
 
 <!-- Links to buffs and debuffs -->
+[Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
 
 <!-- Links to enemies and enemy skills -->
 [Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
@@ -189,3 +235,4 @@ This saves a lot of time, as you skip all the dialogue that occurs in the [Leyst
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 [Key]: https://wiki.guildwars2.com/wiki/Key_of_Ahdashim
 [Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
+[Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
