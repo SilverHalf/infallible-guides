@@ -76,11 +76,10 @@ Apart from this requirement, groups are usually free to run whatever they want t
 
 ## Gate
 
-Gate is a relatively long encounter that is optimized in four main ways:
+Gate is a relatively long encounter that is optimized in three main ways:
 - An initial dialogue skip
 - Fast captures by distracting the [Champion Branded Djinns]
 - Stacking [Djinns] to kill them faster in the final phase.
-- An out-of-bounds break to skip the dialogue in the [Leystone Axis] after the encounter ends.
 
 ---
 
@@ -171,16 +170,16 @@ At this point the encounter will be over, and you can either head into the [Leys
 
 ---
 
-### Out-of-Bounds Skip
+## Transition to Adina
 
-This skip involves using the <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-faith'> [Bond of Faith] to break out of bounds and get to the location of [Adina]'s pre-event while Gate is still ongoing. You can then place a <img class='inline portal'> <img class='inline shadow-portal'> portal down and retrace your steps to the gate, portaling the group over once the event ends.
+This transition is often done with an out-of-bounds skip. The <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-faith'> [Bond of Faith] enable a player to get to the [Basalt Arena] while [Gate] is still ongoing, place a <img class='inline portal'> <img class='inline shadow-portal'> portal down and retrace their steps back to [Gate], portaling everyone over once the event ends.
 
 <img class='center bordered' width='60%' src='./gate/oob-skip.webp'>
 
-This saves a lot of time, as you skip all the dialogue that occurs in the [Leystone Axis] before the door to [Adina] and [Sabir] are opened. While this time is not strictly necessary to clear the wing, it makes it significantly easier overall.
+This saves a lot of time, as otherwise you would have to sit through all the dialogue in the [Leystone Axis] before the doors to [Adina] and [Sabir] are opened. While this is not strictly necessary to meet the timer, it makes it significantly easier overall.
 
 <details>
-<summary><img class='inline youtube'> <img class='inline chrono'> OOB Skip PoV</summary>
+<summary><img class='inline youtube'> <img class='inline chrono'> Skip PoV</summary>
 <iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/ZeF_aE34Ntk?start=11&end=117" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
@@ -215,24 +214,24 @@ Any specializations who can damage both hands simultaneously, such as <img class
 
 ---
 
+## Transition to Sabir & Preventing Crashes
+
+Groups who do [Adina] first (as recommended by this guide) will want to quickly transition to [Sabir] immediately after. The fastest way to do this is by using the [ley rift] from the [Basalt Arena] to the [Leystone Axis], and then clearing Sabir's pre-event.
+
+This runs into some persistent technical issues as the Key of Ahdashim is notorious for its crashes triggered upon taking the ley rifts. These can be mitigated in some ways:
+- Lowering shader settings in graphics has been reported to solve crashes for some.
+- Only taking ley rifts 2-3 players at a time greatly reduces the frequency of crashes.
+
+If your team is suffering from frequent crashes, consider not using any ley rifts in this wing.
+
+---
+
 ## Cardinal Sabir
 
 Fast Sabir clears are dependant on three important factors:
 - Fast split phases taking advantage of portals.
 - Proper <img class='inline defiance'> [Defiance Bar] and spread management.
 - Use of group invulnerability or damage prevention skills to ignore the [Unbridled Tempest] shockwave (and potentially [Fury of the Storm]).
-
----
-
-### Transition from Adina & Preventing Crashes
-
-Groups who do Adina first (as recommended by this guide) will want to quickly transition to Sabir immediately after. The fastest way to do this is by using the [ley rift] from Adina to the [Leystone Axis], and then clearing Sabir's pre-event.
-
-This wing is notorious for its crashes triggered upon taking the ley rifts. These can be mitigated in some ways:
-- Lowering shader settings in graphics has been reported to solve crashes for some.
-- Only taking ley rifts 2-3 players at a time greatly reduces the frequency of crashes.
-
-If your team is suffering from frequent crashes, consider not using any ley rifts in this wing.
 
 ---
 
@@ -355,11 +354,57 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 
 ---
 
-## Qadim the Peerless
+## Transition to Qadim
+
+Between killing [Sabir] (or [Adina] if you did Sabir first) and gaining access to the [Sovereign's Stadium], the squad will have to sit through some extremely long dialogue between [Glenna] and the [Key]. Skipping this dialogue is not strictly necessary to clear the timer, but it will make it a lot easier overall. Players have devised three main ways to do this.
 
 ---
 
-### Transition from the Cardinals
+### Direct Dialogue Skip
+
+This skip is the simplest to execute, but is not suited for Infallible runs. It involves sending a single player over to the [Leystone Axis] to trigger the dialogue; when the [Key] then uses the line *"(yells)"*, this player will immediately `/gg` to skip the rest and immediately trigger the animation opening the [Sovereign's Stadium]. The rest of the squad can then use the [ley rift] to the [Leystone Axis] and run in.
+
+If you really need more time, Infallible groups can still use this skip by having the triggering player leave the instance instead of `/gg`. This player will lose their achievement eligibility, but the rest of the squad won't.
+
+---
+
+### Jackal Skip
+
+This skip is difficult to execute, but can be attempted by all players simultaneously, increasing the likelihood of success. It involves using <img class='inline bond-faith'> [Bond of Faith] during <img class='inline jackal'> [Jackal] <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) to launch forward at incredible speed.
+
+When performed with the correct timing in front of the gate to the [Sovereign's Stadium], this can glitch one or more players through the barrier. They can then position next to the gate with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Siege_Turtle_%28map_icon%29.png/30px-Siege_Turtle_%28map_icon%29.png'> [Siege Turtle](https://wiki.guildwars2.com/wiki/Siege_Turtle), allowing the rest of the players through by having them mount up and dismount on the other side.
+
+Most Infallible groups will not use this skip unless there are multiple players capable of reliably performing the <img class='inline jackal'> [Jackal] <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) glitch, as you run the risk of remaining high and dry just before the final boss of the wing.
+
+---
+
+### Out-of-Bounds Skip
+
+This is the skip used by most Infallible groups, as it can reliably provide a portal from the [Leystone Axis] to the [Sovereign's Stadium] while at the same time not requiring most of the squad to take a [ley rift], reducing the chance of crashes.
+
+<img class='center bordered' width="70%" src="./qadim/oob-skip.webp">
+
+It requires a <img class='inline mesmer'> [Mesmer] to break out of bounds using the <img class='inline skyscale'> [Skyscale], then transitioning to other mounts to quickly get into the final arena. Meanwhile the rest of the squad can get to the [Leystone Axis] using mounts, swap builds and food, and take the portal once provided.
+
+<details>
+<summary><img class='inline youtube'> <img class='inline chrono'> Skip PoV</summary>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/ZeF_aE34Ntk?start=119" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+{: .note}
+[Marker packs] can show you the path to take during the skip for an easier overall experience, as shown in the PoV above.
+
+---
+
+## Qadim the Peerless
+
+Qadim is a relatively difficult boss with a lot of interesting mechanics from an optimization point of view. Fast kills of this boss require:
+- Optimized fire drops to simplify killing [Anomalies].
+- Optimized "good tethers" and "bad tethers" to massively increase overall DPS.
+
+---
+
+### Optimized Fires
 
 ### Optimized Good Tethers
 
@@ -411,11 +456,16 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 [Boulder Barrage]: https://wiki.guildwars2.com/wiki/Boulder_Barrage
 [Unbridled Tempest]: https://wiki.guildwars2.com/wiki/Unbridled_Tempest
 [Fury of the Storm]: https://wiki.guildwars2.com/wiki/Fury_of_the_Storm
+[Anomaly]: https://wiki.guildwars2.com/wiki/Entropic_Distortion
+[Anomalies]: https://wiki.guildwars2.com/wiki/Entropic_Distortion
 
 <!-- Other -->
 [Leystone Axis]: https://wiki.guildwars2.com/wiki/Leystone_Axis
+[Basalt Arena]: https://wiki.guildwars2.com/wiki/Basalt_Arena
+[Sovereign's Stadium]: https://wiki.guildwars2.com/wiki/Sovereign%27s_Stadium
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 [Key]: https://wiki.guildwars2.com/wiki/Key_of_Ahdashim
 [Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
+[Jackal]: https://wiki.guildwars2.com/wiki/Jackal
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
 [ley rift]: https://wiki.guildwars2.com/wiki/Ley_Rift
