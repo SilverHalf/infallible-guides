@@ -530,8 +530,8 @@ To avoid this, avoid collecting orbs until Qadim locks the special action key, c
 
 <!-- Links to buffs and debuffs -->
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
-[Stability] https://wiki.guildwars2.com/wiki/Stability
-[Aegis] https://wiki.guildwars2.com/wiki/Aegis
+[Stability]: https://wiki.guildwars2.com/wiki/Stability
+[Aegis]: https://wiki.guildwars2.com/wiki/Aegis
 
 <!-- Links to enemies and enemy skills -->
 [Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
