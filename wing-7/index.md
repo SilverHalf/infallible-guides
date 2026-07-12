@@ -67,9 +67,11 @@ Apart from this requirement, groups are usually free to run whatever they want t
 
 #### [Qadim]
 {: .no_toc}
+- Most of the boss's damage pressure is applied to the tank, making solo-healing viable.
 - <img class='inline deadeye'> [Deadeye] is by far the best pylon class, bringing high damage, sustain and utility at the cost of being harder to play than its alternatives.
 - <img class='inline scourge'> [Scourge] is another common pylon pick, as it is tanky, easy to play and can provide <img class='inline alacrity'> [Alacrity] while kiting.
-- DPS classes with ranged damage can be useful when optimizing good tethers.
+- DPS or BoonDPS classes with ranged damage can be useful when optimizing good tethers.
+- Assign one player with good (and possibly ranged) CC to [Anomaly] duty.
 - Bring abundant boonstrips for the final phase.
 
 ---
@@ -406,13 +408,93 @@ Qadim is a relatively difficult boss with a lot of interesting mechanics from an
 
 ### Optimized Fires
 
+This strategy aims to cover all possible [Anomaly] paths over the course of the encounter. This makes management much easier, a role that is usually assigned to a healer or boonDPS with abundant CC.
+
+<img class='center' width="70%" src="./qadim/fire-placements.webp">
+
+This requires splitting the squad into four groups with two to three players each (two fires are required to kill an [Anomaly] with a single defiance break). A recommended split can be found below, but feel free to tweak it according to your squad's needs.
+
+<img class='center' width="70%" src="./qadim/fire-groups.webp">
+
+Pylon kiters and the tank will struggle to reach fires that are far from their starting positions. Try to assign their groups keeping this in mind. For example, with the groups from the image above:
+- The *North* pylon and *Tank* are best assigned to group 1.
+- The *West* pylon is best assigned to group 2 or 3.
+- The *East* pylon is best assigned to group 4.
+
+{: .note}
+[Marker packs] can show you the positions to drop fires in.
+
+---
+
 ### Optimized Good Tethers
+
+Pylons will initially tether to a single player (usually their assigned kiter). For each orb on the pylon, an additional tether can be formed, chaining with a currently untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to the boss, increasing the damage it takes by 5%, up to a maximum of 45% additional damage.
+
+To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers* to chain the tethers forward from the kiters. These players will be far from the boss so they should be playing ranged builds. They stand halfway between the group and their pylons from when their pylon catches an orb onwards.
+
+{: .note}
+Optionally, the tank can act as a primary tether for the northern pylon if they have good boon radius. However, they will not be able to form secondary tethers.
+
+<img class='center' width="100%" src="./qadim/good-tethers.webp">
+
+Once the boss reaches 80%, the first set of orbs should have been caught, resulting in six good tethers and a 30% damage increase. Once the boss reaches 60%, the remaining orbs will have been caught, and tethers should automatically form with the players remaining on the boss, a.k.a. *Secondary Tethers*, resulting in up to a 45% DPS increase. This is the most difficult position to maintain stable, but thanks to the additional DPS it is also one of the shorter phases.
+
+Once Qadim starts destroying pylons, good tether mechanics change slightly, as the pylon kiters freed from their duty can act as pseudo primary tethers or transition into [bad tether management](#optimized-bad-tethers) duty.
+
+<img class='center' width="100%" src="./qadim/good-tethers-1.webp">
+
+{: .note}
+While good tether management is a staple of Qadim the Peerless speedrunning, groups attempting Infallible may find that they do not need the additional DPS, more so if they are using out-of-bounds skips. In this case, you may decide to forgo this strategy and simplify your composition by not requiring primary tethers. 
+
+---
 
 ### Optimized Bad Tethers
 
+Players tethering to Qadim will be afflicted by the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability](https://wiki.guildwars2.com/wiki/Vulnerability) and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight, as only the tank can be tethered, but the impact changes once Qadim starts destroying pylons:
+- After 40%, the tether will be able to link to an additional player.
+- After 30%, Qadim will form an additional tether.
+- After 20%, Qadim will form another additional tether and tethers will be able to chain to another additional player.
+
+In the worst case scenario a total of nine players will have a tether, reducing the squad's total DPS output by 20-25% in the final hectic moments of the fight.
+
+To reduce the impact of this mechanic, it is common to assign two players besides the tank as *Bad Tethers*. These will try to capture the bad tethers by keeping their <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) activated, then stack as far as possible from the main group.
+
+Once Qadim destroys the first pylon, the tank should start standing far from the main group in order to not form a tether. Then, once additional pylons are destroyed, the bad tethers can begin stacking with him.
+
+<img class='center' width="70%" src="./qadim/bad-tethers.webp">
+
+{: .warning}
+Once the final tether is destroyed, Qadim will activate and lock all players' <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate). For this reason, it's very important that the tank and the two bad tethers should be the only players inside the center area, with the rest of the squad waiting until the tethers have formed to join in.
+
+---
+
 ### Avoiding Bugs
 
+#### Invisible Roads
+{: .no_toc}
+Qadim's [carpets](https://wiki.guildwars2.com/wiki/Force_of_Havoc) have an associated bug where they will become invisible before the mechanics is over, only becoming visible for their despawn animation. This can lead to unaware players taking a lot of damage, which can be run-ending in a solo-heal situation.
+
+To avoid this bug, the squad should make sure that the carpets only spawn on the north side of the boss, while the squad sticks to the south side: 
+- The tank and bad tether baiters should be the only players with an activated <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) close to the boss before 20%.
+- Once the final pylon is destroyed at 20%, the tank and the two bad tethers should be the only players inside the center area so they can reliably capture the boss's aggro.
+- Players that are not the tank and bad tethers should avoid going into the northern side of the center without paying significant attention.
+
+---
+
+#### Special Action Key
+{: .no_toc}
+During the transition to the last phase at 20%, if all 5 orbs are picked up before Qadim locks the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate), the person targeted by the meteor illusion will be unable to cast <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash), thus leading to a wipe.
+
+To avoid this, avoid collecting orbs until Qadim locks the special action key, corresponding to the second knockback after he re-appears in the center of the arena.
+
+---
+
 ### Additional Tips
+
+- Bring a large amount of boonstrip for the final phase, as Qadim will constantly gain boons, including <img class='inline resolution'> [Resolution](https://wiki.guildwars2.com/wiki/Resolution).
+- Try to equally distribute crowd control between all three pylons.
+- Commonly, two <img class='inline alacrity'> [Alacrity] <img class='inline scourge'> [Scourges] are run as the east and west pylon kiters, as they provide good support and are also excellent bad tether baiters due to being fully ranged.
+- Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
 
 [< Wing 6](../wing-6/){: .btn } [Return to Home](../index.html){: .btn } [Wing 8 >](../wing-8/){: .btn }  [Return to Top](#the-key-of-ahdashim){: .btn .fixed}
 {: .center}
@@ -431,6 +513,7 @@ Qadim is a relatively difficult boss with a lot of interesting mechanics from an
 [Bladesworn]: https://wiki.guildwars2.com/wiki/Bladesworn
 [Deadeye]: https://wiki.guildwars2.com/wiki/Deadeye
 [Scourge]: https://wiki.guildwars2.com/wiki/Scourge
+[Scourges]: https://wiki.guildwars2.com/wiki/Scourge
 
 <!-- Links to skills -->
 [Bond of Faith]: https://wiki.guildwars2.com/wiki/Bond_of_Faith
@@ -447,6 +530,8 @@ Qadim is a relatively difficult boss with a lot of interesting mechanics from an
 
 <!-- Links to buffs and debuffs -->
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
+[Stability] https://wiki.guildwars2.com/wiki/Stability
+[Aegis] https://wiki.guildwars2.com/wiki/Aegis
 
 <!-- Links to enemies and enemy skills -->
 [Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
