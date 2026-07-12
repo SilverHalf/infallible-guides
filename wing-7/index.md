@@ -24,24 +24,24 @@ parent: Guides
 </div>
 </details>
 
-The Key of Ahdashim is a balanced wing, with mix of bosses, events and transitions. As one of the more dialogue-heavy wings in the game, fast clears consistently use out-of-bounds skips to make the timer more manageable.
+The Key of Ahdashim is a balanced raid with a mix of bosses, events and transitions. As one of the more dialogue-heavy wings in the game, fast clears consistently use out-of-bounds skips to make the timer more manageable.
 
 ---
 
 #### Main Points
 {: .no_toc}
 
-- Several out-of-bounds skips are used to skip dialogue.
 - [Gate] is usually done twice, resetting the first pull to skip the initial dialogue.
 - [Adina] is played assuming that players can skip pillars, and splitting the group to kill all hands simultaneously in the split phases.
 - [Sabir] optimization revolves around portals for the platform transitions and group invulnerability to skip certain mechanics.
-- [Qadim] can be made much faster through efficient tether management and boon strips.
+- [Qadim] can be made much faster through efficient tether management, fire positions and boon strips.
+- Several out-of-bounds skips are used between encounters to skip dialogue.
 
 ---
 
 ## Composition
 
-Compositions for the Key of Ahdashim usually run at least one <img class='inline mesmer'> [Mesmer] is required for portals. Having two, or a <img class='inline mesmer'> [Mesmer] and a <img class='inline mesmer'> [Thief], opens up even more options.
+Compositions for the Key of Ahdashim usually run at least one <img class='inline mesmer'> [Mesmer] for portals. Having two, or a <img class='inline mesmer'> [Mesmer] and a <img class='inline thief'> [Thief], opens up even more options.
 
 Apart from this requirement, groups are usually free to run whatever they want to maximize their damage output and utility. Some general tips:
 
@@ -220,7 +220,19 @@ Any specializations who can damage both hands simultaneously, such as <img class
 Fast Sabir clears are dependant on three important factors:
 - Fast split phases taking advantage of portals.
 - Proper <img class='inline defiance'> [Defiance Bar] and spread management.
-- Use of group invulnerability or damage prevention skills to ignore the [Unbridled Tempest] shockwave.
+- Use of group invulnerability or damage prevention skills to ignore the [Unbridled Tempest] shockwave (and potentially [Fury of the Storm]).
+
+---
+
+### Transition from Adina & Preventing Crashes
+
+Groups who do Adina first (as recommended by this guide) will want to quickly transition to Sabir immediately after. The fastest way to do this is by using the [ley rift] from Adina to the [Leystone Axis], and then clearing Sabir's pre-event.
+
+This wing is notorious for its crashes triggered upon taking the ley rifts. These can be mitigated in some ways:
+- Lowering shader settings in graphics has been reported to solve crashes for some.
+- Only taking ley rifts 2-3 players at a time greatly reduces the frequency of crashes.
+
+If your team is suffering from frequent crashes, consider not using any ley rifts in this wing.
 
 ---
 
@@ -228,20 +240,23 @@ Fast Sabir clears are dependant on three important factors:
 
 Sabir's split phases involve killing wisps as you slowly scale the platforms between arenas. However, the only strict requirement to progress the fight is to make it to the next arena; portals can thus be used to move between platforms instead of wisps, which is much faster than what was originally intended in the encounter.
 
-However, this is easier said than done. While portals usually have a maximum range of 5000 units, on Sabir they are limited to 800 vertically (except if they trigger a [loading screen](https://www.youtube.com/watch?v=_kp3C5MmFQ0)). Any portals that are separated by more than this distance will not transfer players: portals therefore must be placed in specific points that stay within this limitation.
+Portals usually have a maximum range of 5000 units. However, on Sabir they are limited to 800 units vertically: anything beyond this range will result in a portal that is visually fine, but not interactable by players. This means that portals must be placed in specific points that stay within this limitation.
+
+{: .note}
+This vertical limitation can be worked around by triggering a loading screen. This happens only if taking the portal would result in over 5000 units of movement, which can be done with extremely precise portal placement combined with interacting with the portals on their edge: [example](https://www.youtube.com/watch?v=_kp3C5MmFQ0).
 
 We can divide the portals between different roles:
 - *Portal 1* is the easiest role to implement, and is sometimes even done in PUGS. This role enables skipping the tornado platforms in the split phases, thus bringing the greatest benefit for the lowest cost. It requires either <img class='inline shadow-portal'> [Shadow Portal] (which may be insufficient in case of extremely high DPS) or <img class='inline portal'> [Portal Entre] in combination with <img class='inline mimic'> [Mimic].
-- *Portal 2* is harder to implement, as it requires some adaptation before the fight begins and during the first split phase. It brings a significant benefit, but not as good as portal 1, and is best done with <img class='inline portal'> [Portal Entre] in combination with <img class='inline mimic'> [Mimic].
-- *Portal 3* and *Portal 4* are relatively easy, as they can be pre-placed during the first split phase and used in the second, and can furthermore be done with <img class='inline sand-swell'> [Sand Swell](https://wiki.guildwars2.com/wiki/Sand_Swell) if necessary. They also bring a smaller advantage compared to *1* and *2*, and can be forgone if the composition requires it.
-
-{: .note}
-As with everything in this guide, these roles are merely suggestions: feel free to mix and match strategies, skills and classes as best fits your group's requirements.
+- *Portal 2* is harder to implement, as it requires some adaptation before the fight begins and during the first split phase. It brings a significant benefit, but not as good as portal 1, and is best done with <img class='inline portal'> [Portal Entre] in combination with <img class='inline mimic'> [Mimic], as the interval between opening the first portal and preparing the second is extremely short.
+- *Portal 3* and *Portal 4* are relatively easy, as they can be pre-placed during the first split phase and used in the second. They can also be done with <img class='inline sand-swell'> [Sand Swell](https://wiki.guildwars2.com/wiki/Sand_Swell) if necessary. They bring a smaller advantage compared to *1* and *2*, and can be forgone if the composition requires it.
 
 Any additional portals lead to diminishing returns, as you are limited by the time Sabir requires to move between arenas.
 
 {: .note}
-Implementing *any* portals introduces a DPS check, as you will have to phase fast enough that they do not run out. The DPS checks for *portals 2, 3 and 4* is much higher than the one for *portal 1* (approximately 60 seconds phase-to-phase).
+As with everything in this guide, these roles are merely suggestions: feel free to mix and match strategies, skills and classes as best fits your group's requirements.
+
+{: .note}
+Implementing *any* portals introduces a DPS check, as you will have to phase fast enough that they do not run out. The DPS checks for *portals 2, 3 and 4* (approximately 60 seconds phase-to-phase) are much higher than the one for *portal 1* (approximately 50 seconds from the defiance bar to the end of the phase).
 
 ---
 
@@ -253,7 +268,7 @@ Implementing *any* portals introduces a DPS check, as you will have to phase fas
 The *Portal 2* player will need to pre-position on the platform shown in the image. As soon as the fight begins, they can prepare their <img class='inline portal'> portal and make their way up the platforms to the main group.
 
 {: .note}
-In *normal mode* there are updrafts that make this faster; in *challenge mode* these are not present and the player will have to run the normal way. Alternatively, you can do [fancy things](https://www.youtube.com/watch?v=4UtiLrGkDs0) using <img class='inline rifle-portal'> [Dimensional Aperture] or other similar skills.
+In *normal mode* there are updrafts that make this faster; in *challenge mode* these are not present and the player will have to run the normal way. Alternatively, you can do [fancy things](https://www.youtube.com/watch?v=4UtiLrGkDs0) using <img class='inline rifle-portal'> [Dimensional Aperture], blinks or other similar skills.
 </div>
 
 <div class='center adapt-width'>
@@ -331,9 +346,31 @@ Optimized groups should bring ways to circumvent this requirement:
 
 Aside from this, DPS players should in general try to hold on to their stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents), unless they are required for CC.
 
+{: .note}
+> [Fury of the Storm] (the shockwave with safe areas) is an attack that is similar to [Unbridled Tempest] and can be resolved in much the same ways:
+> - <img class='inline portal'> [Portals] to and from the safe area to reduce time spent in movement.
+> - Personal and group invulnerability skills to remain on the boss, maintaining DPS uptime.
+> 
+> Since this mechanic does not force you to lose <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents), give priority to [Unbridled Tempest] when deciding where to use resources.
+
 ---
 
 ## Qadim the Peerless
+
+---
+
+### Transition from the Cardinals
+
+### Optimized Good Tethers
+
+### Optimized Bad Tethers
+
+### Avoiding Bugs
+
+### Additional Tips
+
+[< Wing 6](../wing-6/){: .btn } [Return to Home](../index.html){: .btn } [Wing 8 >](../wing-8/){: .btn }  [Return to Top](#the-key-of-ahdashim){: .btn .fixed}
+{: .center}
 
 <!-- Links to other pages in the guide -->
 [marker packs]: ../general.html#marker-packs
@@ -359,6 +396,7 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 [Distracting Throw]: https://wiki.guildwars2.com/wiki/Distracting_Throw
 [Shadow Portal]: https://wiki.guildwars2.com/wiki/Shadow_Portal
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
+[Portals]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Dimensional Aperture]: https://wiki.guildwars2.com/wiki/Dimensional_Aperture
 
@@ -372,6 +410,7 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 [Champion Branded Djinns]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
 [Boulder Barrage]: https://wiki.guildwars2.com/wiki/Boulder_Barrage
 [Unbridled Tempest]: https://wiki.guildwars2.com/wiki/Unbridled_Tempest
+[Fury of the Storm]: https://wiki.guildwars2.com/wiki/Fury_of_the_Storm
 
 <!-- Other -->
 [Leystone Axis]: https://wiki.guildwars2.com/wiki/Leystone_Axis
@@ -379,3 +418,4 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 [Key]: https://wiki.guildwars2.com/wiki/Key_of_Ahdashim
 [Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
+[ley rift]: https://wiki.guildwars2.com/wiki/Ley_Rift
