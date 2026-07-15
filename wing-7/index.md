@@ -237,6 +237,12 @@ Fast Sabir clears are dependant on three important factors:
 
 ---
 
+### Pre-Event
+
+Once you have cleared the wisps inside the [Leystone Axis] and opened your way to the [Fractured Conservatory], to spawn the boss you only need to kill the final wisp just before his arena. Use the <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-vigor'> [Bond of Vigor](https://wiki.guildwars2.com/wiki/Bond_of_Vigor) to get to the last platform, kill it and immediately access the boss.
+
+---
+
 ### Fast Split Phases
 
 Sabir's split phases involve killing wisps as you slowly scale the platforms between arenas. However, the only strict requirement to progress the fight is to make it to the next arena; portals can thus be used to move between platforms instead of wisps, which is much faster than what was originally intended in the encounter.
@@ -284,19 +290,19 @@ The *Portal 1* player can prepare their own portal on the platform immediately u
 #### First Split Phase
 {: .no_toc}
 
-The *Portal 2* will <img class='inline mimic'> [Mimic] and open their portal in the center of the arena, so that you can take it directly to the third platform.
+The *Portal 2* will <img class='inline mimic'> [Mimic] and open their portal in the center of the arena, bringing the squad directly to the third platform.
 
 {: .warning}
 The *Portal 2* player should only open their portal once the platforms have stopped moving, otherwise it will not be able to transfer players.
 
 {: .note}
-If you don't have a portal here, you can use the tornados on the arena floor to boost up and reach the first platform before you would normally be able to.
+If you don't have a portal here, you can use the tornados on the arena floor to boost up and reach the first platform faster.
 
 <img class='center' width='70%' src='./sabir/sabir-2.webp'>
 
 The *Portal 2* player will then need to prepare their portal on the second platform up from the arena. This requires dropping down from the third, preparing the portal, and then getting back up using personal blinks or skills such as <img class='inline rifle-portal'> [Dimensional Aperture] or <img class='inline sand-swell'> [Sand Swell](https://wiki.guildwars2.com/wiki/Sand_Swell).
 
-The *Portal 3* player, if there is one, will prepare their portal on the third platform if they need to. Similarly, the *Portal 4* can prepare their own on the final platform before the one with the tornados. The *Portal 1* player should open their portal (using <img class='inline mimic'> [Mimic] as necessary) on this same platform. You can then kill the final wisp and access the second arena.
+The *Portal 3* player, if there is one, will prepare their portal on the third platform if they need to. Similarly, the *Portal 4* can prepare their own on the fourth platform, just before the one with the tornados. The *Portal 1* player should open their portal (using <img class='inline mimic'> [Mimic] as necessary) on this same platform. You can then kill the final wisp and access the second arena.
 
 The *Portal 1* will then have to pre-place their portal once more during the CC or immediately after. This time it should be prepared at the end of the tornado platform, one down from where they prepared it in the previous phase.
 
@@ -305,7 +311,7 @@ The *Portal 1* will then have to pre-place their portal once more during the CC 
 #### Second Split Phase
 {: .no_toc}
 
-In this split phase you should be able to quickly reach the final arena by chaining portals..
+In this split phase you should be able to quickly reach the final arena by chaining portals.
 
 {: .warning}
 The *Portal 2* player should only open their portal once the platforms have stopped moving, otherwise it will not be able to transfer players.
@@ -341,7 +347,7 @@ Sabir's [Unbridled Tempest] usually requires players to fly up in a tornado to s
 
 Optimized groups should bring ways to circumvent this requirement:
 1. **Movement Skills** - make it possible to teleport over the shockwave, using either personal blinks or portals. This is risky as it requires proper positioning and timing, and is not commonly used in Infallible runs.
-2. **Personal Invulnerability** - can be provided using any skill that would prevent the user from taking lethal damage, including <img class='inline distortion'> [Distortion](https://wiki.guildwars2.com/wiki/Distortion), <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/A.E.D..png/72px-A.E.D..png'> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class=inline src='https://wiki.guildwars2.com/images/thumb/d/db/Defiant_Stance.png/72px-Defiant_Stance.png'> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance) and other similar skill.
+2. **Personal Invulnerability** - any skill that would prevent the user from taking lethal damage, such <img class='inline distortion'> [Distortion](https://wiki.guildwars2.com/wiki/Distortion), <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/A.E.D..png/72px-A.E.D..png'> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class=inline src='https://wiki.guildwars2.com/images/thumb/d/db/Defiant_Stance.png/72px-Defiant_Stance.png'> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), can let a player tank the shockwave.
 3. **Group Invulnerability** - currently only provided by <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon]. This is the safest option, but it requires composition adjustments as you need two sources in each subgroup to fully cover this mechanic.
 4. **Very High DPS** - if you manage to reduce Sabir to below 70% HP before he uses [Unbridled Tempest], he will cancel this attack and instead begin his <img class='inline defiance'> [Defiance Bar]. This is an extreme DPS check that is only really possible in Normal Mode speedruns (for now).
 
@@ -364,7 +370,7 @@ Between killing [Sabir] (or [Adina] if you did Sabir first) and gaining access t
 
 ### Direct Dialogue Skip
 
-This skip is the simplest to execute, but is not suited for Infallible runs. It involves sending a single player over to the [Leystone Axis] to trigger the dialogue; when the [Key] then uses the line *"(yells)"*, this player will immediately `/gg` to skip the rest and immediately trigger the animation opening the [Sovereign's Stadium]. The rest of the squad can then use the [ley rift] to the [Leystone Axis] and run in.
+This skip is the simplest to execute, but is not suited for Infallible runs. It involves sending a single player over to the [Leystone Axis] to trigger the dialogue; when the [Key] then uses the line *"(yells)"*, this player will immediately `/gg` to immediately trigger the animation opening the [Sovereign's Stadium]. The rest of the squad can then use the [ley rift] to the [Leystone Axis] and run in.
 
 If you really need more time, Infallible groups can still use this skip by having the triggering player leave the instance instead of `/gg`. This player will lose their achievement eligibility, but the rest of the squad won't.
 
@@ -386,7 +392,7 @@ This is the skip used by most Infallible groups, as it can reliably provide a po
 
 <img class='center bordered' width="70%" src="./qadim/oob-skip.webp">
 
-It requires a <img class='inline mesmer'> [Mesmer] to break out of bounds using the <img class='inline skyscale'> [Skyscale], then transitioning to other mounts to quickly get into the final arena. Meanwhile the rest of the squad can get to the [Leystone Axis] using mounts, swap builds and food, and take the portal once provided.
+It requires a <img class='inline mesmer'> [Mesmer] to break out of bounds using the <img class='inline skyscale'> [Skyscale], then transition to other mounts to quickly get into the final arena. Meanwhile the rest of the squad can get to the [Leystone Axis] using mounts, swap builds and food, and take a portal.
 
 <details>
 <summary><img class='inline youtube'> <img class='inline chrono'> Skip PoV</summary>
@@ -408,11 +414,11 @@ Qadim is a relatively difficult boss with a lot of interesting mechanics from an
 
 ### Optimized Fires
 
-This strategy aims to cover all possible [Anomaly] paths over the course of the encounter. This makes management much easier, a role that is usually assigned to a healer or boonDPS with abundant CC.
+This strategy aims to cover all possible [Anomaly] paths over the course of the encounter. This allows a healer or boonDPS with abundant CC to reliably kill all of them by breaking their <img class='inline defiance'> [Defiance Bar] once on top of a fire.
 
 <img class='center' width="70%" src="./qadim/fire-placements.webp">
 
-This requires splitting the squad into four groups with two to three players each (two fires are required to kill an [Anomaly] with a single defiance break). A recommended split can be found below, but feel free to tweak it according to your squad's needs.
+Split the squad into four groups with two to three players each (two fires are required to kill an [Anomaly] with a single defiance break). Each of these groups should be assigned two positions to drop fires, one at 80% and the other at 60%. A recommended split can be found below, feel free to tweak it according to your squad's needs.
 
 <img class='center' width="70%" src="./qadim/fire-groups.webp">
 
@@ -422,22 +428,22 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 - The *East* pylon is best assigned to group 4.
 
 {: .note}
-[Marker packs] can show you the positions to drop fires in.
+[Marker packs] can show you positions to drop fires in.
 
 ---
 
 ### Optimized Good Tethers
 
-Pylons will initially tether to a single player (usually their assigned kiter). For each orb on the pylon, an additional tether can be formed, chaining with a currently untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to the boss, increasing the damage it takes by 5%, up to a maximum of 45% additional damage.
+Pylons will initially tether to a single player, usually their assigned kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to the boss, increasing damage dealt to it by 5%, up to a maximum of 45% additional damage.
 
-To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers* to chain the tethers forward from the kiters. These players will be far from the boss so they should be playing ranged builds. They stand halfway between the group and their pylons from when their pylon catches an orb onwards.
+To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers* to link to the kiters. These players, normally on playing ranged builds, begin standing close to their pylons as soon as their kiter catches an orb.
 
 {: .note}
 Optionally, the tank can act as a primary tether for the northern pylon if they have good boon radius. However, they will not be able to form secondary tethers.
 
 <img class='center' width="100%" src="./qadim/good-tethers.webp">
 
-Once the boss reaches 80%, the first set of orbs should have been caught, resulting in six good tethers and a 30% damage increase. Once the boss reaches 60%, the remaining orbs will have been caught, and tethers should automatically form with the players remaining on the boss, a.k.a. *Secondary Tethers*, resulting in up to a 45% DPS increase. This is the most difficult position to maintain stable, but thanks to the additional DPS it is also one of the shorter phases.
+Once the boss reaches 80%, the first set of orbs will have been caught, resulting in six good tethers and a 30% damage increase. Once the boss reaches 60%, the remaining orbs will have been caught, and tethers should automatically form with the players remaining on the boss, a.k.a. *Secondary Tethers*, resulting in up to a 45% DPS increase. This is a difficult position to maintain stable, but thanks to the additional DPS it is also one of the shorter phases.
 
 Once Qadim starts destroying pylons, good tether mechanics change slightly, as the pylon kiters freed from their duty can act as pseudo primary tethers or transition into [bad tether management](#optimized-bad-tethers) duty.
 
@@ -459,12 +465,12 @@ In the worst case scenario a total of nine players will have a tether, reducing 
 
 To reduce the impact of this mechanic, it is common to assign two players besides the tank as *Bad Tethers*. These will try to capture the bad tethers by keeping their <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) activated, then stack as far as possible from the main group.
 
-Once Qadim destroys the first pylon, the tank should start standing far from the main group in order to not form a tether. Then, once additional pylons are destroyed, the bad tethers can begin stacking with him.
+Once Qadim destroys the first pylon, the tank should start standing far from the main group in order to not form an additional tether with the main group. Then, once additional pylons are destroyed, the bad tethers can begin stacking with him.
 
 <img class='center' width="70%" src="./qadim/bad-tethers.webp">
 
 {: .warning}
-Once the final tether is destroyed, Qadim will activate and lock all players' <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate). For this reason, it's very important that the tank and the two bad tethers should be the only players inside the center area, with the rest of the squad waiting until the tethers have formed to join in.
+Once the final tether is destroyed, Qadim will activate and lock all players' <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate). For this reason, it's very important that the tank and the two bad tethers be the only players inside the center area when the boss re-spawns, with the rest of the squad waiting until the tethers have formed to join in.
 
 ---
 
@@ -476,16 +482,16 @@ Qadim's [carpets](https://wiki.guildwars2.com/wiki/Force_of_Havoc) have an assoc
 
 To avoid this bug, the squad should make sure that the carpets only spawn on the north side of the boss, while the squad sticks to the south side: 
 - The tank and bad tether baiters should be the only players with an activated <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) close to the boss before 20%.
-- Once the final pylon is destroyed at 20%, the tank and the two bad tethers should be the only players inside the center area so they can reliably capture the boss's aggro.
-- Players that are not the tank and bad tethers should avoid going into the northern side of the center without paying significant attention.
+- Once the final pylon is destroyed at 20%, the tank and the two bad tethers should be the only players inside the center area so they can reliably capture aggro.
+- Players that are not the tank and bad tethers should avoid going into the northern side of the arena without paying significant attention.
 
 ---
 
 #### Special Action Key
 {: .no_toc}
-During the transition to the last phase at 20%, if all 5 orbs are picked up before Qadim locks the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate), the person targeted by the meteor illusion will be unable to cast <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash), thus leading to a wipe.
+During the transition to the last phase at 20%, if all 5 orbs are picked up before Qadim locks the group's <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate), the person targeted by the meteor illusion will be unable to cast <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash), thus leading to a wipe.
 
-To avoid this, avoid collecting orbs until Qadim locks the special action key, corresponding to the second knockback after he re-appears in the center of the arena.
+This happens because Qadim does not exclude <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash) when locking the special action keys of the rest of the group. To avoid this, begin collecting orbs only after the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) have been locked, which happens simultaneously with the second knockback after he re-spawns in the center of the arena.
 
 ---
 
@@ -495,6 +501,25 @@ To avoid this, avoid collecting orbs until Qadim locks the special action key, c
 - Try to equally distribute crowd control between all three pylons.
 - Commonly, two <img class='inline alacrity'> [Alacrity] <img class='inline scourge'> [Scourges] are run as the east and west pylon kiters, as they provide good support and are also excellent bad tether baiters due to being fully ranged.
 - Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
+
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline troubadour'> <img class='inline chrono'> Heal, Tank | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ht7oiJD5iJY) | April 2026 | Uses OoB skip after Gate, no skip after Sabir. Single portal on Sabir. |
+| <img class='inline antiquary'> <img class='inline deadeye'> DPS, Kiter | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=k0oMzQmF3K8) | May 2026 | No out-of-bounds skips |
+| <img class='inline ritualist'> <img class='inline scourge'> DPS, Kiter | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=wblAmy8likU) | April 2026 | No out-of-bounds skips |
+
+#### Other Useful Links
+
+- <img class='inline build'> <img class='inline deadeye'> [Pylon Deadeye](https://snowcrows.com/builds/raids/thief/kite-deadeye-qtp-rifle-spear) build and [gameplay guide](https://snowcrows.com/guides/builds/kite-deadeye-qadim-the-peerless-gameplay-guide) by Snowcrows.
+- <img class='inline build'> <img class='inline scourge'> [Pylon Scourge](https://snowcrows.com/builds/raids/necromancer/kite-scourge-qadim-the-peerless) build by Snowcrows.
+- <img class='inline youtube'> [Sabir NM in 1:54](https://www.youtube.com/watch?v=8TkzrUygpG4) by My Chaotic Asylum [MCA]: excellent demonstration of portal chaining.
+- <img class='inline youtube'> [Qadim NM in 2:35](https://www.youtube.com/watch?v=mA3UxgVh35Q) by The Hybridosaurus [AVES]: extreme speedrun where they manage to keep the last pylon alive by phasing at specific points. Showcases very good tether management and strategy: [explanation](https://www.reddit.com/r/Guildwars2/comments/1b2dfeh/qadim_the_peerless_record_by_the_hybridosaurus/).
 
 [< Wing 6](../wing-6/){: .btn } [Return to Home](../index.html){: .btn } [Wing 8 >](../wing-8/){: .btn }  [Return to Top](#the-key-of-ahdashim){: .btn .fixed}
 {: .center}
@@ -547,6 +572,7 @@ To avoid this, avoid collecting orbs until Qadim locks the special action key, c
 <!-- Other -->
 [Leystone Axis]: https://wiki.guildwars2.com/wiki/Leystone_Axis
 [Basalt Arena]: https://wiki.guildwars2.com/wiki/Basalt_Arena
+[Fractured Conservatory]: https://wiki.guildwars2.com/wiki/Fractured_Conservatory
 [Sovereign's Stadium]: https://wiki.guildwars2.com/wiki/Sovereign%27s_Stadium
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 [Key]: https://wiki.guildwars2.com/wiki/Key_of_Ahdashim
