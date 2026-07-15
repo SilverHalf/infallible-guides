@@ -11,6 +11,7 @@ nav_order: 11
 - <img class='inline build'> [SnowCrows](https://snowcrows.com/) - the go-to for endgame builds. Also has decent guides for most encounters.
 - [Hardstuck Raid Guides](https://hardstuck.gg/gw2/guides/raids/) - a great selection of guides for wings 1-7.
 - <img class='inline sheets'> [[SWMG] VoD Collection](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno) - an awesome collection of PoVs, logs and kill times for Infallible runs. You can contribute to this project by submitting your own logs [here](https://forms.gle/H8MdyuoBab1dwGhQ9).
+- <img class='inline wingman'> [GW2 Wingman](https://gw2wingman.nevermindcreations.de) - a website and tool that collects logs and statistics for all Guild Wars 2 raid bosses. You can see what classes do best where, view logs from the fastest runs patch-by-patch, and compare your own performance to the top players worldwide.
 - [Mount Balrior Guides](https://silverhalf.github.io/mount-balrior) - in-depth mechanics and strategy analysis for wing 8 challenge modes and Ura legendary mode.
 
 ##### Additional Resource By Wing
@@ -21,6 +22,7 @@ nav_order: 11
 - [Wing 4 - Bastion of the Penitent](./wing-4/index.html#additional-resources)
 - [Wing 5 - Hall of Chains](./wing-5/index.html#additional-resources)
 - [Wing 6 - Mythwright Gambit](./wing-6/index.html#additional-resources)
+- [Wing 7 - The Key of Ahdashim](./wing-7/index.html#additional-resources)
 
 ---
 
