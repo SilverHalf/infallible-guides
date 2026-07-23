@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important to save time. The timer for this wing is difficult, but can be made much easier with out-of-bounds skips.
+Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important, as the timer for this wing is notoriously difficult.
 
 ---
 
@@ -46,6 +46,7 @@ Solo-healing is common on all three bosses, and can be made much easier by suppo
 - <img class='inline troubadour'> [Troubadour] for role compression with the <img class='inline mesmer'> [Mesmer] slot.
 - <img class='inline tempest'> [Tempest] for its excellent [Seeker] control, often swapping to boonDPS <img class='inline catalyst'> [Catalyst] after [Vale Guardian].
 - <img class='inline druid'> [Druid] for its excellent healing output, utility and seeker control, can struggle to provide boons during [Spirit Woods] due to low incoming damage.
+- <img class='inline luminary'> [Luminary] also has incredible healing and good seeker control, and can swap to boonDPS after [Vale Guardian].
 
 Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) or <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
 
@@ -60,7 +61,7 @@ Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/image
     - <img class='inline tempest'> [Tempest]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/42/%22Aftershock%21%22.png/72px-%22Aftershock%21%22.png'> [Aftershock!](https://wiki.guildwars2.com/wiki/%22Aftershock!%22)
     - <img class='inline guardian'> [Guardian]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/wiki/Shield_of_Absorption) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/59/Line_of_Warding.png/50px-Line_of_Warding.png'> [Line of Warding](https://wiki.guildwars2.com/wiki/Line_of_Warding)
     - Any class with [Shouts](https://wiki.guildwars2.com/wiki/Shout) can bring <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/57/Relic_of_the_Reaper.png/60px-Relic_of_the_Reaper.png'> [Relic of the Reaper](https://wiki.guildwars2.com/wiki/Relic_of_the_Reaper)
-- This is the most difficult boss to solo-healing due to [Distributed Magic], but is still viable. Group invulnerability, such as <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon] can help the off-heal subgroup survive [Distributed Magic]. Personal invulnerability and healing should also be used if available.
+- This is the most difficult boss to solo-heal due to [Distributed Magic]. Group invulnerability, such as <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon] can help the off-heal subgroup survive. Personal invulnerability and healing should also be used if available.
 
 #### Spirit Run
 {: .no_toc}
