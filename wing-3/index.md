@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, eclipsing the rest of the wing in importance.
+Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, eclipsing the rest of the wing in relevance.
 
 ---
 

@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important, as the timer for this wing is notoriously difficult.
+Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important, as the Infallible timer for this wing is notoriously difficult.
 
 ---
 

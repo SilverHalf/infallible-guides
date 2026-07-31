@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Salvation Pass is often chosen by groups as the first wing they attempt on the road to the achievement. While it can become a struggle if groups lack DPS, smooth transitions and thoughtful composition are often enough to clear, making it attractive for groups who are new to speedrunning.
+Salvation Pass is often chosen by groups as the first wing they attempt on the road to Infallible. While it can become a struggle if groups lack DPS, smooth transitions and thoughtful composition are often enough to clear, making it attractive for players who are new to speedrunning.
 
 #### Main Points
 {: .no_toc}
