@@ -16,6 +16,10 @@ You will need to install [Ruby](https://www.ruby-lang.org) and [Bundler].
 
 The built site is stored in the directory `_site`.
 
+## Excalidraw Diagrams
+
+Several images used in this guide are generated using [Excalidraw](https://excalidraw.com/), an open-source, web-based virtual whiteboard and diagramming application. The saved files containing these diagrams are available in the `excalidraw` directory for anyone who wishes to use or modify them.
+
 ## Contributing
 
 Whether it's a typo, a mis-spelled word, an awkward sentence, a factual mistake, or perhaps you simply just [disagree](https://xkcd.com/386/) with something on the guide, please open an [issue](https://github.com/SilverHalf/infallible-guides/issues)! Your corrections will help make this project more useful to everyone.
