@@ -342,7 +342,7 @@ Most groups will be able to comfortably kill the boss before the platform health
 
 Other tips for Sabetha include:
 - Prioritize bringing <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/ca/Time_Bomb_%28Spirit_Vale%29.png/30px-Time_Bomb_%28Spirit_Vale%29.png'> [Time Bombs](https://wiki.guildwars2.com/wiki/Time_Bomb_(Spirit_Vale)) out of the group over anything else. If this becomes an issue, consider having a player intentionally bait them by standing closest to the boss.
-- *DO NOT* skillsave on the split phase adds: continue your rotation naturally and aim to kill them as fast as possible.
+- *DO NOT* skillsave on the split phase adds: continue your rotation naturally and aim to kill them as fast as possible. DPS on them is as valuable as DPS on the boss.
 - Try to have a boon player with a high boon radius or ranged boon capabilities kiting the [Flak Shots](https://wiki.guildwars2.com/wiki/Flak_Shot_(Sabetha)).
 
 ---
@@ -355,8 +355,8 @@ Other tips for Sabetha include:
 This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
 
 | Classes | Link | Date | Notes |
-| <img class='inline chrono'> <img class='inline mirage'> BoonDPS, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=D44jWCOfqMY) | April 2026 | Jumping puzzle done with Mirage |
-| <img class='inline chrono'> <img class='inline troubadour'> BoonDPS, Celestial Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=dRuZnw_FpWM) | May 2026 | Excellent PoV for very fast run with all out-of-bounds skips and double portal transition to Sabetha. |
+| <img class='inline chrono'> <img class='inline troubadour'> BoonDPS, Celestial Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=dRuZnw_FpWM) | May 2026 | Very fast run with all out-of-bounds skips and double portal transition to Sabetha. |
+| <img class='inline virtuoso'> <img class='inline troubadour'> <img class='inline mirage'> DPS, Skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=7P4hNvVOFxU) | August 2026 | Same strategy as above but complementary portals. |
 | <img class='inline deadeye'> <img class='inline daredevil'> BoonDPS, Skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=fO8KcaE9g8I) | March 2026 | Jumping puzzle done with Thief |
 | <img class='inline ritualist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=Vm1AnILa42g) | April 2026 | Solo Wall 3 on Spirit Race |
 | <img class='inline bladesworn'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=IiW3pQUQgLY) | April 2026 | Wall 4 on Spirit Race |
