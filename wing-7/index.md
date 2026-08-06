@@ -34,7 +34,7 @@ The Key of Ahdashim is a balanced raid with a mix of bosses, events and transiti
 - [Gate] is usually done twice, resetting the first pull to skip the initial dialogue.
 - [Adina] is played assuming that players can skip pillars, and splitting the group to kill all hands simultaneously in the split phases.
 - [Sabir] optimization revolves around portals for the platform transitions and group invulnerability to skip certain mechanics.
-- [Qadim] can be made much faster through efficient tether management, fire positions and boon strips.
+- [Qadim] can be made much faster through efficient tether management, fire positioning and boonstrips.
 - Several out-of-bounds skips are used between encounters to skip dialogue.
 
 ---
@@ -43,7 +43,9 @@ The Key of Ahdashim is a balanced raid with a mix of bosses, events and transiti
 
 Compositions for the Key of Ahdashim usually run at least one <img class='inline mesmer'> [Mesmer] for portals. Having two, or a <img class='inline mesmer'> [Mesmer] and a <img class='inline thief'> [Thief], opens up even more options.
 
-Apart from this requirement, groups are usually free to run whatever they want to maximize their damage output and utility. Some general tips:
+Apart from this requirement, groups are usually free to run whatever they want to maximize their damage output and utility.
+
+---
 
 #### [Gate]
 {: .no_toc}
@@ -60,10 +62,10 @@ Apart from this requirement, groups are usually free to run whatever they want t
 
 #### [Sabir]
 {: .no_toc}
-- Bring abundant crowd control for the <img class='inline defiance'> [Defiance Bar]. <img class='inline thief'> [Thief] is commonly played, as <img class='inline distracting-throw'> [Distracting Throw] spam is unmatched in sustained CC.
+- Bring abundant crowd control for the <img class='inline defiance'> [Defiance Bar]. <img class='inline thief'> [Thief] is a common pick, as <img class='inline distracting-throw'> [Distracting Throw] spam is unmatched in sustained CC.
 - Bring multiple portals to [speed up the split phases](#fast-split-phases).
 - Projectile reflection or nullification is extremely useful for the final phase.
-- Skills that grant group invulnerability or damage prevention let you tank the shockwave, greatly increasing DPS on the boss. These include <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon].
+- Skills that grant group invulnerability or damage prevention let you tank the shockwave, greatly increasing DPS on the boss. These include <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"] and <img class='inline august-queen'> [Tale of the August Queen].
 
 #### [Qadim]
 {: .no_toc}
@@ -79,8 +81,8 @@ Apart from this requirement, groups are usually free to run whatever they want t
 ## Gate
 
 Gate is a relatively long encounter that is optimized in three main ways:
-- An initial dialogue skip
-- Fast captures by distracting the [Champion Branded Djinns]
+- An initial dialogue skip.
+- Fast captures by distracting the [Champion Branded Djinns].
 - Stacking [Djinns] to kill them faster in the final phase.
 
 ---
@@ -90,7 +92,7 @@ Gate is a relatively long encounter that is optimized in three main ways:
 This is at the same time one of the easiest and most annoying skips to execute, as it requires the squad to complete the encounter up until the point where [Glenna] and the [Key] are opening the door. At this point, make the encounter fail by letting enemies kill [Glenna].
 
 {: .note}
-`/gg`ing at this point does not work as you will respawn. Glenna has to die to damage for the encounter to fail.
+`/gg`ing at this point does not work, as you will respawn. Glenna has to die to damage for the encounter to fail.
 
 When you respawn, both NPCs will be in position to immediately begin the encounter, skipping the normal dialogue. The timer will still begin once you approach [Glenna], so you should be ready to begin immediately.
 
@@ -105,7 +107,7 @@ The standard Gate speedrun strategy aims to aggro the [Champion Djinn] away from
 Once the encounter begins, split up the squad by sending:
 - One player to aggro onto the closest [Champion Djinn].
 - Another player (usually a healer) to aggro the second [Champion Djinn].
-- A player with a <img class='inline portal'> <img class='inline shadow-portal'> portal to do the [out-of-bounds skip](#out-of-bounds-skip)
+- Optionally, a player with a <img class='inline portal'> <img class='inline shadow-portal'> portal to do the [out-of-bounds skip](#out-of-bounds-skip)
 - The rest of the squad to quickly clear out the first rift.
 </div>
 
@@ -128,13 +130,13 @@ Meanwhile, the healer who aggro'd the furthest Djinn can pull them over to the c
 </div>
 
 {: .note}
-Capture speed is unaffected by the number of players in the rift. Capturing only requires for no enemies to be inside the rift's area.
+Capture speed is unaffected by the number of players in the rift. Capturing only requires the rift area to be clear of enemies.
 
 <div class="row-container">
 <div class='adapt-width-50' markdown=block>
-With one [Champion Djinn] dead and the other distracted away, you should be able to easily capture the next two rifts without interference.
+With one [Champion Djinn] dead and the other distracted, you should be able to easily capture the next two rifts without interference.
 
-Once they are done, you can head over to the final rift. After it has been cleared, you can send the main group over to aggro the final [Djinn], once again preventing it from interfering.
+Once they are done, head over to the final rift. After it has been cleared, you can send the main group over to aggro the final [Djinn], once again preventing it from interfering.
 </div>
 
 <div class='center adapt-width'>
@@ -192,7 +194,9 @@ This saves a lot of time, as otherwise you would have to sit through all the dia
 
 ## Cardinal Adina
 
-Adina is a bursty boss with four relatively short phases. Most time gained here comes from optimized split phases and from having enough DPS to skip certain mechanics.
+Adina is a bursty boss with four relatively short phases. Speedruns differ from normal runs in that:
+- They require enough DPS to skip certain mechanics .
+- They optimize split phases by killing all hands simultaneously.
 
 ---
 
@@ -200,7 +204,7 @@ Adina is a bursty boss with four relatively short phases. Most time gained here 
 
 This is when the group aims to phase the boss before [Boulder Barrage], removing the need for moving out and hiding behind pillars. When doing this, the five players baiting the pillars will usually stack in one spot, spawning one single pillar instead of five.
 
-Note that, contrary to common belief, this does not directly increase DPS on the boss, as <img class=inline src="https://wiki.guildwars2.com/images/thumb/d/d9/Captain%27s_Inspiration.png/30px-Captain%27s_Inspiration.png"> [Pillar Pandemonium](https://wiki.guildwars2.com/wiki/Pillar_Pandemonium) is only applied by damaged pillars. Instead, stacking has the benefit that baiting players can more easily share boons and support while far from the boss. For this reason, it's best if these players are all part of the same subgroup.
+Note that, contrary to common belief, this does not directly increase DPS on the boss, as <img class=inline src="https://wiki.guildwars2.com/images/thumb/d/d9/Captain%27s_Inspiration.png/30px-Captain%27s_Inspiration.png"> [Pillar Pandemonium](https://wiki.guildwars2.com/wiki/Pillar_Pandemonium) is only applied by damaged pillars. Instead, stacking has the benefit that players can more easily share boons and support while far from the boss. For this reason, it's best if these players are all part of the same subgroup.
 
 ---
 
@@ -218,13 +222,13 @@ Any specializations who can damage both hands simultaneously, such as <img class
 
 ## Transition to Sabir & Preventing Crashes
 
-Groups who do [Adina] first (as recommended by this guide) will want to quickly transition to [Sabir] immediately after. The fastest way to do this is by using the [ley rift] from the [Basalt Arena] to the [Leystone Axis], and then clearing Sabir's pre-event.
+Groups who do [Adina] first (as recommended by this guide) will want to quickly transition to [Sabir] immediately after. The fastest way to do so is by using the [ley rift] from the [Basalt Arena] to the [Leystone Axis], and then clearing Sabir's pre-event.
 
-This runs into some persistent technical issues as the Key of Ahdashim is notorious for its crashes triggered upon taking the ley rifts. These can be mitigated in some ways:
-- Lowering shader settings in graphics has been reported to solve crashes for some.
-- Only taking ley rifts 2-3 players at a time greatly reduces the frequency of crashes.
+This runs into some persistent technical issues as this wing is notorious for its crashes triggered upon taking the ley rifts. These can be mitigated by:
+- Lowering shader settings in graphics.
+- Only taking ley rifts 2-3 players at a time.
 
-If your team is suffering from frequent crashes, consider not using any ley rifts in this wing.
+If your team is suffering from frequent crashes, consider not using any ley rifts.
 
 ---
 
@@ -347,8 +351,8 @@ Sabir's [Unbridled Tempest] usually requires players to fly up in a tornado to s
 
 Optimized groups should bring ways to circumvent this requirement:
 1. **Movement Skills** - make it possible to teleport over the shockwave, using either personal blinks or portals. This is risky as it requires proper positioning and timing, and is not commonly used in Infallible runs.
-2. **Personal Invulnerability** - any skill that would prevent the user from taking lethal damage, such <img class='inline distortion'> [Distortion](https://wiki.guildwars2.com/wiki/Distortion), <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/A.E.D..png/72px-A.E.D..png'> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class=inline src='https://wiki.guildwars2.com/images/thumb/d/db/Defiant_Stance.png/72px-Defiant_Stance.png'> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), can let a player tank the shockwave.
-3. **Group Invulnerability** - currently only provided by <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon]. This is the safest option, but it requires composition adjustments as you need two sources in each subgroup to fully cover this mechanic.
+2. **Personal Invulnerability** - any skill that would prevent the user from taking lethal damage, such <img class='inline distortion'> [Distortion], <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e6/A.E.D..png/72px-A.E.D..png'> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class=inline src='https://wiki.guildwars2.com/images/thumb/d/db/Defiant_Stance.png/72px-Defiant_Stance.png'> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), can let a player tank the shockwave.
+3. **Group Invulnerability** - currently only provided by <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"] and <img class='inline august-queen'> [Tale of the August Queen]. This is the safest option, but it requires composition adjustments as you need two sources in each subgroup to fully cover this mechanic.
 4. **Very High DPS** - if you manage to reduce Sabir to below 70% HP before he uses [Unbridled Tempest], he will cancel this attack and instead begin his <img class='inline defiance'> [Defiance Bar]. This is an extreme DPS check that is only really possible in Normal Mode speedruns (for now).
 
 Aside from this, DPS players should in general try to hold on to their stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents), unless they are required for CC.
@@ -356,8 +360,11 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 {: .note}
 > [Fury of the Storm] (the shockwave with safe areas) is an attack that is similar to [Unbridled Tempest] and can be resolved in much the same ways:
 > - <img class='inline portal'> [Portals] to and from the safe area to reduce time spent in movement.
-> - Personal and group invulnerability skills to remain on the boss, maintaining DPS uptime.
-> 
+> - Personal and group damage prevention skills to remain on the boss, maintaining DPS uptime.
+>
+> {: .warning}
+> Invulnerability skills such as <img class='inline distortion'> [Distortion] and <img class='inline august-queen'> [Tale of the August Queen] do not prevent downing to this mechanic!
+>
 > Since this mechanic does not force you to lose <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents), give priority to [Unbridled Tempest] when deciding where to use resources.
 
 ---
@@ -378,9 +385,9 @@ If you really need more time, Infallible groups can still use this skip by havin
 
 ### Jackal Skip
 
-This skip is difficult to execute, but can be attempted by all players simultaneously, increasing the likelihood of success. It involves using <img class='inline bond-faith'> [Bond of Faith] during <img class='inline jackal'> [Jackal] <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) to launch forward at incredible speed.
+This skip is difficult to execute, but can be attempted by all players simultaneously, increasing the likelihood of success. It involves using <img class='inline bond-faith'> [Bond of Faith] at a precise moment during <img class='inline jackal'> [Jackal] <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) to launch forward at incredible speed.
 
-When performed with the correct timing in front of the gate to the [Sovereign's Stadium], this can glitch one or more players through the barrier. They can then position next to the gate with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Siege_Turtle_%28map_icon%29.png/30px-Siege_Turtle_%28map_icon%29.png'> [Siege Turtle](https://wiki.guildwars2.com/wiki/Siege_Turtle), allowing the rest of the players through by having them mount up and dismount on the other side.
+Players can position on top of the crystal in the [Leystone Axis] and use this combo towards the gate. When executed correctly, this will glitch them through the barrier and into the [Sovereign's Stadium]. They can then position next to the gate with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Siege_Turtle_%28map_icon%29.png/30px-Siege_Turtle_%28map_icon%29.png'> [Siege Turtle](https://wiki.guildwars2.com/wiki/Siege_Turtle), allowing the rest of the squad through by having them mount up and dismount on the other side.
 
 Most Infallible groups will not use this skip unless there are multiple players capable of reliably performing the <img class='inline jackal'> [Jackal] <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) glitch, as you run the risk of remaining high and dry just before the final boss of the wing.
 
@@ -388,7 +395,7 @@ Most Infallible groups will not use this skip unless there are multiple players 
 
 ### Out-of-Bounds Skip
 
-This is the skip used by most Infallible groups, as it can reliably provide a portal from the [Leystone Axis] to the [Sovereign's Stadium] while at the same time not requiring most of the squad to take a [ley rift], reducing the chance of crashes.
+This the most reliable skip, as it provides a portal from the [Leystone Axis] to the [Sovereign's Stadium] while at the same time not requiring most of the squad to take a [ley rift], reducing the chance of crashes.
 
 <img class='center bordered' width="70%" src="./qadim/oob-skip.webp">
 
@@ -434,9 +441,9 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 
 ### Optimized Good Tethers
 
-Pylons will initially tether to a single player, usually their assigned kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to the boss, increasing damage dealt to it by 5%, up to a maximum of 45% additional damage.
+Pylons will initially tether to their kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to Qadim, increasing damage taken by 5%, up to a maximum of 45% additional damage.
 
-To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers* to link to the kiters. These players, normally on playing ranged builds, begin standing close to their pylons as soon as their kiter catches an orb.
+To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers*, to link to the kiters. These players will begin standing close to their pylons as soon as their kiter catches an orb, tethering with them and thus increasing DPS on the boss.
 
 {: .note}
 Optionally, the tank can act as a primary tether for the northern pylon if they have good boon radius. However, they will not be able to form secondary tethers.
@@ -450,20 +457,20 @@ Once Qadim starts destroying pylons, good tether mechanics change slightly, as t
 <img class='center' width="100%" src="./qadim/good-tethers-1.webp">
 
 {: .note}
-While good tether management is a staple of Qadim the Peerless speedrunning, groups attempting Infallible may find that they do not need the additional DPS, more so if they are using out-of-bounds skips. In this case, you may decide to forgo this strategy and simplify your composition by not requiring primary tethers. 
+While good tether management is a staple of Qadim the Peerless speedrunning, groups attempting Infallible may find that they do not need the additional DPS, especially if they are using out-of-bounds skips. In this case, you may decide to forgo this strategy and simplify your composition by not requiring primary tethers. 
 
 ---
 
 ### Optimized Bad Tethers
 
-Players tethering to Qadim will be afflicted by the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability](https://wiki.guildwars2.com/wiki/Vulnerability) and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight, as only the tank can be tethered, but the impact changes once Qadim starts destroying pylons:
-- After 40%, the tether will be able to link to an additional player.
-- After 30%, Qadim will form an additional tether.
-- After 20%, Qadim will form another additional tether and tethers will be able to chain to another additional player.
+Players tethering to Qadim will be afflicted with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability](https://wiki.guildwars2.com/wiki/Vulnerability) and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight as only the tank will be tethered, but it becomes noteworthy once Qadim starts destroying pylons:
+- After *40%*, the tether will be able to chain to an additional player.
+- After *30%*, Qadim will form two tethers instead of one.
+- After *20%*, Qadim will form three tethers, and tethers will be able to chain twice instead of once.
 
 In the worst case scenario a total of nine players will have a tether, reducing the squad's total DPS output by 20-25% in the final hectic moments of the fight.
 
-To reduce the impact of this mechanic, it is common to assign two players besides the tank as *Bad Tethers*. These will try to capture the bad tethers by keeping their <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) activated, then stack as far as possible from the main group.
+To reduce the impact of this mechanic, it is common to assign three players as *Bad Tethers*. These will try to capture the bad tethers by keeping their <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) activated, then stack as far as possible from the main group. Usually this responsibility is given to the tank and two pylons.
 
 Once Qadim destroys the first pylon, the tank should start standing far from the main group in order to not form an additional tether with the main group. Then, once additional pylons are destroyed, the bad tethers can begin stacking with him.
 
@@ -483,7 +490,7 @@ Qadim's [carpets](https://wiki.guildwars2.com/wiki/Force_of_Havoc) have an assoc
 To avoid this bug, the squad should make sure that the carpets only spawn on the north side of the boss, while the squad sticks to the south side: 
 - The tank and bad tether baiters should be the only players with an activated <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) close to the boss before 20%.
 - Once the final pylon is destroyed at 20%, the tank and the two bad tethers should be the only players inside the center area so they can reliably capture aggro.
-- Players that are not the tank and bad tethers should avoid going into the northern side of the arena without paying significant attention.
+- Everyone except for the tank and bad tethers should avoid going into the northern side of the arena without paying significant attention.
 
 ---
 
@@ -499,7 +506,6 @@ This happens because Qadim does not exclude <img class='inline' src='https://wik
 
 - Bring a large amount of boonstrip for the final phase, as Qadim will constantly gain boons, including <img class='inline resolution'> [Resolution](https://wiki.guildwars2.com/wiki/Resolution).
 - Try to equally distribute crowd control between all three pylons.
-- Commonly, two <img class='inline alacrity'> [Alacrity] <img class='inline scourge'> [Scourges] are run as the east and west pylon kiters, as they provide good support and are also excellent bad tether baiters due to being fully ranged.
 - Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
 
 ## Additional Resources
@@ -552,6 +558,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Portals]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Dimensional Aperture]: https://wiki.guildwars2.com/wiki/Dimensional_Aperture
+[Distortion]: https://wiki.guildwars2.com/wiki/Distortion
 
 <!-- Links to buffs and debuffs -->
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity

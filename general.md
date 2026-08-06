@@ -19,26 +19,14 @@ nav_order: 2
 
 Infallible is a prestigious achievement that requires clearing all major raid instances within a difficult time limit and without any players entering <img class='inline invuln'> [Downstate]. Completing this achievement requires extreme class and encounter knowledge, optimized compositions and strategies, and the coordination and practice required to string everything together smoothly into a single, perfect run while not permitting a single mistake.
 
+{: .warning}
+This guide assumes that players are already familiar with raids. Speedrun strategies are not designed for progression, as they sacrifice reliability and simplicity in favour of faster clear times. Players looking for introductions to raid encounters are advised to look elsewhere: various resources to get started can be found [here](credits.html).
+
 ---
 
 ## Guide Structure
 
 This page contains some general concepts useful for anyone getting into Infallible. The rest of the guide then consists of separate pages for each individual raid instance. Each page is then structured similarly, containing an overview of the wing, some tips on general composition, followed by a more in-depth analysis on individual encounters and transitions.
-
-Click on the icons below to access individual instance guides:
-
-<div class="row-container">
-    <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);"></a>
-    <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);"></a>
-    <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);"></a>
-    <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);"></a>
-</div>
-<div class="row-container">
-    <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
-    <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
-    <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
-    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
-</div>
 
 ---
 
@@ -46,14 +34,14 @@ Click on the icons below to access individual instance guides:
 
 Infallible requires completion of eight separate sub-achievements, each linked to a different instance:
 
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Spirit Vale</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Salvation Pass</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Stronghold of the Faithful</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Bastion of the Penitent</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Hall of Chains</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Mythwright Gambit</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: The Key of Ahdashim</a>
-- <img class='inline achievement'> <a class='yellow-text' href='./404.html'>Down and Out: Mount Balrior</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-1/index.html'>Down and Out: Spirit Vale</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-2/index.html'>Down and Out: Salvation Pass</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-3/index.html'>Down and Out: Stronghold of the Faithful</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-4/index.html'>Down and Out: Bastion of the Penitent</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-5/index.html'>Down and Out: Hall of Chains</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-6/index.html'>Down and Out: Mythwright Gambit</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-7/index.html'>Down and Out: The Key of Ahdashim</a>
+- <img class='inline achievement'> <a class='yellow-text' href='./wing-8/index.html'>Down and Out: Mount Balrior</a>
 
 Each sub-achievement corresponds to its own unique effect. Players will gain this effect at the beginning of each raid instance; killing all bosses in the instance while under this effect will grant the achievement. If any player goes <img class='inline invuln'> [Downstate], everyone in the instance will lose this effect, thus invalidating the run.
 
@@ -90,14 +78,15 @@ This guide will assume that you have installed PEAK's markers and reference them
 
 This is the practice of bringing only one healer for an encounter.
 
-Boons and healing abilities are almost always capped to a maximum of five targets, prioritizing players in their source's subgroup. For this reason, in a 10-man group, it's standard practice to bring two healers so as to provide support to the entire squad. However, many encounters have low enough damage pressure that it is possible to bring only one healer. This takes advantage of the overhealing mechanic, wherein if a player's own subgroup is full health, any additional healing will transfer over to the other subgroup.
+Boons and healing abilities are almost always capped to a maximum of five targets, prioritizing players in their source's subgroup. For this reason, in a 10-man group, it's standard practice to bring two healers, with each supporting their own sub.
 
-Solo-healing is extremely advantageous for speedrunning groups, as it generally results in 10-15% increased damage. Sometimes, if incoming damage is low enough (on bosses such as [Keep Construct]()) or affects some part of the squad predominantly (such as on [Xera]()), this singular healer can even bring a hybrid celestial build, resulting in even more damage. Sometimes, on especially simple fights such as [Mursaat Overseer](), it is even possible to run no healers at all.
+However, the damage pressure in some encounters is low enough that it is possible to bring only one healer. This is because of the overhealing mechanic, wherein if a player's own subgroup is full health, any additional healing will transfer over to the other subgroup. This is called solo-healing.
 
-The disadvantage is the inherent risk of bringing one less healers: misplays are more likely to lead to <img class='inline invuln'> [Downstates], requiring everyone in the squad to pay more attention.
+Solo-healing is extremely advantageous for speedrunning groups, as it generally results in 10-15% increased damage. Sometimes, if incoming damage is low enough (on bosses such as [Keep Construct](./wing-3/index.html#keep-construct-1)) or affects some part of the squad predominantly (such as on [Xera](./wing-3/index.html#xera-1)), this singular healer can even bring a hybrid celestial build, resulting in even more damage. Sometimes, on especially low-damage fights such as [Mursaat Overseer](./wing-4/index.html#mursaat-overseer-1), it is even possible to run no healers at all.
 
-{: .note}
-Groups that are solo-healing must pay careful to the subgroup without a healer, often called the off-sub. Boon supports in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage.
+The disadvantage is the inherent risk of bringing one less healer: misplays are more likely to lead to <img class='inline invuln'> [Downstates], requiring everyone in the squad to pay more attention.
+
+Groups that are solo-healing must additionally pay careful attention to the subgroup without a healer, as it will often have less support. BoonDPS in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage. Any classes that can provide passive healing or barrier are also extremely valuable. 
 
 ---
 
@@ -105,7 +94,7 @@ Groups that are solo-healing must pay careful to the subgroup without a healer, 
 
 Role compression is an important concept in all Guild Wars 2 instanced content. It consists in trying to concentrate an encounter's overall mechanical responsibilities into the smallest number of players possible.
 
-Covering mechanics almost always results in a DPS loss for the responsible players. By having a healer or other support take care of as many mechanics as possible, the DPS players can run more aggressive setups and focus on dealing damage.
+Mechanics almost always results in a DPS loss for players that have to cover them. By having a healer or other support take care of as many mechanics as possible, the DPS players can run more aggressive setups and focus on dealing damage.
 
 For this reason, groups will also try to concentrate things such as <img class='inline stability'> [Stability] and <img class='inline aegis'> [Aegis], additional [defiance damage], and other encounter-specific utility (such as <img class='inline pull'> [Pulls] and <img class='inline portal'> [Portals]) on supports instead of on DPS.
 

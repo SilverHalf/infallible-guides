@@ -24,32 +24,66 @@ parent: Guides
 </div>
 </details>
 
-Stronghold of the Faithful is one of the easiest wings to clear Infallible on, and is often the first wing groups will attempt on the road to the achievement. The key to clearing this wing is perfecting [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, making the rest of the wing a relative cakewalk.
+Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, eclipsing the rest of the wing in relevance.
 
 ---
 
 #### Main Points
 {: .no_toc}
 
-- [Escort] is run with a  risky strategy that aims to gain as much time as possible.
-- [Twisted Castle] can also be run with a similarly risky strategy if necessary.
-- The other bosses use standard tactics as additional time is generally not necessary.
+- [Escort] is run with a risky strategy that aims to gain as much time as possible.
+- [Keep Construct] is played without moving the boss from the center, aiming to skip the exposed phase.
+- [Twisted Castle] can be run extremely quickly with a risky strategy, but this is often not necessary timer-wise.
+- [Xera] is played similarly to standard runs. High DPS means that boss movement can be minimized.
 
 ---
 
 ## Composition
 
-Most compositions will run at least one <img class='inline mesmer'> [Mesmer] and one <img class='inline thief'> [Thief], which have utility that cannot be easily replaced.
+Most compositions will run at least one <img class='inline mesmer'> [Mesmer] and one <img class='inline thief'> [Thief], which have utility that cannot be easily replaced. The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time.
 
-The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time. This is explained in detail in the [composition for Escort] section.
+Both bosses favour <img class='inline power'> Power damage but have relatively long phases, meaning that burst damage isn't as important.
 
-Both bosses favour <img class='inline power'> Power damage, but have relatively long phases.
+---
+
+#### Escort / Siege the Stronghold
+{: .no_toc}
+
+- The squad will divide into two groups: a *Tower* group and a *Ground* group.
+- The *Tower* group contains six people:
+  - One <img class='inline thief'> [Thief] running <img class='inline shadow-portal'> [Prepare Shadow Portal] and <img class='inline infiltrator'> [Infiltrator's Signet].
+  - One <img class='inline mesmer'> [Mesmer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
+  - A second <img class='inline mesmer'> [Mesmer] with <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink] if you intend to do the [second set of <img class='inline glenna'> Glenna ports](#4-fourth-tower-and-glenna-ports).
+  - One healer (if not running a heal <img class='inline mesmer'> [Mesmer]). <img class='inline druid'> [Druid] is an excellent choice due to <img class='inline tides'> [Glyph of the Tides].
+  - Enough DPS to get to six people.
+- The *Tower* group bust bring at least three skills that can clear towers. See [Clearing Towers](#clearing-towers) for more information.
+- The *Ground* group contains four people:
+  - A <img class='inline scrapper'> [Scrapper] to provide <img class='inline glenna'> [Glenna] with <img class='inline superspeed'> [Superspeed] and <img class='inline quickness'> [Quickness].
+  - A healer with high <img class='inline stability'> [Stability] uptime, such as <img class='inline guardian'> [Guardian] or <img class='inline mesmer'> [Mesmer].
+  - Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime, usually either <img class='inline elementalist'> [Elementalist] or <img class='inline necromancer'> [Necromancer] (see [Warg Management](#warg-management) for more information).
+
+#### Keep Construct
+{: .no_toc}
+- Strongly favours <img class='inline power'> power damage due to the boss having less armor than normal.
+- Fairly easy to solo-heal using a single celestial healer such as <img class='inline specter'> [Specter], <img class='inline scourge'> [Scourge] or <img class='inline troubadour'> [Troubadour].
+- Try not to bring too much CC as you don't want to break his <img class='inline defiance'> [Defiance Bar].
+
+#### Twisted Castle
+{: .no_toc}
+- Optimized strategies rely on running a pair of <img class='inline mirage'> [Mirages].
+- Non-optimized strategies will still benefit greatly from running at least one <img class='inline mirage'> [Mirage].
+- Strong cleave and <img class='inline pull'> pulls will speed up killing groups of adds.
+
+#### Xera
+{: .no_toc}
+- The initial platforms can be sped up greatly with a person running <img class='inline illusionary-wave'> [Illusionary Wave] and a <img class='inline pull'> pull in each subgroup.
+- Having a player with enough range to kill the shard can "skip" the gliding phase, making the run much safer overall.
 
 ---
 
 ## Siege the Stronghold
 
-As the first encounter of the wing, Escort is usually played using an especially risky strategy. This gains an incredible amount of time compared to normal clears, and is the main hurdle for groups attempting the wing. When performed well, the rest of the raid can then be played with significantly less time pressure.
+As the first encounter of the wing, Escort is usually played using an especially risky strategy. This gains an incredible amount of time compared to normal clears, and is the main hurdle for groups attempting the wing. When performed well, the rest of the raid has significantly less time pressure.
 
 This section contains an optimized strategy that can be picked up by most groups with a reasonable amount of practice. Feel free to modify and improve it according to your needs.
 
@@ -58,38 +92,14 @@ All positions described in this section can be viewed in-game using [marker pack
 
 ---
 
-### Composition
-
-Most commonly, the squad will divide into two groups:
-
-- A *Tower* group that will clear the towers, clearing space for <img class='inline glenna'> [Glenna].
-- A *Ground* group that will run <img class='inline glenna'> [Glenna] through the bottom part and deal with wargs.
-
-#### Tower Group
-{: .no_toc}
-
-This groups focuses on fast movement and clearing towers, and is usually composed of six people:
-- One <img class='inline thief'> [Thief] running <img class='inline shadow-portal'> [Prepare Shadow Portal] and <img class='inline infiltrator'> [Infiltrator's Signet].
-- One <img class='inline mesmer'> [Mesmer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink]. If you intend to do the [second set of <img class='inline glenna'> Glenna ports](#4-fourth-tower-and-glenna-ports), you will need to bring a second one. 
-- One healer (if not running a heal <img class='inline mesmer'> [Mesmer]). <img class='inline druid'> [Druid] is an excellent choice due to <img class='inline tides'> [Glyph of the Tides].
-- Three DPS.
-
-{: .note}
-> Ensure you are bringing at least three skills that can clear towers, if not more. See [Clearing Towers](#clearing-towers) for more information.
-
-#### Ground Group
-{: .no_toc}
-
-This group focuses on quickly and safely ferrying <img class='inline glenna'> [Glenna] through the encounter, and comprises the rest of the squad, consisting of:
-- A <img class='inline scrapper'> [Scrapper] to provide <img class='inline glenna'> [Glenna] with <img class='inline superspeed'> [Superspeed] and <img class='inline quickness'> [Quickness].
-- A healer with high <img class='inline stability'> [Stability] uptime, such as <img class='inline firebrand'> [Firebrand] or <img class='inline chrono'> [Chronomancer].
-- Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime, usually either <img class='inline elementalist'> [Elementalist] or <img class='inline necromancer'> [Necromancer] (see [Warg Management](#warg-management) for more information).
-
----
-
 ### Important Concepts
 
-These are some general mechanics that are used in Escort speedruns.
+#### Groups
+
+Escort speedrun strategies revolve around dividing the squad into two groups:
+
+- A *Tower* group that will [clear the towers](#clearing-towers), clearing space for <img class='inline glenna'> [Glenna], usually consisting of six people.
+- A *Ground* group that will run <img class='inline glenna'> [Glenna] through the bottom part and deal with wargs, usually consisting of four people.
 
 ---
 
@@ -111,17 +121,16 @@ Teleporting Glenna in this manner is not accepted in most speedrun formats.
 #### Clearing Towers
 
 To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we maximize the speed of capture by:
-1. Sending as many people into each capture point as possible.
+1. Sending as many people into each capture point as possible (this is why six people are in the tower group).
 2. Quickly clearing enemies from capture points using skills that inflict <img class='inline knockback'> [Knockback] or <img class='inline fear'> [Fear] in an area.
 
 Skills that can clear towers include:
-- <img class='inline psychic-force'> [Psychic Force] on <img class='inline virtuoso'> [Virtuoso].
 - <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/5e/Shadow_Gust.png/72px-Shadow_Gust.png'> [Shadow Gust](https://wiki.guildwars2.com/wiki/Shadow_Gust) on <img class='inline deadeye'> [Deadeye].
 - <img class='inline tides'> [Glyph of the Tides] on <img class='inline druid'> [Druid].
 - <img class='inline fear-me'> ["Fear Me!] on <img class='inline warrior'> [Warrior].
 - <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
 
-Groups should bring at least three of these skills, so that one will be ready for each tower.
+Groups should bring at least three of these skills so that one will be ready for each tower.
 
 ---
 
@@ -160,7 +169,7 @@ If the triggered wipe happens too early, it can bug the encounter and you will h
 <details>
 <summary>Click to view dialogue skip instructions</summary>
 <div markdown=block>
-1. One player should approach <img class='inline glenna'> [Glenna] as soon as the wing is open to give her <img class='inline superspeed'> [Superspeed]. You should then /GG during your first line of dialogue after she gets into position. This will skip the rest of the pre-Escort dialogue.
+1. One player should approach <img class='inline glenna'> [Glenna] as soon as the wing is open to give her <img class='inline superspeed'> [Superspeed]. They should then /GG during their first line of dialogue after she gets into position. This will skip the rest of the pre-Escort dialogue.
 
 2. While at least one other player is alive in the wing, another player should interact with Glenna and select the first option. As soon as their first line of dialogue appears they should /GG to skip the rest of the post-Escort dialogue. This window is very tight so ideally they should have pre-typed /GG in their chat.
 
@@ -178,7 +187,7 @@ In step 1, do not /GG before <img class='inline glenna'> [Glenna] gets to her sp
 
 #### 1. Initial Glenna Port & First Room Skip
 
-Assign a player to each of the spots shown in the image (these positions are also displayed in the [marker pack]). When the encounter starts, two things happen:
+Assign a player to each of the spots shown in the image (these positions are also displayed in the [marker pack]). When the encounter starts, two things happen simultaneously:
 
 1. The players assigned to the markers use their <img class='inline call-out'> [Over Here!] in sequence to port <img class='inline glenna'> [Glenna] to position *4* in the map.
 2. A <img class='inline mesmer'> [Mesmer] <img class='inline blink'> [Blinks] up to the wall above the bridge, places their <img class='inline portal'> [Portal Entre], then glides down and opens it below where the rest of the squad can access it.
@@ -194,7 +203,7 @@ Once everyone takes the portal, they can use <img class='inline call-out'> [Over
 
 #### 2. Cave Skip & Tanking Tower Shots
 
-After taking the portal, the <img class='inline thief'> [Thief] can skip the cave in its entirety by teleporting to one of the enemies at its end using <img class='inline infiltrator'> [Infiltrator's Signet], placing a <img class='inline shadow-portal'> portal at the bouncing mushroom or on top of the tower, and porting their squad through.
+After taking the portal, the <img class='inline thief'> [Thief] can skip the cave in its entirety by teleporting to an add using <img class='inline infiltrator'> [Infiltrator's Signet], placing a <img class='inline shadow-portal'> portal at the bouncing mushroom or on top of the tower, and porting their squad through.
 
 <details>
 <summary><img class='inline youtube'> <img class='inline daredevil'> Cave Skip PoV</summary>
@@ -203,7 +212,7 @@ After taking the portal, the <img class='inline thief'> [Thief] can skip the cav
 
 <details>
 <summary><img class='inline youtube'> <img class='inline daredevil'> Cave Skip Done Fast PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/6gZU__b0SLY&start=14&end=34&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/7hjWcmZJouk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 The most difficult part of performing this skip is targeting the enemies inside the cave. This is best done by enabling autotargeting or using the "Lock Autotarget" keybind. Both use the maximum range on your weapon skills, so equipping a rifle will let you reach the adds from the top of the wall, speeding up the sequence overall.
@@ -286,8 +295,6 @@ When [Mcleod] splits into two clones, if you do not see a coloured icon above yo
 
 A fairly straightforward boss, which is played with only two major deviations compared to the PUG strat. Keep Construct is fairly sensitive to your group's overall DPS: with enough damage, it's possible to completely skip over some of the phases, significantly speeding up the fight overall.
 
-Remember that Keep Construct strongly favours <img class='inline power'> Power damage due to having less armour than a standard raid boss. It is also fairly easy to [solo-heal] with a celestial healer such as <img class='inline specter'> [Specter], <img class='inline scourge'> [Scourge] or <img class='inline troubadour'> [Troubadour].
-
 ---
 
 ### Transition from Escort
@@ -310,7 +317,7 @@ Groups should aim to keep the boss in the center of the arena for the full durat
 
 In the standard Keep Construct strategy, after breaking his <img class='inline defiance'> [Defiance Bar] you unlock the ley-rift and exposed phase. In speedruns, however, these phases lose an incredible amount of time, as you will already be very close to 66% or 33% when entering them. It is thus desirable to skip them, forfeiting the damage bonus from <img class='inline' src='https://wiki.guildwars2.com/images/thumb/4/48/Compromised.png/30px-Compromised.png'> [Compromised](https://wiki.guildwars2.com/wiki/Compromised) but resulting in a much faster clear overall.
 
-The easiest way of doing this is to not strip both stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/56/Xera%27s_Embrace.png/30px-Xera%27s_Embrace.png'> [Xera's Embrace](https://wiki.guildwars2.com/wiki/Xera%27s_Embrace) from the boss, therefore never unlocking the breakbar at all. To do this either:
+The easiest way of doing this is to avoid stripping both stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/56/Xera%27s_Embrace.png/30px-Xera%27s_Embrace.png'> [Xera's Embrace](https://wiki.guildwars2.com/wiki/Xera%27s_Embrace) from the boss, therefore never unlocking the breakbar at all. To do this either:
 1. Ignore the tethers, thus letting the statues combine and killing the powered-up statue in the collection phase.
 2. Have one of the players move slightly out of the center so that their statue does not die, while cleaving the second down. The statue will then despawn upon reaching the collection phase.
 
@@ -415,6 +422,9 @@ Make sure that everyone has taken a statue back before interacting with the fina
 
 </div>
 </div>
+
+{: .note}
+The branch skip can also be performed with other classes, most notably <img class='inline thief'> [Thief] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c9/Vault.png/50px-Vault.png'> [Vault](https://wiki.guildwars2.com/wiki/Vault).
 
 Once the door is open, the encounter is complete and everyone can take the ley rift to [Xera]. The player who did the skip can instead take the gateway after the door.
 
@@ -558,7 +568,7 @@ Many of the skips described in this guide can be practiced solo:
 [Deadeye]: https://wiki.guildwars2.com/wiki/Deadeye
 [Scrapper]: https://wiki.guildwars2.com/wiki/Scrapper
 [Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
-[Firebrand]: https://wiki.guildwars2.com/wiki/Firebrand
+[Guardian]: https://wiki.guildwars2.com/wiki/Guardian
 [Necromancer]: https://wiki.guildwars2.com/wiki/Necromancer
 [Elementalist]: https://wiki.guildwars2.com/wiki/Elementalist
 [Specter]: https://wiki.guildwars2.com/wiki/Specter
@@ -597,3 +607,4 @@ Many of the skips described in this guide can be practiced solo:
 [Mirage Thrusts]: https://wiki.guildwars2.com/wiki/Mirage_Thrust
 [Weapon Swap]: https://wiki.guildwars2.com/wiki/Weapon_swap
 [Temporal Curtain]: https://wiki.guildwars2.com/wiki/Temportal_Curtain
+[Illusionary Wave]: https://wiki.guildwars2.com/wiki/Illusionary_Wave
