@@ -19,6 +19,9 @@ nav_order: 2
 
 Infallible is a prestigious achievement that requires clearing all major raid instances within a difficult time limit and without any players entering <img class='inline invuln'> [Downstate]. Completing this achievement requires extreme class and encounter knowledge, optimized compositions and strategies, and the coordination and practice required to string everything together smoothly into a single, perfect run while not permitting a single mistake.
 
+{: .warning}
+This guide assumes that players are already familiar with raids. Speedrun strategies are not designed for progression, as they sacrifice reliability and simplicity in favour of faster clear times. Players looking for introductions to raid encounters are advised to look elsewhere: various resources to get started can be found [here](credits.html).
+
 ---
 
 ## Guide Structure
