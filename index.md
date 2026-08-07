@@ -22,8 +22,7 @@ Click on one of the icons below to start reading.
     <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
     <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
     <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
-    <a href='./wing-8' class="index-button"></a>
-    <!-- <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a> -->
+    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
 </div>
 
 {: .warning}
@@ -34,7 +33,7 @@ This is still a work in progress and lacks proofreading! Be aware that much is s
 ### Why does this guide exist?
 {: .center}
 
-These guides started as a resource for my own Infallible progression group. While trying to prepare strategies and compositions for the various wings, I often had to source from random Youtube videos, Reddit threads, Discord channels, or word of mouth, then check for myself what what worked and what was effective. The objective of this guide is to become a place where everyone can find this information, providing a starting point for groups that are looking to get into not only Infallible, but raid speedrunning in general.
+Information on raid speedrunning has always been spread out and inaccessible, making it difficult to prepare strategies and compositions if you aren't in the know. The objective of this guide is to provide a solid central reference, and thus serve as a starting point for those looking to get into not only Infallible, but raid speedrunning in general.
 
 ---
 
