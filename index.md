@@ -7,8 +7,12 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This website contains guides for the Infallible achievement, along with general speedrunning tips and tricks for raid wings 1 to 8.
-Click on one of the icons below to start reading.
+This website is a compendium of advanced strategies for Guild Wars 2 raids. It aims to provide a solid central reference, thus serving as a starting point for those looking to get into Infallible, and raid speedrunning in general.
+
+Click on one of the links below to start reading.
+
+{: .warning}
+Proofreading is currently in progress. Please provide feedback if you find any issues.
 
 [Introduction](./general.html){: .btn .center}
 
@@ -24,16 +28,6 @@ Click on one of the icons below to start reading.
     <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
     <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
 </div>
-
-{: .warning}
-This is still a work in progress and lacks proofreading! Be aware that much is still incomplete.
-
----
-
-### Why does this guide exist?
-{: .center}
-
-Information on raid speedrunning has always been spread out and inaccessible, making it difficult to prepare strategies and compositions if you aren't in the know. The objective of this guide is to provide a solid central reference, and thus serve as a starting point for those looking to get into not only Infallible, but raid speedrunning in general.
 
 ---
 
