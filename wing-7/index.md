@@ -508,6 +508,8 @@ This happens because Qadim does not exclude <img class='inline' src='https://wik
 - Try to equally distribute crowd control between all three pylons.
 - Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
 
+---
+
 ## Additional Resources
 
 #### PoVs
