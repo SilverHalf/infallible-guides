@@ -275,7 +275,7 @@ A common practice is having a <img class='inline mechanist'> [Mechanist] use the
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |

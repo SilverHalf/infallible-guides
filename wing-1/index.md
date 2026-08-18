@@ -174,7 +174,7 @@ They then prepare a <img class='inline shadow-portal'> <img class='inline portal
 <div class="row-container">
 
 <div class='adapt-width-50' markdown=block>
-Around a minute before the end of the Spectral Rifts event, this player should open their <img class='inline shadow-portal'> <img class='inline portal'> portal and take it along with one of the other two <img class='inline mesmer'> [Mesmer] players and three DPS. The <img class='inline mesmer'> [Mesmer] can prepare their own portal on the vantage position and rejoin the group for the final few rifts. Meanwhile, the three DPS players plus the skip player glide down to the top of the log and run northwards, following the path that the group would normally take.
+Around a minute before the end of the Spectral Rifts event, this player should open their <img class='inline shadow-portal'> <img class='inline portal'> portal and take it along with one of the <img class='inline mesmer'> [Mesmer] players and three DPS. The <img class='inline mesmer'> [Mesmer] can prepare their own portal on the vantage position and rejoin the group for the final few rifts. Meanwhile, the three DPS players plus the skip player glide down to the top of the log and run northwards, following the path that the group would normally take.
 
 </div>
 
@@ -234,6 +234,8 @@ These players need to be especially careful with their positioning: they must st
 
 </div>
 
+The main group will contain both <img class='inline mesmer'> [Mesmers], enabling them to use <img class='inline portal'> [Portals] in combination with <img class='inline blink'> [Blink] to quickly move from barrier to barrier.
+
 ---
 
 ### Cemetery
@@ -242,15 +244,13 @@ Designate one person each for buttons *#1*, *#2*, *#3* and *#5* (all of them exc
 
 <img class='center bordered' width='50%' src='./spirit-woods/spirit_woods_6.webp'>
 
-While this is ongoing, a <img class='inline mesmer'> [Mesmer] can place a <img class='inline portal'> [Portal] in the center of the cemetery. Once all buttons have been pressed and the door blocking access to [Gorseval] has been opened, they can <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] forward, glide into the arena, and open their portal in front of the boss.
+While this is ongoing, a <img class='inline mesmer'> [Mesmer] can place a <img class='inline portal'> [Portal] in the center of the cemetery. Once all buttons have been pressed and the door blocking access to [Gorseval] has been opened, they can <img class='inline blink'> [Blink] forward, glide into the arena, and open their portal in front of the boss for the rest of the squad to take.
 
 ---
 
 ## Gorseval
 
 This boss is played using the standard strategy with the addition of a four-way split in the split phases. Assign 2-3 players to each add, trying to balance out the damage profile for each group so that the adds ideally die at the same time. The rest of the fight plays out the same as in normal runs.
-
-You can decide to run this fight without a healer. In this case, ensure you have enough passive sustain from classes such as <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist]. Ensure you are bringing at least one source of <img class='inline aegis'> [Aegis] or <img class='inline stability'> [Stability] per subgroup for the boss's slam attack.
 
 ---
 
@@ -263,7 +263,7 @@ During the second split phase, the group to the North-East will additionally kil
 Then as soon as the final phase begins, the portal player can prepare their <img class='inline portal'> [Portal Entre] in the center of the arena. The wall re-spawns when Gorseval begins his [Ghastly Rampage] (the <img class='inline defiance'> [Defiance Bar] mechanic), so just before that they should <img class='inline blink'> [Blink] or walk out of the arena through the missing wall. They can then use the updraft to the North until the boss is dead, after which they glide down to the north and open their portal for the rest of the group.
 
 {: .note}
-The person placing the portal usually will be put into combat immediately after landing, so they will often not be able to swap builds. They should therefore be ready to do the entirety of Gorseval and the transition on the same build: usually this means running <img class='inline mimic'> [Mimic], <img class='inline portal'> [Portal] and <img class='inline blink'> [Blink] on Gorseval, relegating them to a support role.
+The person placing the portal usually will be put into combat immediately after landing, so they will often not be able to swap builds. They should therefore be ready to do the entirety of Gorseval and the transition on the same build: usually this means running <img class='inline mimic'> [Mimic], <img class='inline portal'> [Portal] and <img class='inline blink'> [Blink] on Gorseval, relegating them to a support role. This is often a heal or celestial <img class='inline troubadour'> [Troubadour].
 
 ---
 
@@ -277,24 +277,23 @@ The encounter begins with the players moving from [Gorseval]'s arena to the firs
 1. (Easy) Aggro all the adds and then stand [behind the staircase](https://www.youtube.com/watch?v=7viZ2b3w0u0&t=498s): this will attract them all via line-of-sight to a single location.
 2. (Fast) Split into several [groups](https://www.youtube.com/watch?v=ZAXX-qu2Qrs&t=486) or [subgroups](https://www.youtube.com/watch?v=IiW3pQUQgLY&t=494s) to efficiently cover more ground. Commonly this involves three groups of 2-3 people, with one going left, one going right and the last going straight ahead. Ensure that each group has at least one <img class='inline pull'> pull.
 
-Once the first group is dead, the rest of the event is usually played in one of two different ways.
-- A double portal strategy aiming on killing more adds towards the beginning of the transition.
-- A triple portal strategy that distributes killing adds in three different locations.
+Once the first area is cleared, the rest of the event is usually played in one of two different ways.
+- A *double portal* strategy aiming on killing more adds towards the beginning of the transition.
+- A *triple portal* strategy that distributes killing adds in three different locations.
 
 ---
 
 ### Double Portals
 
-This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. However, it can be punishing to miss a bandit as you do not have much leeway in numbers.
+This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. Doing the pre-event this way is extremely. However, it can be punishing to miss a bandit as you do not have as many available.
 
 <div class="row-container">
 
 <div class='adapt-width-50' markdown=block>
-While the main group is killing bandits in the first area, two things are happening: 
-- A <img class='inline mesmer'> [Mesmer] prepares their <img class='inline portal'> [Portal] at the start of the walkway and makes their way up to the next area.
-- A couple of DPS players also make their way up, killing all bandits they encounter on the way.
-
-Once all adds in the first area have been cleared, the <img class='inline mesmer'> [Mesmer] opens their portal, bringing the main group to the second area where they link up with the DPS coming up the walkway.
+While the main group is killing bandits in the first area, three things are happening:
+- Two DPS players start making their way up the walkway, killing all bandits they encounter on the way.
+- A <img class='inline mesmer'> [Mesmer] prepares their <img class='inline portal'> [Portal] at the start of the walkway and follows the DPS up, providing support if necessary.
+- The second <img class='inline mesmer'> [Mesmer] runs directly up, without stopping to provide support.
 
 </div>
 
@@ -304,16 +303,18 @@ Once all adds in the first area have been cleared, the <img class='inline mesmer
 
 </div>
 
-The second <img class='inline mesmer'> [Mesmer] prepares their portal once they reach the second area and uses the jump pad to cross the ravine and make their way to [Sabetha]. The event should be complete once all bandits in the second area have been cleared, at which point they should instantly open their <img class='inline portal'> [Portal] directly into the arena. You then have a couple of seconds (literally) before the boss spawns in and the final fight starts.
+Once all adds in the first area have been cleared, the first <img class='inline mesmer'> [Mesmer] will open their portal, bringing the main group to the second area where they link up with the DPS coming up the walkway.
+
+The second <img class='inline mesmer'> [Mesmer] will prepare their portal once they reach the second area, then use the jump pad to cross the ravine and make their way to [Sabetha]. The event should be complete once all bandits in the second area have been cleared, at which point they will instantly open their <img class='inline portal'> [Portal] directly into the arena. You then have a couple of seconds (literally) before the boss spawns in and the final fight starts.
 
 {: .note}
-To facilitate template swaps, this player should be in <img class='inline stealth'> [Stealth] before jumping the ravine. Otherwise the nearby bandit sniper, which has a huge aggro range, will keep them and possibly other players in combat for the rest of the transition. It is recommended to use <img class='inline mass-invis'> [Mass Invisibility] coupled with <img class=inline src='https://wiki.guildwars2.com/images/thumb/a/a8/Prismatic_Understanding.png/38px-Prismatic_Understanding.png'> [Prismatic Understanding](https://wiki.guildwars2.com/wiki/Prismatic_Understanding) just before launching for this reason.
+To facilitate template swaps, this player should be in <img class='inline stealth'> [Stealth] before jumping the ravine. Otherwise, the nearby bandit sniper, which has a huge aggro range, will keep them and possibly other players in combat for the rest of the transition. It is recommended to use <img class='inline mass-invis'> [Mass Invisibility] coupled with <img class=inline src='https://wiki.guildwars2.com/images/thumb/a/a8/Prismatic_Understanding.png/38px-Prismatic_Understanding.png'> [Prismatic Understanding](https://wiki.guildwars2.com/wiki/Prismatic_Understanding) just before launching from the jump pad.
 
 ---
 
 ### Triple Portals
 
-This strategy kills adds in three different locations, porting between all three and keeping the main group united throughout the event. Its advantage is that it gives the group access to more bandits overall, meaning it's less punishing to miss a few.
+This strategy kills adds in three different locations, porting between all three and keeping the main group united throughout the event. It gives the group access to more bandits overall, meaning it's less punishing to miss a few, but can be slower than the double-portal transition.
 
 <div class="row-container">
 
@@ -352,7 +353,7 @@ Other tips for Sabetha include:
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline chrono'> <img class='inline troubadour'> BoonDPS, Celestial Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=dRuZnw_FpWM) | May 2026 | Very fast run with all out-of-bounds skips and double portal transition to Sabetha. |

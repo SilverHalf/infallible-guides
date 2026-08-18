@@ -7,8 +7,12 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This website contains guides for the Infallible achievement, along with general speedrunning tips and tricks for raid wings 1 to 8.
-Click on one of the icons below to start reading.
+This website is a compendium of advanced strategies for Guild Wars 2 raids. It aims to provide a solid central reference, thus serving as a starting point for those looking to get into Infallible, and raid speedrunning in general.
+
+Click on one of the links below to start reading.
+
+{: .warning}
+This guide is currently in the process of being proofread. Please provide feedback if you find any issues.
 
 [Introduction](./general.html){: .btn .center}
 
@@ -22,19 +26,8 @@ Click on one of the icons below to start reading.
     <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
     <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
     <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
-    <a href='./wing-8' class="index-button"></a>
-    <!-- <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a> -->
+    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
 </div>
-
-{: .warning}
-This is still a work in progress and lacks proofreading! Be aware that much is still incomplete.
-
----
-
-### Why does this guide exist?
-{: .center}
-
-These guides started as a resource for my own Infallible progression group. While trying to prepare strategies and compositions for the various wings, I often had to source from random Youtube videos, Reddit threads, Discord channels, or word of mouth, then check for myself what what worked and what was effective. The objective of this guide is to become a place where everyone can find this information, providing a starting point for groups that are looking to get into not only Infallible, but raid speedrunning in general.
 
 ---
 

@@ -508,12 +508,14 @@ This happens because Qadim does not exclude <img class='inline' src='https://wik
 - Try to equally distribute crowd control between all three pylons.
 - Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
 
+---
+
 ## Additional Resources
 
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline troubadour'> <img class='inline chrono'> Heal, Tank | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ht7oiJD5iJY) | April 2026 | Uses OoB skip after Gate, no skip after Sabir. Single portal on Sabir. |
