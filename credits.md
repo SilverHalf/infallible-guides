@@ -22,6 +22,7 @@ nav_order: 11
 - [Wing 5 - Hall of Chains](./wing-5/index.html#additional-resources)
 - [Wing 6 - Mythwright Gambit](./wing-6/index.html#additional-resources)
 - [Wing 7 - The Key of Ahdashim](./wing-7/index.html#additional-resources)
+- [Wing 8 - Mount Balrior](./wing-8/index.html#additional-resources)
 
 ---
 

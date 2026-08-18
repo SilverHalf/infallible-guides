@@ -24,13 +24,13 @@ parent: Guides
 </div>
 </details>
 
-Mount Balrior is a unique wing since its bosses are noticeably longer and more difficult than in any other raid. Fast clears require good damage and clean execution of all three, including the fearsome Legendary Ura. The Infallible timer itself is not too harrying: most of the wing's difficulty comes from the high risk of <img class='inline invuln'> [Downstates] and the difficulty of maintaining focus for what is effectively half an hour of the most difficult PvE gameplay Guild Wars has to offer.
+Mount Balrior is a unique wing since all of its bosses are formidable and take noticeably longer to kill than in any other raid. Fast clears require good damage and clean execution of all three encounters, including Legendary Ura at the end of it all. The Infallible timer itself is not too harrying: most of the wing's difficulty comes from the high risk of <img class='inline invuln'> [Downstates], which in turn is exacerbated by its long duration.
 
 #### Main Points
 {: .no_toc}
-- Standard strategies for Balrior CMs are fairly optimized, so speedruns re-hash many of the same concepts and compositions.
+- Standard strategies for Balrior CMs are fairly optimized: speedruns re-hash many of the same concepts and compositions.
 - [Decima] is played with a standard strategy and celestial healers.
-- [Greer] can be played in a safer manner, or can be optimized by compressing specialized roles.
+- [Greer] can be played in a safer manner, or can be optimized by removing specialized roles.
 - [Ura] can be played with either a [Solo CC] or a [4-man] composition.
 - Portals are used to optimize transitions from pre-events into the various bosses.
 
@@ -38,7 +38,7 @@ Mount Balrior is a unique wing since its bosses are noticeably longer and more d
 
 ## Composition
 
-Most groups will run two <img class='inline mesmer'> [Mesmers], as they provide irreplaceable utility. These are usually <img class='inline troubadour'> [Troubadours], as they have the best healing and defensive skills. At least one <img class='inline thief'> [Thief] is almost always present due to its unparalleled CC capabilities, which are useful on all three bosses.
+Most groups will run two <img class='inline mesmer'> [Mesmers], as they provide irreplaceable utility. These are usually <img class='inline troubadour'> [Troubadours], as they have unique healing and defensive skills that make them particularly well suited for all three encounters. At least one <img class='inline thief'> [Thief] is almost always present due to its unparalleled CC capabilities.
 
 The rest of the composition is mostly determined by your strategy on [Ura]:
 - [Solo CC] compositions are much more flexible but require an experienced Solo CC player.
@@ -52,15 +52,15 @@ For Infallible runs, prioritize consistency and safety over raw damage: redundan
 {: .no_toc}
 - Bring reliable sources of <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] for [Seismic Crash], with <img class='inline aegis'> [Aegis] being better than <img class='inline stability'> [Stability].
 - <img class='inline portal'> <img class='inline shadow-portal'> Portals are extremely useful, verging on mandatory, for the split phases.
-- <img class='inline troubadour'> [Troubadour] is the most commonly played healer, as it can run a celestial build to deal decent damage while still providing more than enough defensive capabilities.
+- <img class='inline troubadour'> [Troubadour] is the most commonly played healer, as it can run a celestial build to deal decent damage while still providing more than enough healing and defensive utility.
 
 #### Greer
 {: .no_toc}
-- <img class='inline condition'> Condition compositions are preferred, since most DPS can then run full [Trailblazer] with little downside. The start position is also more convenient when transitioning from the pre-event.
+- <img class='inline condition'> Condition compositions are preferred, since most DPS can run full [Trailblazer] gear with little downside. The starting position is also more convenient when transitioning from the pre-event.
 - Classes with high cleave are extremely useful for speeding up the split phases and protoling phase.
 - <img class='inline troubadour'> [Troubadour] is the best healer here, as it can completely negate [Eruption of Rot] (greens) with <img class='inline august-queen'> [Tale of the August Queen].
 - Bring large amounts of projectile negation.
-- Some special roles can be ignored or compressed into others. Check the [Greer Compositions](#compositions) section for more information.
+- Some special roles can be ignored or compressed into others. Check the [Greer Composition](#compositions) section for more information.
 
 #### Ura
 {: .no_toc}
@@ -91,7 +91,7 @@ You will have some time before Decima finishes spawning in: use it to swap templ
 
 Decima is played using the [standard turnaround strategy](https://silverhalf.github.io/mount-balrior/decima/strategy.html), dividing the squad into a ranged and a melee subgroup, with the melee group handling [Spreads] and [Greens](https://silverhalf.github.io/mount-balrior/decima/mechanics.html#dancing-sparks) and the ranged group baiting [Arrows].
 
-The strategy is extremely scripted and should ideally play out the same way every pull. Players should be familiar with their role and practice in order to perform consistently and reliably.
+This strategy is extremely scripted and should ideally play out the same way every pull. Players should be familiar with their role and practice in order to perform consistently and reliably.
 
 ---
 
@@ -100,7 +100,7 @@ The strategy is extremely scripted and should ideally play out the same way ever
 
 High damage is especially important in this fight as it will let you skip certain mechanics. In particular, in order of importance, you should try to phase before:
 - *Green collection at 80% and 50%* - removes the need for the melee group to move to collect. This skip is one of the premises of the turnaround strategy, and not managing it is an indicator of a serious DPS issue.
-- *Third arrows in split phases* - this deals a lot of damage right before the [Flux Nova](https://silverhalf.github.io/mount-balrior/decima/mechanics.html#flux-nova).
+- *Third arrows in split phases* - this deals a lot of damage and can potentially apply <img class='inline exposed'> [Exposed](https://wiki.guildwars2.com/wiki/Exposed) right before the [Flux Nova](https://silverhalf.github.io/mount-balrior/decima/mechanics.html#flux-nova).
 - *Final arrows* before 10% - again this can potentially deal a lot of damage and position your kiter far from the group just before the transition.
 
 Additionally, at *70%*, *40%* and *10%*, the boss will become <img class='inline invuln'> [Invulnerable] and complete any ongoing mechanics before transitioning into the next phase of the encounter. This can artificially lengthen phase duration, especially in the case of [Arrows] as they have a long animation. Phasing before these mechanics will thus save a lot of time. 
@@ -112,8 +112,8 @@ Additionally, at *70%*, *40%* and *10%*, the boss will become <img class='inline
 
 Split phases are one of the places where squads can optimize outside of pure DPS. Groups should have <img class='inline portal'> <img class='inline shadow-portal'> portals for both subgroups, which should be pre-placed at Decima's location at the beginning of each split phase. They can then be opened once the [Boulders] are close to dying, around *30-40%*.
 
-There are two approaches to managing the adds in this phase:
-1. Do not CC them so as to not trigger their special attacks, especially [Sparkwave] at 50%. This is safe, but potentially slower.
+There are two approaches to managing CC in this phase:
+1. Do not CC the adds so as to not trigger their special attacks, especially [Sparkwave] at 50%. This is safe, but potentially slower.
 2. CC the adds immediately and bait out [Sparkwave]. This is riskier, but also much faster since the adds will be <img class='inline exposed'> [Exposed].
 
 The ranged group will have to manage [Arrows] while killing the add. The standard strategy involves spreading out with arrows, then waiting for the mechanic to finish before taking the portal.
@@ -133,9 +133,9 @@ If the melee group gets spreads just before the adds die, they should dodge the 
 #### Speedrun Split Phases
 {: .no_toc}
 
-This is a very risky strategy that is usually only used in dedicated speedruns. The idea is to phase Decima by bringing her to the next health threshold at the same time as when both adds die. This can be done by having the group begin on Decima, then <img class='inline portal'> <img class='inline shadow-portal'> portaling players out to each add.
+This is a risky strategy that is usually only used in dedicated speedruns. The idea is to phase Decima by bringing her to the next health threshold and killing both adds simultaneously. This can be done by having the group begin on Decima, then <img class='inline portal'> <img class='inline shadow-portal'> portaling players out to each add.
 
-This works because the [Boulders] only begin casting [Sparkling Reverberation](https://silverhalf.github.io/mount-balrior/decima/mechanics.html#sparking-reverberation) when enemies are nearby, allowing the group to start them later than usual without getting <img class='inline debilitated'> [Debilitated](https://wiki.guildwars2.com/wiki/Debilitated_(raid)). However, executing this cleanly requires much more coordination and precise timing compared to the normal strategy. A PoV of this can be seen [here](https://www.youtube.com/watch?v=mKH3KTVqRNs).
+This works because the [Boulders] only begin casting [Sparkling Reverberation](https://silverhalf.github.io/mount-balrior/decima/mechanics.html#sparking-reverberation) when enemies are nearby, allowing the group to start them later than usual without getting <img class='inline debilitated'> [Debilitated](https://wiki.guildwars2.com/wiki/Debilitated_(raid)). However, executing this cleanly requires much more coordination and precise timing compared to the normal strategy. A PoV can be seen [here](https://www.youtube.com/watch?v=mKH3KTVqRNs).
 
 ---
 
@@ -144,7 +144,7 @@ This works because the [Boulders] only begin casting [Sparkling Reverberation](h
 
 In phase 3, Decima's jump positions depend on your group's DPS. With good damage, the first jump will often be extremely short, thus not affecting uptime by much.
 
-The second jump however will almost always cross the entire arena, requiring everyone to follow. Optimized groups often improve DPS uptime here by providing a <img class='inline portal'> [Portal] to her new position. This portal can be pre-placed before the [Arrows] preceding her jump, and then opened after <img class='inline blink'> [Blinking](https://wiki.guildwars2.com/wiki/Blink) to her new position.
+The second jump however will almost always cross the entire arena, requiring everyone to follow. Optimized groups improve DPS uptime by providing a <img class='inline portal'> [Portal] to her new position. This portal can be pre-placed before the [Arrows] preceding her jump, and then opened after <img class='inline blink'> [Blinking](https://wiki.guildwars2.com/wiki/Blink) to her new position.
 
 {: .warning}
 Make sure you are correctly providing <img class='inline aegis'> [Aegis] before blinking away, or that you have <img class='inline aegis'> [Aegis] before taking the portal.
@@ -158,7 +158,7 @@ Make sure you are correctly providing <img class='inline aegis'> [Aegis] before 
 - If you have to stack the [Spreads], it's convenient to have one person slightly off-group so that everyone can see the AoE filling.
 - It's ok to double charge some pylons or let a few greens through. Triple charging is not ok, as it results in additional greens and spreads.
 - Healers should train to out-heal the [Flux Nova] consistently, as it is one of the most common sources of <img class='inline invuln'> [Downstates]. On Celestial <img class='inline troubadour'> [Troubadour], this can be done with the sequence: <img class='inline singularity'> [Singularity Shot] and <img class='inline crescendo'> [Crescendo] just before the attack, <img class='inline' src='https://wiki.guildwars2.com/images/thumb/c/cf/Tale_of_the_Second_Scion.png/50px-Tale_of_the_Second_Scion.png'> [Tale of the Second Scion](https://wiki.guildwars2.com/wiki/Tale_of_the_Second_Scion) during and <img class='inline harp'> [Harmonious Harp] immediately after.
-- A <img class='inline mesmer'> [Mesmer] can provide a <img class='inline portal'> [Portal] from the center of the boss arena to the ley rift to speed up the transition to [Greer].
+- A <img class='inline mesmer'> [Mesmer] can provide a <img class='inline portal'> [Portal] from the center of the boss arena to the ley rift to speed up the transition to [Greer]. This portal can be pre-placed at the beginning of the 10% phase.
 
 ---
 
@@ -177,7 +177,7 @@ The Infallible timer starts upon triggering Decima's pre-event. This means that 
 
 Once [Decima] dies, take the ley rift in her arena to the camp. From there, you can use mounts to quickly reach Greer's pre-event, the [Legendary Blighted Beast].
 
-This miniboss hits hard and has a lot of HP. His *Corrupting Eruption* is a line attack that will often <img class='inline invuln'> [Downstate] any players it hits. The wind-up for this attack is identical to [Boneskinner](https://wiki.guildwars2.com/wiki/Boneskinner_(legendary))'s famous AoE smash, and must be treated in the same way: *everyone* dodges this attack.
+This miniboss hits hard and has a lot of HP. His *Corrupting Eruption* is a line attack that will often <img class='inline invuln'> [Downstate] any players it hits. The wind-up for this attack is identical to [Boneskinner](https://wiki.guildwars2.com/wiki/Boneskinner_(legendary))'s famous AoE smash, and must be treated in the same way by dodging it.
 
 The [Legendary Blighted Beast] spawns with <img class='inline resolution'> [Resolution] that is re-applied every 10 seconds. Try to strip it away as much as possible to kill him faster. The attack where it's sinking into the ground will corrupt boons: step out of its AoE or re-boon quickly.
 
@@ -193,13 +193,13 @@ Based on the presence of the *bubble* and *10% tank* roles, we can build a table
 {: .center .no_toc}
 
 | - | **With a bubble** | **Without a bubble** |
-| **With a tank** | ["Cozy" Composition](#cozy-composition) | ["Lean" Composition](#lean-composition) |
-| **Without a tank** | ["Heal Bubble" Composition](#heal-bubble-composition) | "Lean and Mean" Composition |
+| **With a 10% tank** | ["Cozy" Composition](#cozy-composition) | ["Lean" Composition](#lean-composition) |
+| **Without a tank** | ["Heal Bubble" Composition](#heal-bubble-composition) | ["Lean and Mean" Composition](#lean-and-mean-composition) |
 
 #### "Cozy" Composition
 {: .no_toc}
 
-This is the standard composition for Greer CM, and is often seen in PUGs. The use of both special roles simplifies the fight noticeably, at the cost of some DPS. The *bubble* is often played by a boonDPS, either a <img class='inline herald'> [Herald] or <img class='inline firebrand'> [Firebrand], white the *10% tank* is usually on a tanky class running either [Celestial] or [Trailblazer] gear. This composition is very safe: run it if you have no concerns about DPS.
+This is the standard composition for Greer CM, and is often seen in PUGs. The use of both special roles simplifies the fight noticeably, at the cost of some damage. The *bubble* is often played by a boonDPS, either a <img class='inline herald'> [Herald] or <img class='inline firebrand'> [Firebrand], while the *10% tank* is usually on a tanky class running either [Celestial] or [Trailblazer] gear. This composition is very safe: run it if you have no concerns about DPS.
 
 ---
 
@@ -218,34 +218,36 @@ To combat this issue, the *bubble* is almost always played by a third healer, of
 #### "Lean" Composition
 {: .no_toc}
 
-These compositions get rid of the *bubble* role and distribute its responsibility over the rest of the squad. Most of the slack is picked up by the <img class='inline mesmer'> [Mesmers] taking <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/25/Warden%27s_Feedback.png/60px-Warden%27s_Feedback.png'> [Warden's Feedback](https://wiki.guildwars2.com/wiki/Warden's_Feedback) and focus, letting them reflect by alternating <img class='inline feedback'> [Feedback] and <img class='inline curtain'> [Temporal Curtain](https://wiki.guildwars2.com/wiki/Temporal_Curtain). In this case, each <img class='inline mesmer'> [Mesmer] reflects the [Empowering Blast] coming from one of the adds in the main phase (double/single).
+These compositions get rid of the *bubble* role and distribute its responsibility over the rest of the squad. The advantage is that you can then run offensive supports on standard raid builds, increasing DPS overall.
 
-It's highly recommended to have additional sources of backup nullification distributed through the squad. A common pick is <img class='inline necromancer'> [Necromancers](https://wiki.guildwars2.com/wiki/Necromancer) with <img class='inline cpc'> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud).
+Both <img class='inline mesmer'> [Mesmers] will take <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/25/Warden%27s_Feedback.png/60px-Warden%27s_Feedback.png'> [Warden's Feedback](https://wiki.guildwars2.com/wiki/Warden's_Feedback) and focus, letting them negate [Empowering Blast] by alternating <img class='inline feedback'> [Feedback] and <img class='inline curtain'> [Temporal Curtain](https://wiki.guildwars2.com/wiki/Temporal_Curtain). They should communicate beforehand who manages which side of the boss in order to guarantee full coverage of this mechanic.
 
-With these compositions it's common to run a [Trailblazer] DPS as *10% tank*, often a <img class='inline willbender'> [Willbender]. This increases the overall safety of the protoling phase, as your two defensive supports can easily get overwhelmed if they have to contend with Greer's attacks on top of the protolings'. The tank will often rejoin the group before the first protoling dies, baiting out the jump in the process.
+It's highly recommended to have additional sources of projectile nullification distributed through the squad. A common pick is <img class='inline necromancer'> [Necromancers](https://wiki.guildwars2.com/wiki/Necromancer) with <img class='inline cpc'> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud).
+
+With these compositions it's common to run a [Trailblazer] DPS as *10% tank*, often a <img class='inline willbender'> [Willbender]. This increases the overall safety of the protoling phase, as your two defensive supports may get overwhelmed if they have to contend with Greer's attacks on top of the protolings'. The tank will often rejoin the group before the first protoling dies, baiting out Greer's jump in the process.
 
 ---
 
 #### "Lean and Mean" Composition
 {: .no_toc}
 
-Identical to the "Lean" composition but played without a 10% tank. This will technically give you the best possible role compression and DPS potential overall. This is conditional, however, on your squad being able to maintain defensive capabilities throughout the fight, and especially in the proto phase. If you have experienced healers and feel confident, this composition may work for you.
+Identical to the "Lean" composition but played without a 10% tank, granting an ideal role compression and the best DPS potential overall. This is conditional, however, on your squad being able to maintain defensive capabilities throughout the fight, and especially in the proto phase. If you have experienced healers and feel confident, this composition may work for you.
 
 ---
 
 ### Additional Tips
 
 - If running two <img class='inline troubadour'> [Troubadours], you can solve all triple greens on the group using <img class='inline august-queen'> [Tale of the August Queen]. When doing so, it's beneficial for one of the greens to be slightly off-stack so that the healers can see its progress and time the skill correctly.
-- If you're not running a <img class='inline chrono'> [Chronomancer], the first reflect can be done by two players, with each taking a side.
+- If you're not running a <img class='inline chrono'> [Chronomancer], the first reflect can be done by two players running out together, with each taking a side.
 - <img class='inline harp'> [Harmonious Harp] differs from <img class='inline distortion'> [Distortion](https://wiki.guildwars2.com/wiki/Distortion) in that it always grants two seconds of <img class='inline invuln'> [Invulnerability] independent of the number of notes it consumes. This is often not enough to block all three [Blobs of Blight](https://silverhalf.github.io/mount-balrior/greer/mechanics.html#blob-of-blight): get used to dodging the third.
 - During the split phases, try to pull Gree to the center of the arena instead of directly to Reeg. This will make it easier to bait Ereg and position the squad closer to Greer at the end of the split phase.
-- Any greens or seekers that persist after the boss has died are real: players will need to solve them or they will <img class='inline downstate'> [Downstate].
+- Any greens or seekers that persist after the boss has died are real: players will need to solve them or they will <img class='inline invuln'> [Downstate].
 
 ---
 
 ## Legendary Ura, the Steamshrieker
 
-Legendary Ura is an extreme challenge that will test the group's ability to focus and play at the top of their game. While clearing this encounter with no <img class='inline invuln'> [Downstates] may seem difficult, it can become very consistent with practice. There are no overt one-shots: the fight is more of a consistent build-up, remaining manageable as long as you can keep up, with the risk getting overwhelmed by mechanics if you start falling behind. 
+Legendary Ura is an extreme challenge that will test the group's ability to focus and play at the top of their game. While clearing this encounter with no <img class='inline invuln'> [Downstates] may seem difficult, it can become very consistent with practice. There are no overt one-shots: the fight constantly ramps up, remaining manageable as long as you can keep up with its mechanics, with the risk of getting overwhelmed if you start falling behind.
 
 ---
 
@@ -284,13 +286,14 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline antiquary'> <img class='inline deadeye'> DPS, Solo CC | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=AkgVw1UcgbM) | July 2026 | [lean & mean](#greer-composition-table) Greer, Solo CC Ura |
 | <img class='inline specter'> AlacDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=hO6LsC023zA) | July 2026 | [Cozy](#greer-composition-table) Greer, 4-man Ura |
 | <img class='inline evoker'> AlacDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=HVkl2HJ32qE) | August 2026 | [Heal Bubble](#greer-composition-table) Greer, Solo CC Ura |
-| <img class='inline willbender'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=og6XYUrdwsM) | August 2026 | [lean](#greer-composition-table) Greer, 4-man Ura |
+| <img class='inline willbender'> DPS, Tank | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=Qeimiyhcrho) | May 2026 | [lean](#greer-composition-table) Greer, 4-man Ura |
 | <img class='inline scourge'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=rHOAEz7L398) | August 2026 | [lean](#greer-composition-table) Greer, Solo CC Ura |
 
 #### Other Useful Links
 
 - <img class='inline docs'> [Wing 8 Infallible Strategy](https://docs.google.com/document/d/1hvqI7ZHifOJ4hLlZUbqybbJXFLuW7qdVejjKIkvXMQY) by [WRDL] is one of the main references for this guide.
 - [Complete Mount Balrior CM Guide](https://silverhalf.github.io/mount-balrior) - contains detailed mechanical breakdowns and strategy guides for all CM and LCM bosses in this wing.
+- <img class='inline youtube'> <img class='inline troubadour'> [Celestial Troubadour Guide and Benchmarks](https://www.youtube.com/watch?v=bQ1ForwkTdQ) - currently the primary resource on this build.
 
 [< Wing 7](../wing-7/){: .btn } [Return to Home](../index.html){: .btn } [Wing 1 >](../wing-1/){: .btn } [Return to Top](#mount-balrior){: .btn .fixed}
 {: .center}
