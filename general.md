@@ -50,13 +50,7 @@ Players who leave the instance will also lose the effect: this limits character 
 
 ---
 
-## General Concepts
-
-In this section you will find some generally useful information on Infallible, along with concepts that commonly occur in speedrunning, which are described for reference's sake.
-
----
-
-### Marker Packs
+## Marker Packs
 
 Marker packs are add-ons that display custom trails, markers and other information visually in-game. They are commonly viewed using [Blish HUD](https://blishhud.com)'s [Pathing Module](https://blishhud.com/modules/?module=bh.community.pathing) or [TaimiHUD](https://taimihud.com/).
 
@@ -74,9 +68,9 @@ This guide will assume that you have installed PEAK's markers and reference them
 
 ---
 
-### Solo-Healing
+## Solo-Healing
 
-This is the practice of bringing only one healer for an encounter.
+This is an important concept for raid speedrunning: it's the practice of bringing only one healer for an encounter.
 
 Boons and healing abilities are almost always capped to a maximum of five targets, prioritizing players in their source's subgroup. For this reason, in a 10-man group, it's standard practice to bring two healers, with each supporting their own sub.
 
@@ -87,16 +81,6 @@ Solo-healing is extremely advantageous for speedrunning groups, as it generally 
 The disadvantage is the inherent risk of bringing one less healer: misplays are more likely to lead to <img class='inline invuln'> [Downstates], requiring everyone in the squad to pay more attention.
 
 Groups that are solo-healing must additionally pay careful attention to the subgroup without a healer, as it will often have less support. BoonDPS in this sub should be able to cover all boons that a healer normally would. <img class='inline protection'> [Protection] is especially important to mitigate incoming damage. Any classes that can provide passive healing or barrier are also extremely valuable. 
-
----
-
-### Role Compression
-
-Role compression is an important concept in all Guild Wars 2 instanced content. It consists in trying to concentrate an encounter's overall mechanical responsibilities into the smallest number of players possible.
-
-Mechanics almost always results in a DPS loss for players that have to cover them. By having a healer or other support take care of as many mechanics as possible, the DPS players can run more aggressive setups and focus on dealing damage.
-
-For this reason, groups will also try to concentrate things such as <img class='inline stability'> [Stability] and <img class='inline aegis'> [Aegis], additional [defiance damage], and other encounter-specific utility (such as <img class='inline pull'> [Pulls] and <img class='inline portal'> [Portals]) on supports instead of on DPS.
 
 
 [Stability]: https://wiki.guildwars2.com/wiki/Stability

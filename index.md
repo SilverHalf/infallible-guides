@@ -12,7 +12,7 @@ This website is a compendium of advanced strategies for Guild Wars 2 raids. It a
 Click on one of the links below to start reading.
 
 {: .warning}
-Proofreading is currently in progress. Please provide feedback if you find any issues.
+This guide is currently in the process of being proofread. Please provide feedback if you find any issues.
 
 [Introduction](./general.html){: .btn .center}
 
