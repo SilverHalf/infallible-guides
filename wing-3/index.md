@@ -515,7 +515,7 @@ Doing this will not save any time overall as the phase has a fixed duration, how
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline virtuoso'> <img class='inline mirage'> DPS, Portals | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=owYyLiLvZYg) | March 2026 | First Mesmer on Escort, Normal TC, Gliding Skip on Xera |

@@ -275,7 +275,7 @@ For more in-depth information on this encounter, read the [Legendary Ura Strateg
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline troubadour'> Cele, Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=YMYknZsWfhs) | July 2026 | Melee heal on Decima, [lean](#greer-composition-table) Greer, 3-heal rotation on Ura |

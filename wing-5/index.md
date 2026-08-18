@@ -407,7 +407,7 @@ Normally after phasing the boss to 10%, everyone is separated into their spirit 
 #### PoVs
 
 {: .note}
-This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
 | <img class='inline druid'> Heal, Push, Tank | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=1NJxYpNMVxc) | March 2026 | Broken King on Statues |
