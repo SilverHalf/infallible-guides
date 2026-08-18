@@ -28,7 +28,8 @@ Mount Balrior is a unique wing since its bosses are noticeably longer and more d
 
 #### Main Points
 {: .no_toc}
-- [Decima] is played with a standard strategy.
+- Standard strategies for Balrior CMs are fairly optimized, so speedruns re-hash many of the same concepts and compositions.
+- [Decima] is played with a standard strategy and celestial healers.
 - [Greer] can be played in a safer manner, or can be optimized by compressing specialized roles.
 - [Ura] can be played with either a [Solo CC] or a [4-man] composition.
 - Portals are used to optimize transitions from pre-events into the various bosses.
@@ -165,6 +166,8 @@ Make sure you are correctly providing <img class='inline aegis'> [Aegis] before 
 
 Greer as an encounter has a large amount of incoming damage and crowd control. [Most common strategies](https://silverhalf.github.io/mount-balrior/greer/strategy.html) therefore focus on mitigation and maintaining damage uptime. Speedrun compositions keep the framework of the standard "Cozy Strat" while focusing on role compression and positioning to improve DPS overall.
 
+This encounter poses a significant <img class='inline invuln'> [Downstate] risk and can be a significant hurdle for Infallible clears. Squads attempting the achievement must focus on proper movement and stacking so that everyone benefits from defensive utilities and projectile negation.
+
 ---
 
 ### Pre-Event - Legendary Blighted Beast
@@ -196,7 +199,7 @@ Based on the presence of the *bubble* and *10% tank* roles, we can build a table
 #### "Cozy" Composition
 {: .no_toc}
 
-This has been for a long time the safest composition for Greer CM, and is often seen in PUGs. The introduction of both special roles goes a long way in simplifying the fight, at the cost of a bit of DPS. The *bubble* is often played by a boonDPS, either a <img class='inline herald'> [Herald] or <img class='inline firebrand'> [Firebrand], white the *10% tank* is usually on a tanky class running either [Celestial] or [Trailblazer] gear. This composition is definitely the safest possible: run it if you have no concerns about DPS.
+This is the standard composition for Greer CM, and is often seen in PUGs. The use of both special roles simplifies the fight noticeably, at the cost of some DPS. The *bubble* is often played by a boonDPS, either a <img class='inline herald'> [Herald] or <img class='inline firebrand'> [Firebrand], white the *10% tank* is usually on a tanky class running either [Celestial] or [Trailblazer] gear. This composition is very safe: run it if you have no concerns about DPS.
 
 ---
 
@@ -215,9 +218,11 @@ To combat this issue, the *bubble* is almost always played by a third healer, of
 #### "Lean" Composition
 {: .no_toc}
 
-These compositions get rid of the *bubble* role and distribute its responsibility over the rest of the squad. Most of the slack is picked up by the <img class='inline mesmer'> [Mesmers] taking <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/25/Warden%27s_Feedback.png/60px-Warden%27s_Feedback.png'> [Warden's Feedback](https://wiki.guildwars2.com/wiki/Warden's_Feedback) and focus, letting them reflect with <img class='inline curtain'> [Temporal Curtain](https://wiki.guildwars2.com/wiki/Temporal_Curtain). It's also beneficial to have additional sources of backup nullification distributed through the squad, most commonly <img class='inline necromancer'> [Necromancers](https://wiki.guildwars2.com/wiki/Necromancer) with <img class='inline cpc'> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud).
+These compositions get rid of the *bubble* role and distribute its responsibility over the rest of the squad. Most of the slack is picked up by the <img class='inline mesmer'> [Mesmers] taking <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/25/Warden%27s_Feedback.png/60px-Warden%27s_Feedback.png'> [Warden's Feedback](https://wiki.guildwars2.com/wiki/Warden's_Feedback) and focus, letting them reflect by alternating <img class='inline feedback'> [Feedback] and <img class='inline curtain'> [Temporal Curtain](https://wiki.guildwars2.com/wiki/Temporal_Curtain). In this case, each <img class='inline mesmer'> [Mesmer] reflects the [Empowering Blast] coming from one of the adds in the main phase (double/single).
 
-With these compositions it's common to run a [Trailblazer] DPS as *10% tank*, often a <img class='inline willbender'> [Willbender]. This increases the overall safety of the protoling phase, as your two defensive supports can easily get overwhelmed if they have to contend with Greer's attacks on top of the protolings'. The tank will often rejoin the group after the first protoling dies, baiting out the jump in the process.
+It's highly recommended to have additional sources of backup nullification distributed through the squad. A common pick is <img class='inline necromancer'> [Necromancers](https://wiki.guildwars2.com/wiki/Necromancer) with <img class='inline cpc'> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud).
+
+With these compositions it's common to run a [Trailblazer] DPS as *10% tank*, often a <img class='inline willbender'> [Willbender]. This increases the overall safety of the protoling phase, as your two defensive supports can easily get overwhelmed if they have to contend with Greer's attacks on top of the protolings'. The tank will often rejoin the group before the first protoling dies, baiting out the jump in the process.
 
 ---
 
@@ -230,10 +235,62 @@ Identical to the "Lean" composition but played without a 10% tank. This will tec
 
 ### Additional Tips
 
-- If running two <img class='inline troubadour'> [Troubadours], you can solve all triple greens on stack using <img class='inline august-queen'> [Tale of the August Queen].
-- If you're not running a <img class='inline chrono'> [Chronomancer], the first reflect can be done by two players, each taking one side.
+- If running two <img class='inline troubadour'> [Troubadours], you can solve all triple greens on the group using <img class='inline august-queen'> [Tale of the August Queen]. When doing so, it's beneficial for one of the greens to be slightly off-stack so that the healers can see its progress and time the skill correctly.
+- If you're not running a <img class='inline chrono'> [Chronomancer], the first reflect can be done by two players, with each taking a side.
 - <img class='inline harp'> [Harmonious Harp] differs from <img class='inline distortion'> [Distortion](https://wiki.guildwars2.com/wiki/Distortion) in that it always grants two seconds of <img class='inline invuln'> [Invulnerability] independent of the number of notes it consumes. This is often not enough to block all three [Blobs of Blight](https://silverhalf.github.io/mount-balrior/greer/mechanics.html#blob-of-blight): get used to dodging the third.
 - During the split phases, try to pull Gree to the center of the arena instead of directly to Reeg. This will make it easier to bait Ereg and position the squad closer to Greer at the end of the split phase.
+- Any greens or seekers that persist after the boss has died are real: players will need to solve them or they will <img class='inline downstate'> [Downstate].
+
+---
+
+## Legendary Ura, the Steamshrieker
+
+Legendary Ura is an extreme challenge that will test the group's ability to focus and play at the top of their game. While clearing this encounter with no <img class='inline invuln'> [Downstates] may seem difficult, it can become very consistent with practice. There are no overt one-shots: the fight is more of a consistent build-up, remaining manageable as long as you can keep up, with the risk getting overwhelmed by mechanics if you start falling behind. 
+
+---
+
+### Transition from Greer
+
+Once [Greer] dies and you have solved any lingering mechanics, you should take the ley rift to Camp. From there, the quickest way to Ura is by either using the <img class='inline skyscale'> [Skyscale] or <img class='inline skimmer'> [Skimmer] to fly up directly to the arena, or by using the <img class='inline beetle'> [Roller Beetle] through the cave. The beetle is faster overall, but also more difficult to maneuver.
+
+Send one person to activate the Legendary mode before beginning the fight. Consider using a ready check if you have enough time.
+
+---
+
+### Composition and Strategy Choice
+
+Strategy wise, speedrunning LCM Ura looks very similar to standard runs. Public strategies are fairly optimized already, as the difficulty of the encounter mandates competency from all involved players. For Infallible runs, groups will have to choose which composition to run.
+
+- [Solo CC] compositions give the squad more leeway overall in class choice, as the only hard requirements are the presence of a CC player and a certain amount of <img class='inline stability'> [Stability] and condition cleanse. Speedrunners often use this composition as it lets experienced groups play around with riskier playstyles, such as solo-healing.
+- [4-man] compositions are often preferred by progression groups, especially on the EU server, and are therefore familiar to many players. For Infallible, these force you to run two <img class='inline mesmer'> [Mesmers] and two <img class='inline thief'> [Thieves]. This is often not an issue, as <img class='inline troubadour'> [Troubadour] is extremely strong on all three bosses and <img class='inline thief'> [Thief] has some good boonDPS options, but its viability depends strongly on your group's preferences and the current state of the meta.
+
+Almost all Infallible runs ignore [Titanspawners]. The benefits of keeping the group stacked and simplifying the melee rotation are undeniable if your objective is to get a reliable kill.
+
+For more in-depth information on this encounter, read the [Legendary Ura Strategy Guide](https://silverhalf.github.io/mount-balrior/ura-lcm/strategy.html).
+
+---
+
+## Additional Resources
+
+#### PoVs
+
+{: .note}
+This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+
+| Classes | Link | Date | Notes |
+| <img class='inline troubadour'> Cele, Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=YMYknZsWfhs) | July 2026 | Melee heal on Decima, [lean](#greer-composition-table) Greer, 3-heal rotation on Ura |
+| <img class='inline troubadour'> Cele, Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=STFUzQYnhNU) | July 2026 | Kite on Decima, [lean & mean](#greer-composition-table) Greer, Solo CC Ura |
+| <img class='inline troubadour'> Cele, Heal | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=MTeejBsb_OA) | July 2026 | Kite on Decima, [lean](#greer-composition-table) Greer, 4-man Ura |
+| <img class='inline antiquary'> <img class='inline deadeye'> DPS, Solo CC | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=AkgVw1UcgbM) | July 2026 | [lean & mean](#greer-composition-table) Greer, Solo CC Ura |
+| <img class='inline specter'> AlacDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=hO6LsC023zA) | July 2026 | [Cozy](#greer-composition-table) Greer, 4-man Ura |
+| <img class='inline evoker'> AlacDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=HVkl2HJ32qE) | August 2026 | [Heal Bubble](#greer-composition-table) Greer, Solo CC Ura |
+| <img class='inline willbender'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=og6XYUrdwsM) | August 2026 | [lean](#greer-composition-table) Greer, 4-man Ura |
+| <img class='inline scourge'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=rHOAEz7L398) | August 2026 | [lean](#greer-composition-table) Greer, Solo CC Ura |
+
+#### Other Useful Links
+
+- <img class='inline docs'> [Wing 8 Infallible Strategy](https://docs.google.com/document/d/1hvqI7ZHifOJ4hLlZUbqybbJXFLuW7qdVejjKIkvXMQY) by [WRDL] is one of the main references for this guide.
+- [Complete Mount Balrior CM Guide](https://silverhalf.github.io/mount-balrior) - contains detailed mechanical breakdowns and strategy guides for all CM and LCM bosses in this wing.
 
 [< Wing 7](../wing-7/){: .btn } [Return to Home](../index.html){: .btn } [Wing 1 >](../wing-1/){: .btn } [Return to Top](#mount-balrior){: .btn .fixed}
 {: .center}
@@ -241,10 +298,11 @@ Identical to the "Lean" composition but played without a 10% tank. This will tec
 <!-- Links to other pages in the guide -->
 [Decima]: #decima-the-stormsinger
 [Greer]: #greer-the-blightbringer
-[Ura]: #ura-1
+[Ura]: #legendary-ura-the-steamshrieker
 
 <!-- Links to classes and specializations -->
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
+[Thieves]: https://wiki.guildwars2.com/wiki/Thief
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
 [Mesmers]: https://wiki.guildwars2.com/wiki/Mesmer
 [Troubadour]: https://wiki.guildwars2.com/wiki/Troubadour
@@ -267,6 +325,7 @@ Identical to the "Lean" composition but played without a 10% tank. This will tec
 [Singularity Shot]: https://wiki.guildwars2.com/wiki/Singularity_Shot
 [Crescendo]: https://wiki.guildwars2.com/wiki/Crescendo
 [Harmonious Harp]: https://wiki.guildwars2.com/wiki/Harmonious_Harp
+[Feedback]: https://wiki.guildwars2.com/wiki/Feedback
 
 <!-- Links to buffs and debuffs -->
 [Downstate]: https://wiki.guildwars2.com/wiki/Downstate
@@ -287,6 +346,8 @@ Identical to the "Lean" composition but played without a 10% tank. This will tec
 [Spreads]: https://silverhalf.github.io/mount-balrior/decima/mechanics.html#chorus-of-thunder
 [Flux Nova]: https://silverhalf.github.io/mount-balrior/decima/mechanics.html#flux-nova
 [Legendary Blighted Beast]: https://wiki.guildwars2.com/wiki/Legendary_Blighted_Beast
+[Empowering Blast]: https://silverhalf.github.io/mount-balrior/greer/mechanics.html#empowering-blast 
+[Titanspawners]: https://silverhalf.github.io/mount-balrior/ura/mechanics.html#titanspawn-geysers
 
 <!-- Other -->
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
@@ -294,3 +355,8 @@ Identical to the "Lean" composition but played without a 10% tank. This will tec
 [4-man]: https://silverhalf.github.io/mount-balrior/ura-lcm/strategy.html#4-man-compositions
 [Trailblazer]: https://wiki.guildwars2.com/wiki/Trailblazer's
 [Celestial]: https://wiki.guildwars2.com/wiki/Celestial
+[Skyscale]: https://wiki.guildwars2.com/wiki/Skyscale
+[Skimmer]: https://wiki.guildwars2.com/wiki/Skimmer
+[Roller Beetle]: https://wiki.guildwars2.com/wiki/Roller_Beetle
+
+[pov tank]: https://www.youtube.com/watch?v=Qeimiyhcrho
