@@ -329,7 +329,7 @@ Begin the pre-event as normal. At *7:55* remaining on the timer, just before the
 Make sure you are far enough from the group that your players do not get <img class='inline stealth'> [Stealth] instead of the reapers.
 
 {: .note}
-This can also be done with other classes (traditionally a <img class='inline druid'> [Druid] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/61/Celestial_Shadow.png/38px-Celestial_Shadow.png'> [Celestial Shadow](https://wiki.guildwars2.com/wiki/Celestial_Shadow)) by <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
+This can also be done with other classes by <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
 
 Once Dhuum is about to spawn, the tank should position in front of the throne so that the boss swivels around to hit them after walking out. You will then get a long DPS phase with the squad behind the boss and the tank absorbing the aggro. In this period, the Green 1 will come back from <img class='inline square'> and the Green 2 will complete <img class='inline star'>.
 
