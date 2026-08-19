@@ -284,7 +284,7 @@ Once you reach the [Broken King], immediately glide into any unoccupied greens b
 
 ## Dhuum
 
-Dhuum is a long, elaborate fight where lots of things can be optimized, resulting in significant differences between a normal pull and a speedrun pull.
+Dhuum is a long, elaborate fight where the standard strategy implements slightly suboptimal gameplay for the sake of safety and consistency. This results in significant differences between a normal pull and a speedrun.
 
 ---
 
@@ -305,7 +305,7 @@ It is possible to start the encounter in such a way that the [Echo] gets stuck n
 <iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is very easy to do with a [marker pack]:
-1. Have one player with a portal position on the marker and look at the second marker on the wall.
+1. Have a player with a portal position on the marker and look at the second marker on the wall.
 2. This player then opens their portal next to <img class=inline src='./desmina.png'> Desmina.
 3. Everyone should take the portal and *stand still* on the exit.
 4. The kiter talks to Desmina to begin the encounter, then immediately also takes the portal.
@@ -348,15 +348,15 @@ It's convenient to pull Dhuum towards <img class='inline arrow'>, as this brings
 {: .note}
 The Green 3 should try to collect a *medium orb* while completing <img class='inline swirl'>, as this will prevent a [Messenger] from spawning during [Greater Death Mark]. If they don't manage to do so, they should alert the kiter.
 
-[Greater Death Mark] is one of the critical moments in the fight, as you will have many overlapping mechanics: stripping Dhuum, cleansing and re-applying conditions, the [Enforcer] re-spawning and running straight for the group,  and the suction potentially pulling players to their death. You can additionally get a [Messenger] if the Green 3 did not collect the medium orb.
+[Greater Death Mark] is one of the critical moments in the fight, as you will have many overlapping mechanics: stripping Dhuum, cleansing and re-applying conditions, the [Echo] re-spawning and running straight for the group,  and the suction potentially pulling players to their death. You can additionally get a [Messenger] if the Green 3 did not collect the medium orb.
 
 <div class="row-container">
 
 <div class='adapt-width-50' markdown=block>
 One way to manage this sequence is by:
-1. Stacking tightly just before the dip in order to reliably bait the [Enforcer] towards the group.
-2. Walking backwards out of the Enforcer's path.
-3. Providing a portal backwards out of the suction, as both a safety for players that get too close and as a possible escape path from the [Enforcer]. 
+1. Stacking tightly just before the dip in order to reliably bait the [Echo] towards the group.
+2. Walking backwards out of the Echo's path.
+3. Providing a portal backwards out of the suction, as both a safety for players that get too close and as a possible escape path from the [Echo]. 
 </div>
 
 <div class='center adapt-width'>
@@ -365,7 +365,7 @@ One way to manage this sequence is by:
 </div>
 
 {: .warning}
-Before taking any portal, make sure that the exit is safe from the [Enforcer]. If it isn't, call it out to the rest of the group.
+Before taking any portal, make sure that the exit is safe from the [Echo]. If it isn't, call it out to the rest of the group.
 
 Once the suction ends, it's convenient to leave Dhuum in the center of the arena. The tank should be in position to avoid any rogue scythe swipes on the group, which can lead to downs if players do not have <img class='inline protection'> [Protection] or <img class='inline aegis'> [Aegis]. Shortly before the next [Death Mark] at *5:47* on the timer, the tank should walk into the rest of the group so that the red spawns slightly off-center. They can then pull the boss out of the red, keeping it in the center. From this position you can easily access the greens on <img class='inline circle'>, <img class='inline heart'> and <img class='inline square'>.
 
@@ -383,13 +383,13 @@ Once the suction ends, it's convenient to leave Dhuum in the center of the arena
 
 You can then walk Dhuum out of the red as before, and continue DPS keeping him close to the center. From this position you can easily access the greens on <img class='inline circle'>, <img class='inline heart'> and <img class='inline square'>.
 
-High-damage groups should be able to phase the boss before the next [Greater Death Mark]. If you have to play this mechanic, treat it identically to the first death mark: stay stacked, walk backwards out ot the [Enforcer]'s path, and provide a portal out. You should not see an additional [Death Mark].
+High-damage groups should be able to phase the boss before the next [Greater Death Mark]. If you have to play this mechanic, treat it identically to the first death mark: stay stacked, walk backwards out ot the [Echo]'s path, and provide a portal out. You should not see an additional [Death Mark].
 
 ---
 
 ### Skipping the Collection Phase
 
-Normally after phasing the boss to 10%, everyone is separated into their spirit form and has to collect five orbs before returning to the platform. It is possible to skip this process by getting picked up by the [Enforcer] just before getting your soul ripped out. This results in the player spawning in the center of the safe area as if they had collected their orbs normally.
+Normally after phasing the boss to 10%, everyone is separated into their spirit form and has to collect five orbs before returning to the platform. It is possible to skip this process by getting picked up by the [Echo] just before getting your soul ripped out. This results in the player spawning in the center of the safe area as if they had collected their orbs normally.
 
 ---
 
