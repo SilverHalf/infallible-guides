@@ -28,5 +28,10 @@ nav_order: 11
 
 # Credits
 
+A big thank you to everyone who aided in proofreading and gave feedback on this guide!
+The following sources were used in some shape, way or form:
+
 - [The Official Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page) - information on the encounters and all icons.
 - [Elite Insights](https://github.com/baaron4/GW2-Elite-Insights-Parser) - images of the encounter arenas, drawn by **@Linus**.
+- <img class='inline docs'> [Wing 8 Infallible Strategy by [WRDL]](https://docs.google.com/document/d/1hvqI7ZHifOJ4hLlZUbqybbJXFLuW7qdVejjKIkvXMQY) - information on wing 8 transitions and strategy.
+- <img class='inline youtube'> [Comprehensive Escort Speedrun Guide](https://www.youtube.com/watch?v=qfR-D7Ps5Fo) and <img class='inline youtube'> [Twisted Castle Speedrun Explanation](https://www.youtube.com/watch?v=jvyYtfpv7Gc) by Areki.

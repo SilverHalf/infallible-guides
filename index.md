@@ -7,26 +7,24 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This website is a compendium of advanced strategies for Guild Wars 2 raids. It aims to provide a solid central reference, thus serving as a starting point for those looking to get into Infallible, and raid speedrunning in general.
-
-Click on one of the links below to start reading.
+This website is a compendium of advanced strategies for Guild Wars 2 raids. It aims to provide a solid central reference, thus serving as a starting point for those looking to get into the Infallible achievement, and raid speedrunning in general.
 
 {: .warning}
-This guide is currently in the process of being proofread. Please provide feedback if you find any issues.
+This guide is currently in the process of being proofread: some information may be inaccurate. Please provide feedback if you find any issues.
 
 [Introduction](./general.html){: .btn .center}
 
 <div class="row-container">
-    <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);"></a>
-    <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);"></a>
-    <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);"></a>
-    <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);"></a>
+    <a href='./wing-1' class="index-button" style="background-image: url(wing-1/banner.jpg);">I</a>
+    <a href='./wing-2' class="index-button" style="background-image: url(wing-2/banner.png);">II</a>
+    <a href='./wing-3' class="index-button" style="background-image: url(wing-3/banner.jpg);">III</a>
+    <a href='./wing-4' class="index-button" style="background-image: url(wing-4/banner.jpg);">IV</a>
 </div>
 <div class="row-container">
-    <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);"></a>
-    <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);"></a>
-    <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);"></a>
-    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);"></a>
+    <a href='./wing-5' class="index-button" style="background-image: url(wing-5/banner.jpg);">V</a>
+    <a href='./wing-6' class="index-button" style="background-image: url(wing-6/banner.jpg);">VI</a>
+    <a href='./wing-7' class="index-button" style="background-image: url(wing-7/banner.jpg);">VII</a>
+    <a href='./wing-8' class="index-button" style="background-image: url(wing-8/banner.png);">VIII</a>
 </div>
 
 ---
