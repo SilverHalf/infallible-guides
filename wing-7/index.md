@@ -178,6 +178,9 @@ At this point the encounter will be over, and you can either head into the [Leys
 
 This transition is often done with an out-of-bounds skip. The <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-faith'> [Bond of Faith] enable a player to get to the [Basalt Arena] while [Gate] is still ongoing, place a <img class='inline portal'> <img class='inline shadow-portal'> portal down and retrace their steps back to [Gate], portaling everyone over once the event ends.
 
+{: .note}
+When doing this skip, have someone glide from the portal towards the [Leystone Axis] to trigger Adina's pre-event, otherwise it will not start.
+
 <img class='center bordered' width='60%' src='./gate/oob-skip.webp'>
 
 This saves a lot of time, as otherwise you would have to sit through all the dialogue in the [Leystone Axis] before the doors to [Adina] and [Sabir] are opened. While this is not strictly necessary to meet the timer, it makes it significantly easier overall.
