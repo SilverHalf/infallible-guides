@@ -26,8 +26,6 @@ parent: Guides
 
 Spirit Vale is a transition-heavy wing, with relatively little time spent in combat with bosses. Efficient movement and skips are thus extremely important, as the Infallible timer for this wing is notoriously difficult.
 
----
-
 #### Main Points
 {: .no_toc}
 
@@ -40,7 +38,7 @@ Spirit Vale is a transition-heavy wing, with relatively little time spent in com
 
 ## Composition
 
-Spirit Vale compositions bring several classes focused on group mobility and portals. Groups will usually run at least two <img class='inline mesmer'> [Mesmers] to provide <img class='inline portal'> [Portals] at various points in the wing, flexing them as necessary between heal, boonDPS and DPS. Groups will sometimes run an additional <img class='inline thief'> [Thief] or <img class='inline mesmer'> [Mesmer] for out-of-bounds skips, with <img class='inline thief'> [Thief] being the easier of the two to execute.
+Spirit Vale compositions bring several classes focused on group mobility and portals. Two <img class='inline mesmer'> [Mesmers] are almost always present to provide <img class='inline portal'> [Portals] at various points in the wing. Groups will sometimes run an additional <img class='inline thief'> [Thief] or <img class='inline mesmer'> [Mesmer] for out-of-bounds skips, with <img class='inline thief'> [Thief] being the easier of the two to execute.
 
 Solo-healing is common on all three bosses, and can be made much easier by supporting the off-heal sub with classes such as <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist]. Common choices for healers include:
 - <img class='inline troubadour'> [Troubadour] for role compression with the <img class='inline mesmer'> [Mesmer] slot.

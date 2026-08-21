@@ -58,13 +58,13 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 
 #### Bandit Trio
 {: .no_toc}
-- Since this encounter does not benefit much from additional DPS, it can be beneficial to run an additional healer, especially if your usual healer is doing portals.
+- Since this encounter does not benefit much from additional DPS, it is possible to run an additional healer, especially if one of the regular heals is doing portals.
 - Assign one or two DPS with good survivability to do mortars.
 
 #### Matthias
 {: .no_toc}
 - Ensure you have a good amount of <img class='inline pull'> pull skills to speed up the transition from Trio.
-- Remember to bring <img class='inline feedback'> [Projectile Reflection]. If possible, bring multiple sources to ensure no mishaps end your run.
+- Remember to bring <img class='inline feedback'> [Projectile Reflection]. If possible, bring multiple sources to ensure you always have a backup.
 
 ---
 

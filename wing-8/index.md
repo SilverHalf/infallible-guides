@@ -24,7 +24,7 @@ parent: Guides
 </div>
 </details>
 
-Mount Balrior is a unique wing since all of its bosses are formidable and take noticeably longer to kill than in any other raid. Fast clears require good damage and clean execution of all three encounters, including Legendary Ura at the end of it all. The Infallible timer itself is not too harrying: most of the wing's difficulty comes from the high risk of <img class='inline invuln'> [Downstates], which in turn is exacerbated by its long duration.
+Mount Balrior's three formidable bosses have much higher HP than the average Guild Wars 2 raid. Fast clears require good damage and clean execution of all three, including Legendary Ura for Infallible runs. The Infallible timer itself is not too harrying: most of the wing's difficulty comes from the high risk of <img class='inline invuln'> [Downstates], which in turn is exacerbated by its long duration.
 
 #### Main Points
 {: .no_toc}
@@ -38,13 +38,13 @@ Mount Balrior is a unique wing since all of its bosses are formidable and take n
 
 ## Composition
 
-Most groups will run two <img class='inline mesmer'> [Mesmers], as they provide irreplaceable utility. These are usually <img class='inline troubadour'> [Troubadours], as they have unique healing and defensive skills that make them particularly well suited for all three encounters. At least one <img class='inline thief'> [Thief] is almost always present due to its unparalleled CC capabilities.
+Most groups will run two <img class='inline mesmer'> [Mesmers], as they provide irreplaceable utility. These are usually <img class='inline troubadour'> [Troubadours], as they have unique healing and defensive skills that make them desirable on all three encounters. At least one <img class='inline thief'> [Thief] is almost always present due to its unparalleled CC capabilities.
 
 The rest of the composition is mostly determined by your strategy on [Ura]:
 - [Solo CC] compositions are much more flexible but require an experienced Solo CC player.
 - [4-man] compositions are rigid but make ranged gameplay easier overall.
 
-Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the respawning enemies inside the mountain, commonly known as ["Tunneling"](https://www.youtube.com/watch?v=J5zNxbxZInI).
+Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the respawning enemies inside the mountain before starting, commonly known as ["Tunneling"](https://www.youtube.com/watch?v=J5zNxbxZInI).
 
 For Infallible runs, prioritize consistency and safety over raw damage: redundant defensive utility, [Trailblazer] builds, and comfort picks wherever possible will all improve your experience progressing this wing. 
 

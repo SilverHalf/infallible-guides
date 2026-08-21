@@ -26,8 +26,6 @@ parent: Guides
 
 Mythwright Gambit speedrunning varies greatly based on the week, as [Minipets] takes much longer to clear than [Ooze]. Most time gains revolve around an efficient [Conjured Amalgamate], a good transition from [Twin Largos] to [Qadim], and a fast [Qadim] kill. The Infallible timer for this wing is very liberal on [Ooze] weeks, but can become tight with bad [Minipets] RNG.
 
----
-
 #### Main Points
 {: .no_toc}
 - [Conjured Amalgamate] is played with a non-standard strategy that depends somewhat on RNG.
