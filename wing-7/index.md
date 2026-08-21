@@ -26,12 +26,10 @@ parent: Guides
 
 The Key of Ahdashim is a balanced raid with a mix of bosses, events and transitions. As one of the more dialogue-heavy wings in the game, fast clears consistently use out-of-bounds skips to make the timer more manageable.
 
----
-
 #### Main Points
 {: .no_toc}
 
-- [Gate] is usually done twice, resetting the first pull to skip the initial dialogue.
+- [Gate] can be done twice, resetting the first pull to skip the initial dialogue.
 - [Adina] is played assuming that players can skip pillars, and splitting the group to kill all hands simultaneously in the split phases.
 - [Sabir] optimization revolves around portals for the platform transitions and group invulnerability to skip certain mechanics.
 - [Qadim] can be made much faster through efficient tether management, fire positioning and boonstrips.

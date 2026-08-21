@@ -24,9 +24,7 @@ parent: Guides
 </div>
 </details>
 
-This wing mostly consists of boss fights, meaning that high DPS is essential to getting a good time. Samarog and Deimos can be especially punishing, as they have many dangerous mechanics that can be run-ending if misplayed. Good composition, smooth transitions and a lot of practice are the keys to being fast on this wing.
-
----
+The Bastion of the Penitent mostly consists of boss fights, meaning that high DPS is essential for a fast clear. Samarog and Deimos can be especially punishing, as they have many dangerous mechanics that can be run-ending if misplayed. Good composition, smooth transitions and a lot of practice are the key factors on this wing.
 
 #### Main Points
 {: .no_toc}
@@ -34,7 +32,7 @@ This wing mostly consists of boss fights, meaning that high DPS is essential to 
 - High damage is especially important since most of the wing is spent in combat. Solo-healing is recommended.
 - [Cairn] and [Mursaat Overseer] are golems and played similarly to normal runs.
 - [Samarog] is highly dependant on optimized positioning and split phases.
-- [Deimos] is the run-ender with his plethora of dangerous attacks. Your clear is conditional on correct management of these mechanics.
+- [Deimos] is the run-ender with a plethora of dangerous attacks. Your clear is conditional on correct management of these mechanics.
 
 ---
 
@@ -53,7 +51,7 @@ Apart from this, you are basically free to run whatever composition deals most d
 #### Cairn
 {: .no_toc}
 - <img class='inline stability'> [Stability] will enable you to ignore greens while not getting <img class='inline float'> [Float].
-- <img class='inline august-queen'> [Tale of the August Queen] lets a subgroup ignore the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Countdown.png/30px-Countdown.png'> [Countdown](https://wiki.guildwars2.com/wiki/Countdown) mechanic until the second green, making <img class='inline troubadour'> [Troubadour] extremely high value.
+- <img class='inline troubadour'> [Troubadour] is an extremely high value pick, as <img class='inline august-queen'> [Tale of the August Queen] lets a subgroup ignore the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Countdown.png/30px-Countdown.png'> [Countdown](https://wiki.guildwars2.com/wiki/Countdown) mechanic until the second green.
 
 #### Mursaat Overseer
 {: .no_toc}

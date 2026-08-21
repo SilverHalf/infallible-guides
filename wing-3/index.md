@@ -24,16 +24,14 @@ parent: Guides
 </div>
 </details>
 
-Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, eclipsing the rest of the wing in relevance.
-
----
+Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] and [Twisted Castle]. These two encounters are run with innovative tactics that greatly reduce their clear time, making them much more impactful than the rest of the wing.
 
 #### Main Points
 {: .no_toc}
 
 - [Escort] is run with a risky strategy that aims to gain as much time as possible.
 - [Keep Construct] is played without moving the boss from the center, aiming to skip the exposed phase.
-- [Twisted Castle] can be run extremely quickly with a risky strategy, but this is often not necessary timer-wise.
+- [Twisted Castle] can be run extremely quickly with a risky strategy.
 - [Xera] is played similarly to standard runs. High DPS means that boss movement can be minimized.
 
 ---

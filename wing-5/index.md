@@ -26,8 +26,6 @@ parent: Guides
 
 Hall of Chains speedruns mostly revolve around optimizing [River of Souls] and [Statues of Grenth]. While the Infallible timer for this wing is rather lenient, the achievement can be very punishing overall due to the length of the wing and how easy it is to go <img class='inline invuln'> [Downstate] on both [Statues] and [Dhuum].
 
----
-
 #### Main Points
 {: .no_toc}
 
