@@ -283,7 +283,7 @@ Once the first area is cleared, the rest of the event is usually played in one o
 
 ### Double Portals
 
-This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. Doing the pre-event this way is extremely. However, it can be punishing to miss a bandit as you do not have as many available.
+This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. Doing the pre-event this way is extremely fast. However, it can be punishing to miss a bandit as you do not have as many available.
 
 <div class="row-container">
 
