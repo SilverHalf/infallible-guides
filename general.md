@@ -86,14 +86,16 @@ Groups that are solo-healing must additionally pay careful attention to the subg
 
 ## Food Swapping
 
-This is a technique used to increase DPS on encounters that spawn minor enemies alongside the main boss. It consists in using consumable food items that grant temporary stats on kill (such as <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/53/Dragon%27s_Breath_Bun.png/60px-Dragon%27s_Breath_Bun.png'> [Dragon's Breath Buns](https://wiki.guildwars2.com/wiki/Dragon's_Breath_Bun)) just before an enemy dies, and then eating another food with a flat effect, such as an [Ascended Feast](https://wiki.guildwars2.com/wiki/Ascended_feast). This effectively grants both the temporary and the flat bonus simultaneously, resulting in a "free" boost.
+This is a technique used to increase DPS on encounters that spawn minor enemies alongside the main boss. It involves consuming [food](https://wiki.guildwars2.com/wiki/Food) items that grant temporary stats on kill (such as <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/53/Dragon%27s_Breath_Bun.png/60px-Dragon%27s_Breath_Bun.png'> [Dragon's Breath Buns](https://wiki.guildwars2.com/wiki/Dragon's_Breath_Bun)) just before an enemy dies, and then immediately applying another food with a flat effect, commonly an [Ascended Feast](https://wiki.guildwars2.com/wiki/Ascended_feast). This effectively grants both the temporary and the flat bonus simultaneously, resulting in a "free" boost.
 
 #### Examples
 {: .no_toc}
 
 [<img class='inline youtube'> <img class='inline berserker'> HTCM DPS PoV by Airen](https://www.youtube.com/watch?v=7hbdYoKnWwE){: .btn} [<img class='inline youtube'> <img class='inline bladesworn'> Gorseval WR by [MCA]](https://www.youtube.com/watch?v=zTiHakYXBTs){: .btn}
 
-Food swapping is difficult and expensive, and is usually only done by experienced groups that need the additional damage. Inexperienced players may sometimes even lose DPS attempting this technique. Very skilled players instead will sometimes even double or triple food swap, overlapping the bonuses from multiple on-kill sources for a massive stat bonus. An example would be swapping between <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/53/Dragon%27s_Breath_Bun.png/60px-Dragon%27s_Breath_Bun.png'> [Dragon's Breath Buns](https://wiki.guildwars2.com/wiki/Dragon's_Breath_Bun) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/fa/Block_of_Tofu.png/60px-Block_of_Tofu.png'> [Block of Tofu](https://wiki.guildwars2.com/wiki/Block_of_Tofu).
+Food swapping is difficult and expensive, and is usually only done by experienced groups for a bit of additional damage: inexperienced players may sometimes even lose DPS attempting this technique.
+
+Very skilled players will sometimes double or triple food swap, overlapping the bonuses from multiple on-kill sources for a massive stat bonus. An example would be swapping between <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/53/Dragon%27s_Breath_Bun.png/60px-Dragon%27s_Breath_Bun.png'> [Dragon's Breath Buns](https://wiki.guildwars2.com/wiki/Dragon's_Breath_Bun) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/fa/Block_of_Tofu.png/60px-Block_of_Tofu.png'> [Block of Tofu](https://wiki.guildwars2.com/wiki/Block_of_Tofu).
 
 {: .note}
 Food swapping does not work on every encounter in the game. For example, in the [Spirit Vale](./wing-1/index.html) it works on [Vale Guardian](./wing-1/index.html#vale-guardian-1) and [Gorseval](./wing-1/index.html#gorseval-1)'s split phases, but not on [Sabetha](./wing-1/index.html#sabetha-1)'s.
