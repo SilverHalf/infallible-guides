@@ -248,20 +248,20 @@ If you can spare the utility slots and need to do an additional friends mechanic
 > </div>
 
 <div class="row-container">
-<div class='adapt-width-50' markdown=block>
-As soon as [Guldhelm] is about to die, the tank should preposition between *6* and *8* to make Samarog walk all the way out of the spears. The rest of the squad can remain on *6* (or *7* if the spear on *5* was misplaced).
-</div>
 <div class='center adapt-width'>
 <img class='center' src='./samarog/samarog_5.webp'>
+</div>
+<div class='adapt-width-50' markdown=block>
+As soon as [Guldhelm] is about to die, the tank should preposition between *6* and *8* to make Samarog walk all the way out of the spears. The rest of the squad can remain on *6* (or *7* if the spear on *5* was misplaced).
 </div>
 </div>
 
 <div class="row-container">
-<div class='center adapt-width'>
-<img class='center' src='./samarog/samarog_6.webp'>
-</div>
 <div class='adapt-width-50' markdown=block>
 As in the previous phase, remain at maximum melee range to bait out the friend mechanic far from the boss, rotating to a new position when it's convenient. Don't feel like you're forced to follow them sequentially: go to wherever you have space.
+</div>
+<div class='center adapt-width'>
+<img class='center' src='./samarog/samarog_6.webp'>
 </div>
 </div>
 
