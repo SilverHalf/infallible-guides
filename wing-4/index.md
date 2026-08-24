@@ -237,6 +237,16 @@ Once you get the friends mechanic on *4*, you can move to *5*, and then to *6* i
 {: .note}
 If you can spare the utility slots and need to do an additional friends mechanic, remember that people targeted by the friends mechanic can still take <img class='inline shadow-portal'> [Shadow Portal] and <img class='inline portal'> [Portal Entre], allowing the spear to be placed anywhere.
 
+{: .note}
+> <div class="row-container">
+> <div class='adapt-width-50' markdown=block>
+> If you are struggling for space, you can use the alternative spear placement shown in the image. This lets you place more spears and start damaging the boss sooner at the end of the split phase. The disadvantage is that it requires accurate positioning, as players are more likely to be hit or feared by spears.
+> </div>
+> <div class='center adapt-width'>
+> <img class='center' src='./samarog/samarog_5_alt.webp'>
+> </div>
+> </div>
+
 <div class="row-container">
 <div class='adapt-width-50' markdown=block>
 As soon as [Guldhelm] is about to die, the tank should preposition between *6* and *8* to make Samarog walk all the way out of the spears. The rest of the squad can remain on *6* (or *7* if the spear on *5* was misplaced).
