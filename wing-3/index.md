@@ -38,7 +38,7 @@ Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] 
 
 ## Composition
 
-Most compositions will run at least one <img class='inline mesmer'> [Mesmer] and one <img class='inline thief'> [Thief], which have utility that cannot be easily replaced. The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time.
+Most compositions will run at least two <img class='inline mesmer'> [Mesmers], a <img class='inline thief'> [Thief] and an <img class='inline engineer'> [Engineer], since they provide irreplaceable utility. The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time.
 
 Both bosses favour <img class='inline power'> Power damage but have relatively long phases, meaning that burst damage isn't as important.
 
@@ -49,22 +49,22 @@ Both bosses favour <img class='inline power'> Power damage but have relatively l
 
 - The squad will divide into two groups: a *Tower* group and a *Ground* group.
 - The *Tower* group contains six people:
-  - One <img class='inline thief'> [Thief] running <img class='inline shadow-portal'> [Prepare Shadow Portal] and <img class='inline infiltrator'> [Infiltrator's Signet].
-  - One <img class='inline mesmer'> [Mesmer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
-  - A second <img class='inline mesmer'> [Mesmer] with <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink] if you intend to do the [second set of <img class='inline glenna'> Glenna ports](#4-fourth-tower-and-glenna-ports).
-  - One healer (if not running a heal <img class='inline mesmer'> [Mesmer]). <img class='inline druid'> [Druid] is an excellent choice due to <img class='inline tides'> [Glyph of the Tides].
+  - Two <img class='inline mesmer'> [Mesmers] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
+  - A healer if not running a heal <img class='inline mesmer'> [Mesmer]. <img class='inline druid'> [Druid] is an excellent choice due to <img class='inline tides'> [Glyph of the Tides].
   - Enough DPS to get to six people.
-- The *Tower* group bust bring at least three skills that can clear towers. See [Clearing Towers](#clearing-towers) for more information.
+- The *Tower* group must bring at least three skills that can clear towers. See [Clearing Towers](#clearing-towers) for more information.
 - The *Ground* group contains four people:
   - A <img class='inline scrapper'> [Scrapper] to provide <img class='inline glenna'> [Glenna] with <img class='inline superspeed'> [Superspeed] and <img class='inline quickness'> [Quickness].
   - A healer with high <img class='inline stability'> [Stability] uptime, such as <img class='inline guardian'> [Guardian] or <img class='inline mesmer'> [Mesmer].
-  - Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime, usually either <img class='inline elementalist'> [Elementalist] or <img class='inline necromancer'> [Necromancer] (see [Warg Management](#warg-management) for more information).
+  - Two DPS or BoonDPS that can provide high <img class='inline blind'> [Blinded] uptime, usually either <img class='inline elementalist'> [Elementalist], <img class='inline necromancer'> [Necromancer] or <img class='inline thief'> [Thief] (see [Warg Management](#warg-management) for more information).
+- One <img class='inline thief'> [Thief] running <img class='inline shadow-portal'> [Prepare Shadow Portal] and <img class='inline infiltrator'> [Infiltrator's Signet] is required for the [cave skip](#2-cave-skip--tanking-tower-shots). This can also be done with a <img class='inline mirage'> [Mirage], but is significantly faster and easier on <img class='inline thief'> [Thief].
 
 #### Keep Construct
 {: .no_toc}
-- Strongly favours <img class='inline power'> power damage due to the boss having less armor than normal.
-- Fairly easy to solo-heal using a single celestial healer such as <img class='inline specter'> [Specter], <img class='inline scourge'> [Scourge] or <img class='inline troubadour'> [Troubadour].
-- Try not to bring too much CC as you don't want to break his <img class='inline defiance'> [Defiance Bar].
+- Strongly favours <img class='inline power'> power damage due to the boss having reduced armor.
+- Fairly easy to solo-heal using a single celestial healer.
+- Try not to bring CC as you don't want to break his <img class='inline defiance'> [Defiance Bar].
+- <img class='inline no-yield'> ["We Will Never Yield!"] can be used to ignore the spread mechanic.
 
 #### Twisted Castle
 {: .no_toc}
@@ -118,7 +118,7 @@ Teleporting Glenna in this manner is not accepted in most speedrun formats.
 
 #### Clearing Towers
 
-To capture a tower, the number of players within the capture point must exceed the number of enemies. The greater the difference, the faster the tower is captured. Thus ideally we maximize the speed of capture by:
+To capture a tower, the number of players within the capture point must exceed the number of enemies. Ye maximize the speed of capture by:
 1. Sending as many people into each capture point as possible (this is why six people are in the tower group).
 2. Quickly clearing enemies from capture points using skills that inflict <img class='inline knockback'> [Knockback] or <img class='inline fear'> [Fear] in an area.
 
@@ -127,8 +127,11 @@ Skills that can clear towers include:
 - <img class='inline tides'> [Glyph of the Tides] on <img class='inline druid'> [Druid].
 - <img class='inline fear-me'> ["Fear Me!] on <img class='inline warrior'> [Warrior].
 - <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
+- <img class='inline curtain'> [Temporal Curtain] followed by <img class='inline illusionary-wave'> [Illusionary Wave] on <img class='inline mesmer'> [Mesmer]*\**.
 
 Groups should bring at least three of these skills so that one will be ready for each tower.
+
+> *\** Since <img class='inline curtain'> [Temporal Curtain] requires two casts, it can leave enough time for [White Mantle Cultists](https://wiki.guildwars2.com/wiki/White_Mantle_Cultist_(Forsaken_Thicket)) to summon their minions. This is an issue if capturing solo since <img class='inline curtain'> [Temporal Curtain] and <img class='inline illusionary-wave'> [Illusionary Wave] are limited to 5 targets. However, this is not an issue as long as you have multiple people aiding with the capture.
 
 ---
 
@@ -137,13 +140,13 @@ Groups should bring at least three of these skills so that one will be ready for
 The ground group should be arranged in the following manner:
 - The <img class='inline scrapper'> [Scrapper] should run slightly in front of <img class='inline glenna'> [Glenna] while giving <img class='inline superspeed'> [Superspeed] to both her and the rest of the group.
 - The two DPS should go ahead to clear out adds while spamming <img class='inline call-out'> [Over Here!], but not far enough to be out of range of the <img class='inline scrapper'> [Scrapper].
-- The healer should stay close <img class='inline glenna'> [Glenna] and heal her as much as possible.
+- The healer should stay close <img class='inline glenna'> [Glenna] and heal her whenever she takes damage. They should also use <img class='inline call-out'> [Over Here!] as much as possible.
 
 ---
 
 #### Warg Management
 
-Killing wargs is not viable, since the bottom group does not have enough damage and it loses a lot of time. Instead, groups should ferry <img class='inline glenna'> [Glenna] around them as much as possible while applying <img class='inline cripple'> [Crippled], <img class='inline immobile'> [Immobile] and <img class='inline blind'> [Blinded] to prevent them from hitting her.
+Killing wargs is not viable, since the ground group does not have enough damage and it loses a lot of time. Instead, groups should ferry <img class='inline glenna'> [Glenna] around them as much as possible while applying <img class='inline cripple'> [Crippled], <img class='inline immobile'> [Immobile] and <img class='inline blind'> [Blinded] to prevent them from hitting her.
 
 Blind in particular is extremely important, as in certain parts you can have as many as 4 wargs trying to hit <img class='inline glenna'> [Glenna] simultaneously. For this reason, it's important to have at least two players with skills that pulse <img class='inline blind'> [Blinded]. Standard picks include <img class='inline necromancer'> [Necromancer] with <img class='inline well-darkness'> [Well of Darkness], <img class='inline elementalist'> [Elementalist] with <img class='inline sandstorm'> [Sandstorm] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/7/7f/Dust_Storm.png/72px-Dust_Storm.png'> [Dust Storm](https://wiki.guildwars2.com/wiki/Dust_Storm), and <img class='inline thief'> [Thief] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/3e/Black_Powder.png/72px-Black_Powder.png'> [Black Powder](https://wiki.guildwars2.com/wiki/Black_Powder) or <img class='inline infiltrator-arrow'> [Infiltrator's Arrow](https://wiki.guildwars2.com/wiki/Infiltrator%27s_Arrow).
 
@@ -162,7 +165,7 @@ Before you start a run, you want to prepare the instance so that the bridge at t
 - The fast way additionally has multiple players /GG-ing at specific instances to skip up to 40 seconds of dialogue. This requires some coordination and is often done in speedruns, but has no advantage in Infallible runs apart from not having to listen to <img class='inline glenna'> [Glenna] yap.
 
 {: .warning}
-If the triggered wipe happens too early, it can bug the encounter and you will have to reset. Have at least one person stay alive until the "Escort Glenna to the stronghold's courtyard" starts disappearing.
+If the triggered wipe happens too early, it can bug the encounter and you will have to reset the instance. Have at least one person stay alive until the *"Escort Glenna to the stronghold's courtyard"* text starts disappearing.
 
 <details>
 <summary>Click to view dialogue skip instructions</summary>
@@ -218,15 +221,23 @@ The most difficult part of performing this skip is targeting the enemies inside 
 {: .note}
 This skip can be practiced in a solo instance: read [here](#practicing-skips-on-this-wing) for more information.
 
+{: .note}
+> This skip can also be done with <img class='inline mirage'> [Mirage], but <img class='inline thief'> [Thief] is significantly easier and faster to pull off.
+>
+> [<img class='inline youtube'> <img class='inline mirage'> Escort Wall & Cave Skip](https://www.youtube.com/watch?v=lmwK00_9BeA){: .btn}
+
 <img class='center bordered' width='60%' src='escort/escort_2.webp'>
 
-The rest of the squad will glide off the building to the North. Avoid the center of the area immediately after the building, instead sticking to the walls. This will prevent a group of adds from spawning. The tower group will then take the <img class='inline shadow-portal'> to the first tower.
+The rest of the squad will glide off the building to the North. Avoid the center of the area immediately after the building, instead sticking to the walls. This will prevent any White Mantle reinforcements from spawning for the rest of the encounter. The tower group will then take the <img class='inline shadow-portal'> portal to the first tower.
+
+{: .note}
+*White Mantle Reinforcements*, where a red orb summons group of hostile adds, are triggered by players walking into invisible bounding boxes. However, these triggers are only active once the previous reinforcements in an area have been summoned: by not triggering the first reinforcements, no other reinforcement triggers will be activated for the rest of the encounter. 
 
 In the meanwhile, the ground group can start bringing <img class='inline glenna'> [Glenna] to the first white circle. Until it is captured, the tower will keep bombarding this position: to avoid a wipe, the healer should spam <img class='inline stability'> [Stability] and healing to <img class='inline glenna'> [Glenna] and the rest of their group. This is usually not an issue as the tower group should capture it very quickly.
 
 <details>
 <summary><img class='inline youtube'> <img class='inline luminary'> Ground Healer PoV</summary>
-<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/VtPpq-VKPr8&start=23&end=39&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/VtPpq-VKPr8?start=23&mute=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ---
@@ -235,7 +246,7 @@ In the meanwhile, the ground group can start bringing <img class='inline glenna'
 
 These towers are captured similarly to the normal strategy. Since no wargs will have reached <img class='inline glenna'> [Glenna] yet, it is possible to speed her under the third tower so as to not require any mines to be cleared.
 
-After the second tower, the <img class='inline mesmer'> [Mesmer] that still has their <img class='inline portal'> [Portal Entre] available runs to the south and prepares it on the final steps. They then glide down and join up with the ground group.
+After the second tower, one player runs to the south and prepares <img class='inline portal'> <img class='inline shadow-portal'> portal on the final stairway just before the boss arena. They then glide down and join up with the ground group.
 
 <div class="row-container">
     <img class='center bordered adapt-width' src='escort/escort_3.webp'>
@@ -245,7 +256,10 @@ After the second tower, the <img class='inline mesmer'> [Mesmer] that still has 
 
 After activating the leyline to the fourth tower, it is possible to teleport Glenna almost directly to the fifth and final white circle. The group should first pull Glenna to position 1 as shown in the image below. The <img class='inline mesmer'> [Mesmer] will then open their <img class='inline portal'> portal, <img class='inline blink'> [Blink] up the building to position 2, use <img class='inline call-out'> [Over Here!], then take their own <img class='inline portal'> portal back to the group.
 
-Position 3 can either be reached by another ground group player with a blink (<img class='inline necromancer'> [Necromancer] has <img class='inline flesh-wurm'> [Summon Flesh Wurm](https://wiki.guildwars2.com/wiki/Summon_Flesh_Wurm) and <img class='inline elementalist'> [Elementalist] has <img class='inline lightning-flash'> [Lightning Flash](https://wiki.guildwars2.com/wiki/Lightning_Flash)), or by a tower player gliding down from the third tower. As soon as Glenna is in position 2, they can use <img class='inline call-out'> [Over Here!] then glide down to reach the group.
+{: .note}
+When in position 2, <img class='inline call-out'> [Over Here!] is only available when you are standing so far off the edge that your elevation changes. See this [PoV](https://www.youtube.com/watch?v=XQjtQTjhJKI&t=100s) for an example.
+
+Position 3 can be reached by either another ground group player with a blink (<img class='inline necromancer'> [Necromancer] has <img class='inline flesh-wurm'> [Summon Flesh Wurm](https://wiki.guildwars2.com/wiki/Summon_Flesh_Wurm) and <img class='inline elementalist'> [Elementalist] has <img class='inline lightning-flash'> [Lightning Flash](https://wiki.guildwars2.com/wiki/Lightning_Flash)), a tower player gliding down from the third tower, or by the same person who did position 2 gliding over after using <img class='inline call-out'> [Over Here!]. As soon as Glenna is in position 2, they can use <img class='inline call-out'> [Over Here!] then glide down to reach the group.
 
 <video class="center bordered" width="60%" controls>
   <source src="escort/position_3.mp4" type="video/mp4">
@@ -274,13 +288,15 @@ It is highly recommended to provide the <img class='inline thief'> [Thief] with 
 
 This is a critical moment for the run since <img class='inline glenna'> [Glenna] will be surrounded by several wargs attempting to kill her. It is extremely important at this point to spam skills that apply <img class='inline blind'> [Blinded] in an area, such as <img class='inline well-darkness'> [Well of Darkness] and <img class='inline sandstorm'> [Sandstorm], otherwise she will die and the run will fail.
 
-Everyone who is not providing <img class='inline blind'> [Blinded] should take the <img class='inline portal'> portal and help with capturing the final tower. Take the leyline as soon as it appears; the <img class='inline thief'> [Thief] will then open their portal in the center of the tower as soon as they land, and everyone should take it when the tower is captured.
+Everyone who is not providing <img class='inline blind'> [Blinded] should take the <img class='inline portal'> portal and help with capturing the final tower. Take the leyline as soon as it appears; the <img class='inline thief'> [Thief] will then open their <img class='inline shadow-portal'> portal in the center of the tower as soon as they land, and everyone should take it when the tower is captured.
 
 {: .warning}
 Once [Mcleod] has spawned, the status reset will destroy any portals present in the instance. It's important therefore to take the <img class='inline shadow-portal'> portal as soon as possible after the tower is captured, as you risk remaining stranded and making the boss teleport to the tower.
 
 {: .note}
-[Mcleod]'s teleport is a <img class='inline knockdown'> [Knockdown](https://wiki.guildwars2.com/wiki/Knockdown) so try to dodge or block it.
+>An alternative strategy is to have a <img class='inline chrono'> [Chronomancer] do the final portal. They can gather clones on the fourth tower, then <img class='inline cs'> [Continuum Split], glide down, <img class='inline blink'> [Blink] to the center of the arena, prepare <img class='inline portal'> [Portal Entre], then <img class='inline cs-exit'> [Continuum Shift].
+>
+>This has the advantage that the <img class='inline thief'> [Thief] can stay with <img class='inline glenna'> [Glenna] to provide <img class='inline blind'> [Blinded]; the disadvantage is that <img class='inline portal'> [Portal Entre] does not open instantly upon activation, unlike <img class='inline shadow-portal'> [Shadow Portal]. This increases the chances of stranding someone on the final tower, forcing [McLeod] to teleport.
 
 Capturing the tower will begin the boss phase, despawning all wargs. The rest of the encounter is played as normal. Once the boss is dead, make sure to provide <img class='inline superspeed'> [Superspeed] to <img class='inline glenna'> [Glenna] so she gets to the final gate faster.
 
@@ -422,7 +438,7 @@ Make sure that everyone has taken a statue back before interacting with the fina
 </div>
 
 {: .note}
-The branch skip can also be performed with other classes, most notably <img class='inline thief'> [Thief] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c9/Vault.png/50px-Vault.png'> [Vault](https://wiki.guildwars2.com/wiki/Vault).
+The branch skip can also be performed with other classes, most notably <img class='inline thief'> [Thief] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c9/Vault.png/50px-Vault.png'> [Vault](https://wiki.guildwars2.com/wiki/Vault) and <img class='inline engineer'> [Engineer] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/b/b5/Jump_Shot.png/50px-Jump_Shot.png'> [Jump Shot](https://wiki.guildwars2.com/wiki/Jump_Shot) <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/2b/Rocket_Boots.png/72px-Rocket_Boots.png'> [Rocket Boots](https://wiki.guildwars2.com/wiki/Rocket_Boots) are both easier to execute compared to <img class='inline mirage'> [Mirage], which is played mostly because it's faster on the sprint to the final door.
 
 Once the door is open, the encounter is complete and everyone can take the ley rift to [Xera]. The player who did the skip can instead take the gateway after the door.
 
@@ -494,17 +510,20 @@ With speedrun groups, guaranteeing a certain level of damage allows you to tank 
 
 <img class='center' width='70%' src='./xera/xera_tanking.webp'>
 
+{: .note}
+With high enough DPS, you won't need to bring Xera as far in the second phase: you can kill her before any bloodstones spawn on her position.
+
 ---
 
 ### Skipping Gliding
 
-One of the most common reasons for deaths in Xera is failures in the gliding section. It's possible to skip this section entirely by spawning in the leyline from the final island to the starting island, then using it to glide until the split phase ends.
+One of the most common reasons for deaths in Xera is failing the gliding section. It's possible to skip this section entirely by spawning in the leyline from the final island to the starting island, then using it to glide until the split phase ends.
 
 To do this, you must kill the Charged Bloodstone on the final platform from the starting platform. This can be done in several ways:
 - Longbow on <img class='inline ranger'> [Ranger], rifle on <img class='inline deadeye'> [Deadeye] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Elite_Mortar_Kit.png/72px-Elite_Mortar_Kit.png'> [Elite Mortar Kit](https://wiki.guildwars2.com/wiki/Elite_Mortar_Kit) can reach it due to having 1500 range. <img class='inline deadeye'> [Deadeye] and <img class=inline src='https://wiki.guildwars2.com/images/thumb/0/0c/Elite_Mortar_Kit.png/72px-Elite_Mortar_Kit.png'> [Elite Mortar Kit](https://wiki.guildwars2.com/wiki/Elite_Mortar_Kit) may run into issues with obstructions.
 - Traps such as <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/32/Prepare_Thousand_Needles.png/50px-Prepare_Thousand_Needles.png'> [Prepare Thousand Needles](https://wiki.guildwars2.com/wiki/Prepare_Thousand_Needles) can cover areas that potentially could be obstructed.
 
-Doing this will not save any time overall as the phase has a fixed duration, however it will give you peace of mind and a moment to recuperate before the final damage phase of the wing.
+Doing this will not save any time overall as the phase has a fixed duration, however it will give you peace of mind and a moment to gather your wits before the next phase.
 
 ---
 
@@ -520,8 +539,6 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 | <img class='inline chrono'> <img class='inline mirage'> BoonDPS, Portals | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=XQjtQTjhJKI) | March 2026 | Second Mesmer on Escort, Fast TC |
 | <img class='inline luminary'> <img class='inline dragonhunter'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=VtPpq-VKPr8) | March 2026 | Glenna Heal, Fast TC |
 | <img class='inline druid'> <img class='inline soulbeast'> Heal, DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ZOd5D_YZTks) | March 2026 | Tower Heal on Escort, Fast TC |
-
----
 
 #### Practicing Skips on This Wing
 
@@ -558,7 +575,9 @@ Many of the skips described in this guide can be practiced solo:
 [Glenna]: https://wiki.guildwars2.com/wiki/Scholar_Glenna
 
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
+[Mesmers]: https://wiki.guildwars2.com/wiki/Mesmer
 [Thief]: https://wiki.guildwars2.com/wiki/Thief
+[Engineer]: https://wiki.guildwars2.com/wiki/Engineer
 [Virtuoso]: https://wiki.guildwars2.com/wiki/Virtuoso
 [Warrior]: https://wiki.guildwars2.com/wiki/Warrior
 [Ranger]: https://wiki.guildwars2.com/wiki/Ranger
@@ -606,3 +625,7 @@ Many of the skips described in this guide can be practiced solo:
 [Weapon Swap]: https://wiki.guildwars2.com/wiki/Weapon_swap
 [Temporal Curtain]: https://wiki.guildwars2.com/wiki/Temportal_Curtain
 [Illusionary Wave]: https://wiki.guildwars2.com/wiki/Illusionary_Wave
+["We Will Never Yield!"]: https://wiki.guildwars2.com/wiki/%22We_Will_Never_Yield!%22
+[Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
+[Continuum Shift]: https://wiki.guildwars2.com/wiki/Continuum_Shift
+[Mimic]: https://wiki.guildwars2.com/wiki/Mimic
