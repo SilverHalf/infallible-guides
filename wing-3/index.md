@@ -40,7 +40,7 @@ Fast clears of the Stronghold of the Faithful are heavily dependant on [Escort] 
 
 Most compositions will run at least two <img class='inline mesmer'> [Mesmers], a <img class='inline thief'> [Thief] and an <img class='inline engineer'> [Engineer], since they provide irreplaceable utility. The remaining classes are mainly determined by the group's [Escort] strategy, as it has the most stringent requirements of the wing and is also where you stand to gain the most time.
 
-Both bosses favour <img class='inline power'> Power damage but have relatively long phases, meaning that burst damage isn't as important.
+Both bosses favour <img class='inline power'> Power damage but have relatively long phases, meaning that burst damage isn't as important. Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) work with some enemies in [Escort], specifically Wargs and [Mcleod]'s phantasms. This grants a total of 8-10 stacks, which are not worth replacing another sigil over, but can be beneficial for classes that do not benefit from <img class='inline weapon-swap'> [Weapon Swap].  
 
 ---
 

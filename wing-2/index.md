@@ -48,7 +48,7 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 
 The portals are the most important part of this utility and the reason why it these classes are difficult to replace with alternatives.
 
-Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) or <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are viable on this wing. You can get up to 16 stacks on a fresh instance by killing the [slublings] before [Slothasor]. Some adds in [Bandit Trio] also grant stacks, such as the [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) and [Fungi](https://wiki.guildwars2.com/wiki/Fungus).
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are viable on this wing. You can get up to 16 stacks on a fresh instance by killing the [slublings] before [Slothasor]. Some adds in [Bandit Trio] also grant stacks, such as the [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) and [Fungi](https://wiki.guildwars2.com/wiki/Fungus).
 
 ---
 

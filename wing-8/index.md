@@ -44,7 +44,7 @@ The rest of the composition is mostly determined by your strategy on [Ura]:
 - [Solo CC] compositions are much more flexible but require an experienced Solo CC player.
 - [4-man] compositions are rigid but make ranged gameplay easier overall.
 
-Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the respawning enemies inside the mountain before starting, commonly known as ["Tunneling"](https://www.youtube.com/watch?v=J5zNxbxZInI).
+Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the enemies between the entrance to the wing and [Camp](https://wiki.guildwars2.com/wiki/Mount_Balrior#Cleanse_the_camp).
 
 For Infallible runs, prioritize consistency and safety over raw damage: redundant defensive utility, [Trailblazer] builds, and comfort picks wherever possible will all improve your experience progressing this wing. 
 
