@@ -52,7 +52,7 @@ These provide utility that vastly simplifies certain mechanics and is difficult 
 
 #### Soulless Horror
 {: .no_toc}
-- You will need a pusher to manage [Tormented Dead](https://wiki.guildwars2.com/wiki/Tormented_Dead). This is most commonly a <img class='inline druid'> [Druid].
+- You will need a pusher to manage [Tormented Dead](https://wiki.guildwars2.com/wiki/Tormented_Dead). This is traditionally a <img class='inline druid'> [Druid] running <img class='inline tides'> [Glyph of the Tides](https://wiki.guildwars2.com/wiki/Glyph_of_the_Tides) and longbow for <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/55/Point-Blank_Shot.png/50px-Point-Blank_Shot.png'> [Point Blank Shot](https://wiki.guildwars2.com/wiki/Point-Blank_Shot), but <img class='inline engineer'> [Engineer] can also work by combining <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f4/Overcharged_Shot.png/50px-Overcharged_Shot.png'> [Overcharged Shot](https://wiki.guildwars2.com/wiki/Overcharged_Shot), <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/a0/Personal_Battering_Ram.png/50px-Personal_Battering_Ram.png'> [Personal Battering Ram](https://wiki.guildwars2.com/wiki/Personal_Battering_Ram) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/12/Air_Blast.png/50px-Air_Blast.png'> [Air Blast](https://wiki.guildwars2.com/wiki/Air_Blast) in <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/ad/Flamethrower.png/50px-Flamethrower.png'> [Flamethrower](https://wiki.guildwars2.com/wiki/Flamethrower).
 - <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/9d/Epidemic.png/72px-Epidemic.png'> [Epidemic](https://wiki.guildwars2.com/wiki/Epidemic) can help with killing [Tormented Dead](https://wiki.guildwars2.com/wiki/Tormented_Dead) and wurms.
 - Projectile negation such as <img class='inline feedback'> [Feedback] and <img class='inline cpc'> [Corrosive Poison Cloud] can be useful if your tanks are struggling to stay alive.
 
@@ -188,21 +188,21 @@ Statues is the encounter where it is easiest to gain time. Strategies here diffe
 
 ---
 
-### Eyes
+### Statue of Darkness
 
-This is normally the statue done first, as pre-positioning is easily done while <img class=inline src='./desmina.png'> Desmina is running through the final part of the [River of Souls]. The <img class='inline mesmer'> [Mesmer] can <img class='inline mimic'> [Mimic] a portal down to the center platform for the <img class='inline scrapper'> [Scrapper] if necessary.
+This is normally the first encounter done after [River], as pre-positioning is simple while <img class=inline src='./desmina.png'> Desmina is running through the final part of the encounter. A <img class='inline mesmer'> [Mesmer] can <img class='inline mimic'> [Mimic] a portal down to the center platform for the <img class='inline scrapper'> [Scrapper] if necessary.
 
 The typical speedrun strategy for Eyes requires four special roles:
 - A <img class='inline druid'> [Druid] running <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/47/Moment_of_Clarity.png/60px-Moment_of_Clarity.png'> [Moment of Clarity](https://wiki.guildwars2.com/wiki/Moment_of_Clarity) and <img class=inline src='https://wiki.guildwars2.com/images/c/cc/Superior_Sigil_of_Paralyzation.png'> [Superior Sigil of Paralyzation](https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Paralyzation) that picks up the [Light Orbs] and uses <img class='inline flare'> [Flare](https://wiki.guildwars2.com/wiki/Flare). This can optionally be replaced with any other class, but the <img class='inline daze'> [Daze](https://wiki.guildwars2.com/wiki/Daze) provided by <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/54/Flare.png/50px-Flare.png'> [Flare](https://wiki.guildwars2.com/wiki/Flare) will be shorter.
 - A <img class='inline chrono'> [Chronomancer] running <img class='inline portal'> [Portal Entre] and <img class='inline blink'> [Blink].
 - One player to <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Throw_Light.png/50px-Throw_Light.png'> [Throw Light](https://wiki.guildwars2.com/wiki/Throw_Light) twice. Usually this is done by the <img class='inline scrapper'> [Scrapper], as their abundant CC can make DPSing the Eyes difficult.
-- Two players to <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Throw_Light.png/50px-Throw_Light.png'> [Throw Light](https://wiki.guildwars2.com/wiki/Throw_Light) once. This can be done by any DPS.
+- Two players to <img class=inline src='https://wiki.guildwars2.com/images/thumb/8/8c/Throw_Light.png/50px-Throw_Light.png'> [Throw Light](https://wiki.guildwars2.com/wiki/Throw_Light) once. This can be done by any class.
 
 Start on the Eye of Judgement (to the North in-game). The <img class='inline scrapper'> [Scrapper] and two other players can pick up the [Light Orbs] and throw them to the squad.
 
 <img class=center width='90%' src='./eyes/eyes_1.webp'>
 
-As soon as the encounter starts, the <img class='inline chrono'> [Chronomancer] will gather clones using the adds on the upper platform. Once they have a few, they can open their <img class='inline cs'> [Continuum Split], drop down towards the Eye of Fate, <img class='inline blink'> [Blink] to the Eye, prepare their <img class='inline portal'> [Portal Entre] and exit their <img class='inline cs'> [Continuum Split] to get back to the upper platform.
+As soon as the encounter starts, the <img class='inline chrono'> [Chronomancer] will gather clones using the adds on the upper platform. Once they have a few, they can open their <img class='inline cs'> [Continuum Split], drop down towards the Eye of Fate, <img class='inline blink'> [Blink] to the Eye, prepare their <img class='inline portal'> [Portal Entre] and <img class='inline cs-exit'> [Continuum Shift] to get back to the upper platform.
 
 Both single throwers should glide to the Eye of Judgement immediately after throwing. The <img class='inline druid'> [Druid] will  pick up a light as soon as possible and <img class='inline flare'> [Flare] the Eye. Burst it down once it's vulnerable, taking care not to use any CC skills. The <img class='inline druid'> [Druid] will have to <img class='inline flare'> [Flare] it a second time in this interval.
 
@@ -215,38 +215,13 @@ Once Judgement is close to dying, the <img class='inline chrono'> [Chronomancer]
 {: .warning}
 Remember not to `/GG` at the end of the encounter: instead use the <img class='inline jackal'> [Sand Portal] to get back to Death's Landing.
 
-If you are running a second <img class='inline mesmer'> [Mesmer], they can be one of the single throwers. This allows them to prepare a <img class='inline portal'> [Portal] in front of the <img class='inline jackal'> [Sand Portal] after throwing, opening it as soon as the encounter is over. This saves a few seconds in the transition to the other statues.
+If you have access to an additional portal on another player, they can be one of the single throwers. This allows them to prepare their <img class='inline portal'> <img class='inline shadow-portal'> portal in front of the <img class='inline jackal'> [Sand Portal] after throwing, opening it as soon as the encounter is over. This saves a few seconds in the transition to the other statues.
 
 Since you will already be on the <img class='inline jackal'> [Jackal] when you reach Death's Landing, the fastest way to then get to the remaining Statues is by spamming <img class=inline src='https://wiki.guildwars2.com/images/thumb/1/11/Blink_%28Jackal%29.png/50px-Blink_%28Jackal%29.png'> [Blink](https://wiki.guildwars2.com/wiki/Blink_(Jackal)) over the chasm in combination with <img class='inline bond-vigor'> [Bond of Vigor](https://wiki.guildwars2.com/wiki/Bond_of_Vigor).
 
 ---
 
-### Statue of Ice
-
-This encounter is usually done in parallel with the [Eater of Souls] by sending a subgroup to each. The strategy is otherwise identical to the PUG strat.
-
-Manage your DPS to keep less than five stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting. As it is easy to upkeep this amount of stacks even with two or three DPS, you can run multiple healers with no downside.
-
-Normally, players <img class='inline glaciate'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) and are <img class='inline stun'> [Stunned] upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind), but some transformation skills can be abused to go over this limit:
-- <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud): getting a fourth stack does some damage and kicks you out of shroud, but prevents both <img class='inline glaciate'> [Glaciate] and <img class='inline stun'> [Stun].
-- <img class='inline ritualist'> [Ritualist]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud): getting a fourth stack does some damage, kicks you out of shroud, prevents <img class='inline glaciate'> [Glaciate] but does not prevent <img class='inline stun'> [Stun].
-
-Running several of these classes allows you to accumulate more <img class='inline ice-shield'> stacks on the boss with less risk.
-
-{: .warning}
-As a <img class='inline ritualist'> [Ritualist], be careful not to take a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind) if there are no cracks on the ground. With bad luck, the cracks can spawn directly underneath a <img class='inline stun'> [Stunned] player, making them take a lot of damage and potentially go <img class='inline invuln'> [Downstate].
-
-Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss.
-
-{: .warning}
-Broken King tends to bug out when at 10 <img class='inline ice-shield'> stacks or above: players may not be counted inside greens, which can then fail, likely resulting in downstates. Aiming to keep the boss at 8 stacks gives you a safe margin while still being more than sufficient timer-wise.
-
-{: .warning}
-Remember not to `/GG` when the boss dies.
-
----
-
-### Eater of Souls
+### Statue of Death and Resurrection
 
 This encounter is usually done in parallel with the [Broken King] by sending a subgroup to each. The overall strategy is similar to the standard PUG strat, with the exception that two players go up in the first green and two in the second.
 
@@ -264,7 +239,7 @@ Be careful with <img class='inline reclaimed'> [Reclaimed Energy]: wasting this 
 
 Whenever any players go up in a green, the rest of the squad should CC the Eater as quickly as possible. Players in spirit form must not fly close to the Eater until its <img class='inline defiance'> [Defiance Bar] has been broken, as it is easy to get sucked in and go <img class='inline invuln'> [Downstate]. 
 
-The same attack can pull players down into vomit, giving them a lethal dose of conditions. Players in spirit form should be aware of any vomit on the platform and avoid it until the <img class='inline defiance'> [Defiance Bar] has been broken. Whoever is tanking the Eater should avoid pulling it through the center of the arena, as vomit spawning there can be very dangerous.
+The same attack can pull players down into vomit, applying a lethal dose of conditions. Players in spirit form should be aware of any vomit on the platform and avoid it until the <img class='inline defiance'> [Defiance Bar] has been broken. Whoever is tanking the Eater should avoid pulling it through the center of the arena, as vomit spawning there can be very dangerous.
 
 #### Example
 {: .no_toc}
@@ -280,9 +255,34 @@ Once you reach the [Broken King], immediately glide into any unoccupied greens b
 
 ---
 
+### Statue of Ice
+
+This encounter is usually done in parallel with the [Eater of Souls] by sending a subgroup to each. The strategy is otherwise identical to the PUG strat.
+
+Manage your DPS to keep less than five stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss. This allows players to stand in one green each without over-collecting. As it is easy to upkeep this amount of stacks even with two or three DPS, you can run multiple healers with no downside.
+
+Normally, players <img class='inline glaciate'> [Glaciate](https://wiki.guildwars2.com/wiki/Glaciate) and are <img class='inline stun'> [Stunned] upon getting a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind), but some transformation skills can be abused to go over this limit:
+- <img class='inline specter'> [Specter]'s <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f3/Enter_Shadow_Shroud.png/50px-Enter_Shadow_Shroud.png'> [Shadow Shroud](https://wiki.guildwars2.com/wiki/Shadow_Shroud): getting a fourth stack deals some damage and kicks you out of shroud, but prevents both <img class='inline glaciate'> [Glaciate] and <img class='inline stun'> [Stun].
+- <img class='inline necromancer'> [Necromancer] shrouds, including <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/21/Ritualist%27s_Shroud.png/50px-Ritualist%27s_Shroud.png'> [Ritualist Shroud](https://wiki.guildwars2.com/wiki/Ritualist%27s_Shroud), <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/ab/Harbinger_Shroud.png/50px-Harbinger_Shroud.png'> [Harbinger Shroud](https://wiki.guildwars2.com/wiki/Harbinger_Shroud) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/1/11/Reaper%27s_Shroud.png/50px-Reaper%27s_Shroud.png'> [Reaper's Shroud](https://wiki.guildwars2.com/wiki/Reaper%27s_Shroud): getting a fourth stack deals some damage, kicks you out of shroud, prevents <img class='inline glaciate'> [Glaciate] but does not prevent <img class='inline stun'> [Stun].
+
+Running several of these classes allows you to accumulate more <img class='inline ice-shield'> stacks on the boss with less risk.
+
+{: .warning}
+As a <img class='inline necromancer'> [Necromancer], be careful not to take a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind) if there are no cracks on the ground. If you are unlucky, the cracks can spawn directly underneath a <img class='inline stun'> [Stunned] player, making them take a lot of damage and potentially go <img class='inline invuln'> [Downstate].
+
+Once the other subgroup has killed the [Eater of Souls], they will join you on the Broken King. At this point you should increase your DPS to maintain around 8 stacks of <img class='inline ice-shield'> [Shield of Ice] on the boss.
+
+{: .warning}
+Broken King tends to bug out when at 10 <img class='inline ice-shield'> stacks or above: players may not be counted inside greens, which can then fail, likely resulting in <img class='inline invuln'> [Downstates]. Aiming to keep the boss at 8 <img class='inline ice-shield'> stacks gives you a safe margin while still being more than sufficient timer-wise.
+
+{: .warning}
+Remember not to `/GG` at the end of the encounter: instead use the <img class='inline jackal'> [Sand Portal] to get back to Death's Landing.
+
+---
+
 ## Dhuum
 
-Dhuum is a long, elaborate fight where the standard strategy implements slightly suboptimal gameplay for the sake of safety and consistency. This results in significant differences between a normal pull and a speedrun.
+The standard strategy on Dhuum implements slightly suboptimal gameplay for the sake of safety and consistency. This results in significant differences between a normal pull and a speedrun.
 
 ---
 
@@ -311,23 +311,26 @@ This is very easy to do with a [marker pack]:
 You can move off the portal exit when the [Echo] starts moving towards the group. Mark it with an <img class='inline xmarker'> to make its position visible on the minimap.
 
 {: .warning}
-Remember to pay attention once the [Echo] gets un-stuck after the big dip.
+Remember to pay attention once the [Echo] gets un-stuck after [Greater Death Mark].
 
 ---
 
 ### Throne Tanking
 
-This strategy involves tanking Dhuum close to the throne for most of the fight. This reduces movement, resulting in higher damage uptime overall.
+This strategy involves tanking Dhuum close to his throne for most of the fight. This reduces movement, resulting in higher damage uptime overall.
 
 You will have to designate a green 3 player that is not the tank. Tanking itself does not require much healing, and can be done by any player with additional toughness. Green 2 is done by the kite as normal and green 1 by a DPS.
 
-Begin the pre-event as normal. At *7:55* remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline triangle'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
+Begin the pre-event as normal. At ~*8:00* or less remaining on the timer, just before the boss spawns, a <img class='inline mesmer'> [Mesmer] should use <img class ='inline mass-invis'> [Mass Invisibility] on <img class='inline triangle'>. This <img class='inline stealth'> [Stealths] the reapers on <img class='inline arrow'> and <img class='inline triangle'>, forcing the [Enforcer] to target the reaper on <img class='inline circle'>. While walking towards it, it will get cleaved by the group on the boss.
 
 {: .note}
 Make sure you are far enough from the group that your players do not get <img class='inline stealth'> [Stealth] instead of the reapers.
 
 {: .note}
 This can also be done with other classes by <img class='inline stealth'> [Stealthing] the <img class='inline triangle'> reaper first, then the <img class='inline arrow'> one after the [Enforcer] gets close.
+
+{: .note}
+The reapers will extend most incoming <img class='inline stealth'> [Stealth] applications to a fixed duration of 20 seconds. You therefore have a lot of leeway in when to apply it: the ~*8:00* suggested by this guide is indicative. The important thing is that the reapers are invisible when the [Enforcer] spawns in.
 
 Once Dhuum is about to spawn, the tank should position in front of the throne so that the boss swivels around to hit them after walking out. You will then get a long DPS phase with the squad behind the boss and the tank absorbing the aggro. In this period, the Green 1 will come back from <img class='inline square'> and the Green 2 will complete <img class='inline star'>.
 
@@ -346,7 +349,7 @@ It's convenient to pull Dhuum towards <img class='inline arrow'>, as this brings
 {: .note}
 The Green 3 should try to collect a *medium orb* while completing <img class='inline swirl'>, as this will prevent a [Messenger] from spawning during [Greater Death Mark]. If they don't manage to do so, they should alert the kiter.
 
-[Greater Death Mark] is one of the critical moments in the fight, as you will have many overlapping mechanics: stripping Dhuum, cleansing and re-applying conditions, the [Echo] re-spawning and running straight for the group,  and the suction potentially pulling players to their death. You can additionally get a [Messenger] if the Green 3 did not collect the medium orb.
+[Greater Death Mark] is one of the critical moments in the fight, as you will have many overlapping mechanics: stripping Dhuum, cleansing conditions and re-applying boons, the [Echo] re-spawning and running straight for the group, the suction pulling players in, and a [Messenger] if the Green 3 did not collect the medium orb.
 
 <div class="row-container">
 
@@ -365,7 +368,7 @@ One way to manage this sequence is by:
 {: .warning}
 Before taking any portal, make sure that the exit is safe from the [Echo]. If it isn't, call it out to the rest of the group.
 
-Once the suction ends, it's convenient to leave Dhuum in the center of the arena. The tank should be in position to avoid any rogue scythe swipes on the group, which can lead to downs if players do not have <img class='inline protection'> [Protection] or <img class='inline aegis'> [Aegis]. Shortly before the next [Death Mark] at *5:47* on the timer, the tank should walk into the rest of the group so that the red spawns slightly off-center. They can then pull the boss out of the red, keeping it in the center. From this position you can easily access the greens on <img class='inline circle'>, <img class='inline heart'> and <img class='inline square'>.
+Once the suction ends, it's convenient to leave Dhuum in the center of the arena. The tank should position to avoid any rogue swipes on the group, which can lead to downs if players do not have <img class='inline protection'> [Protection] or <img class='inline aegis'> [Aegis]. Shortly before the next [Death Mark] at *5:47* on the timer, the tank should walk into the rest of the group so that the red spawns slightly off-center. They can then pull the boss out of the red, keeping it in the center. From this position you can easily access the greens on <img class='inline circle'>, <img class='inline heart'> and <img class='inline square'>.
 
 <div class="row-container">
 <div class='center adapt-width-30'>
@@ -388,6 +391,8 @@ High-damage groups should be able to phase the boss before the next [Greater Dea
 ### Skipping the Collection Phase
 
 Normally after phasing the boss to 10%, everyone is separated into their spirit form and has to collect five orbs before returning to the platform. It is possible to skip this process by getting picked up by the [Echo] just before getting your soul ripped out. This results in the player spawning in the center of the safe area as if they had collected their orbs normally.
+
+This can also be done using transformation skills such as shrouds, by transforming just before the soul rip.
 
 ---
 
@@ -426,17 +431,17 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 {: .center}
 
 <!-- Links to other pages in the guide -->
-[Soulless Horror]: #soulless-horror
+[Soulless Horror]: #soulless-horror-1
 [River of Souls]: #river-of-souls
 [River]: #river-of-souls
 [Statues]: #statues-of-grenth
 [Statues of Grenth]: #statues-of-grenth
-[Statue of Ice]: #broken-king
-[Broken King]: #broken-king
-[Eater of Souls]: #eater-of-souls
-[Eyes]: #eyes
+[Statue of Ice]: #statue-of-ice
+[Broken King]: #statue-of-ice
+[Eater of Souls]: #statue-of-death-and-resurrection
+[Eyes]: #statue-of-darkness
 [Statue of Darkness]: #eyes
-[Dhuum]: #dhuum
+[Dhuum]: #dhuum-1
 [marker pack]: ../general.html#marker-packs
 
 <!-- Links to classes and specializations -->
@@ -462,6 +467,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Portals]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
 [Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
+[Continuum Shift]: https://wiki.guildwars2.com/wiki/Continuum_Shift
 [Mass Invisibility]: https://wiki.guildwars2.com/wiki/Mass_Invisibility
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Corrosive Poison Cloud]: https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud
@@ -471,6 +477,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 
 <!-- Links to buffs and debuffs -->
 [Downstate]: https://wiki.guildwars2.com/wiki/Downstate
+[Downstates]: https://wiki.guildwars2.com/wiki/Downstate
 [Superspeed]: https://wiki.guildwars2.com/wiki/Superspeed
 [Vulnerability]: https://wiki.guildwars2.com/wiki/Vulnerability
 [Stealth]: https://wiki.guildwars2.com/wiki/Stealth
