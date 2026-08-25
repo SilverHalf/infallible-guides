@@ -61,7 +61,7 @@ Both bosses favour <img class='inline power'> Power damage but have relatively l
 
 #### Keep Construct
 {: .no_toc}
-- Strongly favours <img class='inline power'> power damage due to the boss having reduced armor.
+- <img class='inline power'> Power builds are favoured due to the boss having 36% reduced armor.
 - Fairly easy to solo-heal using a single celestial healer.
 - Try not to bring CC as you don't want to break his <img class='inline defiance'> [Defiance Bar].
 - <img class='inline no-yield'> ["We Will Never Yield!"] can be used to ignore the spread mechanic.

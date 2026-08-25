@@ -52,6 +52,7 @@ Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/image
 
 #### Vale Guardian
 {: .no_toc}
+- <img class='inline power'> Power builds are favoured since the boss has 36% reduced armor.
 - Bring at least three <img class='inline condition'> Condition builds to kill the [Red Guardian]. Classes with fast ramp-up, such as <img class='inline condition'> <img class='inline willbender'> [Willbender], are especially strong.
 - Make sure you have enough [Seeker] control:
     - <img class='inline mesmer'> [Mesmer]: <img class='inline curtain'> [Temporal Curtain] and/or <img class='inline illusionary-wave'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave)

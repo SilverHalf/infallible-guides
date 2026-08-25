@@ -46,7 +46,7 @@ One to two <img class='inline mesmer'> [Mesmers] are often run since they bring 
 
 #### Conjured Amalgamate
 {: .no_toc}
-- All DPS should be on <img class='inline power'> Power builds due to the boss and arms having 10% reduced armor. The arms will also cleanse themselves of all conditions after every slam.
+- All DPS should be on <img class='inline power'> Power builds due to the boss and arms having 10.4% reduced armor. The arms will also cleanse themselves of all conditions after every slam.
 - Damage pressure is low, thus [solo-healing](../general.html#solo-healing) is viable.
 - Players doing <img class='inline ca-swords'> Swords and <img class='inline ca-shields'> Shields are usually boonDPS or healers, and must ensure they have enough boon duration to maintain uptime.
 - Bring sources of <img class='inline pull'> [Pull] and projectile management. This is often done by <img class='inline mesmer'> [Mesmers] running <img class='inline curtain'> [Temporal Curtain] and <img class='inline feedback'> [Feedback].
@@ -67,6 +67,7 @@ One to two <img class='inline mesmer'> [Mesmers] are often run since they bring 
 #### Qadim
 {: .no_toc}
 - Most damage is directed towards the tank, thus [solo-healing](../general.html#solo-healing) is viable.
+- <img class='inline power'> Power builds are favoured since the boss has 13.3% reduced armor.
 - Any <img class='inline mesmer'> [Mesmers] are best run as heal or boon supports due to <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f6/Confounding_Suggestions.png/38px-Confounding_Suggestions.png'> [Vicious Expression](https://wiki.guildwars2.com/wiki/Vicious_Expression) not applying its damage bonus.
 - <img class='inline deadeye'> [Deadeye] is hands-down the best kiter, due to its ease in kiting, survivability and general utility.
 - <img class='inline scrapper'> [Scrapper] and <img class='inline reaper'> [Reaper] are a common combination for quickly and safely clearing the lamp. Other viable classes include <img class='inline mirage'> [Mirage] and <img class='inline daredevil'> [Daredevil].
