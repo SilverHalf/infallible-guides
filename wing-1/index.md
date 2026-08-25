@@ -46,12 +46,13 @@ Solo-healing is common on all three bosses, and can be made much easier by suppo
 - <img class='inline druid'> [Druid] for its excellent healing output, utility and seeker control. Requires <img class='inline' src='https://wiki.guildwars2.com/images/thumb/e/ee/Eclipse_%28trait%29.png/60px-Eclipse_%28trait%29.png'> [Eclipse](https://wiki.guildwars2.com/wiki/Eclipse_(trait)) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f2/Glyph_of_Burgeoning.png/72px-Glyph_of_Burgeoning.png'> [Glyph of Burgeoning](https://wiki.guildwars2.com/wiki/Glyph_of_Burgeoning) to generate [Astral Force](https://wiki.guildwars2.com/wiki/Astral_force) when incoming damage is low, or can swap to DPS after [Vale Guardian].
 - <img class='inline luminary'> [Luminary] also has incredible healing and good seeker control, and can swap to boonDPS after [Vale Guardian].
 
-Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) or <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
 
 ---
 
 #### Vale Guardian
 {: .no_toc}
+- <img class='inline power'> Power builds are favoured since the boss has 36% reduced armor.
 - Bring at least three <img class='inline condition'> Condition builds to kill the [Red Guardian]. Classes with fast ramp-up, such as <img class='inline condition'> <img class='inline willbender'> [Willbender], are especially strong.
 - Make sure you have enough [Seeker] control:
     - <img class='inline mesmer'> [Mesmer]: <img class='inline curtain'> [Temporal Curtain] and/or <img class='inline illusionary-wave'> [Illusionary Wave](https://wiki.guildwars2.com/wiki/Illusionary_Wave)
@@ -59,24 +60,26 @@ Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/image
     - <img class='inline tempest'> [Tempest]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/42/%22Aftershock%21%22.png/72px-%22Aftershock%21%22.png'> [Aftershock!](https://wiki.guildwars2.com/wiki/%22Aftershock!%22)
     - <img class='inline guardian'> [Guardian]: <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/wiki/Shield_of_Absorption) and <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/59/Line_of_Warding.png/50px-Line_of_Warding.png'> [Line of Warding](https://wiki.guildwars2.com/wiki/Line_of_Warding)
     - Any class with [Shouts](https://wiki.guildwars2.com/wiki/Shout) can bring <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/57/Relic_of_the_Reaper.png/60px-Relic_of_the_Reaper.png'> [Relic of the Reaper](https://wiki.guildwars2.com/wiki/Relic_of_the_Reaper)
-- This is the most difficult boss to solo-heal due to [Distributed Magic]. Group invulnerability, such as <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon] can help the off-heal subgroup survive. Personal invulnerability and healing should also be used if available.
+- This is the most difficult boss to solo-heal due to [Distributed Magic]. Group invulnerability and mitigation skills such as <img class='inline rebound'> ["Rebound!"], <img class='inline no-yield'> ["We Will Never Yield!"], <img class='inline august-queen'> [Tale of the August Queen] and <img class='inline xinrae'> [Xinrae's Weapon] can help the off-heal subgroup survive. Personal invulnerability, mitigation and healing should also be used if available.
+- DPS players can [food swap] on the Guardians in the split phases for some additional DPS.
 
 #### Spirit Run
 {: .no_toc}
 - You will almost always see two <img class='inline mesmer'> [Mesmers] running <img class='inline mimic'> [Mimic], <img class='inline portal'> [Portal] and <img class='inline blink'> [Blink] to optimize movement between rifts.
 - If doing out-of-bounds skips, a third player will be on either a <img class='inline mesmer'> [Mesmer] or <img class='inline thief'> [Thief].
-- If doing out-of-bounds skips, try to assign strong, self-sufficient power builds (such as <img class='inline ritualist'> [Ritualist]) to kill the walls ahead of the main group.
+- If doing out-of-bounds skips, try to assign strong, self-sufficient power builds with boon access to kill the walls ahead of the main group.
 - Run stacking sigils during these encounters to increase your DPS on the following bosses. Put the sigils on ascended weapons and share these weapons between templates to maintain stacks when swapping builds.
 
 #### Gorseval
 {: .no_toc}
 - Ensure you have at least one source of reliable <img class='inline aegis'> [Aegis] or <img class='inline stability'> [Stability] per subgroup.
-- This boss can be done without a healer if you have sufficient CC to survive [Ghastly Rampage].
+- This boss can be done without a healer if you have sufficient CC to survive [Ghastly Rampage] or enough DPS to phase it before the [Retaliation](https://wiki.guildwars2.com/wiki/Retaliation) effect kills anyone.
+- DPS players can [food swap] on the [Charged Souls] in the split phases for some additional DPS.
 
 #### Sabetha
 {: .no_toc}
 - Ensure you have abundant <img class='inline pull'> pull skills to speed up the pre-event. <img class='inline curtain'> [Temporal Curtain], <img class='inline binding-blade'> [Binding Blade](https://wiki.guildwars2.com/wiki/Binding_Blade) and <img class='inline spectral-grasp'> [Spectral Grasp](https://wiki.guildwars2.com/wiki/Spectral_Grasp) are best for this.
-- Make sure you have either a ranged boon provider (such as <img class='inline druid'> [Druid]) or a bursty boon provider (such as <img class='inline troubadour'> [Troubadour]) as kite.
+- Your kiter should be a boon provider with either ranged application, a large radius or a bursty boon profile. This maximizes overall DPS while guaranteeing uptime.
 
 ---
 
@@ -105,7 +108,12 @@ The tank should try to stay as close to the center as possible to avoid any boss
 
 ### Three-Way Split
 
-Optimized strategies aim to kill all three lesser guardians at the same time. This involves sending three DPS players to each guardian. The healer is usually the odd one out, and can decide to initially support one of the three groups (usually the <img class='inline condition'> Condition players on the [Red Guardian]) before moving to the [Blue Guardian] for [Distributed Magic].
+Optimized strategies aim to kill all three lesser guardians at the same time. This involves sending three DPS players to each guardian. The healer is usually the odd one out, and can decide to initially support one of the three groups (usually the <img class='inline condition'> Condition players on the [Red Guardian]) before moving to another guardian, usually either [Blue Guardian] for [Distributed Magic] or whichever one needs the most CC.
+
+Each group should run sufficient CC to break the <img class='inline defiance'> [Defiance Bar] of their assigned guardian (roughly 900 HP). <img class='inline vuln'> [Vulnerability] should also be balanced out, ensuring that each group brings sufficient sources.
+
+{: .note}
+The condition group often struggles the most with <img class='inline vuln'> [Vulnerability] application: this is another reason why healers often support them in the beginning of the split phases.
 
 ---
 
@@ -136,7 +144,9 @@ From here, use <img class='inline curtain'> [Temporal Curtain] to pull together 
 
 </div>
 
-The Spectral Rifts event follows a structure similar to normal runs, with the <img class='inline mesmer'> [Mesmer] players providing portals from rift to rift and resetting their cooldowns with [Adrenal Mushrooms]. Alternate portals between the two players to comfortably cover all required movement.
+The Spectral Rifts event follows a structure similar to normal runs, with the <img class='inline mesmer'> [Mesmer] players providing portals from rift to rift and resetting their cooldowns with [Adrenal Mushrooms]. Alternate portals between the two players to comfortably cover all required movement. As DPS is not really necessary for this event, players should consider running additional healing, support and utility if necessary. Movement skills can also be very useful for moving between rifts without having to wait for each portal.
+
+The event will finish once the 20th rift has been closed.
 
 ---
 
@@ -172,7 +182,7 @@ They then prepare a <img class='inline shadow-portal'> <img class='inline portal
 <div class="row-container">
 
 <div class='adapt-width-50' markdown=block>
-Around a minute before the end of the Spectral Rifts event, this player should open their <img class='inline shadow-portal'> <img class='inline portal'> portal and take it along with one of the <img class='inline mesmer'> [Mesmer] players and three DPS. The <img class='inline mesmer'> [Mesmer] can prepare their own portal on the vantage position and rejoin the group for the final few rifts. Meanwhile, the three DPS players plus the skip player glide down to the top of the log and run northwards, following the path that the group would normally take.
+Around a minute before the end of the Spectral Rifts event, this player should open their <img class='inline shadow-portal'> <img class='inline portal'> portal and take it along with one of the <img class='inline mesmer'> [Mesmer] players and two to three DPS. The <img class='inline mesmer'> [Mesmer] can prepare their own portal on the vantage position and rejoin the group for the final few rifts. Meanwhile, the DPS players plus the skip player glide down to the top of the log and run northwards, following the path that the group would normally take.
 
 </div>
 
@@ -190,9 +200,9 @@ Around a minute before the end of the Spectral Rifts event, this player should o
 
 <div class='adapt-width-50' markdown=block>
 Out of these four players:
-- One DPS should stop at the spawn location of the third wall.
+- One DPS should stop at the spawn location of the third wall (optional but recommended).
 - Two DPS will go ahead to the spawn location of the fourth and final wall.
-- The skip player will do another small jumping puzzle to place a <img class='inline shadow-portal'> <img class='inline portal'> portal in preparation for the cemetery. They can then glide back to the location of the third wall.
+- The skip player will do another small jumping puzzle to place a <img class='inline shadow-portal'> <img class='inline portal'> portal in preparation for the cemetery transition. They can then glide back to the location of the third wall.
 
 [<img class='inline youtube'> <img class='inline thief'> Thief Jumping Puzzle](https://www.youtube.com/watch?v=JBfJQnLqe8Q&start=110s){: .btn .center}
 
@@ -203,7 +213,7 @@ Out of these four players:
 </div>
 
 {: .note}
-Ideally, the skip group should reach their positions at the same time as when the main group captures the last rift. Time the portal so that it's as close as possible. 
+Ideally, the skip group should reach their positions at the same time as when the main group captures the last rift. Time the portal so that it's as close as possible: this usually means opening it once the rifts event is 65-75% complete.
 
 
 ---
@@ -217,7 +227,7 @@ Once the last rift is closed, the <img class='inline mesmer'> [Mesmer] opens the
 <div class='adapt-width-50' markdown=block>
 The main group will only need to fully kill the first two [Ethereal Barriers].
 
-The third barrier will be killed by the solo DPS, with the group joining them towards the end of the encounter. Once the wall is dead, they can take the <img class='inline shadow-portal'> <img class='inline portal'> portal to the [Cemetery].
+The third barrier can be killed by the solo DPS, with the group joining them towards the end of the encounter, or by the group on its own. Once the wall is dead, take the <img class='inline shadow-portal'> <img class='inline portal'> portal to the [Cemetery].
 
 The fourth wall will be cleared by the remaining two DPS, who can then walk to the [Cemetery] once it's dead.
 
@@ -232,7 +242,7 @@ These players need to be especially careful with their positioning: they must st
 
 </div>
 
-The main group will contain both <img class='inline mesmer'> [Mesmers], enabling them to use <img class='inline portal'> [Portals] in combination with <img class='inline blink'> [Blink] to quickly move from barrier to barrier.
+The main group will contain both <img class='inline mesmer'> [Mesmers], enabling them to use <img class='inline portal'> [Portals] in combination with <img class='inline blink'> [Blink] to quickly move from barrier to barrier. This is especially important for moving between the first and second walls, as <img class='inline blink'> [Blinking] correctly will skip over one of the rift trigger zones, so the group will not have to capture it. 
 
 ---
 
@@ -240,15 +250,29 @@ The main group will contain both <img class='inline mesmer'> [Mesmers], enabling
 
 Designate one person each for buttons *#1*, *#2*, *#3* and *#5* (all of them except for the jumping puzzle one). Everyone else should go for *#4* to maximize the chances of at least one person making it through the jumping puzzle. Anyone failing the puzzle should go to *#5* instead.
 
+{: .note}
+The group killing the the final wall will often end much before the rest of the group. This lets them walk into the cemetery and pre-position on a couple of buttons before the event begins. Some groups like to send more players to the final wall for this reason.
+
 <img class='center bordered' width='50%' src='./spirit-woods/spirit_woods_6.webp'>
 
 While this is ongoing, a <img class='inline mesmer'> [Mesmer] can place a <img class='inline portal'> [Portal] in the center of the cemetery. Once all buttons have been pressed and the door blocking access to [Gorseval] has been opened, they can <img class='inline blink'> [Blink] forward, glide into the arena, and open their portal in front of the boss for the rest of the squad to take.
+
+{: .warning}
+The <img class='inline mesmer'> [Mesmer] doing this portal should make sure to walk over the trigger line just before the updraft in order to spawn the boss in. Watch a [PoV](#povs) to see what this looks like.
 
 ---
 
 ## Gorseval
 
-This boss is played using the standard strategy with the addition of a four-way split in the split phases. Assign 2-3 players to each add, trying to balance out the damage profile for each group so that the adds ideally die at the same time. The rest of the fight plays out the same as in normal runs.
+This boss is played using the standard strategy with the addition of a four-way split in the split phases and a portal to optimize the transition into the [Sabetha] pre-event.
+
+---
+
+### 4-way Split
+
+The objective of this strategy is to kill all four [Charged Souls] simultaneously, minimizing movement between the adds.
+
+Assign 2-3 players to each direction, trying to balance out the damage profile for each group so that the adds ideally die at the same time. Ensure that each group has sufficient access to <img class='inline vuln'> [Vulnerability] and either condition cleanse or <img class='inline resistance'> [Resistance], as the [Charged Souls] pulse <img class='inline weakness'> [Weakness] every few seconds.
 
 ---
 
@@ -256,7 +280,7 @@ This boss is played using the standard strategy with the addition of a four-way 
 
 It is possible to provide a portal out of Gorseval directly into the first area of the [Sabetha transition](#transition-to-sabetha). This is slightly tricky to do, but saves a significant amount of time.
 
-During the second split phase, the group to the North-East will additionally kill the arena wall next to their spirit. This is not very difficult to do as the wall has a giant hitbox and can generally be cleaved down along with the add, but consider sending an additional player with that group just in case.
+During the second split phase, the group killing the North-Eastern add will additionally kill the arena wall next to their spirit. This is not very difficult to do as the wall has a giant hitbox and can generally be cleaved down along with the add, but consider sending an additional player with that group just in case.
 
 Then as soon as the final phase begins, the portal player can prepare their <img class='inline portal'> [Portal Entre] in the center of the arena. The wall re-spawns when Gorseval begins his [Ghastly Rampage] (the <img class='inline defiance'> [Defiance Bar] mechanic), so just before that they should <img class='inline blink'> [Blink] or walk out of the arena through the missing wall. They can then use the updraft to the North until the boss is dead, after which they glide down to the north and open their portal for the rest of the group.
 
@@ -267,7 +291,7 @@ The person placing the portal usually will be put into combat immediately after 
 
 ## Transition to Sabetha
 
-This transition requires players to kill a certain number of adds and get to the boss as fast as possible. Optimizing this transition is one of the most difficult parts of the wing, but also brings one of the greatest time gains.
+This transition requires players to kill exactly 30 bandits and get to the boss as fast as possible. Optimizing this transition is one of the most difficult parts of the wing, but also brings one of the greatest time gains.
 
 ### Initial Area
 
@@ -283,7 +307,7 @@ Once the first area is cleared, the rest of the event is usually played in one o
 
 ### Double Portals
 
-This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. Doing the pre-event this way is extremely. However, it can be punishing to miss a bandit as you do not have as many available.
+This strategy requires players to focus more on killing adds towards the beginning of the event, especially in the first area and along the elevated path to the second one. This way, you aim to clear the kill requirement early and port directly from the second area to the boss. Doing the pre-event this way is extremely fast. However, it can be punishing to miss a bandit as you do not have as many available.
 
 <div class="row-container">
 
@@ -303,10 +327,13 @@ While the main group is killing bandits in the first area, three things are happ
 
 Once all adds in the first area have been cleared, the first <img class='inline mesmer'> [Mesmer] will open their portal, bringing the main group to the second area where they link up with the DPS coming up the walkway.
 
+{: .note}
+Alternatively, one of the <img class='inline mesmer'> [Mesmers] heading up the walkway can aggro the bandits, pulling them up towards the second area. You can then send some players down after opening the portal to clear them out. This can be seen in [this PoV](https://youtu.be/qMGk2r_VNSM?t=463).
+
 The second <img class='inline mesmer'> [Mesmer] will prepare their portal once they reach the second area, then use the jump pad to cross the ravine and make their way to [Sabetha]. The event should be complete once all bandits in the second area have been cleared, at which point they will instantly open their <img class='inline portal'> [Portal] directly into the arena. You then have a couple of seconds (literally) before the boss spawns in and the final fight starts.
 
 {: .note}
-To facilitate template swaps, this player should be in <img class='inline stealth'> [Stealth] before jumping the ravine. Otherwise, the nearby bandit sniper, which has a huge aggro range, will keep them and possibly other players in combat for the rest of the transition. It is recommended to use <img class='inline mass-invis'> [Mass Invisibility] coupled with <img class=inline src='https://wiki.guildwars2.com/images/thumb/a/a8/Prismatic_Understanding.png/38px-Prismatic_Understanding.png'> [Prismatic Understanding](https://wiki.guildwars2.com/wiki/Prismatic_Understanding) just before launching from the jump pad.
+This player should be in <img class='inline stealth'> [Stealth] before jumping the ravine. Otherwise, the nearby [Bandit Sniper](https://wiki.guildwars2.com/wiki/Bandit_Sniper) will prevent them and possibly other players from swapping templates due to its gigantic aggro range. It is recommended to use <img class='inline mass-invis'> [Mass Invisibility] (and run <img class=inline src='https://wiki.guildwars2.com/images/thumb/a/a8/Prismatic_Understanding.png/38px-Prismatic_Understanding.png'> [Prismatic Understanding](https://wiki.guildwars2.com/wiki/Prismatic_Understanding)) just before launching from the jump pad.
 
 ---
 
@@ -374,14 +401,15 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 {: .center}
 
 <!-- Links to other pages in the guide -->
-[Vale Guardian]: #vale-guardian
-[Spirit Woods]: #spirit-woods
+[Vale Guardian]: #vale-guardian-1
+[Spirit Woods]: #spirit-woods-1
 [Spectral Rifts]: #spectral-rifts
 [Spirit Race]: #spirit-race
 [Cemetery]: #cemetery
-[Gorseval]: #gorseval
-[Sabetha]: #sabetha
+[Gorseval]: #gorseval-1
+[Sabetha]: #sabetha-1
 [marker pack]: ../general.html#marker-packs
+[food swap]: ../general.html#food-swapping
 
 <!-- Links to classes and specializations -->
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -406,6 +434,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Portal]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Portals]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
+[Blinking]: https://wiki.guildwars2.com/wiki/Blink
 [Mass Invisibility]: https://wiki.guildwars2.com/wiki/Mass_Invisibility
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Temporal Curtain]: https://wiki.guildwars2.com/wiki/Temportal_Curtain
@@ -421,6 +450,9 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Aegis]: https://wiki.guildwars2.com/wiki/Aegis
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Immobilize]: https://wiki.guildwars2.com/wiki/Immobile
+[Vulnerability]: https://wiki.guildwars2.com/wiki/Vulnerability
+[Weakness]: https://wiki.guildwars2.com/wiki/Weakness
+[Resistance]: https://wiki.guildwars2.com/wiki/Resistance
 
 <!-- Links to enemies and enemy skills -->
 [Seeker]: https://wiki.guildwars2.com/wiki/Seeker
@@ -429,6 +461,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Distributed Magic]: https://wiki.guildwars2.com/wiki/Distributed_Magic_(Blue_Guardian)
 [Ethereal Barriers]: https://wiki.guildwars2.com/wiki/Ethereal_Barrier
 [Ghastly Rampage]: https://wiki.guildwars2.com/wiki/Ghastly_Rampage
+[Charged Souls]: https://wiki.guildwars2.com/wiki/Charged_Soul
 
 <!-- Other -->
 [Adrenal Mushroom]: https://wiki.guildwars2.com/wiki/Adrenal_Mushroom

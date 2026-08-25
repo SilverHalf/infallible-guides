@@ -46,25 +46,29 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 - <img class='inline portal'> [Portals] for the transition between Bandit Camp and Matthias.
 - <img class='inline feedback'> [Projectile Reflection] for Matthias.
 
-<img class='inline troubadour'> [Troubadour] is a common pick due to its strong solo-healing capabilities, with the other mesmer often being a support DPS <img class='inline chrono'> [Chronomancer] or DPS <img class='inline virtuoso'> [Virtuoso]. For the <img class='inline thief'> [Thief], <img class='inline daredevil'> [Daredevil] is a common pick, played as <img class='inline power'> Power on Slothasor and <img class='inline condition'> Condition on Matthias.
+The portals are the most important part of this utility and the reason why it these classes are difficult to replace with alternatives.
+
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are viable on this wing. You can get up to 16 stacks on a fresh instance by killing the [slublings] before [Slothasor]. Some adds in [Bandit Trio] also grant stacks, such as the [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) and [Fungi](https://wiki.guildwars2.com/wiki/Fungus).
 
 ---
 
-#### Slothasor
+#### [Slothasor]
 {: .no_toc}
 - Can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier. <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist] are good picks also due to their strong CC and utility.
 - Bring <img class='inline pull'> pulls such as <img class='inline curtain'> [Temporal Curtain] and <img class='inline binding-blade'> [Binding Blade] to manage slublings.
 - CC is extremely important: DPS classes with heavy breakbar skills will be extremely beneficial, such as <img class='inline engineer'> [Engineers] with <img class='inline bombkit'> [Bomb Kit].
 
-#### Bandit Trio
+#### [Bandit Trio]
 {: .no_toc}
 - Since this encounter does not benefit much from additional DPS, it is possible to run an additional healer, especially if one of the regular heals is doing portals.
 - Assign one or two DPS with good survivability to do mortars.
 
-#### Matthias
+#### [Matthias]
 {: .no_toc}
 - Ensure you have a good amount of <img class='inline pull'> pull skills to speed up the transition from Trio.
+- [Solo-healing](../general.html#solo-healing) is viable, and slightly less demanding than on [Slothasor].
 - Remember to bring <img class='inline feedback'> [Projectile Reflection]. If possible, bring multiple sources to ensure you always have a backup.
+- <img class='inline sand-swell'> [Sand Swell] and <img class='inline rifle-portal'> [Dimensional Aperture] can be used to quickly transport players to/from mechanics.
 
 ---
 
@@ -95,6 +99,9 @@ The shroom player should eat the <img class='inline shroom'> [Poison Mushroom] n
 <img class='center' src='sloth/sloth_1.webp'>
 </div>
 </div>
+
+{: .warning}
+Poison fields originate from <img class='inline shroom'> [Poison Mushroom], and standing in the overlap between multiple fields will double incoming damage, potentially leading to <img class='inline invuln'> [Downstates]. Take care to position correctly until the first safe spot has been cleared.
 
 <div class="row-container">
 <div class='adapt-width-50' markdown=block>
@@ -143,122 +150,163 @@ Sloth's final breakbar occurs at 10%. With good timing, players can wait for the
 
 This encounter is relatively simple and low-risk. Its most critical part is optimizing the transitions into it and out of it.
 
+{: .warning}
+If more than four people are in the area outside the fort while the encounter is active, additional waves of bandits will start spawning in, which can be difficult to deal with.
+
 ---
 
 ### Transition from Slothasor
 
-Trio starts as soon as any player enters the fort, thus it is best to send a player with high mobility ahead of the main group to start the encounter. This is commonly done by a <img class='inline thief'> [Thief] running <img class='inline shadowstep'> [Shadowstep] and shortbow.
-
 {: .warning}
 Conditions are not cleansed at the end of Slothasor! Make sure everyone is healthy before continuing onwards.
 
-A <img class='inline mesmer'> [Mesmer] will start preparing the transition into Matthias by gliding to the right at the cliff before Trio and doing a small jumping puzzle. Another player may accompany them to clear out the snipers at the top of the cliff.
-
----
-
-### Splitting
-
-To prevent easily avoidable downs due to sniper damage, most groups will choose to keep the squad in the safe spot until all snipers have been pulled: only then will one subgroup move to clear the top bridges.
-
----
-
-### Transition Preparation
-
-{: .note}
-All portal positions described in this section can be viewed in-game using [marker packs].
-
-The <img class='inline mesmer'> Portal player who is waiting on top of the cliff should prepare their portal and glide down at *7:10* on the timer. They can then aid with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg) and open their portal close to the cliff on the north side of camp to get back to their previous position.
-
-{: .note}
-The portal player will not be able to see the timer at the beginning: someone  from the main group should call out when it's time for them to glide down.
-
-A similar sequence should happen at *5:10* for [Zane](ttps://wiki.guildwars2.com/wiki/Salvation_Pass#Zane). However, this time another player (typically the <img class='inline thief'> [Thief]) should provide a <img class='inline shadow-portal'> portal to the North side. Both <img class='inline mesmer'> [Mesmers] and the <img class='inline thief'> [Thief] should take this portal, then take the Mesmer portal to ascend the cliff.
-
 <div class="row-container">
-    <img class='center adapt-width' src='transition/Trio_0.webp'>
-    <img class='center adapt-width' src='transition/Trio_1.webp'>
+<div class='adapt-width-50' markdown=block>
+Trio starts as soon as any player enters the fort, thus it is best to send a player with high mobility ahead of the main group to start the encounter. This is commonly done by a <img class='inline thief'> [Thief] running <img class='inline shadowstep'> [Shadowstep] and shortbow.
+
+Another player, usually a <img class='inline mesmer'> [Mesmer], will start preparing the transition into [Matthias] by gliding to the right before Trio and doing a small jumping puzzle to get to the top of the cliff. Another player may accompany them to clear out the snipers at the top of the cliff.
+</div>
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/trio-prep.webp'>
+</div>
 </div>
 
-At *3:15* on the timer, these three players must then each prepare their portal at specific positions and glide back down to help with [Narella].
-
-{: .note}
-This guide shows just one way of doing these portals. You do not have to copy them exactly, in fact we encourage you to find whatever strategy that suits your group best.
+The rest of the group can glide in normally and start clearing out bandits, then head into the safe spot. To prevent easily avoidable downs due to sniper damage, most groups will choose to keep the squad in the safe spot until all snipers have been pulled: only then will one subgroup move to clear the top bridges.
 
 ---
 
 ### Speeding up Narella
 
-[Narella] is the only miniboss in the encounter where DPS is important. Groups will often attempt to kill her faster by releasing the wargs at the top of the stairway on the North side at around 3:10. These wargs will often attack the miniboss, reducing the kill time by 2-3 seconds.
+[Narella] is the only miniboss in the encounter where DPS is important. Groups will often attempt to kill her faster by releasing the wargs at the top of the stairway on the North side at around *3:10*. These wargs will often attack the miniboss, reducing the kill time by 2-3 seconds.
 
----
+#### Killing Narella Early
+{: .no_toc}
 
-### BUG: Killing Narella Early
+{: .warning}
+This strategy is very likely unintended behaviour and is not accepted in most speedrun formats.
 
-It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane](https://wiki.guildwars2.com/wiki/Salvation_Pass#Zane) spawns while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and maul her (which is admittedly very funny). The encounter will then end as soon as Zane dies.
+It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane] spawns while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and maul her (which is admittedly very funny). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
 
 {: .warning}
-This bug is not accepted in most speedrun formats.
-
-{: .warning}
-While this bug trivializes the timer for this wing, if you are considering it due to time constraints, then your group very likely has bigger issues, and addressing them now will be more useful in the long term.
+While this bug trivializes the timer for this wing, if you are considering it due to time constraints, then your group very likely has bigger issues. Addressing them now will be more useful in the long term.
 
 ---
 
 ## Transition into Matthias
 
-Portals are used to deal with all the bandit groups and quickly get the squad to Matthias. This transition is one of the easiest ways to save time in the wing, and groups should practice until they can perform it smoothly and reliably.
+This transition is one of the easiest ways to save time in the wing. <img class='inline portal'> <img class='inline shadow-portal'> [Portals] are used to get to all the bandit groups quickly and then regroup the squad at [Matthias] once the event is complete.
+
+
+{: .note}
+This guide shows just one way of doing this transition. You do not have to copy it exactly, in fact we encourage you to find whatever strategy suits your group best.
 
 {: .note}
 All portal positions described in this section can be viewed in-game using [marker packs].
 
 ---
 
+### Preparation During Trio
+
+Preparation for this transition begins at the start of [Bandit Trio]. During the [transition into Trio](#transition-from-slothasor), one player with a <img class='inline portal'> <img class='inline shadow-portal'> portal will pre-position on the cliff overlooking the fort.
+
+{: .note}
+While not strictly necessary, this player will often glide down at *7:10* on the timer to help with killing [Berg](https://wiki.guildwars2.com/wiki/Salvation_Pass#Berg). They can use their portal to get back to their previous position once the miniboss is dead.
+
+{: .note}
+The portal player will not be able to see the timer until they enter the encounter area: someone from the main group should call out when it's time for them to glide down.
+
+<div class="row-container">
+<div class='adapt-width-50' markdown=block>
+At *5:10* on the timer, before [Zane] spawns in, the player on the cliff should prepare their <img class='inline portal'> <img class='inline shadow-portal'> portal and glide down to join the group. Similarly, another portal player should prepare their own <img class='inline portal'> <img class='inline shadow-portal'> portal (usually around *5:15* but this is not as strict) at the base of the small cliff on the north side of the fort.
+
+Both of these players can help with killing [Zane]. When the boss is close to dying or the portals are close to running out, open them in sequence to bring all three portal players from [Zane] to the top of the cliff.
+</div>
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/trio-prep-1.webp'>
+</div>
+</div>
+
+<div class="row-container">
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/trio-prep-2.webp'>
+</div>
+<div class='adapt-width-50' markdown=block>
+These players can then proceed to their assigned positions to place portals in preparation for the transition:
+- One will remain at the top of the cliff and prepare a <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15* or earlier.
+- One will run to the arch just before the first room and prepare a <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15* or earlier.
+- One will skip ahead and do a short jumping puzzle to get to the cliff next to Matthias' arena (check the [PoV](#povs) section to see this in execution). They can prepare their <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:10* or earlier.
+</div>
+</div>
+
+{: .note}
+With the strategy described in this guide, it's convenient to use <img class='inline portal'> [Portal Entre] for at least two of the portals above. This allows their cooldown to be reset with <img class='inline mimic'> [Mimic] so that they can be used multiple times over the course of the transition.
+
+Once they have placed their portal, all three players should retrace their steps, glide down to the fort and help with the final stages of [Narella]. 
+
+---
+
 ### Ascending the Cliff
 
-As soon as [Narella] dies, both <img class='inline mesmer'> [Mesmers] should <img class='inline mimic'> [Mimic] their portal to get the squad up the cliff and to the first sets of adds.
+<div class="row-container">
+<div class='adapt-width-50' markdown=block>
+As soon as [Narella] dies, open the first <img class='inline portal'> <img class='inline shadow-portal'> portal to get the squad up the cliff, using <img class='inline mimic'> [Mimic] if it's a <img class='inline mesmer'> [Mesmer] portal. The second player will then open their own <img class='inline mimic'> <img class='inline portal'> <img class='inline shadow-portal'> portal and bring the rest of the group to the arch.
+
+From here, split off a couple of players to deal with the two bandits before the portal while the rest of the group cleaves down the larger group in the first room.
+</div>
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/transition-1.webp'>
+</div>
+</div>
 
 {: .warning}
-If someone is on top of the cliff when Narella dies (roughly from the edge of the cliff to the end of the pathway where you come out of the second portal), they'll trigger the "ascend the cliff" checkpoint in the same millisecond as the "complete Trio by killing Narella" checkpoint. This breaks the instance. Make sure that everyone who's placing portals jumps down to help with [Narella] even if she's about to die.
+Between the ley rift and the arch there is an invisible trigger line that progresses the pre-event. If you are too fast, you can cross this line before the pre-event is active, forcing the instance into a bugged state that requires a reset. To avoid this issue, make sure nobody crosses the trigger line (which is also highlighted in [marker packs]) before the *"Find a way to ascend the cliff"* text appears. This includes taking the second portal described above.
 
 <div class="row-container">
-    <img class='center adapt-width' src='transition/Trio_2.webp'>
-    <img class='center adapt-width' src='transition/Trio_3.webp'>
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/transition-2.webp'>
+</div>
+<div class='adapt-width-50' markdown=block>
+After the second group is dead, the third player will open their <img class='inline mimic'> <img class='inline portal'> <img class='inline shadow-portal'> portal next to the wall on the North side of the room. After taking it, both <img class='inline mesmer'> [Mesmers] (if they correctly used <img class='inline mimic'> [Mimic]) will prepare a <img class='inline portal'> portal at the top of the cliff, taking care not to overlap the entrances.
+
+The squad will then divide into two groups, with one group gliding down to the North and the other to the South. One portal <img class='inline mesmer'> [Mesmer] should follow each group.
+</div>
 </div>
 
-There are two groups of bandits that must be killed. The first one is before the arch and consists of only two adds, so normally only a couple of players are sent to clear it. The second one is in the room after the arch and should be bursted down by the rest of the group.
-
-After the second group is dead, the <img class='inline thief'> [Thief] will open their portal for the squad next to the wall on the North side of the room. After taking the it, both <img class='inline mesmer'> [Mesmers] should prepare their own portals on top of the hill. The squad should then divide in two, with one group gliding down to the North and the other to the South, and a mesmer following each group.
+Meanwhile, the players that killed the two adds before the portal can make their way forward using the standard route. The next group of adds they encounter does not count towards the event's progress and can be ignored, but the one immediately after the turn in the road should be cleared.
 
 <div class="row-container">
-    <img class='center adapt-width' src='transition/Trio_4.webp'>
-    <img class='center adapt-width' src='transition/Trio_5.webp'>
+<div class='adapt-width-50' markdown=block>
+The group gliding north from the cliff can clear out the camp area before walking south. The group coming from the south will converge with them on the final bandits.
+
+The other group can clear out the area around the Asura gate before walking towards Matthias's arena and killing the bandits on the way there.
+</div>
+<div class='center adapt-width'>
+<img class='center bordered' src='transition/transition-3.webp'>
+</div>
 </div>
 
-Once all bandits have been cleared, both portals are opened and the squad takes them directly into [Matthias]'s arena.
+Once all bandits have been cleared, the event will complete. Open both portals to quickly transport the squad into [Matthias]'s arena.
 
 ---
 
 ## Matthias Gabrel
 
-This boss is played pretty much identically to PUG strat. While there is not much to learn strategy-wise, be aware that Matthias has lots of dangerous mechanics: players should be especially careful of his Hadouken, [Spread](https://wiki.guildwars2.com/wiki/Zealous_Benediction_(effect)) attack and [Shards of Rage](https://wiki.guildwars2.com/wiki/Salvation_Pass#Matthias_Gabrel), as they can easily end your run.
+This boss is played pretty much identically to PUG strat. While there is not much to learn strategy-wise, be aware that Matthias has lots of dangerous mechanics: players should be especially careful of his *Hadouken*, [Spread](https://wiki.guildwars2.com/wiki/Zealous_Benediction_(effect)) attack and [Shards of Rage](https://wiki.guildwars2.com/wiki/Salvation_Pass#Matthias_Gabrel), as they can easily end your run.
 
-Experienced groups should try to solo-heal Matthias.
+{: .note}
+The first person to enter Matthias's arena will be the target of both his *Hadouken* and *Blood Shard* projectiles (the ones to be reflected into his <img class='inline' src='https://wiki.guildwars2.com/images/thumb/a/a6/Blood_Shield.png/30px-Blood_Shield.png'> [Blood Shield](https://wiki.guildwars2.com/wiki/Blood_Shield)). For this reason, it's best if this person is a healer.
 
 ---
 
 ### Zealous Benediction
 
-Most commonly known as "spread", this is the most common reason for downs on Matthias. Being in two circles is an instant reset.
+Most commonly known as "spread", this is one of the most common reasons for resets on Infallible attempts, since being in two circles is an instant <img class='inline invuln'> [Downstate].
 
-Everyone should play this as safe as possible. In the beginning phases, where not everyone gets their own circle, the players targeted should move away from the boss to give space to any DPS that are not targeted. Players should avoid casting any skills with forced movement while targeted by this skill.
+Try to play this mechanic as safely as possible. In the beginning phases, where not everyone gets their own circle, the players targeted should move away from the boss to give space to any DPS that are not targeted.
 
----
-
-### Corruption
-
-Groups should minimize the DPS downtime and inherent risk in having a player run off-stack to cleanse this mechanic. Low-cooldown portals are the obvious solution with <img class='inline sand-swell'> [Sand Swell] being best-in-slot and <img class='inline rifle-portal'> [Dimensional Aperture] a distant second.
+When everyone starts getting a circle under 40%, it can be convenient to assign three melee DPS beforehand to stay on the boss while the rest of the squad spreads out further. This can prevent greedy or unaware players from causing preventable <img class='inline invuln'> [Downstates].
 
 ---
 
@@ -267,6 +315,19 @@ Groups should minimize the DPS downtime and inherent risk in having a player run
 This attack can easily one-shot an unprepared player. However, getting hit by it brings a considerable increase in DPS due to <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled). Groups that want to play safer can bring projectile block to nullify this attack entirely (not reflect!!), while those that want more DPS can aim to absorb the shards.
 
 A common practice is having a <img class='inline mechanist'> [Mechanist] use their <img class='inline shift'> [Shift Signet] to position their Mech in the center of Matthias' hitbox: the mech will absorb the majority of the attack while gaining many stacks of <img class='inline' src='https://wiki.guildwars2.com/images/d/d3/Blood_Fueled.png'> [Blood Fueled](https://wiki.guildwars2.com/wiki/Blood_Fueled), thus significantly increasing its damage.
+
+---
+
+### Position Control
+
+Matthias will always target the furthest player from himself with his melee attacks. This, when combined with mechanics such as <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Locust_Trail.png/30px-Locust_Trail.png'> [Corruption](https://wiki.guildwars2.com/wiki/Corruption_(Matthias_Gabrel_effect)) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/09/Unstable_Blood_Magic.png/30px-Unstable_Blood_Magic.png'> [Unstable Blood Magic](https://wiki.guildwars2.com/wiki/Unstable_Blood_Magic) (special action key) can cause him to move a lot, potentially reducing DPS uptime. For this reason, fast runs will try to use portals and movement skills to quickly manage these mechanics before they significantly impact the boss's position.
+
+You generally want to keep the boss close to the center, since it's the most convenient location for accessing the [cleansing pools](https://wiki.guildwars2.com/wiki/Forsaken_Thicket_Waters) on the sides of the arena, but not dead center, as that can lead to accidentally killing the sacrifice player with conditions.
+
+{: .note}
+The player chosen by the sacrifice mechanic gets massively increased <img class='inline power'> power damage reduction, meaning it's more likely to be killed by conditions.
+
+To better control the boss's position, you can assigned a ranged player to stand further from the boss than the rest of the group. The boss will then walk to them when it's not occupied by other mechanics.
 
 ---
 
@@ -286,8 +347,8 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [< Wing 1](../wing-1/){: .btn } [Return to Home](../index.html){: .btn } [Wing 3 >](../wing-3/){: .btn } [Return to Top](#salvation-pass){: .btn .fixed}
 {: .center}
 
-[Slothasor]: #slothasor
-[Bandit Trio]: #bandit-trio
+[Slothasor]: #slothasor-1
+[Bandit Trio]: #bandit-trio-1
 [Matthias]: #matthias-gabrel
 [marker packs]: ../general.html#marker-packs
 
@@ -307,13 +368,16 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Ritualist]: https://wiki.guildwars2.com/wiki/Ritualist
 [Engineers]: https://wiki.guildwars2.com/wiki/Engineer
 [Mechanist]: https://wiki.guildwars2.com/wiki/Mechanist
+[Downstates]: https://wiki.guildwars2.com/wiki/Downstate
+[Downstate]: https://wiki.guildwars2.com/wiki/Downstate
 
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Stealth]: https://wiki.guildwars2.com/wiki/Stealth
 [Pull]: https://wiki.guildwars2.com/wiki/Pull
 [Distortion]: https://wiki.guildwars2.com/wiki/Distortion
 [Invulnerability]: https://wiki.guildwars2.com/wiki/Invulnerability
-[Portals]: https://wiki.guildwars2.com/wiki/Portal 
+[Portals]: https://wiki.guildwars2.com/wiki/Portal
+[Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Projectile Reflection]: https://wiki.guildwars2.com/wiki/Reflect
 [Bomb Kit]: https://wiki.guildwars2.com/wiki/Bomb_Kit
 [Mass Invisibility]: https://wiki.guildwars2.com/wiki/Mass_Invisibility
@@ -324,3 +388,4 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
 [Dimensional Aperture]: https://wiki.guildwars2.com/wiki/Dimensional_Aperture
 [Shift Signet]: https://wiki.guildwars2.com/wiki/Shift_Signet
+[Zane]: https://wiki.guildwars2.com/wiki/Salvation_Pass#Zane

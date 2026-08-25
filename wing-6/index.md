@@ -40,14 +40,16 @@ Mythwright Gambit speedrunning varies greatly based on the week, as [Minipets] t
 
 Mythwright Gambit requires many specialized roles so composition requirements can be rather strict.
 
-Two <img class='inline mesmer'> [Mesmers] are often run since they bring great utility and can vastly speed up the transition from [Twin Largos] to [Qadim].
+One to two <img class='inline mesmer'> [Mesmers] are often run since they bring great utility and can vastly speed up the transition from [Twin Largos] to [Qadim].
 
 ---
 
 #### Conjured Amalgamate
 {: .no_toc}
-- Even though damage pressure is low, it is worthwhile to run two healers since they are often off-stack.
-- Since <img class='inline pull'> [Pull] and projectile management are very strong here, both healers are often <img class='inline mesmer'> [Mesmers] running <img class='inline curtain'> [Temporal Curtain] and <img class='inline feedback'> [Feedback].
+- All DPS should be on <img class='inline power'> Power builds due to the boss and arms having 10.4% reduced armor. The arms will also cleanse themselves of all conditions after every slam.
+- Damage pressure is low, thus [solo-healing](../general.html#solo-healing) is viable.
+- Players doing <img class='inline ca-swords'> Swords and <img class='inline ca-shields'> Shields are usually boonDPS or healers, and must ensure they have enough boon duration to maintain uptime.
+- Bring sources of <img class='inline pull'> [Pull] and projectile management. This is often done by <img class='inline mesmer'> [Mesmers] running <img class='inline curtain'> [Temporal Curtain] and <img class='inline feedback'> [Feedback].
 - <img class='inline chrono'> [Chronomancer] can take advantage of the [interaction](#continuum-split-and-swords) between <img class='inline cs'> [Continuum Split] and <img class='inline ca-swords'> [Conjured Slash] to massively boost group DPS.
 
 #### Sorting and Appraisal
@@ -60,10 +62,12 @@ Two <img class='inline mesmer'> [Mesmers] are often run since they bring great u
 - The subgroup going to [Nikare] should bring a form of <img class='inline stunbreak'> [Stunbreak](https://wiki.guildwars2.com/wiki/Stun_break) for players caught in bubbles.
 - The subgroup going to [Kenut] should bring <img class='inline aegis'> [Aegis] for her boonstrips and <img class='inline stability'> [Stability] for her shockwave.
 - <img class='inline amalgam'> [Amalgam]'s <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/29/Offensive_Protocol-_Obliterate.png/50px-Offensive_Protocol-_Obliterate.png'> [Offensive Protocol: Obliterate](https://wiki.guildwars2.com/wiki/Offensive_Protocol:_Obliterate) can remove [Barrier] from the bosses, greatly benefiting any <img class='inline condition'> Condition builds.
-
+- [Nikare] has 5% reduced armor compared to the standard. On the contrary, [Kenut] has 5% increased armor.
 
 #### Qadim
 {: .no_toc}
+- Most damage is directed towards the tank, thus [solo-healing](../general.html#solo-healing) is viable.
+- <img class='inline power'> Power builds are favoured since the boss has 13.3% reduced armor.
 - Any <img class='inline mesmer'> [Mesmers] are best run as heal or boon supports due to <img class=inline src='https://wiki.guildwars2.com/images/thumb/f/f6/Confounding_Suggestions.png/38px-Confounding_Suggestions.png'> [Vicious Expression](https://wiki.guildwars2.com/wiki/Vicious_Expression) not applying its damage bonus.
 - <img class='inline deadeye'> [Deadeye] is hands-down the best kiter, due to its ease in kiting, survivability and general utility.
 - <img class='inline scrapper'> [Scrapper] and <img class='inline reaper'> [Reaper] are a common combination for quickly and safely clearing the lamp. Other viable classes include <img class='inline mirage'> [Mirage] and <img class='inline daredevil'> [Daredevil].
@@ -134,7 +138,7 @@ Damage on this arm is important but not fundamental. DPS players should keep the
 Once the left arm goes up, cross the middle of the platform to bait down the right arm. Everyone should <img class='inline ca-swords'> [Conjured Slash] the arm and burst it down before it goes up again.
 
 {: .note}
-Depending on your burst, you need 5 to 6 stacks of <img class='inline fractured'> [Fractured] on the arm to kill it. Since the pattern of [Conjured Greatswords] spawning from the previous arm is random, it can happen that you do not kill enough swords to do this. In this case it's best to `/gg` and reset the boss than continue a botched run.
+Depending on your burst, 5 to 6 <img class='inline fractured'> stacks are required on the arm to kill it. Since the pattern of [Conjured Greatswords] spawning from the previous arm is random, it can happen that you do not kill enough swords to do so. In this case it's better to */gg* and reset the boss than continue a botched run.
 
 Once the arm is dead, the main group should group up and kill the remaining [Conjured Greatswords] while moving to the boss. As soon as they die, use <img class='inline ca-swords'> [Conjured Slash] on the boss.
 
@@ -225,24 +229,27 @@ The trick to completing this encounter quickly is to kill the miniboss in one lo
 
 This boss is played with the standard PUG strat, splitting the squad between [Nikare] and [Kenut] after phasing both to 50%.
 
-Both <img class='inline power'> Power and <img class='inline condition'> Condition builds are viable, with power being better on the first two platforms with their shorter phases, and condition improving on the final two and on [Nikare] due to his movement.
-
-Ideally you should try to kill both bosses at the same time. The subgroup on [Nikare] will often deal less damage overall due to the boss's movement, so it's convenient to have a player from the other subgroup join them on the last platform. This transfer can happen as early as when the [Nikare] group reaches the platform, or as late as after the <img class='inline defiance'> [Defiance Bar], depending on the disparity between the two groups' damage.
+Ideally you should aim to kill both bosses at the same time. The subgroup on [Nikare] will often deal less damage overall due to the boss's movement, so it's convenient to have a player from the other subgroup join them on the last platform. This transfer can happen as early as when the [Nikare] group reaches the platform, or as late as after the <img class='inline defiance'> [Defiance Bar], depending on the disparity between the two groups' damage.
 
 ---
 
-### Starting Early
+### Dialogue Skips
 
-It is possible to start the boss earlier than normal in a couple of ways. These usually require players to */gg*, so they are not applicable to infallible runs.
-- Once the bosses spawn on the platform, you can hit them with a <img class='inline skyscale'> [Skyscale] <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/b7/Fireball_Skyscale.png/72px-Fireball_Skyscale.png'> [Fireball](https://wiki.guildwars2.com/wiki/Fireball_(skyscale))while the dialogue is still ongoing. This will begin the fight early: you should then */gg* and respawn. You can jump on the platform as soon as you see "Engage Qadim's final challenge" pop up.
+{: .warning}
+The following section is not relevant to Infallible runs, but general time-saves when running this wing.
+
+It is possible skip some dialogue to start the boss earlier than normal in a couple of ways. These usually require players to */gg*, so they are not applicable to Infallible runs.
+- Once the bosses spawn on the platform, you can hit them with a <img class='inline skyscale'> [Skyscale] <img class=inline src='https://wiki.guildwars2.com/images/thumb/b/b7/Fireball_Skyscale.png/72px-Fireball_Skyscale.png'> [Fireball](https://wiki.guildwars2.com/wiki/Fireball_(skyscale)) while the dialogue is still ongoing. This will begin the fight early: groups will usually then */gg* and respawn. You can jump on the platform as soon as you see *"Engage Qadim's final challenge"* pop up.
 - You can "platform start" the boss. Trigger the fight, then */gg*. The boss will not respawn immediately, giving you a 15-20 seconds to preposition on the first platform before spawning in.
-- The length of the dialogue depends on the players' client language. The dialogue will last as long as the longest duration between all languages used by players in the instance.
 
-| Language | Duration |
-|---|---|
-|French| 54 seconds|
-|English| 1 minute 2 seconds|
-|German| 1 minute 16 seconds|
+{: .note}
+> The length of the dialogue depends on the players' client language. The dialogue will last as long as the longest duration between all languages used by players in the instance.
+> 
+> | Language | Duration |
+> |---|---|
+> |French| 54 seconds|
+> |English| 1 minute 2 seconds|
+> |German| 1 minute 16 seconds|
 
 ---
 
@@ -272,7 +279,7 @@ Based on how fast you killed the first pyre, you can then either:
 - (Fast) Take the <img class='inline portal'> portal, kill the topmost pyre and then take it back down to kill the first one again once it re-spawns.
 - (Safe) Wait for the bottom pyre to respawn, kill it and then take the <img class='inline portal'> portal up to kill the last one.
 
-In both cases, the second <img class='inline mesmer'> [Mesmer] (or the first one running <img class='inline mimic'> [Mimic]) should open a portal from the pyre to the entrance of [Qadim]'s arena.
+If you have a second <img class='inline mesmer'> [Mesmer] (or are running <img class='inline mimic'> [Mimic] on the first one) they can open a <img class='inline portal'> portal from the pyre to the entrance of [Qadim]'s arena.
 
 ---
 
@@ -286,11 +293,11 @@ Qadim is a long, complicated boss with many moving parts and opportunities for m
 
 ### Lamp Strategy
 
-In a speedrun setting, the lamp clear becomes the bottleneck for the add phases. Therefore, fast lamps are extremely important in order to get a faster overall kill.
+In a speedrun setting, the lamp becomes the bottleneck for clearing the add phases. Groups therefore prioritize this mechanic by sending multiple people down to speed up the process.
 
-The first and second lamp are often done by either a <img class='inline reaper'> [Reaper] solo, or by a <img class='inline reaper'> [Reaper] and <img class='inline scrapper'> [Scrapper] duo.
+One of the most common combinations in the lamp is the <img class='inline reaper'> [Reaper] and <img class='inline scrapper'> [Scrapper] duo.
 - <img class='inline reaper'> [Reaper] has more than enough damage to quickly kill all of the adds, and great survivability and self-boons to boot.
-- <img class='inline scrapper'> [Scrapper] is used to speed the <img class='inline reaper'> [Reaper] via <img class='inline gyro-accel'> [Gyroscopic Acceleration](https://wiki.guildwars2.com/wiki/Gyroscopic_Acceleration), often running an additional gyro to maintain <img class='inline superspeed'> [Superspeed] uptime.
+- <img class='inline scrapper'> [Scrapper] is used to <img class='inline superspeed'> [Superspeed] the <img class='inline reaper'> [Reaper], often running an additional gyro to increase uptime.
 
 Other common lamp classes include:
 - <img class='inline power'> <img class='inline mirage'> [Mirage] - technically the fastest solo lamp class, but not often seen due to a high skill floor and sub-optimal phase DPS.
@@ -323,7 +330,6 @@ If you have enough DPS to consistently phase Qadim before he gains his <img clas
 - The safest approach to the bouncing orbs is moving to the unaffected spots on the platform.
 - Have a second <img class='inline portal'> [Portal Entre] (or use <img class='inline mimic'> [Mimic]) for when Qadim teleports during the final burst phase.
 - Your kiter can be a boon provider if you put them in a subgroup with the lamp players and the tank. Make sure the single remaining DPS does not suffer excessively due to the missing boon (example: <img class='inline quickness'> [Quickness](https://wiki.guildwars2.com/wiki/Quickness) kite <img class='inline deadeye'> [Deadeye] with a DPS <img class='inline bladesworn'> [Bladesworn](https://wiki.guildwars2.com/wiki/Bladesworn)).
-- Qadim can be solo-healed by your main tank as long as your off-tank is comfortable with their role.
 
 ---
 
@@ -343,6 +349,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 #### Other Useful Links
 
 - <img class='inline build'> <img class='inline deadeye'> [Kite Deadeye](https://snowcrows.com/builds/raids/thief/kite-deadeye-q-spear-dagger-dagger) build and [gameplay guide](https://snowcrows.com/guides/builds/kite-deadeye-gameplay-guide) by Snowcrows. Replace <img class=inline src='https://wiki.guildwars2.com/images/thumb/e/e4/Dagger_Training.png/60px-Dagger_Training.png'> [Dagger Training](https://wiki.guildwars2.com/wiki/Dagger_Training) with <img class=inline src='https://wiki.guildwars2.com/images/thumb/2/28/Mug.png/60px-Mug.png'> [Mug](https://wiki.guildwars2.com/wiki/Mug) for easier kiting and sustain. Run rifle instead of daggers if you don't want to teleport every time you use <img class='inline' src='https://wiki.guildwars2.com/images/thumb/7/78/Deadeye%27s_Mark.png/72px-Deadeye%27s_Mark.png'> [Deadeye's Mark](https://wiki.guildwars2.com/wiki/Deadeye's_Mark).
+- <img class='inline youtube'> [Qadim NM in 3:58](https://www.youtube.com/watch?v=37iy0jxUIDw) by [AVES]. Honestly just putting this here because it's the greatest GW2 speedrun of all time and everyone should watch it at least once. You can find a writeup on this run [here](https://www.reddit.com/r/Guildwars2/comments/12yqwp9/qadim_record_by_the_hybridosaurus_aves_358/) and a commentary [here](https://www.youtube.com/watch?v=dnJiGhNisyw). Disclaimer: no sane group should try this strategy in a full-wing speed-clear.
 
 [< Wing 5](../wing-5/){: .btn } [Return to Home](../index.html){: .btn } [Wing 7 >](../wing-7/){: .btn } [Return to Top](#mythwright-gambit){: .btn .fixed}
 {: .center}

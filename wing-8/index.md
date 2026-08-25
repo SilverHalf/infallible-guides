@@ -44,7 +44,7 @@ The rest of the composition is mostly determined by your strategy on [Ura]:
 - [Solo CC] compositions are much more flexible but require an experienced Solo CC player.
 - [4-man] compositions are rigid but make ranged gameplay easier overall.
 
-Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the respawning enemies inside the mountain before starting, commonly known as ["Tunneling"](https://www.youtube.com/watch?v=J5zNxbxZInI).
+Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the enemies between the entrance to the wing and [Camp](https://wiki.guildwars2.com/wiki/Mount_Balrior#Cleanse_the_camp).
 
 For Infallible runs, prioritize consistency and safety over raw damage: redundant defensive utility, [Trailblazer] builds, and comfort picks wherever possible will all improve your experience progressing this wing. 
 
@@ -149,7 +149,7 @@ In phase 3, Decima's jump positions depend on your group's DPS. With good damage
 The second jump however will almost always cross the entire arena, requiring everyone to follow. Optimized groups improve DPS uptime by providing a <img class='inline portal'> [Portal] to her new position. This portal can be pre-placed before the [Arrows] preceding her jump, and then opened after <img class='inline blink'> [Blinking](https://wiki.guildwars2.com/wiki/Blink) to her new position.
 
 {: .warning}
-Make sure you are correctly providing <img class='inline aegis'> [Aegis] before blinking away, or that you have <img class='inline aegis'> [Aegis] before taking the portal.
+Make sure you are correctly providing <img class='inline aegis'> [Aegis] before blinking away, and that you have <img class='inline aegis'> [Aegis] before taking the portal.
 
 ---
 
@@ -265,8 +265,8 @@ Send one person to activate the Legendary mode before beginning the fight. Consi
 
 Strategy wise, speedrunning LCM Ura looks very similar to standard runs. Public strategies are fairly optimized already, as the difficulty of the encounter mandates competency from all involved players. For Infallible runs, groups will have to choose which composition to run.
 
-- [Solo CC] compositions give the squad more leeway overall in class choice, as the only hard requirements are the presence of a CC player and a certain amount of <img class='inline stability'> [Stability] and condition cleanse. Speedrunners often use this composition as it lets experienced groups play around with riskier playstyles, such as solo-healing.
-- [4-man] compositions are often preferred by progression groups, especially on the EU server, and are therefore familiar to many players. For Infallible, these force you to run two <img class='inline mesmer'> [Mesmers] and two <img class='inline thief'> [Thieves]. This is often not an issue, as <img class='inline troubadour'> [Troubadour] is extremely strong on all three bosses and <img class='inline thief'> [Thief] has some good boonDPS options, but its viability depends strongly on your group's preferences and the current state of the meta.
+- [Solo CC] compositions give the squad more leeway overall in class choice, as the only hard requirements are the presence of a CC player and a certain amount of <img class='inline stability'> [Stability] and condition cleanse. Speedrunners often use this composition as it lets experienced groups play around with riskier playstyles, such as [solo-healing](../general.html#solo-healing).
+- [4-man] compositions are often preferred by progression groups, especially on the EU server, and are therefore familiar to many players. For Infallible, these force you to run two <img class='inline mesmer'> [Mesmers] and two <img class='inline thief'> [Thieves]. This is often not an issue, as <img class='inline troubadour'> [Troubadour] is extremely strong on all three bosses and <img class='inline thief'> [Thief] has some good boonDPS options, but its viability depends on your group's preferences and the current state of the meta.
 
 Almost all Infallible runs ignore [Titanspawners]. The benefits of keeping the group stacked and simplifying the melee rotation are undeniable if your objective is to get a reliable kill.
 
