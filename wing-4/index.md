@@ -188,6 +188,9 @@ Samarog is a long fight with plenty of occasions to make mistakes. Fast clears a
 
 This transition is fairly short and simple. The easiest way to speed it up is to have a <img class='inline thief'> [Thief] ready to open the door for everyone. This can be optimized by having them position closer to the exit towards the end of [Mursaat Overseer]. Players should try to swap templates while heading up the steps and food should be placed just before the boss, so that players can run in directly without losing time.
 
+{: .warning}
+The first person through the door will normally walk over a trigger that spawns in [Samarog]. If this player instead teleports through the door and skips this trigger, Samarog will not spawn and you will have to reset the instance. For this reason, be careful when using blinks or teleports in this transition. 
+
 ---
 
 ### Speedrun Strategy
