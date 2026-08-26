@@ -378,7 +378,7 @@ Between killing [Sabir] (or [Adina] if you did Sabir first) and gaining access t
 
 ### Direct Dialogue Skip
 
-This skip is the simplest to execute, but is not suited for Infallible runs. It involves sending a single player over to the [Leystone Axis] to trigger the dialogue; when the [Key] then uses the line *"(yells)"*, this player will immediately `/gg` to immediately trigger the animation opening the [Sovereign's Stadium]. The rest of the squad can then use the [ley rift] to the [Leystone Axis] and run in.
+This skip is the simplest to execute, but is not suited for Infallible runs. It involves sending a single player over to the [Leystone Axis] to trigger the dialogue; when the [Key] then uses the line *"(yells)"*, this player will immediately `/gg` to trigger the animation opening the [Sovereign's Stadium]. The rest of the squad can then use the [ley rift] to the [Leystone Axis] and run in.
 
 {: .note}
 Infallible groups can still use this skip by having the triggering player leave the instance instead of `/gg`. This player will lose their achievement eligibility if they still had it, but the rest of the squad won't.
