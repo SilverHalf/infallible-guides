@@ -9,9 +9,6 @@ nav_order: 1
 
 This website is a compendium of advanced strategies for Guild Wars 2 raid wings. It aims to provide a solid central reference for players looking to get into the Infallible achievement and raid speedrunning in general.
 
-{: .warning}
-This guide is currently in the process of being proofread: some information may be inaccurate. Please provide feedback if you find any issues.
-
 [Introduction](./general.html){: .btn .center}
 
 <div class="row-container">
