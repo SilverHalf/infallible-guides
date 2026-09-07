@@ -152,13 +152,26 @@ Blind in particular is extremely important, as in certain parts you can have as 
 
 ---
 
+#### Front Warg Skip
+{: .no_toc}
+It is possible to prevent front wargs from moving entirely. This can be done by having a player walk through the area just in front of the first bridge, where <img class='inline glenna'> [Glenna] would generate her first leyline in a normal run.
+
+[<img class='inline youtube'> Front Warg Skip](https://www.youtube.com/watch?v=vtdPRdCDzFg){: .btn} [<img class='inline log'> Example Log](https://dps.report/CDWr-20260426-115806_esc){: .btn}
+{: .center}
+
+All front wargs that spawn in from then on (front wargs are the ones that spawn close to the end of the encounter) will no longer move. The only exception is if <img class='inline glenna'> [Glenna] enters their line of sight, which can be avoided with careful positioning just before using <img class='inline call-out'> [Over Here!] to unlock the final tower.
+
+The advantage of this strategy is that it's much safer, as <img class='inline glenna'> [Glenna] is never under attack for the entire encounter. Furthermore, you are no longer required to bring sources of <img class='inline blind'> [Blinded], enabling a more optimized composition for the rest of the wing.
+
+---
+
 ### Strategy
 
 This section contains a play-by-play description of an optimal escort run. You may choose to include or exclude certain parts according to your group's preferences and substitute them with standard gameplay.
 
 ---
 
-#### 0. Instance Preparation & Dialogue Skips
+#### Instance Preparation & Dialogue Skips
 
 Before you start a run, you want to prepare the instance so that the bridge at the beginning is up and the gates are open. This lets players blink up from the bridge to the adjacent wall, enabling successive skips. There are two ways to do this:
 - The normal way involves speaking to <img class='inline glenna'> [Glenna], having her begin the encounter, then triggering a wipe by /GG-ing. This is commonly done for Infallible runs, since it's easier and Escort will remain in a prepared state until you clear it.
@@ -186,7 +199,7 @@ In step 1, do not /GG before <img class='inline glenna'> [Glenna] gets to her sp
 
 ---
 
-#### 1. Initial Glenna Port & First Room Skip
+#### Initial Glenna Port & First Room Skip
 
 Assign a player to each of the spots shown in the image (these positions are also displayed in the [marker pack]). When the encounter starts, two things happen simultaneously:
 
@@ -202,7 +215,7 @@ Once everyone takes the portal, they can use <img class='inline call-out'> [Over
 
 ---
 
-#### 2. Cave Skip & Tanking Tower Shots
+#### Cave Skip & Tanking Tower Shots
 
 After taking the portal, the <img class='inline thief'> [Thief] can skip the cave in its entirety by teleporting to an add using <img class='inline infiltrator'> [Infiltrator's Signet], placing a <img class='inline shadow-portal'> portal at the bouncing mushroom or on top of the tower, and porting their squad through.
 
@@ -242,7 +255,7 @@ In the meanwhile, the ground group can start bringing <img class='inline glenna'
 
 ---
 
-#### 3. Towers and Glenna Ports
+#### Towers and Glenna Ports
 
 These towers are captured similarly to the normal strategy. Since no wargs will have reached <img class='inline glenna'> [Glenna] yet, it is possible to speed her under the third tower so as to not require any mines to be cleared.
 
@@ -272,7 +285,7 @@ All positions referenced in this section are included in the [marker pack].
 
 ---
 
-#### 4. Final Portal and Mcleod
+#### Final Portal and Mcleod
 
 The final sequence involves setting up a <img class='inline shadow-portal'> portal down from the fifth tower to the courtyard. This prevents [Mcleod] from teleporting up to the tower at the beginning of the boss phase, since he always targets the furthest player with this skill.
 
