@@ -517,7 +517,15 @@ The final primary tether is formed once everyone else's <img class='inline flux-
 
 This then results in secondary and tertiary connections in the main stack, which can hurt your overall DPS output and cause confusion. To avoid this, make sure that all three *tether baiters* are inside the central area before Qadim teleports there after destroying the final pillar.
 
-Players who get a tether when they are not supposed to can lose it by running out of the center: the untethered *baiter* should stack close to the center of the boss as they do so to re-capture the mechanic.
+Players who get a tether when they are not supposed to can lose it by running out of the center: this may result in the untethered *baiter* re-capturing the mechanic if they were originally attempting to bait correctly, due to how tether re-targeting works.
+
+{: .note}
+> Who gets the tether once it's broken depends on the closest eligible players *when the tether is assigned*.
+> #### Example
+> {: .no_toc}
+> > Players *A*, *B* and *C* are all eligible for tethers. *A* is closest to the boss, followed by *B* and then *C*, so *A* gets the tether.
+> > 
+> > If *A* goes down, the tether would always go to *B*, even if *C* is closer to the boss at that moment.
 
 ---
 
