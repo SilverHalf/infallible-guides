@@ -485,7 +485,7 @@ Players tethering to Qadim will be afflicted with the <img class='inline' src='h
 Bad tethers are mostly an issue in the final phase, where everyone has their <img class='inline flux-disruptor'> [Flux Disruptors] forcibly activated. In the worst case scenario, a total of nine players will have a tether, reducing the squad's total DPS output by 20-25%.
 
 {: .note}
-Qadim forms tethers prioritizing the closest untethered players with active <img class='inline flux-disruptor'> [Flux Disruptors]. The tethers are only broken if the afflicted player goes <img class='inline invuln'> [Downstate](https://wiki.guildwars2.com/wiki/Downstate) or leaves the central circle of Qadim's arena.
+Qadim forms tethers prioritizing the closest untethered players with active <img class='inline flux-disruptor'> [Flux Disruptors]. The tethers are only broken if the afflicted player dies or leaves the central circle of Qadim's arena.
 
 To reduce the impact of this mechanic, it is common to assign three players to be *tether baiters*, usually the *tank* and two *pylon kiters*. These try to capture the bad tethers, after which they stack as far as possible from the main group to avoid additional connections forming.
 
