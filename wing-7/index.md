@@ -445,6 +445,9 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 
 Pylons will initially tether to their kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to Qadim, increasing damage taken by 5%, up to a maximum of 45% additional damage.
 
+{: .note}
+Technically, the effect of the tether itself only increases damage by 4%. However, since it stacks multiplicatively with <img class='inline vulnerability'> [Vulnerability], it results in a 5% effective increase.
+
 To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers*, to link to the kiters. These players will begin standing close to their pylons as soon as their kiter catches an orb, tethering with them and thus increasing DPS on the boss.
 
 {: .note}
@@ -465,7 +468,7 @@ While good tether management is a staple of Qadim the Peerless speedrunning, gro
 
 ### Optimized Bad Tethers
 
-Players tethering to Qadim will be afflicted with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability](https://wiki.guildwars2.com/wiki/Vulnerability) and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight as only the tank will be tethered, but it becomes noteworthy once Qadim starts destroying pylons:
+Players tethering to Qadim will be afflicted with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability] and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight as only the tank will be tethered, but it becomes noteworthy once Qadim starts destroying pylons:
 - After *40%*, the tether will be able to chain to an additional player.
 - After *30%*, Qadim will form two tethers instead of one.
 - After *20%*, Qadim will form three tethers, and tethers will be able to chain twice instead of once.
@@ -568,6 +571,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Aegis]: https://wiki.guildwars2.com/wiki/Aegis
+[Vulnerability]: https://wiki.guildwars2.com/wiki/Vulnerability
 
 <!-- Links to enemies and enemy skills -->
 [Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
