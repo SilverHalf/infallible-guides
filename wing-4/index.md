@@ -51,7 +51,7 @@ Apart from this, you are basically free to run whatever composition deals most d
 #### Cairn
 {: .no_toc}
 - <img class='inline stability'> [Stability] will enable you to ignore greens while not getting <img class='inline float'> [Float].
-- <img class='inline troubadour'> [Troubadour] is an extremely high value pick, as <img class='inline august-queen'> [Tale of the August Queen] lets a subgroup ignore the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Countdown.png/30px-Countdown.png'> [Countdown](https://wiki.guildwars2.com/wiki/Countdown) mechanic until the second green.
+- <img class='inline troubadour'> [Troubadour] is an extremely high value pick, as <img class='inline august-queen'> [Tale of the August Queen] prevents the <img class='inline countdown'> [Countdown] mechanic until the second green.
 
 #### Mursaat Overseer
 {: .no_toc}
@@ -61,8 +61,7 @@ Apart from this, you are basically free to run whatever composition deals most d
 {: .no_toc}
 - Bring good boon access: <img class='inline protection'> [Protection] to prevent players from being downed by spears, and <img class='inline stability'> [Stability] to prevent <img class='inline knockback'> [Knockback] into the arena's edges.
 - The split phases require a good amount of <img class='inline pull'> [Pull] and <img class='inline knockback'> [Knockback] utilities.
-- High amounts of CC is important to break the frequent defiance bars. <img class='inline thief'> [Thief] is unparalleled in this due to <img class='inline distracting-throw'> [Distracting Throw].
-
+- High amounts of CC is important to break the frequent defiance bars.
 #### Deimos
 {: .no_toc}
 - Try to run a handkite that can also give ranged boons to the rest of the squad. Common choices include <img class='inline catalyst'> [Catalyst] and <img class='inline mechanist'> [Mechanist].
@@ -73,9 +72,9 @@ Apart from this, you are basically free to run whatever composition deals most d
 
 ## Cairn
 
-This boss is one of the more annoying CMs to play, but not especially dangerous. Fast clears require doing your best DPS rotation while dodging [Displacement](https://wiki.guildwars2.com/wiki/Displacement) and using <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/56/Celestial_Dash.png/50px-Celestial_Dash.png'> [Celestial Dash] off-cooldown.
+This boss is one of the more annoying CMs to play, but not especially dangerous. Fast clears require doing your best DPS rotation while dodging [Displacement](https://wiki.guildwars2.com/wiki/Displacement) and using <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/56/Celestial_Dash.png/50px-Celestial_Dash.png'> [Celestial Dash] before <img class='inline countdown'> [Countdown] triggers it automatically.
 
-Groups wanting to optimize this encounter mainly do so by playing around [Spatial Manipulation](#skipping-greens).
+Groups wanting to optimize this encounter do so mainly by playing around [Spatial Manipulation](#skipping-greens).
 
 ---
 ### Initial Dialogue
@@ -105,11 +104,11 @@ Most groups will see three greens in total, in which case you should play the fi
 
 ### Skipping Special Action Key
 
-One of the more annoying mechanics of Cairn CM is <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Countdown.png/30px-Countdown.png'> [Countdown](https://wiki.guildwars2.com/wiki/Countdown). This effect is applied in two ways:
+One of the more annoying mechanics of Cairn CM is <img class='inline countdown'> [Countdown]. This effect is applied in two ways:
 - When a player interacts with the Challenge Mote, to any players close to the mote.
 - To all players hit by [Spatial Manipulation] (greens).
 
-Players who are <img class='inline invuln'> [Invulnerable] during the first green will not be hit by it,  and will therefore not gain <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/05/Countdown.png/30px-Countdown.png'> [Countdown](https://wiki.guildwars2.com/wiki/Countdown) until the second green. This lets them completely ignore both the <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/56/Celestial_Dash.png/50px-Celestial_Dash.png'> [Celestial Dash] mechanic and the green itself, as it also prevents any application of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/b/b9/Unseen_Burden.png/30px-Unseen_Burden.png'> [Unseen Burden](https://wiki.guildwars2.com/wiki/Unseen_Burden).
+Players who are <img class='inline invuln'> [Invulnerable] during the first green will not be hit by it,  and will therefore not gain <img class='inline countdown'> [Countdown] until the second green. This lets them completely ignore both the <img class=inline src='https://wiki.guildwars2.com/images/thumb/5/56/Celestial_Dash.png/50px-Celestial_Dash.png'> [Celestial Dash] mechanic and the green itself, as it also prevents any application of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/b/b9/Unseen_Burden.png/30px-Unseen_Burden.png'> [Unseen Burden](https://wiki.guildwars2.com/wiki/Unseen_Burden).
 
 For this reason, groups on Cairn will often run one or more <img class='inline troubadour'> [Troubadours], as <img class='inline august-queen'> [Tale of the August Queen], being the only skill that can currently provide group <img class='inline invuln'> [Invulnerability], will vastly increase DPS uptime overall.
 
@@ -431,6 +430,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Pull]: https://wiki.guildwars2.com/wiki/Pull
 
 [Celestial Dash]: https://wiki.guildwars2.com/wiki/Celestial_Dash
+[Countdown]: https://wiki.guildwars2.com/wiki/Countdown
 [Float]: https://wiki.guildwars2.com/wiki/Float
 [Floating]: https://wiki.guildwars2.com/wiki/Float
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
