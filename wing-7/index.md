@@ -207,6 +207,9 @@ This is when the group aims to phase the boss before [Boulder Barrage], removing
 
 Note that, contrary to common belief, this does not directly increase DPS on the boss, as <img class=inline src="https://wiki.guildwars2.com/images/thumb/d/d9/Captain%27s_Inspiration.png/30px-Captain%27s_Inspiration.png"> [Pillar Pandemonium](https://wiki.guildwars2.com/wiki/Pillar_Pandemonium) is only applied by damaged pillars. Instead, stacking has the benefit that players can more easily share boons and support while far from the boss. For this reason, it's best if these players are all part of the same subgroup.
 
+{: .note}
+Adina's shockwave just before [Boulder Barrage] will damage all existing pillars. If you are not phasing before this attack, stacking pillars will effectively give you a few extra seconds to meet the DPS check.
+
 ---
 
 ### Split Phases
@@ -244,7 +247,13 @@ Fast Sabir clears are dependant on three important factors:
 
 ### Pre-Event
 
-Once you have cleared the wisps inside the [Leystone Axis] and opened your way to the [Fractured Conservatory], to spawn the boss you only need to kill the final wisp just before his arena. Use the <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-vigor'> [Bond of Vigor](https://wiki.guildwars2.com/wiki/Bond_of_Vigor) to get to the last platform, kill it and immediately access the boss.
+Once you have cleared the wisps inside the [Leystone Axis] and opened your way to the [Fractured Conservatory], you do not actually need to kill any wisps in order to spawn in the boss:
+- You can technically begin the boss immediately by reaching his platform with the <img class='inline skyscale'> [Skyscale].
+- Some groups will kill the wisp on the platform just before the boss, as it will otherwise attack you throughout the first phase.
+- If you are not pressed for time, consider clearing out all the wisps. This prevents issues in case players remain in combat and are unable to mount up.
+
+{: .note}
+If necessary, you can get out of combat before Sabir by moving to the left side of the platform facing the boss, until you are almost about to fall off.
 
 ---
 
@@ -445,6 +454,9 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 
 Pylons will initially tether to their kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to Qadim, increasing damage taken by 5%, up to a maximum of 45% additional damage.
 
+{: .note}
+Technically, the effect of the tether itself only increases damage by 4%. However, since it stacks multiplicatively with <img class='inline vulnerability'> [Vulnerability], it results in a 5% effective increase.
+
 To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers*, to link to the kiters. These players will begin standing close to their pylons as soon as their kiter catches an orb, tethering with them and thus increasing DPS on the boss.
 
 {: .note}
@@ -465,21 +477,55 @@ While good tether management is a staple of Qadim the Peerless speedrunning, gro
 
 ### Optimized Bad Tethers
 
-Players tethering to Qadim will be afflicted with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability](https://wiki.guildwars2.com/wiki/Vulnerability) and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight as only the tank will be tethered, but it becomes noteworthy once Qadim starts destroying pylons:
+Players tethering to Qadim will be afflicted with the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/6/6f/Guilt_Exploitation.png/30px-Guilt_Exploitation.png'> [Sapping Surge](https://wiki.guildwars2.com/wiki/Sapping_Surge) debuff, which constantly applies <img class='inline vuln'> [Vulnerability] and reduces outgoing damage by 25%. This is not an issue at the beginning of the fight as only the tank will be tethered, but it becomes noteworthy once Qadim starts destroying pylons:
 - After *40%*, the tether will be able to chain to an additional player.
-- After *30%*, Qadim will form two tethers instead of one.
-- After *20%*, Qadim will form three tethers, and tethers will be able to chain twice instead of once.
+- After *30%*, Qadim can form two tethers instead of one.
+- After *20%*, Qadim can form three tethers, and tethers will be able to chain twice instead of once.
 
-In the worst case scenario a total of nine players will have a tether, reducing the squad's total DPS output by 20-25% in the final hectic moments of the fight.
+Bad tethers are mostly an issue in the final phase, where everyone has their <img class='inline flux-disruptor'> [Flux Disruptors] forcibly activated. In the worst case scenario, a total of nine players will have a tether, reducing the squad's total DPS output by 20-25%.
 
-To reduce the impact of this mechanic, it is common to assign three players as *Bad Tethers*. These will try to capture the bad tethers by keeping their <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) activated, then stack as far as possible from the main group. Usually this responsibility is given to the tank and two pylons.
+{: .note}
+Qadim forms tethers prioritizing the closest untethered players with active <img class='inline flux-disruptor'> [Flux Disruptors]. The tethers are only broken if the afflicted player dies or leaves the central circle of Qadim's arena.
 
-Once Qadim destroys the first pylon, the tank should start standing far from the main group in order to not form an additional tether with the main group. Then, once additional pylons are destroyed, the bad tethers can begin stacking with him.
+To reduce the impact of this mechanic, it is common to assign three players to be *tether baiters*, usually the *tank* and two *pylon kiters*. These try to capture the bad tethers, after which they stack as far as possible from the main group to avoid additional connections forming.
 
 <img class='center' width="70%" src="./qadim/bad-tethers.webp">
 
-{: .warning}
-Once the final tether is destroyed, Qadim will activate and lock all players' <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate). For this reason, it's very important that the tank and the two bad tethers be the only players inside the center area when the boss re-spawns, with the rest of the squad waiting until the tethers have formed to join in.
+To prevent a player aside from these three from getting a tether, either:
+- *(Safe)* Keep all players out of the center area of the boss until after the <img class='inline flux-disruptor'> [Flux Disruptors] are locked and the final tether is formed.
+- *(Fast)* Have all players be in the center area immediately (using a portal, for example), but only the  *tether baiters* keep their <img class='inline flux-disruptor'> [Flux Disruptors] active.
+
+Qadim selects secondary tethers ~0.7 seconds after the primaries. Issues can arise if a secondary connection forms between *tether baiters*. In this case, the secondary player will not be a valid target for a primary tether, resulting in another player getting it instead.
+
+#### Secondary Tether Formation
+{: .no_toc .center}
+
+<div class="alt-row-container">
+<div class='bordered adapt-width-30' markdown=block style='padding: 10px; margin:10px'>
+<img class='center' width='100%' src='./qadim/tether-mistake-1.webp'>
+One *tether baiter* is slightly late to the center. Primary tethers form only with the other two.
+</div>
+<div class='bordered adapt-width-30' markdown=block style='padding: 10px; margin:10px'>
+<img class='center' width='100%' src='./qadim/tether-mistake-2.webp'>
+Secondary tethers are formed. The only viable target is the late tether, since they have an active <img class='inline flux-disruptor'> [Flux Disruptor].
+</div>
+<div class='bordered adapt-width-30' markdown=block style='padding: 10px; margin:10px'>
+<img class='center' width='100%' src='./qadim/tether-mistake-3.webp'>
+The final primary tether is formed once everyone else's <img class='inline flux-disruptor'> [Flux Disruptors] are forcibly activated.
+</div>
+</div>
+
+This then results in secondary and tertiary connections in the main stack, which can hurt your overall DPS output and cause confusion. To avoid this, make sure that all three *tether baiters* are inside the central area before Qadim teleports there after destroying the final pillar.
+
+Players who get a tether when they are not supposed to can lose it by running out of the center: this may result in the untethered *baiter* re-capturing the mechanic if they were originally attempting to bait correctly, due to how tether re-targeting works.
+
+{: .note}
+> Who gets the tether once it's broken depends on the closest eligible players *when the tether is assigned*.
+> #### Example
+> {: .no_toc}
+> > Players *A*, *B* and *C* are all eligible for tethers. *A* is closest to the boss, followed by *B* and then *C*, so *A* gets the tether.
+> > 
+> > If *A* goes down, the tether would always go to *B*, even if *C* is closer to the boss at that moment.
 
 ---
 
@@ -490,23 +536,22 @@ Once the final tether is destroyed, Qadim will activate and lock all players' <i
 Qadim's [carpets](https://wiki.guildwars2.com/wiki/Force_of_Havoc) have an associated bug where they will become invisible before the mechanics is over, only becoming visible for their despawn animation. This can lead to unaware players taking a lot of damage, which can be run-ending in a solo-heal situation.
 
 To avoid this bug, the squad should make sure that the carpets only spawn on the north side of the boss, while the squad sticks to the south side: 
-- The tank and bad tether baiters should be the only players with an activated <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptor](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) close to the boss before 20%.
-- Once the final pylon is destroyed at 20%, the tank and the two bad tethers should be the only players inside the center area so they can reliably capture aggro.
+- The tank and bad tether baiters should be the only players with an activated <img class='inline flux-disruptor'> [Flux Disruptor] close to the boss.
 - Everyone except for the tank and bad tethers should avoid going into the northern side of the arena without paying significant attention.
 
 ---
 
 #### Special Action Key
 {: .no_toc}
-During the transition to the last phase at 20%, if all 5 orbs are picked up before Qadim locks the group's <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate), the person targeted by the meteor illusion will be unable to cast <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash), thus leading to a wipe.
+During the transition to the last phase at 20%, if all 5 orbs are picked up before Qadim locks the group's <img class='inline flux-disruptor'> [Flux Disruptors], the person targeted by the meteor illusion will be unable to cast <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash), thus leading to a wipe.
 
-This happens because Qadim does not exclude <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash) when locking the special action keys of the rest of the group. To avoid this, begin collecting orbs only after the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/3/34/Flux_Disruptor-_Deactivate.png/72px-Flux_Disruptor-_Deactivate.png'> [Flux Disruptors](https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate) have been locked, which happens simultaneously with the second knockback after he re-spawns in the center of the arena.
+This happens because Qadim does not exclude <img class='inline' src='https://wiki.guildwars2.com/images/thumb/9/99/Touch_of_the_Sun.png/41px-Touch_of_the_Sun.png'> [Unleash](https://wiki.guildwars2.com/wiki/Unleash) when locking the special action keys of the rest of the group. To avoid this, begin collecting orbs only after the <img class='inline flux-disruptor'> [Flux Disruptors] have been locked, which happens simultaneously with the second knockback after he re-spawns in the center of the arena.
 
 ---
 
 ### Additional Tips
 
-- Bring a large amount of boonstrip for the final phase, as Qadim will constantly gain boons, including <img class='inline resolution'> [Resolution](https://wiki.guildwars2.com/wiki/Resolution).
+- Bring a large amount of boonstrip for the final phase, as Qadim will periodically gain boons, including <img class='inline resolution'> [Resolution](https://wiki.guildwars2.com/wiki/Resolution).
 - Try to equally distribute crowd control between all three pylons.
 - Beware of small AoEs stripping <img class='inline stability'> [Stability] or <img class='inline aegis'> [Aegis] just before the <img class='inline knockback'> knockbacks at 40%, 30% and 20%. Provide multiple stacks if possible.
 
@@ -563,11 +608,14 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 [Mimic]: https://wiki.guildwars2.com/wiki/Mimic
 [Dimensional Aperture]: https://wiki.guildwars2.com/wiki/Dimensional_Aperture
 [Distortion]: https://wiki.guildwars2.com/wiki/Distortion
+[Flux Disruptors]: https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate
+[Flux Disruptor]: https://wiki.guildwars2.com/wiki/Flux_Disruptor:_Activate
 
 <!-- Links to buffs and debuffs -->
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Aegis]: https://wiki.guildwars2.com/wiki/Aegis
+[Vulnerability]: https://wiki.guildwars2.com/wiki/Vulnerability
 
 <!-- Links to enemies and enemy skills -->
 [Djinn]: https://wiki.guildwars2.com/wiki/Champion_Branded_Djinn
