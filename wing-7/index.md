@@ -87,6 +87,13 @@ Gate is a relatively long encounter that is optimized in three main ways:
 
 ### Initial Dialogue Skip
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 This is at the same time one of the easiest and most annoying skips to execute, as it requires the squad to complete the encounter up until the point where [Glenna] and the [Key] are opening the door. At this point, make the encounter fail by letting enemies kill [Glenna].
 
 {: .note}
@@ -197,6 +204,9 @@ This saves a lot of time, as otherwise you would have to sit through all the dia
 
 {: .note}
 [Marker packs] can show you the path to take during the skip for an easier overall experience, as shown in the PoV above.
+
+{: .note}
+Just like on [Wing 6](../wing-6/index.md), setting your dialogue language to French will save 19 seconds over English (13 if you're double gating).
 
 ---
 
@@ -358,7 +368,7 @@ Sabir's <img class='inline defiance'> [Defiance Bar] only appears during two mec
 
 For the *Free CC*, it's in everyone's interest to use <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/59/Flash_Discharge.png/41px-Flash_Discharge.png'> [Flash Discharge](https://wiki.guildwars2.com/wiki/Flash_Discharge) and any other CC skills as much as possible. Your objective is to burst down the bar quickly to continue dealing damage.
 
-During the *Coordinated CC*, try to break the <img class='inline defiance'> [Defiance Bar] once the boss is at *40%* HP or lower: this makes him skip a cast of [Unbridled Tempest].
+During the *Coordinated CC*, try to break the <img class='inline defiance'> [Defiance Bar] once the boss is at *40%* HP or lower: this makes him skip a cast of [Unbridled Tempest]. Ideally, you should try to break this bar without the DPS players having to use <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/59/Flash_Discharge.png/41px-Flash_Discharge.png'> [Flash Discharge](https://wiki.guildwars2.com/wiki/Flash_Discharge), so that they maintain their stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents).
 
 Once either CC is finished, Sabir will always do a spread attack. You can stack two spreads, but three will usually down the involved players. For this reason it can be convenient to prepare spread positions in advance, thus enabling melee players to upkeep DPS during this mechanic while avoiding downstates. In the images you can see some example spread patterns for the first and second phase, and for the final phase with the tornado.
 

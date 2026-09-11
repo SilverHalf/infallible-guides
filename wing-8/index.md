@@ -181,6 +181,8 @@ Once [Decima] dies, take the ley rift in her arena to the camp. From there, you 
 
 This miniboss hits hard and has a lot of HP. His *Corrupting Eruption* is a line attack that will often <img class='inline invuln'> [Downstate] any players it hits. The wind-up for this attack is identical to [Boneskinner](https://wiki.guildwars2.com/wiki/Boneskinner_(legendary))'s famous AoE smash, and must be treated in the same way by dodging it.
 
+The boss has one additional important attack where he sinks into the ground, generating an AoE field at his current location. This AoE corrupts boons, <img class='inline pull'> pulls, and cleanses a condition from the miniboss every time it hits a player. The best approach to this mechanic is walking out of the pool until it's concluded.
+
 The [Legendary Blighted Beast] spawns with <img class='inline resolution'> [Resolution] that is re-applied every 10 seconds. Try to strip it away as much as possible to kill him faster. The attack where it's sinking into the ground will corrupt boons: step out of its AoE or re-boon quickly.
 
 When the miniboss is close to dying (~25% HP), one player can run to the South-East, prepare a <img class='inline portal'> [Portal], then mount up and run to Greer's challenge mote. The portal can be opened as soon as the pre-event is over: activate the CM and run in to start the fight.

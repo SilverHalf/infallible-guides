@@ -204,7 +204,7 @@ Start on the Eye of Judgement (to the North in-game). The <img class='inline scr
 
 As soon as the encounter starts, the <img class='inline chrono'> [Chronomancer] will gather clones using the adds on the upper platform. Once they have a few, they can open their <img class='inline cs'> [Continuum Split], drop down towards the Eye of Fate, <img class='inline blink'> [Blink] to the Eye, prepare their <img class='inline portal'> [Portal Entre] and <img class='inline cs-exit'> [Continuum Shift] to get back to the upper platform.
 
-Both single throwers should glide to the Eye of Judgement immediately after throwing. The <img class='inline druid'> [Druid] will  pick up a light as soon as possible and <img class='inline flare'> [Flare] the Eye. Burst it down once it's vulnerable, taking care not to use any CC skills. The <img class='inline druid'> [Druid] will have to <img class='inline flare'> [Flare] it a second time in this interval.
+Both single throwers should glide to the Eye of Judgement immediately after throwing. The <img class='inline druid'> [Druid] will  pick up a light as soon as possible and <img class='inline flare'> [Flare] the Eye. Burst it down once it's vulnerable, taking care not to use any <img class='inline fear'> [Fears](https://wiki.guildwars2.com/wiki/Fear), <img class='inline knockdown'> [Knockdowns](https://wiki.guildwars2.com/wiki/Knockdown) or <img class='inline daze'> [Dazes](https://wiki.guildwars2.com/wiki/Daze) (including [Lightning Fields](https://wiki.guildwars2.com/wiki/Lightning_field)). The <img class='inline druid'> [Druid] will have to <img class='inline flare'> [Flare] it a second time in this interval.
 
 <img class=center width='90%' src='./eyes/eyes_2.webp'>
 
@@ -256,6 +256,13 @@ Once you reach the [Broken King], immediately glide into any unoccupied greens b
 ---
 
 ### Statue of Ice
+
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 This encounter is usually done in parallel with the [Eater of Souls] by sending a subgroup to each. The strategy is otherwise identical to the PUG strat.
 
@@ -399,7 +406,14 @@ High-damage groups should be able to phase the boss before the next [Greater Dea
 
 Normally after phasing the boss to 10%, everyone is separated into their spirit form and has to collect five orbs before returning to the platform. It is possible to skip this process by getting picked up by the [Echo] just before getting your soul ripped out. This results in the player spawning in the center of the safe area as if they had collected their orbs normally.
 
-This can also be done using transformation skills such as shrouds, by transforming just before the soul rip.
+{: .note}
+> <details class="unrestricted">
+> <summary><img class='inline warn-icon'> Glitched</summary>
+> <div markdown=block>
+> The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+> </div>
+> </details>
+> This can also be done using transformation skills such as shrouds, by transforming just before the soul rip.
 
 ---
 
@@ -429,6 +443,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 #### Other Useful Links
 
 - <img class='inline youtube'> [River and Eyes Portals by xBourne](https://www.youtube.com/watch?v=di49FJcxntA) - good visualization of <img class='inline mesmer'> [Mesmer] <img class='inline portal'> [Portals] for these encounters.
+- <img class='inline youtube'> [Eyes CC Science by BrokenYew] - video showing how all different kinds of CC interact with the [Eyes].
 - <img class='inline youtube'> [Heal Chronomancer Kiting with MI and Portal by HasKha](https://youtu.be/_Yz4PQx_8Bc&t=2880) - while NM, this showcases the process overall.
 - <img class='inline youtube'> [Throne Tanking Dhuum by Christine](https://www.youtube.com/watch?v=ceu2O8u3xOg) - while relatively old, the positioning in this run is still relevant.
 - <img class='inline youtube'> [Getting the Echo Stuck](https://www.youtube.com/watch?v=bBYPfelUe2Y) - shows how to bug out the Echo at the beginning of Dhuum.
