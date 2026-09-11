@@ -44,7 +44,7 @@ Everything in this guide is glitchless unless explicitly highlighted otherwise.
 
 #### Glitched
 {: .no_toc}
-Runs in this category use anything within the limits of the [game's rules](https://www.arena.net/en/legal/code-of-conduct) to improve their time. This includes several tactics that are obviously unintended by the developers, including out-of-bounds skips, mechanics skips, teleporting NPCs, and more. These strategies are usually not accepted in formal speedrun settings, and may be patched at any moment by ArenaNet with no warning. Use them at your own risk.
+Runs in this category can use anything within the limits of the [game rules](https://www.arena.net/en/legal/code-of-conduct). This includes several tactics that are obviously unintended by the developers, including breaking out-of-bounds, mechanical skips, teleporting NPCs, and more. These strategies are usually not accepted in formal speedrun settings, and may be patched at any moment by ArenaNet with no warning. Use them at your own risk.
 
 Tactics in the glitched category will be highlighted appropriately throughout the guide.
 
