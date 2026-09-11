@@ -131,7 +131,7 @@ Skills that can clear towers include:
 - <img class='inline tides'> [Glyph of the Tides] on <img class='inline druid'> [Druid].
 - <img class='inline fear-me'> ["Fear Me!] on <img class='inline warrior'> [Warrior].
 - <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png'> [Shield of Absorption](https://wiki.guildwars2.com/images/thumb/6/65/Shield_of_Absorption.png/50px-Shield_of_Absorption.png) on <img class='inline guardian'> [Guardian](https://wiki.guildwars2.com/wiki/Guardian).
-- <img class='inline curtain'> [Temporal Curtain] followed by <img class='inline illusionary-wave'> [Illusionary Wave] on <img class='inline mesmer'> [Mesmer]*\**.
+- <img class='inline curtain'> [Temporal Curtain] followed by <img class='inline illusionary-wave'> [Illusionary Wave] on <img class='inline mesmer'> [Mesmer] *\**.
 
 Groups should bring at least three of these skills so that one will be ready for each tower.
 
@@ -326,7 +326,7 @@ Once [Mcleod] has spawned, the status reset will destroy any portals present in 
 Capturing the tower will begin the boss phase, despawning all wargs. The rest of the encounter is played as normal. Once the boss is dead, make sure to provide <img class='inline superspeed'> [Superspeed] to <img class='inline glenna'> [Glenna] so she gets to the final gate faster.
 
 {: .note}
-When [Mcleod] splits into two clones, if you do not see a coloured icon above your character's head, it means that you are on the white clone. This is a fairly common graphical bug.
+When [Mcleod] splits into two clones, if you do not see a coloured icon above your character's head, it means that you are on the white clone. <img class=inline src='https://wiki.guildwars2.com/images/thumb/6/68/Radiant_Attunement.png/30px-Radiant_Attunement.png'> [Radiant Attunement](https://wiki.guildwars2.com/wiki/Radiant_Attunement) will always appear two seconds after <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3e/Crimson_Attunement.png/30px-Crimson_Attunement.png'> [Crimson Phantasms](https://wiki.guildwars2.com/wiki/Crimson_Attunement).
 
 ---
 
@@ -387,7 +387,7 @@ All skips in Twisted Castle can be practiced in a solo instance: read [here](#pr
 
 ### Fast Strategy
 
-To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
+To use this strategy you will need at least two <img class='inline mirage'> [Mirage] players running a <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlVw0YhsLmJesT3PTA-DSJYjRHfZkZFkeCI/DAAqA-e).
 
 Once [Keep Construct] is dead, run down the stairs to the South and <img class='inline pull'> [Pull] the first group of adds together. Once these are dead, the encounter will start. Both <img class='inline mirage'> [Mirages] should place <img class='inline portal'> [Portal Entre] and use <img class='inline mirage-thrust'> [Mirage Thrust] to get to the next platforms.
 
@@ -463,7 +463,7 @@ Make sure that everyone has taken a statue back before interacting with the fina
 </div>
 
 {: .note}
-The branch skip can also be performed with other classes, most notably <img class='inline thief'> [Thief] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c9/Vault.png/50px-Vault.png'> [Vault](https://wiki.guildwars2.com/wiki/Vault) and <img class='inline engineer'> [Engineer] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/b/b5/Jump_Shot.png/50px-Jump_Shot.png'> [Jump Shot](https://wiki.guildwars2.com/wiki/Jump_Shot) <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/2b/Rocket_Boots.png/72px-Rocket_Boots.png'> [Rocket Boots](https://wiki.guildwars2.com/wiki/Rocket_Boots) are both easier to execute compared to <img class='inline mirage'> [Mirage], which is played mostly because it's faster on the sprint to the final door.
+The branch skip can also be performed with other classes, most notably <img class='inline thief'> [Thief] with <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/c9/Vault.png/50px-Vault.png'> [Vault](https://wiki.guildwars2.com/wiki/Vault) and <img class='inline engineer'> [Engineer] with <img class='inline' src='https://wiki.guildwars2.com/images/thumb/b/b5/Jump_Shot.png/50px-Jump_Shot.png'> [Jump Shot](https://wiki.guildwars2.com/wiki/Jump_Shot) <img class='inline' src='https://wiki.guildwars2.com/images/thumb/2/2b/Rocket_Boots.png/72px-Rocket_Boots.png'> [Rocket Boots](https://wiki.guildwars2.com/wiki/Rocket_Boots) are both easier to execute compared to <img class='inline mirage'> [Mirage], which is preferred due to <img class='inline portal'> [Portal Entre] being two-way.
 
 Once the door is open, the encounter is complete and everyone can take the ley rift to [Xera]. The player who did the skip can instead take the gateway after the door.
 
@@ -474,9 +474,9 @@ When interacting with the ley rift, make sure to not select the "Return to Aerod
 
 ### Fast or Slow?
 
-Doing the strategy described above can save over a minute compared to a normal clear. However, the strategy is very risky and relies on the <img class='inline mirage'> [Mirages] successfully completing several difficult skips, including the branch skip.
+Doing the strategy described above only saves around 10 seconds maximum compared to a well-optimized normal clear. Furthermore, the strategy is very risky and relies on several difficult skips, including the branch skip.
 
-Most of the time, with a well-optimized escort, groups will not need this additional time-save. In this case, they may decide to instead complete the encounter with the normal PUG strat. This also simplifies group requirements, as you only need to bring one <img class='inline mesmer'> [Mesmer]. This player can already bring more than enough utility to simplify the encounter for the rest of the group.
+With a well-optimized escort, Infallible groups will not need this additional time-save. In this case, they may decide to instead complete the encounter with the normal strat, simplifying group requirements and increasing overall reliability compared to the speedrun strat..
 
 ---
 
@@ -581,6 +581,7 @@ Many of the skips described in this guide can be practiced solo:
 - <img class='inline youtube'> [Twisted Castle Speedrun Explanation by Areki](https://www.youtube.com/watch?v=jvyYtfpv7Gc) - long explanation of the standard TC speedrun strategy.
 - <img class='inline youtube'> [1:54 Escort by [MCA]](https://www.youtube.com/watch?v=HatDI1eO2wU) - while more than most groups will need, this the peak of Escort gameplay. The video description contains more PoVs of the run. 
 - <img class='inline youtube'> [0:37 Twisted Castle by [Vs]](https://www.youtube.com/watch?v=KCFNzOBdipw) - showcases great execution of a fast clear. The video description contains more PoVs of the run.
+- <img class='inline youtube'> [Thief on Twisted Castle by Left](https://youtu.be/fLW5Dr-WQc8) - showcase of how good mobility skills (on <img class='inline thief'> [Thief] in this case) can optimize the normal Twisted Castle strategy to the point where there is little difference compared to the speedrun strategy.
 - <img class='inline youtube'> [Fast Orbs on Xera by HasHka](https://youtu.be/z-OFa6RVtYY) - shows some ways of doing fast island clears on Xera.
 
 

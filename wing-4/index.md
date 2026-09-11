@@ -116,7 +116,7 @@ For this reason, groups on Cairn will often run one or more <img class='inline t
 
 ## Transition to Mursaat Overseer
 
-This transition involves a lot of movement, and is usually optimized using portals and movement skills. Your strategy for this transition will vary based on whether you are running with one or two <img class='inline mesmer'> [Mesmers]. These should run a specialized <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlRw0YhsLmJesTXPVA-DSJYjRHfZkZFkeCI/VBAqA-e).
+This transition involves a lot of movement, and is usually optimized using portals and movement skills. Your strategy for this transition will vary based on whether you are running with one or two <img class='inline mesmer'> [Mesmers]. These should run a specialized <img class='inline build'> [skip build](https://gw2skills.net/editor/?PiwAw2xlVw0YhsLmJesT3PTA-DSJYjRHfZkZFkeCI/DAAqA-e).
 
 {: .note}
 It's recommended to use [marker packs] to see portal positions, as they can be quite precise.
@@ -143,7 +143,7 @@ This is played identically to the [single Mesmer version](#single-mesmer-variati
 
 <img class='center bordered' width='70%' src='./transitions/mursaat_2.webp'>
 
-The <img class='inline mesmer'> [Mesmer] doing the first portal should not wait for the <img class='inline thief'> [Thief]: it's instead faster to <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] up the cliff as soon as possible to get a head start and get into position earlier.
+Depending on how fast the <img class='inline thief'> [Thief] is at doing the first portal up the cliff, it can still be worthwhile for the <img class='inline mesmer'> [Mesmer] doing the first portal to wait for them. Otherwise, they can <img class='inline mimic'> [Mimic] <img class='inline blink'> [Blink] up the cliff to get a head start on the rest of the group.
 
 ---
 
