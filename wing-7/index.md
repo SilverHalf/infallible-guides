@@ -101,6 +101,9 @@ This is at the same time one of the easiest and most annoying skips to execute, 
 
 When you respawn, both NPCs will be in position to immediately begin the encounter, skipping the normal dialogue. The timer will still begin once you approach [Glenna], so you should be ready to begin immediately.
 
+{: .warning}
+This skip is not optional for Infallible runs if the wing is currently <img class='inline' src='https://wiki.guildwars2.com/images/6/69/Emboldened.png'> [Emboldened](https://wiki.guildwars2.com/wiki/Emboldened). This is because the *emboldened mote* is inside the trigger area that applies the achievement effect to the squad. You will have to start Gate, interact with the mote, then fail Gate and restart with the mote deactivated to get the achievement effect.
+
 ---
 
 ### Strategy
@@ -486,7 +489,7 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 Pylons will initially tether to their kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to Qadim, increasing damage taken by 5%, up to a maximum of 45% additional damage.
 
 {: .note}
-Technically, the effect of the tether itself only increases damage by 4%. However, since it stacks multiplicatively with <img class='inline vulnerability'> [Vulnerability], it results in a 5% effective increase.
+Technically, the tether by itself only increases damage by 4%. However, since it's affected by <img class='inline vuln'> [Vulnerability], it results in a 5% effective increase. This then stacks *additively* with <img class='inline vuln'> [Vulnerability]: for example, a single tether while the boss has <img class='inline vuln'> 25 stacks would bring the total incoming damage from 125% to 130%.
 
 To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers*, to link to the kiters. These players will begin standing close to their pylons as soon as their kiter catches an orb, tethering with them and thus increasing DPS on the boss.
 
@@ -557,6 +560,9 @@ Players who get a tether when they are not supposed to can lose it by running ou
 > > Players *A*, *B* and *C* are all eligible for tethers. *A* is closest to the boss, followed by *B* and then *C*, so *A* gets the tether.
 > > 
 > > If *A* goes down, the tether would always go to *B*, even if *C* is closer to the boss at that moment.
+
+{: .note}
+While bad tether management is a staple of Qadim the Peerless speedrunning, groups attempting Infallible may find that they do not need the additional DPS, especially if they are using out-of-bounds skips. In this case, you may decide to forgo this strategy and simplify your final phase.
 
 ---
 
