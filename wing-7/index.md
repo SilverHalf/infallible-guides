@@ -87,12 +87,22 @@ Gate is a relatively long encounter that is optimized in three main ways:
 
 ### Initial Dialogue Skip
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 This is at the same time one of the easiest and most annoying skips to execute, as it requires the squad to complete the encounter up until the point where [Glenna] and the [Key] are opening the door. At this point, make the encounter fail by letting enemies kill [Glenna].
 
 {: .note}
 `/gg`ing at this point does not work, as you will respawn. Glenna has to die to damage for the encounter to fail.
 
 When you respawn, both NPCs will be in position to immediately begin the encounter, skipping the normal dialogue. The timer will still begin once you approach [Glenna], so you should be ready to begin immediately.
+
+{: .warning}
+This skip is not optional for Infallible runs if the wing is currently <img class='inline' src='https://wiki.guildwars2.com/images/6/69/Emboldened.png'> [Emboldened](https://wiki.guildwars2.com/wiki/Emboldened). This is because the *emboldened mote* is inside the trigger area that applies the achievement effect to the squad. You will have to start Gate, interact with the mote, then fail Gate and restart with the mote deactivated to get the achievement effect.
 
 ---
 
@@ -174,6 +184,13 @@ At this point the encounter will be over, and you can either head into the [Leys
 
 ## Transition to Adina
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 This transition is often done with an out-of-bounds skip. The <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-faith'> [Bond of Faith] enable a player to get to the [Basalt Arena] while [Gate] is still ongoing, place a <img class='inline portal'> <img class='inline shadow-portal'> portal down and retrace their steps back to [Gate], portaling everyone over once the event ends.
 
 {: .note}
@@ -190,6 +207,9 @@ This saves a lot of time, as otherwise you would have to sit through all the dia
 
 {: .note}
 [Marker packs] can show you the path to take during the skip for an easier overall experience, as shown in the PoV above.
+
+{: .note}
+Just like on [Wing 6](../wing-6/index.md), setting your dialogue language to French will save 19 seconds over English (13 if you're double gating).
 
 ---
 
@@ -264,7 +284,14 @@ Sabir's split phases involve killing wisps as you slowly scale the platforms bet
 Portals usually have a maximum range of 5000 units. However, on Sabir they are limited to 800 units vertically: anything beyond this range will result in a portal that is visually fine, but not interactable by players. This means that portals must be placed in specific points that stay within this limitation.
 
 {: .note}
-This vertical limitation can be worked around by triggering a loading screen. This happens only if taking the portal would result in over 5000 units of movement, which can be done with extremely precise portal placement combined with interacting with the portals on their edge: [example](https://www.youtube.com/watch?v=_kp3C5MmFQ0).
+> <details class="unrestricted">
+> <summary><img class='inline warn-icon'> Glitched</summary>
+> <div markdown=block>
+> This tactic belongs to the *Glitched* category. It uses unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+> </div>
+> </details>
+> 
+> This vertical limitation can be worked around by triggering a loading screen. This happens only if taking the portal would result in over 5000 units of movement, which can be done with extremely precise portal placement combined with interacting with the portals on their edge: [example](https://www.youtube.com/watch?v=_kp3C5MmFQ0).
 
 We can divide the portals between different roles:
 - *Portal 1* is the easiest role to implement, and is sometimes even done in PUGS. This role enables skipping the tornado platforms in the split phases, thus bringing the greatest benefit for the lowest cost. It requires either <img class='inline shadow-portal'> [Shadow Portal] (which may be insufficient in case of extremely high DPS) or <img class='inline portal'> [Portal Entre] in combination with <img class='inline mimic'> [Mimic].
@@ -344,7 +371,7 @@ Sabir's <img class='inline defiance'> [Defiance Bar] only appears during two mec
 
 For the *Free CC*, it's in everyone's interest to use <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/59/Flash_Discharge.png/41px-Flash_Discharge.png'> [Flash Discharge](https://wiki.guildwars2.com/wiki/Flash_Discharge) and any other CC skills as much as possible. Your objective is to burst down the bar quickly to continue dealing damage.
 
-During the *Coordinated CC*, try to break the <img class='inline defiance'> [Defiance Bar] once the boss is at *40%* HP or lower: this makes him skip a cast of [Unbridled Tempest].
+During the *Coordinated CC*, try to break the <img class='inline defiance'> [Defiance Bar] once the boss is at *40%* HP or lower: this makes him skip a cast of [Unbridled Tempest]. Ideally, you should try to break this bar without the DPS players having to use <img class='inline' src='https://wiki.guildwars2.com/images/thumb/5/59/Flash_Discharge.png/41px-Flash_Discharge.png'> [Flash Discharge](https://wiki.guildwars2.com/wiki/Flash_Discharge), so that they maintain their stacks of <img class='inline' src='https://wiki.guildwars2.com/images/thumb/0/06/Violent_Currents.png/30px-Violent_Currents.png'> [Violent Currents](https://wiki.guildwars2.com/wiki/Violent_Currents).
 
 Once either CC is finished, Sabir will always do a spread attack. You can stack two spreads, but three will usually down the involved players. For this reason it can be convenient to prepare spread positions in advance, thus enabling melee players to upkeep DPS during this mechanic while avoiding downstates. In the images you can see some example spread patterns for the first and second phase, and for the final phase with the tornado.
 
@@ -380,6 +407,13 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 ---
 
 ## Transition to Qadim
+
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 Between killing [Sabir] (or [Adina] if you did Sabir first) and gaining access to the [Sovereign's Stadium], the squad will have to sit through some extremely long dialogue between [Glenna] and the [Key]. Skipping this dialogue is not strictly necessary to clear the timer, but it will make it a lot easier overall. Players have devised three main ways to do this.
 
@@ -455,7 +489,7 @@ Pylon kiters and the tank will struggle to reach fires that are far from their s
 Pylons will initially tether to their kiter. For each orb on the pylon, an additional tether can be formed, chaining from the furthest tethered player to their closest untethered player in range. Each tether will apply a stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/4/45/Unstable.png/30px-Unstable.png'> [Erratic Energy](https://wiki.guildwars2.com/wiki/Erratic_Energy) to Qadim, increasing damage taken by 5%, up to a maximum of 45% additional damage.
 
 {: .note}
-Technically, the effect of the tether itself only increases damage by 4%. However, since it stacks multiplicatively with <img class='inline vulnerability'> [Vulnerability], it results in a 5% effective increase.
+Technically, the tether by itself only increases damage by 4%. However, since it's affected by <img class='inline vuln'> [Vulnerability], it results in a 5% effective increase. This then stacks *additively* with <img class='inline vuln'> [Vulnerability]: for example, a single tether while the boss has <img class='inline vuln'> 25 stacks would bring the total incoming damage from 125% to 130%.
 
 To improve tether chaining, groups will sometimes assign three players, called *Primary Tethers*, to link to the kiters. These players will begin standing close to their pylons as soon as their kiter catches an orb, tethering with them and thus increasing DPS on the boss.
 
@@ -526,6 +560,9 @@ Players who get a tether when they are not supposed to can lose it by running ou
 > > Players *A*, *B* and *C* are all eligible for tethers. *A* is closest to the boss, followed by *B* and then *C*, so *A* gets the tether.
 > > 
 > > If *A* goes down, the tether would always go to *B*, even if *C* is closer to the boss at that moment.
+
+{: .note}
+While bad tether management is a staple of Qadim the Peerless speedrunning, groups attempting Infallible may find that they do not need the additional DPS, especially if they are using out-of-bounds skips. In this case, you may decide to forgo this strategy and simplify your final phase.
 
 ---
 

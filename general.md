@@ -30,6 +30,26 @@ This page contains some general concepts useful for anyone getting into Infallib
 
 ---
 
+## Speedrun Categories
+
+Guild Wars 2 speedruns are divided into two main categories: *Glitchless* and *Glitched*.
+
+#### Glitchless
+{: .no_toc}
+Runs in this category restrict themselves to basic game mechanics, avoiding any glitches, out-of-bounds skips or unintended behaviour. This is the safest way to play the game and often the most difficult for Infallible, as you will be forgoing several time-saving tactics. The rules for this category can be found below.
+
+[Speedrun.com Glitchless Rules](https://docs.google.com/document/d/1Uhp-BurmpjFmCGnkA8FjQETYCs-mDnvyuNqDRPX7pmY/edit?tab=t.0){: .btn}
+
+Everything in this guide is glitchless unless explicitly highlighted otherwise.
+
+#### Glitched
+{: .no_toc}
+Runs in this category can use anything within the limits of the [game rules](https://www.arena.net/en/legal/code-of-conduct). This includes several tactics that are obviously unintended by the developers, including breaking out-of-bounds, mechanical skips, teleporting NPCs, and more. These strategies are usually not accepted in formal speedrun settings, and may be patched at any moment by ArenaNet with no warning. Use them at your own risk.
+
+Tactics in the glitched category will be highlighted appropriately throughout the guide.
+
+---
+
 ## Achievement Details
 
 Infallible requires completion of eight separate sub-achievements, each linked to a different instance:

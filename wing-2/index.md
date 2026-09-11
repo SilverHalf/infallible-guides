@@ -48,15 +48,15 @@ Groups running Salvation Pass will usually include at least two <img class='inli
 
 The portals are the most important part of this utility and the reason why it these classes are difficult to replace with alternatives.
 
-Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are viable on this wing. You can get up to 16 stacks on a fresh instance by killing the [slublings] before [Slothasor]. Some adds in [Bandit Trio] also grant stacks, such as the [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) and [Fungi](https://wiki.guildwars2.com/wiki/Fungus).
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are viable on this wing. Put these sigils on ascended weapons and share these weapons between templates to maintain stacks when swapping builds. You can get up to 16 stacks on a fresh instance by killing the [slublings] before [Slothasor]. Some adds in [Bandit Trio] also grant stacks, such as the [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) and [Fungi](https://wiki.guildwars2.com/wiki/Fungus).
 
 ---
 
 #### [Slothasor]
 {: .no_toc}
-- Can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier. <img class='inline luminary'> [Luminary] and <img class='inline ritualist'> [Ritualist] are good picks also due to their strong CC and utility.
+- Can be [solo-healed](../general.html#solo-healing) if the off-sub has enough support through classes that provide good passive healing and barrier.
 - Bring <img class='inline pull'> pulls such as <img class='inline curtain'> [Temporal Curtain] and <img class='inline binding-blade'> [Binding Blade] to manage slublings.
-- CC is extremely important: DPS classes with heavy breakbar skills will be extremely beneficial, such as <img class='inline engineer'> [Engineers] with <img class='inline bombkit'> [Bomb Kit].
+- CC is extremely important: DPS classes with heavy breakbar skills will be extremely beneficial.
 
 #### [Bandit Trio]
 {: .no_toc}
@@ -182,15 +182,16 @@ The rest of the group can glide in normally and start clearing out bandits, then
 #### Killing Narella Early
 {: .no_toc}
 
-{: .warning}
-This strategy is very likely unintended behaviour and is not accepted in most speedrun formats.
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane] spawns while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and maul her (which is admittedly very funny). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
-
-{: .warning}
-While this bug trivializes the timer for this wing, if you are considering it due to time constraints, then your group very likely has bigger issues. Addressing them now will be more useful in the long term.
 
 ---
 
@@ -234,14 +235,17 @@ Both of these players can help with killing [Zane]. When the boss is close to dy
 </div>
 <div class='adapt-width-50' markdown=block>
 These players can then proceed to their assigned positions to place portals in preparation for the transition:
-- One will remain at the top of the cliff and prepare a <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15* or earlier.
-- One will run to the arch just before the first room and prepare a <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15* or earlier.
-- One will skip ahead and do a short jumping puzzle to get to the cliff next to Matthias' arena (check the [PoV](#povs) section to see this in execution). They can prepare their <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:10* or earlier.
+- One will remain at the top of the cliff and prepare a <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15*.
+- One will skip ahead and do a short jumping puzzle to get to the cliff next to Matthias' arena. They can prepare their <img class='inline portal'> <img class='inline shadow-portal'> portal at ~*3:15*.
+- The final one can run to the arch just before the first room. If they are a <img class='inline thief'> [Thief], they can provide an additional portal for their jumping puzzle teammate by preparing it next to the northern wall at *~4:15*, doing the same puzzle, then opening it just as it's about to run out. In any case, they should prepare their portal at *~3:15* just before the arch.
 </div>
 </div>
 
 {: .note}
-With the strategy described in this guide, it's convenient to use <img class='inline portal'> [Portal Entre] for at least two of the portals above. This allows their cooldown to be reset with <img class='inline mimic'> [Mimic] so that they can be used multiple times over the course of the transition.
+If you have an additional <img class='inline thief'> [Thief], the same thing can be done on the cliff portal to get the other two players to [Narella] even faster.
+
+{: .note}
+With the strategy described in this guide, it's convenient to use <img class='inline portal'> [Portal Entre] for at least two of the portals above. This allows their cooldown to be reset with <img class='inline mimic'> [Mimic] so that they can be used multiple times over the course of the transition. Otherwise, you can bring additional portal classes for the final two portals.
 
 Once they have placed their portal, all three players should retrace their steps, glide down to the fort and help with the final stages of [Narella]. 
 
@@ -339,7 +343,7 @@ To better control the boss's position, you can assigned a ranged player to stand
 This is a non-comprehensive list meant to display a diverse selection of perspectives and roles. You can find additional PoVs and logs in the [Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno).
 
 | Classes | Link | Date | Notes |
-| <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://youtu.be/STFDxsU6wa8) | March 2026 | Standard strategy described in this guide. |
+| <img class='inline daredevil'> DPS, shroom, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=pWXOCOiXzhA) | March 2026 | Standard strategy described in this guide. |
 | <img class='inline amalgam'> <img class='inline scrapper'> <img class='inline mechanist'> DPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=o9hckVBT4ZA) | March 2026 | Slightly different portals than described here. |
 | <img class='inline troubadour'> <img class='inline mirage'> Heal, skips | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=ITxA8Yc93qU) | March 2026 | Slightly different portals than described here. |
 | <img class='inline luminary'> <img class='inline firebrand'> BoonDPS | <img class='inline youtube'> [PoV](https://www.youtube.com/watch?v=3gv4PEHAR4Q) | March 2026 | Slight mishap during the transition but excellent DPS to make up for it. |

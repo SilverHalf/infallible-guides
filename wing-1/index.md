@@ -46,7 +46,7 @@ Solo-healing is common on all three bosses, and can be made much easier by suppo
 - <img class='inline druid'> [Druid] for its excellent healing output, utility and seeker control. Requires <img class='inline' src='https://wiki.guildwars2.com/images/thumb/e/ee/Eclipse_%28trait%29.png/60px-Eclipse_%28trait%29.png'> [Eclipse](https://wiki.guildwars2.com/wiki/Eclipse_(trait)) and <img class='inline' src='https://wiki.guildwars2.com/images/thumb/f/f2/Glyph_of_Burgeoning.png/72px-Glyph_of_Burgeoning.png'> [Glyph of Burgeoning](https://wiki.guildwars2.com/wiki/Glyph_of_Burgeoning) to generate [Astral Force](https://wiki.guildwars2.com/wiki/Astral_force) when incoming damage is low, or can swap to DPS after [Vale Guardian].
 - <img class='inline luminary'> [Luminary] also has incredible healing and good seeker control, and can swap to boonDPS after [Vale Guardian].
 
-Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
+Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust) and <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) are highly recommended. Put these sigils on ascended weapons and share these weapons between templates to maintain stacks when swapping builds. You can stack them during [Spirit Woods], or even before [Vale Guardian] by killing the respawning [Pocket Raptors](https://wiki.guildwars2.com/wiki/Pocket_Raptor) on the cliff to the east before the boss arena.
 
 ---
 
@@ -68,7 +68,6 @@ Stacking sigils such as <img class=inline src='https://wiki.guildwars2.com/image
 - You will almost always see two <img class='inline mesmer'> [Mesmers] running <img class='inline mimic'> [Mimic], <img class='inline portal'> [Portal] and <img class='inline blink'> [Blink] to optimize movement between rifts.
 - If doing out-of-bounds skips, a third player will be on either a <img class='inline mesmer'> [Mesmer] or <img class='inline thief'> [Thief].
 - If doing out-of-bounds skips, try to assign strong, self-sufficient power builds with boon access to kill the walls ahead of the main group.
-- Run stacking sigils during these encounters to increase your DPS on the following bosses. Put the sigils on ascended weapons and share these weapons between templates to maintain stacks when swapping builds.
 
 #### Gorseval
 {: .no_toc}
@@ -152,6 +151,13 @@ The event will finish once the 20th rift has been closed.
 
 ### Out of Bounds Skip
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 This skip, when executed at its full potential, allows the group to:
 - Completely bypass the Champion room event that occurs after [Spectral Rifts].
 - Kill the final three [Ethereal Barriers] almost simultaneously, greatly speeding up [Spirit Race].
@@ -219,6 +225,13 @@ Ideally, the skip group should reach their positions at the same time as when th
 ---
 
 ### Spirit Race
+
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 Once the last rift is closed, the <img class='inline mesmer'> [Mesmer] opens their <img class='inline portal'> [Portal] to the vantage point, which the rest of the group takes. They can then glide down to begin the encounter.
 
