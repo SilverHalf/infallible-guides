@@ -29,7 +29,6 @@ nav_order: 11
 
 # Credits
 
-A big thank you to everyone who aided in proofreading and gave feedback!
 The following sources were used in the making of this guide:
 
 - [The Official Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page) - information on the encounters and all icons.
@@ -37,3 +36,7 @@ The following sources were used in the making of this guide:
 - <img class='inline docs'> [Wing 8 Infallible Strategy by [WRDL]](https://docs.google.com/document/d/1hvqI7ZHifOJ4hLlZUbqybbJXFLuW7qdVejjKIkvXMQY) - information on wing 8 transitions and strategy.
 - <img class='inline youtube'> [Comprehensive Escort Speedrun Guide](https://www.youtube.com/watch?v=qfR-D7Ps5Fo) and <img class='inline youtube'> [Twisted Castle Speedrun Explanation](https://www.youtube.com/watch?v=jvyYtfpv7Gc) by Areki.
 - <img class='inline sheets'> [The Infallible Archive](https://docs.google.com/spreadsheets/d/1tzWg6KYGTGpCYCy4qBt0X9t7H2RzEM7MRKooh_gXCno) - PoVs and squad compositions from this resource were used from this to give general tips on strategy.
+
+A big thank you to everyone who gave feedback on this guide and helped make it what it currently is:
+
+*Bear, Bulgork, CallMePie, Caprys, Chocciee, Dur, Elyrian, Eth, Foe, Harlax, HasKha, Haso, hvaren, Left, Leon, Lily, Luna, Luthi, Mimslade, Noname, Pip, Poet, Rampion, RandomTrespasser, sadcrumbs, Sejsel, Snowy雪姨, Stina, Syncesta, Tuna, xBourne, Zinwrath*
