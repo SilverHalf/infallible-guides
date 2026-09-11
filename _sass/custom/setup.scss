@@ -1,0 +1,95 @@
+
+// grayscale //
+$gray-000: #212325; // background //
+$gray-100: #2c2e30;
+$gray-200: #393b3d;
+$gray-300: #46484a;
+$gray-400: #535558;
+$gray-500: #616366; // notes background //
+$gray-600: #6f7274;
+$gray-700: #7e8083;
+$gray-800: #8d8f92;
+$gray-900: #9c9fa1;
+
+// yellow //
+$yellow-100: #F9F1C7;
+$yellow-200: #F3E492;
+$yellow-300: #ECD75F;
+$yellow-400: #E6CA2E;
+$yellow-500: #E0BE00; // main yellow //
+$yellow-600: #B39800;
+$yellow-700: #867200;
+$yellow-800: #5A4C00;
+$yellow-900: #2D2600;
+
+// legendary purple //
+$purple-100: #EEEBFF;
+$purple-200: #DDD6FF;
+$purple-300: #CCC2FF;
+$purple-400: #BBADFF;
+$purple-500: #AA99FF; // title colour //
+$purple-600: #887ACC;
+$purple-700: #665C99;
+$purple-800: #443D66;
+$purple-900: #221F33;
+
+// debuff //
+$debuff-100: #EFE6F4;
+$debuff-200: #E0CEE8;
+$debuff-300: #D1B7DD;
+$debuff-400: #C2A1D2;
+$debuff-500: #B48DC6; // debuff colour //
+$debuff-600: #90719F;
+$debuff-700: #6C5577;
+$debuff-800: #48384F;
+$debuff-900: #241C28;
+
+// buff //
+$buff-100: #CCEAEE;
+$buff-200: #9ED6DE;
+$buff-300: #75C3CD;
+$buff-400: #51B0BD;
+$buff-500: #319EAC; // buff colour //
+$buff-600: #1F7D8A;
+$buff-700: #125D67;
+$buff-800: #083E45;
+$buff-900: #021F22;
+
+// green //
+$green-100: #DFF8DA;
+$green-200: #C0F2B6;
+$green-300: #A2EB94;
+$green-400: #86E573;
+$green-500: #6CDE54; // mechanics green //
+$green-600: #4BB236;
+$green-700: #30851E;
+$green-800: #1B590D;
+$green-900: #0B2C03;
+
+// red //
+$red-100: #FFD1CF;
+$red-200: #FFA3A0;
+$red-300: #FF7570;
+$red-400: #FF4741; //warning red //
+$red-500: #FF1911;
+$red-600: #CC110B; 
+$red-700: #990B06;
+$red-800: #660603;
+$red-900: #330201;
+
+//CALL OUTS
+
+//notes background
+$notes-000: $gray-500;
+// notes colour
+$notes-300: $yellow-500;
+
+//warning background
+$warning-000: $gray-500;
+//warning colour
+$warning-300: $red-400;
+
+// leggie notes background - (special)
+$purple-000: #67637D;
+// leggie notes colour
+$purple-300: $purple-500;

@@ -84,6 +84,13 @@ This boss is played with a strategy optimized around <img class='inline ca-sword
 
 ### Continuum Split and Swords
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 <img class='inline ca-swords'> [Conjured Slash] has some unexpected behaviour that allows players to double-cast it in quick sequence. The way this skill normally works is:
 1. Player gather stacks of <img class='inline sword-power'> [Greatsword Power] from adds or orbs.
 2. Players cast the skill, resulting in a number of <img class='inline fractured'> [Fractured] stacks on the affected enemies equal to the amount of <img class='inline sword-power'> [Greatsword Power] gathered.

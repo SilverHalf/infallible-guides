@@ -182,15 +182,16 @@ The rest of the group can glide in normally and start clearing out bandits, then
 #### Killing Narella Early
 {: .no_toc}
 
-{: .warning}
-This strategy is very likely unintended behaviour and is not accepted in most speedrun formats.
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 It is possible to vastly speed up the final part of the encounter by killing [Narella] early. This strategy requires releasing all wargs just before [Zane] spawns while keeping the arena clear from adds. When done correctly, this results in Narella being their only viable target within range. They will consequently teleport up to her balcony and maul her (which is admittedly very funny). The encounter will then end as soon as Zane dies.
 
 [<img class='inline log'> Example Log](https://gw2wingman.nevermindcreations.de/log/31be3-Andi9247_20260213-230031_trio_kill){: .btn }
-
-{: .warning}
-While this bug trivializes the timer for this wing, if you are considering it due to time constraints, then your group very likely has bigger issues. Addressing them now will be more useful in the long term.
 
 ---
 

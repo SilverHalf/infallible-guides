@@ -298,6 +298,13 @@ You should ideally begin the fight the instant <img class=inline src='./desmina.
 
 ### Getting the Echo Stuck
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 It is possible to start the encounter in such a way that the [Echo] gets stuck next to the entrance. It will then remain stuck until its position is reset at the first big dip, letting you do optimal DPS for the first phases.
 
 <iframe class="youtube-video center bordered" width="100%" src="https://www.youtube.com/embed/bBYPfelUe2Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

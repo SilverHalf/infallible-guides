@@ -174,6 +174,13 @@ At this point the encounter will be over, and you can either head into the [Leys
 
 ## Transition to Adina
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 This transition is often done with an out-of-bounds skip. The <img class='inline skyscale'> [Skyscale] in combination with <img class='inline bond-faith'> [Bond of Faith] enable a player to get to the [Basalt Arena] while [Gate] is still ongoing, place a <img class='inline portal'> <img class='inline shadow-portal'> portal down and retrace their steps back to [Gate], portaling everyone over once the event ends.
 
 {: .note}
@@ -264,7 +271,14 @@ Sabir's split phases involve killing wisps as you slowly scale the platforms bet
 Portals usually have a maximum range of 5000 units. However, on Sabir they are limited to 800 units vertically: anything beyond this range will result in a portal that is visually fine, but not interactable by players. This means that portals must be placed in specific points that stay within this limitation.
 
 {: .note}
-This vertical limitation can be worked around by triggering a loading screen. This happens only if taking the portal would result in over 5000 units of movement, which can be done with extremely precise portal placement combined with interacting with the portals on their edge: [example](https://www.youtube.com/watch?v=_kp3C5MmFQ0).
+> <details class="unrestricted">
+> <summary><img class='inline warn-icon'> Glitched</summary>
+> <div markdown=block>
+> This tactic belongs to the *Glitched* category. It uses unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+> </div>
+> </details>
+> 
+> This vertical limitation can be worked around by triggering a loading screen. This happens only if taking the portal would result in over 5000 units of movement, which can be done with extremely precise portal placement combined with interacting with the portals on their edge: [example](https://www.youtube.com/watch?v=_kp3C5MmFQ0).
 
 We can divide the portals between different roles:
 - *Portal 1* is the easiest role to implement, and is sometimes even done in PUGS. This role enables skipping the tornado platforms in the split phases, thus bringing the greatest benefit for the lowest cost. It requires either <img class='inline shadow-portal'> [Shadow Portal] (which may be insufficient in case of extremely high DPS) or <img class='inline portal'> [Portal Entre] in combination with <img class='inline mimic'> [Mimic].
@@ -380,6 +394,13 @@ Aside from this, DPS players should in general try to hold on to their stacks of
 ---
 
 ## Transition to Qadim
+
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
 
 Between killing [Sabir] (or [Adina] if you did Sabir first) and gaining access to the [Sovereign's Stadium], the squad will have to sit through some extremely long dialogue between [Glenna] and the [Key]. Skipping this dialogue is not strictly necessary to clear the timer, but it will make it a lot easier overall. Players have devised three main ways to do this.
 

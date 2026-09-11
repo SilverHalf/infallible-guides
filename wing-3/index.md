@@ -103,6 +103,13 @@ Escort speedrun strategies revolve around dividing the squad into two groups:
 
 #### Teleporting Glenna
 
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 <img class='inline glenna'> [Glenna] has a mechanic that prevents her from getting stuck in terrain. Whenever a player uses <img class='inline call-out'> [Over Here!] within range, if she cannot pathfind to them (NPCs cannot jump!) she will instead instantly teleport to the player.
 
 <video class="center bordered" width="60%" controls>
@@ -110,9 +117,6 @@ Escort speedrun strategies revolve around dividing the squad into two groups:
 </video>
 
 Groups can abuse this to quickly teleport <img class='inline glenna'> [Glenna] over walls and difficult terrain. Most [marker packs] highlight positions where this is commonly done.
-
-{: .warning}
-Teleporting Glenna in this manner is not accepted in most speedrun formats.
 
 ---
 
@@ -154,6 +158,14 @@ Blind in particular is extremely important, as in certain parts you can have as 
 
 #### Front Warg Skip
 {: .no_toc}
+
+<details class="unrestricted">
+<summary><img class='inline warn-icon'> Glitched</summary>
+<div markdown=block>
+The tactics in this section belong to the *Glitched* category. They use unintended game mechanics that can be modified by ArenaNet at any moment without warning. You can find more information on speedrunning categories [here](../general.html#speedrun-categories).
+</div>
+</details>
+
 It is possible to prevent front wargs from moving entirely. This can be done by having a player walk through the area just in front of the first bridge, where <img class='inline glenna'> [Glenna] would generate her first leyline in a normal run.
 
 [<img class='inline youtube'> Front Warg Skip](https://www.youtube.com/watch?v=vtdPRdCDzFg){: .btn} [<img class='inline log'> Example Log](https://dps.report/CDWr-20260426-115806_esc){: .btn}

@@ -147,6 +147,44 @@ $gold: #e0be00;
     text-decoration: underline;
 }
 
+.unrestricted {
+    background-color: #510000;
+    padding: 7px;
+	border-radius: 2px;
+	margin-bottom: 5px;
+}
+
+.unrestricted summary{
+    text-align: center;
+    color: white;
+}
+
+.unrestricted summary::-webkit-details-marker {
+  display:none;
+}
+
+.unrestricted > summary:first-of-type {
+    list-style-type: none;
+}
+
+.unrestricted summary::before {
+    content: "> ";
+}
+.unrestricted summary::after {
+    content: " <";
+}
+
+.unrestricted summary:hover {
+    background-color: #410000;
+}
+
+.unrestricted:open summary::before {
+    content: "< ";
+}
+.unrestricted:open summary::after {
+    content: " >";
+}
+
 .guides-button {
     border: 3px outset;
     background-size: cover;
