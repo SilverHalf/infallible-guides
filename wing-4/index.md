@@ -39,7 +39,7 @@ The Bastion of the Penitent mostly consists of boss fights, meaning that high DP
 ## Composition
 
 Wing 4 leaves you with relative liberty to make your own composition. The only essential components are:
-- A <img class='inline thief'> [Thief] to open the door after [Samarog].
+- A <img class='inline thief'> [Thief] to open the door before [Samarog].
 - A <img class='inline mesmer'> [Mesmer] to optimize the transition from [Cairn] to [Mursaat Overseer].
 
 Apart from this, you are basically free to run whatever composition deals most damage and satisfies the most mechanics overall for your group. However:

@@ -39,4 +39,4 @@ The following sources were used in the making of this guide:
 
 A big thank you to everyone who gave feedback on this guide and helped make it what it currently is:
 
-*Bear, Bulgork, CallMePie, Caprys, Chocciee, Dur, Elyrian, Eth, Foe, Harlax, HasKha, Haso, hvaren, Left, Leon, Lily, Luna, Luthi, Mimslade, Noname, Pip, Poet, Rampion, RandomTrespasser, sadcrumbs, Sejsel, Snowy雪姨, Stina, Syncesta, Tuna, xBourne, Zinwrath*
+*Agent W, Bear, Bulgork, CallMePie, Caprys, Chocciee, Dur, Elyrian, Eth, Foe, Harlax, HasKha, Haso, hvaren, Left, Leon, Lily, Luna, Luthi, Mimslade, Noname, Pip, Poet, Rampion, RandomTrespasser, sadcrumbs, Sejsel, Snowy雪姨, Stina, Syncesta, Tuna, xBourne, Zinwrath*
