@@ -44,7 +44,7 @@ The rest of the composition is mostly determined by your strategy on [Ura]:
 - [Solo CC] compositions are much more flexible but require an experienced Solo CC player.
 - [4-man] compositions are rigid but make ranged gameplay easier overall.
 
-Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the enemies between the entrance to the wing and [Camp](https://wiki.guildwars2.com/wiki/Mount_Balrior#Cleanse_the_camp).
+Stacking sigils such as <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Superior Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption) can be prepared by killing the enemies between the entrance to the wing and [Camp](https://wiki.guildwars2.com/wiki/Mount_Balrior#Cleanse_the_camp). Put these sigils on ascended weapons and share these weapons between templates to maintain stacks when swapping builds.
 
 For Infallible runs, prioritize consistency and safety over raw damage: redundant defensive utility, [Trailblazer] builds, and comfort picks wherever possible will all improve your experience progressing this wing. 
 
@@ -181,7 +181,7 @@ Once [Decima] dies, take the ley rift in her arena to the camp. From there, you 
 
 This miniboss hits hard and has a lot of HP. His *Corrupting Eruption* is a line attack that will often <img class='inline invuln'> [Downstate] any players it hits. The wind-up for this attack is identical to [Boneskinner](https://wiki.guildwars2.com/wiki/Boneskinner_(legendary))'s famous AoE smash, and must be treated in the same way by dodging it.
 
-The boss has one additional important attack where he sinks into the ground, generating an AoE field at his current location. This AoE corrupts boons, <img class='inline pull'> pulls, and cleanses a condition from the miniboss every time it hits a player. The best approach to this mechanic is walking out of the pool until it's concluded.
+The boss has one additional important attack where he sinks into the ground, generating an AoE field at his current location. This AoE constantly corrupts boons and inflicts <img class='inline pull'> pull. The best approach to this mechanic is walking out of the pool until it's concluded.
 
 The [Legendary Blighted Beast] spawns with <img class='inline resolution'> [Resolution] that is re-applied every 10 seconds. Try to strip it away as much as possible to kill him faster. The attack where it's sinking into the ground will corrupt boons: step out of its AoE or re-boon quickly.
 

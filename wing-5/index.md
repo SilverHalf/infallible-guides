@@ -285,6 +285,11 @@ Broken King tends to bug out when at 10 <img class='inline ice-shield'> stacks o
 {: .warning}
 Remember not to `/GG` at the end of the encounter: instead use the <img class='inline jackal'> [Sand Portal] to get back to Death's Landing.
 
+{: .note}
+> Freezing after taking a fourth stack of <img class=inline src='https://wiki.guildwars2.com/images/thumb/3/3a/Frozen_Wind.png/30px-Frozen_Wind.png'> [Frozen Wind](https://wiki.guildwars2.com/wiki/Frozen_Wind) may result in the *mount bug*, where your mounts cannot move and are stuck wherever you summon them. This can be an issue when you have to take the <img class='inline jackal'> [Sand Portal]. You can get out of this bug by either:
+> - Mounting then dismounting the <img class='inline' src='https://wiki.guildwars2.com/images/thumb/e/e7/Warclaw_%28map_icon%29.png/30px-Warclaw_%28map_icon%29.png'> [Warclaw](https://wiki.guildwars2.com/wiki/Warclaw).
+> - Mounting the <img class='inline jackal'> [Jackal] close enough to the [Sand Portal] that you instantly go through.
+
 ---
 
 ## Dhuum
@@ -443,7 +448,7 @@ This is a non-comprehensive list meant to display a diverse selection of perspec
 #### Other Useful Links
 
 - <img class='inline youtube'> [River and Eyes Portals by xBourne](https://www.youtube.com/watch?v=di49FJcxntA) - good visualization of <img class='inline mesmer'> [Mesmer] <img class='inline portal'> [Portals] for these encounters.
-- <img class='inline youtube'> [Eyes CC Science by BrokenYew] - video showing how all different kinds of CC interact with the [Eyes].
+- <img class='inline youtube'> [Eyes CC Science by BrokenYew](https://youtu.be/LtDKRmcFxM4) - video showing how all different kinds of CC interact with the [Eyes].
 - <img class='inline youtube'> [Heal Chronomancer Kiting with MI and Portal by HasKha](https://youtu.be/_Yz4PQx_8Bc&t=2880) - while NM, this showcases the process overall.
 - <img class='inline youtube'> [Throne Tanking Dhuum by Christine](https://www.youtube.com/watch?v=ceu2O8u3xOg) - while relatively old, the positioning in this run is still relevant.
 - <img class='inline youtube'> [Getting the Echo Stuck](https://www.youtube.com/watch?v=bBYPfelUe2Y) - shows how to bug out the Echo at the beginning of Dhuum.
