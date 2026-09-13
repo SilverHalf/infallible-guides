@@ -120,6 +120,22 @@ Very skilled players will sometimes double or triple food swap, overlapping the 
 {: .note}
 Food swapping does not work on every encounter in the game. For example, in the [Spirit Vale](./wing-1/index.html) it works on [Vale Guardian](./wing-1/index.html#vale-guardian-1) and [Gorseval](./wing-1/index.html#gorseval-1)'s split phases, but not on [Sabetha](./wing-1/index.html#sabetha-1)'s.
 
+---
+
+## Stacking Sigils
+
+These are sigils, such as <img class=inline src='https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png'> [Sigil of Bloodlust](https://wiki.guildwars2.com/wiki/Sigil_of_Bloodlust), <img class=inline src='https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png'> [Sigil of Cruelty](https://wiki.guildwars2.com/wiki/Sigil_of_Cruelty) and <img class='inline' src='https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png'> [Sigil of Corruption](https://wiki.guildwars2.com/wiki/Sigil_of_Corruption), that permanently grant +10 of a statistic upon killing an enemy. This bonus stacks up to 25 times for a total of +250 in one statistic.
+
+{: .note}
+Not all enemies count for the purposes of stacking sigils: they have to grant XP on kill.
+
+These sigils are extremely strong on certain wings where it's possible to stack their bonuses them before or in-between boss encounters. They are even better on specializations that don't make use of <img class='inline weapon-swap'> [Weapon Swap] in combat, as you can take them on a secondary set without any downside (provided you swap off that set before bosses).
+
+It's convenient to put stacking sigils on ascended weapons. You can then share these weapons between different equipment templates, ensuring you maintain the bonus on template swaps.
+
+{: .note}
+Stacks from these sigils are lost on <img class='inline invuln'> [Downstate], on switching instances and on un-equipping their associated weapon.
+
 [Stability]: https://wiki.guildwars2.com/wiki/Stability
 [Aegis]: https://wiki.guildwars2.com/wiki/Aegis
 [Protection]: https://wiki.guildwars2.com/wiki/Protection
@@ -128,3 +144,4 @@ Food swapping does not work on every encounter in the game. For example, in the 
 [Pulls]: https://wiki.guildwars2.com/wiki/Pull
 [Portals]: https://wiki.guildwars2.com/wiki/Portal
 [Defiance Damage]: https://wiki.guildwars2.com/wiki/Control_effect
+[Weapon Swap]: https://wiki.guildwars2.com/wiki/Weapon_swap
