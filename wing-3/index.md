@@ -415,7 +415,7 @@ The rest of the squad takes the <img class='inline portal'> portal opened by the
 
 <img class='center bordered' width='90%' src='./tc/tc_2.webp'>
 
-Killing the second group of adds will also open the door in front of the second <img class='inline mirage'> [Mirage]. They can then open their own <img class='inline portal'> portal for the rest of the squad, who then kills the third group of adds after the door. The gateways at the end of the room will activate once they're dead.
+Activating the fountain button will also open the door in front of the second <img class='inline mirage'> [Mirage]. They can then open their own <img class='inline portal'> portal for the rest of the squad, who then kills the third group of adds after the door. The gateways at the end of the room will activate once they're dead.
 
 <div class="row-container">
 <div class='center adapt-width'>
