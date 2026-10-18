@@ -379,7 +379,7 @@ With this strategy, the group can position so that they are always on the inside
 
 On coming down from the main platform, make sure the entire squad stacks together on one side of his hitbox: this lets you bait the black reliably, which you can then avoid by moving to the other side of the boss.
 
-It's very important at this stage to provide <img class='inline aegis'> [Aegis] for his slam attacks, as they risk knocking people off the platform. Call out if you cannot provide it in time.
+It's very important at this stage to provide <img class='inline aegis'> [Aegis] or <img class='inline stability'> [Stability] for his slam attacks, as they risk knocking people off the platform. Call out if you cannot provide it in time.
 
 ---
 
